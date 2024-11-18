@@ -6,26 +6,26 @@ Contributions are welcome! If you have ideas to expand or improve these lists, p
 
 ## Overview
 
-1. **[🤖 ChatGPT Prompts](./🤖%20ChatGPT%20Prompt)**  
+1. **[🤖 ChatGPT Prompts](https://docs.google.com/spreadsheets/d/1Yn74btdx_xiNtpFiO8bWJwJ_6ud5T0xQhXtoIeTlr8o)**
 
-   > _A collection of prompts to make the most out of ChatGPT._
+   > _A collection of prompts to make the most out of ChatGPT._  
 
-2. **[💭 Journal Prompts](💭%20Journal%20Prompt)**  
+2. **[💭 Journal Prompts](https://docs.google.com/spreadsheets/d/1RI3C2N7-LaWG1pZC6xMVvS08OJJQp92qJhLaPSXNzQ0)**
 
-   > _Thought-provoking quistions to inspire self-reflection._
+   > _Thought-provoking quistions to inspire self-reflection._  
 
-3. **[👑 Life Pro Tips](👑%20Life%20Pro%20Tip)**  
+3. **[👑 Life Pro Tips](https://docs.google.com/spreadsheets/d/13QwPCE33ehjr6fjraQgAQZHvTr_Aux0wKNOHAk4OcHo)**
 
-   > _Practical tricks to improve everyday life._
+   > _Practical tricks to improve everyday life._  
 
-4. **[📋 Cheat Sheets](📋%20Cheat%20Sheet)**  
+4. **[📋 Cheat Sheets](https://docs.google.com/spreadsheets/d/1X9zuCMb30DiQba5VNjT-HDwwomA9u0Z-trmuqVmykYY)**
 
-   > Handy reference to quickly access terminal commands that I frequently use.
+   > Handy reference to quickly access terminal commands that I frequently use.  
 
-5. **[👨‍💻 Tech Pro Tips](👨‍💻%20Tech%20Pro%20Tip)**  
+5. **[👨‍💻 Tech Pro Tips](https://docs.google.com/spreadsheets/d/1o3HcHxZKbOK178Zswo7Xp4MNM7AgrA6_xaZMEhrdFYM)**
 
-   > _Expert tips to streamline workflows and troubleshoot issues in tech._
+   > _Expert tips to streamline workflows and troubleshoot issues in tech._  
 
-6. **[⌨️ Keyboard Hotkeys](⌨️%20Keyboard%20Hotkey)**  
+6. **[⌨️ Keyboard Hotkeys](https://docs.google.com/spreadsheets/d/12UxNMk9LmNd8C0iGM_ssMv1ruUt_mJw-mw43bpm-wcE)**
 
-   > _A compilation of essential keyboard shortcuts to enhance productivity._
+   > _A compilation of essential keyboard shortcuts to enhance productivity._  

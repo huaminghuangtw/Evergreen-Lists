@@ -1,0 +1,222 @@
+{
+    "reminders": [
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "🤖 ChatGPT Prompt",
+                    "priority": "None",
+                    "name": "Summarize the book [BOOK_NAME], and give me a list of the most important insights, takeaways, and actionable tips/advice from this book.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "🤖 ChatGPT Prompt",
+                    "priority": "None",
+                    "name": "Explain [insert concept or topic] using three different real-world examples or analogies that would be easy for a beginner to understand.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "🤖 ChatGPT Prompt",
+                    "priority": "None",
+                    "name": "I want to learn [TOPIC]. I am a complete beginner. Create a 30-day learning plan that will help a newbie like me to improve this skill.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "🤖 ChatGPT Prompt",
+                    "priority": "None",
+                    "name": "I am currently learning about [TOPIC]. Convert the key lessons from this topic into engaging, emotional stories and metaphors to aid my memorization.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "🤖 ChatGPT Prompt",
+                    "priority": "None",
+                    "name": "Help me create mental associations or mnemonic devices to remember key information about [insert topic or concept].",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "🤖 ChatGPT Prompt",
+                    "priority": "None",
+                    "name": "Explain [insert concept or topic] as if you were talking to a 5-year-old child. Use simple language and everyday examples.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "🤖 ChatGPT Prompt",
+                    "priority": "None",
+                    "name": "Create a detailed study plan for learning [insert subject or skill] over the course of [insert time frame]. Include specific goals, resources, and milestones.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "🤖 ChatGPT Prompt",
+                    "priority": "None",
+                    "name": "I want to learn about [TOPIC]. Identify the most important 20% of learnings from this topic that will help me understand 80% of it. Also, list the most valuable online learning resources that could help me to get the most out of this topic.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "🤖 ChatGPT Prompt",
+                    "priority": "None",
+                    "name": "Create a detailed mind map for the topic [insert topic]. Include main branches, sub-branches, and key concepts or ideas for each.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "🤖 ChatGPT Prompt",
+                    "priority": "None",
+                    "name": "Generate a 10-question quiz on [insert topic], including a mix of multiple-choice, true/false, and short-answer questions. Provide answers and brief explanations for each question.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "🤖 ChatGPT Prompt",
+                    "priority": "None",
+                    "name": "[PASTE YOUR NOTES] Ask me a series of open-ended, short-answer, minimal-prompt questions to test my understanding of the provided material.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "🤖 ChatGPT Prompt",
+                    "priority": "None",
+                    "name": "Analyze the top performers in [INSERT YOUR FIELD OF WORK]. Give me a list of the most important lessons I can learn from these top performers to boost my productivity.",
+                    "url": ""
+                }
+            ],
+            "flagged": false,
+            "list": "🤖 ChatGPT Prompt",
+            "priority": "None",
+            "tags": "",
+            "name": "◻️ Learning & Education"
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "🤖 ChatGPT Prompt",
+                    "priority": "None",
+                    "name": "Your role is that of a problem solver. Give me a step-by-step guide to solve [PROBLEM].",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "🤖 ChatGPT Prompt",
+                    "priority": "None",
+                    "name": "Is there an alternative solution that is simpler and easier to achieve the same outcome? Please reason from the first-principle thinking.",
+                    "url": ""
+                }
+            ],
+            "flagged": false,
+            "list": "🤖 ChatGPT Prompt",
+            "priority": "None",
+            "tags": "",
+            "name": "◻️ Problem Solving"
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "🤖 ChatGPT Prompt",
+                    "priority": "None",
+                    "name": "I am writing a blog post about [TOPIC]. Give me 5 options for a catchy headline that can hooks the audience.",
+                    "url": ""
+                }
+            ],
+            "flagged": false,
+            "list": "🤖 ChatGPT Prompt",
+            "priority": "None",
+            "tags": "",
+            "name": "◻️ Writing & Publishing"
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "🤖 ChatGPT Prompt",
+                    "priority": "None",
+                    "name": "Simulate a roundtable discussion with me and three experts in [insert field] discussing [insert topic or question]. Present their different viewpoints and any potential areas of agreement or disagreement.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "🤖 ChatGPT Prompt",
+                    "priority": "None",
+                    "name": "Here's something I've [written/created/produced]: [insert your work]. Please provide specific suggestions to improve it, focusing on [aspect you want to improve, e.g., clarity, structure, persuasiveness]. Explain why each change would make it better.",
+                    "url": ""
+                }
+            ],
+            "flagged": false,
+            "list": "🤖 ChatGPT Prompt",
+            "priority": "None",
+            "tags": "",
+            "name": "◻️ Getting Feedback"
+        }
+    ]
+}

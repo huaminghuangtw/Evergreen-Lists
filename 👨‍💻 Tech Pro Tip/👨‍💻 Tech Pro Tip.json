@@ -1,0 +1,130 @@
+{
+    "reminders": [
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👨‍💻 Tech Pro Tip",
+                    "priority": "None",
+                    "name": "How to add Trash to the Finder window sidebar? Open the Trash > Go to the File menu > Click \"Add to Sidebar\"",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👨‍💻 Tech Pro Tip",
+                    "priority": "None",
+                    "name": "[Batch rename multiple files](https://stackoverflow.com/a/53321208)",
+                    "url": "https://stackoverflow.com/a/53321208"
+                },
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "+ Method 1: First `Cmd` + `C`, then `Opt` + `Cmd` + `V` → will paste the file and remove it from original location\n+ Method 2: Install Sindre Sorhus's [Command X](https://sindresorhus.com/command-x) app for more intuitive keyboard shortcuts",
+                    "flagged": false,
+                    "list": "👨‍💻 Tech Pro Tip",
+                    "priority": "None",
+                    "name": "Move (i.e., cut & paste) files&folders in Finder",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "+ Method 1: `Cmd`+`2` (List View) → Shift click for your selection → `Cmd`+`1` (Icon View)\n+ Method 2: Drag a rectangle around files",
+                    "flagged": false,
+                    "list": "👨‍💻 Tech Pro Tip",
+                    "priority": "None",
+                    "name": "Select multiple contiguous files at once in Finder",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👨‍💻 Tech Pro Tip",
+                    "priority": "None",
+                    "name": "Right-click a folder in Finder on macOS, you will get an \"Import from iPhone/iPad\" option. Click that and your iPhone/iPad will open a scanner app which lets you \"Take Photo\", \"Scan Documents\", and \"Add Sketch.\"",
+                    "url": ""
+                }
+            ],
+            "flagged": false,
+            "list": "👨‍💻 Tech Pro Tip",
+            "priority": "None",
+            "tags": "",
+            "name": "💡 macOS"
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👨‍💻 Tech Pro Tip",
+                    "priority": "None",
+                    "name": "[Instead of using the traditional copy-and-paste approach to move text/images/files/urls/etc. between apps, use the hidden drag-and-drop feature.](https://www.youtube.com/watch?v=DhwRv1YLhRg)",
+                    "url": "https://www.youtube.com/watch?v=DhwRv1YLhRg"
+                },
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "1. Always keep the battery level in between 20% and 80%\n2. Don’t put the phone on charge until next morning (overnight) → Note that this doesn’t matter as long as the \"Optimized Battery Charging\" feature is enabled (default for most modern devices)\n3. Avoid using third-party chargers and cables → Or, at least MFI-certified",
+                    "flagged": false,
+                    "list": "👨‍💻 Tech Pro Tip",
+                    "priority": "None",
+                    "name": "Good phone charging habits to maximize battery lifespan",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👨‍💻 Tech Pro Tip",
+                    "priority": "None",
+                    "name": "[Move multiple Home Screen apps at once](https://ios.gadgethacks.com/how-to/move-multiple-home-screen-apps-once-0177985): Tap and hold on one app, then tap more apps to add them to your stack",
+                    "url": "https://ios.gadgethacks.com/how-to/move-multiple-home-screen-apps-once-0177985/"
+                }
+            ],
+            "flagged": false,
+            "list": "👨‍💻 Tech Pro Tip",
+            "priority": "None",
+            "tags": "",
+            "name": "💡 iOS"
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👨‍💻 Tech Pro Tip",
+                    "priority": "None",
+                    "name": "[Use Universal Clipboard to copy and paste between your Apple devices](https://support.apple.com/en-us/102430)",
+                    "url": "https://support.apple.com/en-us/102430"
+                }
+            ],
+            "flagged": false,
+            "list": "👨‍💻 Tech Pro Tip",
+            "priority": "None",
+            "tags": "",
+            "name": "💡 Apple Ecosystem"
+        }
+    ]
+}

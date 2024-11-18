@@ -1,0 +1,212 @@
+{
+    "reminders": [
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "Drop all stashed at once",
+                    "flagged": false,
+                    "list": "📋 Cheat Sheet",
+                    "priority": "None",
+                    "name": "git stash clear",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "Show the _files_ in the most recent stash",
+                    "flagged": false,
+                    "list": "📋 Cheat Sheet",
+                    "priority": "None",
+                    "name": "git stash show",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "Drop the most recent stash",
+                    "flagged": false,
+                    "list": "📋 Cheat Sheet",
+                    "priority": "None",
+                    "name": "git stash drop",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "List all stashes",
+                    "flagged": false,
+                    "list": "📋 Cheat Sheet",
+                    "priority": "None",
+                    "name": "git stash list",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "Show the _changes_ of the most recent stash",
+                    "flagged": false,
+                    "list": "📋 Cheat Sheet",
+                    "priority": "None",
+                    "name": "git stash show -p",
+                    "url": ""
+                }
+            ],
+            "flagged": false,
+            "list": "📋 Cheat Sheet",
+            "priority": "None",
+            "tags": "",
+            "name": "◻️ Git"
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "Show IP address",
+                    "flagged": false,
+                    "list": "📋 Cheat Sheet",
+                    "priority": "None",
+                    "name": "ifconfig wlan0 | grep 'inet ' | awk '{print $2}'",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "Sync system clock",
+                    "flagged": false,
+                    "list": "📋 Cheat Sheet",
+                    "priority": "None",
+                    "name": "sudo timedatectl set-ntp true && date",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "Check voltage",
+                    "flagged": false,
+                    "list": "📋 Cheat Sheet",
+                    "priority": "None",
+                    "name": "vcgencmd get_throttled | grep -q throttled=0x50005 && echo \"Low voltage detected! Please use official power supply.\" || echo \"Power requirement satisfied.\"",
+                    "url": ""
+                }
+            ],
+            "flagged": false,
+            "list": "📋 Cheat Sheet",
+            "priority": "None",
+            "tags": "",
+            "name": "◻️ Raspberry Pi"
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "Get SSH key",
+                    "flagged": false,
+                    "list": "📋 Cheat Sheet",
+                    "priority": "None",
+                    "name": "cat ~/.ssh/id_rsa.pub",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "Validate SSH",
+                    "flagged": false,
+                    "list": "📋 Cheat Sheet",
+                    "priority": "None",
+                    "name": "ssh -T git@github.com",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "Generate SSH key",
+                    "flagged": false,
+                    "list": "📋 Cheat Sheet",
+                    "priority": "None",
+                    "name": "ssh-keygen",
+                    "url": ""
+                }
+            ],
+            "flagged": false,
+            "list": "📋 Cheat Sheet",
+            "priority": "None",
+            "tags": "",
+            "name": "◻️ SSH"
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "📋 Cheat Sheet",
+                    "priority": "None",
+                    "name": "nmcli dev wifi connect SSID password PASSWORD",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "📋 Cheat Sheet",
+                    "priority": "None",
+                    "name": "nmcli con show",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "📋 Cheat Sheet",
+                    "priority": "None",
+                    "name": "cat ~/.ssh/id_rsa.pub",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "📋 Cheat Sheet",
+                    "priority": "None",
+                    "name": "nmcli dev wifi list",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "📋 Cheat Sheet",
+                    "priority": "None",
+                    "name": "nmcli dev status",
+                    "url": ""
+                }
+            ],
+            "flagged": false,
+            "list": "📋 Cheat Sheet",
+            "priority": "None",
+            "tags": "",
+            "name": "◻️ Network Manager"
+        }
+    ]
+}
