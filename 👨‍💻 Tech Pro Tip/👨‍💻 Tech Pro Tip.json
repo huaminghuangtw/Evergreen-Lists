@@ -7,6 +7,7 @@
             "subtasks": [
                 {
                     "tags": "",
+                    "parent_reminder": "💡 macOS",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -17,6 +18,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "💡 macOS",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -27,6 +29,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "💡 macOS",
                     "due_date": "",
                     "notes": "+ Method 1: First `Cmd` + `C`, then `Opt` + `Cmd` + `V` → will paste the file and remove it from original location\n+ Method 2: Install Sindre Sorhus's [Command X](https://sindresorhus.com/command-x) app for more intuitive keyboard shortcuts",
                     "flagged": false,
@@ -37,6 +40,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "💡 macOS",
                     "due_date": "",
                     "notes": "+ Method 1: `Cmd`+`2` (List View) → Shift click for your selection → `Cmd`+`1` (Icon View)\n+ Method 2: Drag a rectangle around files",
                     "flagged": false,
@@ -47,6 +51,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "💡 macOS",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -69,6 +74,7 @@
             "subtasks": [
                 {
                     "tags": "",
+                    "parent_reminder": "💡 iOS",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -79,6 +85,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "💡 iOS",
                     "due_date": "",
                     "notes": "1. Always keep the battery level in between 20% and 80%\n2. Don’t put the phone on charge until next morning (overnight) → Note that this doesn’t matter as long as the \"Optimized Battery Charging\" feature is enabled (default for most modern devices)\n3. Avoid using third-party chargers and cables → Or, at least MFI-certified",
                     "flagged": false,
@@ -89,6 +96,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "💡 iOS",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -111,6 +119,7 @@
             "subtasks": [
                 {
                     "tags": "",
+                    "parent_reminder": "💡 Apple Ecosystem",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,

@@ -16,9 +16,6 @@
 - [🤔 On "Prioritization"](#-on-prioritization)
 - [🤔 On "Productivity"](#-on-productivity)
 - [🤔 On "Miscellaneous"](#-on-miscellaneous)
-- [🤔 On "Decision Making"](#-on-decision-making)
-- [🤔 On "Life"](#-on-life)
-- [Do I want to be liked or loved?](#do-i-want-to-be-liked-or-loved)
 
 ---
 
@@ -293,20 +290,6 @@
 | How can I design incentives and an environment that will naturally bring about my desired change? |  |
 | What have I been told I'm really good or poor at? |  |
 
-# 🤔 On "Decision Making"
-
-| Question | Note |
-| --- | --- |
-
-
-# 🤔 On "Life"
-
-| Question | Note |
-| --- | --- |
-
-
-# Do I want to be liked or loved?
-
-| Question | Note |
-| --- | --- |
-
+🤔 On "Decision Making"
+🤔 On "Life"
+Do I want to be liked or loved?

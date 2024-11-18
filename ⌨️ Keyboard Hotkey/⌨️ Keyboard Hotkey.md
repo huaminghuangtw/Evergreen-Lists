@@ -16,7 +16,6 @@
 - [◻️ Apple Shortcuts](#️-apple-shortcuts)
 - [◻️ macOS](#️-macos)
 - [◻️ Notion](#️-notion)
-- [◻️ Gmail](#️-gmail)
 - [◻️ Code Editor](#️-code-editor)
 - [◻️ YouTube](#️-youtube)
 - [◻️ File Manager](#️-file-manager)
@@ -106,12 +105,7 @@
 | `Cmd` + `[` | Go back a page |
 | `Cmd` + `\` | Show/Hide sidebar |
 
-# ◻️ Gmail
-
-| Hotkey | Note |
-| --- | --- |
-
-
+◻️ Gmail
 # ◻️ Code Editor
 
 | Hotkey | Note |

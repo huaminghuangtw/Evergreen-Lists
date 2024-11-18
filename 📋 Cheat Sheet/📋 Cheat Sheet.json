@@ -7,6 +7,7 @@
             "subtasks": [
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Git",
                     "due_date": "",
                     "notes": "Drop all stashed at once",
                     "flagged": false,
@@ -17,6 +18,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Git",
                     "due_date": "",
                     "notes": "Show the _files_ in the most recent stash",
                     "flagged": false,
@@ -27,6 +29,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Git",
                     "due_date": "",
                     "notes": "Drop the most recent stash",
                     "flagged": false,
@@ -37,6 +40,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Git",
                     "due_date": "",
                     "notes": "List all stashes",
                     "flagged": false,
@@ -47,6 +51,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Git",
                     "due_date": "",
                     "notes": "Show the _changes_ of the most recent stash",
                     "flagged": false,
@@ -69,6 +74,7 @@
             "subtasks": [
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Raspberry Pi",
                     "due_date": "",
                     "notes": "Show IP address",
                     "flagged": false,
@@ -79,6 +85,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Raspberry Pi",
                     "due_date": "",
                     "notes": "Sync system clock",
                     "flagged": false,
@@ -89,6 +96,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Raspberry Pi",
                     "due_date": "",
                     "notes": "Check voltage",
                     "flagged": false,
@@ -111,6 +119,7 @@
             "subtasks": [
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ SSH",
                     "due_date": "",
                     "notes": "Get SSH key",
                     "flagged": false,
@@ -121,6 +130,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ SSH",
                     "due_date": "",
                     "notes": "Validate SSH",
                     "flagged": false,
@@ -131,6 +141,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ SSH",
                     "due_date": "",
                     "notes": "Generate SSH key",
                     "flagged": false,
@@ -153,6 +164,7 @@
             "subtasks": [
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Network Manager",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -163,6 +175,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Network Manager",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -173,6 +186,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Network Manager",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -183,6 +197,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Network Manager",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -193,6 +208,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Network Manager",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,

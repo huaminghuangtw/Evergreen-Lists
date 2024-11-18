@@ -7,6 +7,7 @@
             "subtasks": [
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Web Browser",
                     "due_date": "",
                     "notes": "Go forward a page",
                     "flagged": false,
@@ -17,6 +18,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Web Browser",
                     "due_date": "",
                     "notes": "捲動網頁",
                     "flagged": false,
@@ -27,6 +29,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Web Browser",
                     "due_date": "",
                     "notes": "Close the current window",
                     "flagged": false,
@@ -37,6 +40,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Web Browser",
                     "due_date": "",
                     "notes": "Show/Hide the favorites bar",
                     "flagged": false,
@@ -47,6 +51,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Web Browser",
                     "due_date": "",
                     "notes": "Open a new tab",
                     "flagged": false,
@@ -57,6 +62,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Web Browser",
                     "due_date": "",
                     "notes": "Show/Hide toolbar in full screen mode",
                     "flagged": false,
@@ -67,6 +73,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Web Browser",
                     "due_date": "",
                     "notes": "Close the current tab",
                     "flagged": false,
@@ -77,6 +84,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Web Browser",
                     "due_date": "",
                     "notes": "Reopen the last closed tab",
                     "flagged": false,
@@ -87,6 +95,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Web Browser",
                     "due_date": "",
                     "notes": "Open a new InPrivate (無痕模式/私密瀏覽) window",
                     "flagged": false,
@@ -97,6 +106,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Web Browser",
                     "due_date": "",
                     "notes": "Open link in a new tab",
                     "flagged": false,
@@ -107,6 +117,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Web Browser",
                     "due_date": "",
                     "notes": "Show/Hide Collections",
                     "flagged": false,
@@ -117,6 +128,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Web Browser",
                     "due_date": "",
                     "notes": "Normal reload/refresh a web page",
                     "flagged": false,
@@ -127,6 +139,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Web Browser",
                     "due_date": "",
                     "notes": "Save the current tab as a favorite (i.e., bookmark the current tab)",
                     "flagged": false,
@@ -137,6 +150,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Web Browser",
                     "due_date": "",
                     "notes": "Open a new window",
                     "flagged": false,
@@ -147,6 +161,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Web Browser",
                     "due_date": "",
                     "notes": "Go back a page",
                     "flagged": false,
@@ -157,6 +172,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Web Browser",
                     "due_date": "",
                     "notes": "Hard reload/refresh a web page",
                     "flagged": false,
@@ -167,6 +183,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Web Browser",
                     "due_date": "",
                     "notes": "Select address bar (to edit URL)",
                     "flagged": false,
@@ -189,6 +206,7 @@
             "subtasks": [
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Terminal",
                     "due_date": "",
                     "notes": "Paste text from the kill buffer",
                     "flagged": false,
@@ -199,6 +217,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Terminal",
                     "due_date": "",
                     "notes": "Delete everything you've written in Terminal and start over, in case you entered any typos in between",
                     "flagged": false,
@@ -209,6 +228,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Terminal",
                     "due_date": "",
                     "notes": "Delete a word backwards from the current cursor position",
                     "flagged": false,
@@ -219,6 +239,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Terminal",
                     "due_date": "",
                     "notes": "Jump to the start of the line",
                     "flagged": false,
@@ -229,6 +250,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Terminal",
                     "due_date": "",
                     "notes": "Jump to the end of the line",
                     "flagged": false,
@@ -239,6 +261,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Terminal",
                     "due_date": "",
                     "notes": "Jump forward by a word",
                     "flagged": false,
@@ -249,6 +272,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Terminal",
                     "due_date": "",
                     "notes": "Jump backward by a word",
                     "flagged": false,
@@ -259,6 +283,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Terminal",
                     "due_date": "",
                     "notes": "Delete a word forwards from the current cursor position",
                     "flagged": false,
@@ -281,6 +306,7 @@
             "subtasks": [
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Apple Notes",
                     "due_date": "",
                     "notes": "Zoom out",
                     "flagged": false,
@@ -291,6 +317,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Apple Notes",
                     "due_date": "",
                     "notes": "Zoom in",
                     "flagged": false,
@@ -313,6 +340,7 @@
             "subtasks": [
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Apple Shortcuts",
                     "due_date": "",
                     "notes": "Add action: \"If-Otherwise-End If\"",
                     "flagged": false,
@@ -323,6 +351,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Apple Shortcuts",
                     "due_date": "",
                     "notes": "Run a Shortcut",
                     "flagged": false,
@@ -333,6 +362,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Apple Shortcuts",
                     "due_date": "",
                     "notes": "Add action: \"Ask for Input\"",
                     "flagged": false,
@@ -343,6 +373,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Apple Shortcuts",
                     "due_date": "",
                     "notes": "Add action: \"Show Result\"",
                     "flagged": false,
@@ -353,6 +384,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Apple Shortcuts",
                     "due_date": "",
                     "notes": "Add action: \"Comment\"",
                     "flagged": false,
@@ -363,6 +395,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Apple Shortcuts",
                     "due_date": "",
                     "notes": "Create new Shortcut",
                     "flagged": false,
@@ -373,6 +406,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Apple Shortcuts",
                     "due_date": "",
                     "notes": "Duplicate a Shortcut",
                     "flagged": false,
@@ -383,6 +417,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Apple Shortcuts",
                     "due_date": "",
                     "notes": "Add action: \"Repeat\"",
                     "flagged": false,
@@ -393,6 +428,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Apple Shortcuts",
                     "due_date": "",
                     "notes": "Move line up/down (reordering)",
                     "flagged": false,
@@ -415,6 +451,7 @@
             "subtasks": [
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ macOS",
                     "due_date": "",
                     "notes": "Minimize window",
                     "flagged": false,
@@ -425,6 +462,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ macOS",
                     "due_date": "",
                     "notes": "Enter/Exit full screen mode",
                     "flagged": false,
@@ -435,6 +473,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ macOS",
                     "due_date": "",
                     "notes": "Switch between different open applications",
                     "flagged": false,
@@ -445,6 +484,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ macOS",
                     "due_date": "",
                     "notes": "Open the Screenshot app (to e.g., record screen)",
                     "flagged": false,
@@ -455,6 +495,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ macOS",
                     "due_date": "",
                     "notes": "Use emojis/symbols. Press it alongside the text to get the corresponding emoji/symbols",
                     "flagged": false,
@@ -465,6 +506,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ macOS",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -475,6 +517,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ macOS",
                     "due_date": "",
                     "notes": "Capture a portion of the screen (selected area)",
                     "flagged": false,
@@ -485,6 +528,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ macOS",
                     "due_date": "",
                     "notes": "Quit application",
                     "flagged": false,
@@ -495,6 +539,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ macOS",
                     "due_date": "",
                     "notes": "Capture the full screen",
                     "flagged": false,
@@ -505,6 +550,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ macOS",
                     "due_date": "",
                     "notes": "Open Spotlight search bar",
                     "flagged": false,
@@ -515,6 +561,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ macOS",
                     "due_date": "",
                     "notes": "Snip the full screen and copy the screenshot to clipboard",
                     "flagged": false,
@@ -525,6 +572,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ macOS",
                     "due_date": "",
                     "notes": "Snip the selected area and copy the screenshot to clipboard",
                     "flagged": false,
@@ -535,6 +583,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ macOS",
                     "due_date": "",
                     "notes": "on any dock app opens it in Finder. This also works in Spotlight: If you hold `Cmd` while pressing `Enter`, it will show the app (or file) in Finder!",
                     "flagged": false,
@@ -545,6 +594,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ macOS",
                     "due_date": "",
                     "notes": "Force quit applications",
                     "flagged": false,
@@ -567,6 +617,7 @@
             "subtasks": [
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Notion",
                     "due_date": "",
                     "notes": "Go forward a page",
                     "flagged": false,
@@ -577,6 +628,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Notion",
                     "due_date": "",
                     "notes": "Go back a page",
                     "flagged": false,
@@ -587,6 +639,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Notion",
                     "due_date": "",
                     "notes": "Show/Hide sidebar",
                     "flagged": false,
@@ -620,6 +673,7 @@
             "subtasks": [
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
                     "due_date": "",
                     "notes": "Rename every occurrence of the same reference",
                     "flagged": false,
@@ -630,6 +684,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
                     "due_date": "",
                     "notes": "Toggle Zen mode (View > Appearance > Zen Mode/Centered Layout)",
                     "flagged": false,
@@ -640,6 +695,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
                     "due_date": "",
                     "notes": "Show/Hide Terminal",
                     "flagged": false,
@@ -650,6 +706,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
                     "due_date": "",
                     "notes": "Go to file",
                     "flagged": false,
@@ -660,6 +717,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
                     "due_date": "",
                     "notes": "Unfold/Expand closed items",
                     "flagged": false,
@@ -670,6 +728,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
                     "due_date": "",
                     "notes": "Go to function definition",
                     "flagged": false,
@@ -680,6 +739,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
                     "due_date": "",
                     "notes": "Column/Box Selection: Select blocks of text by holding it while you drag your mouse.",
                     "flagged": false,
@@ -690,6 +750,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
                     "due_date": "",
                     "notes": "Select word or next occurrence",
                     "flagged": false,
@@ -700,6 +761,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
                     "due_date": "",
                     "notes": "Create new terminal",
                     "flagged": false,
@@ -710,6 +772,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
                     "due_date": "",
                     "notes": "Fold/Collapse open items",
                     "flagged": false,
@@ -720,6 +783,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
                     "due_date": "",
                     "notes": "Put cursor on multiple lines simultaneously",
                     "flagged": false,
@@ -730,6 +794,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
                     "due_date": "",
                     "notes": "Comment out current line/selected lines",
                     "flagged": false,
@@ -740,6 +805,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
                     "due_date": "",
                     "notes": "Create a new Terminal window",
                     "flagged": false,
@@ -750,6 +816,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
                     "due_date": "",
                     "notes": "Move line up/down (reordering). Holding it with `Shift` will copy/duplicate the line as well.",
                     "flagged": false,
@@ -760,6 +827,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
                     "due_date": "",
                     "notes": "Open command palette",
                     "flagged": false,
@@ -770,6 +838,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
                     "due_date": "",
                     "notes": "Toggle primary sidebar",
                     "flagged": false,
@@ -780,6 +849,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
                     "due_date": "",
                     "notes": "Remove unused imports, declarations, etc.",
                     "flagged": false,
@@ -790,6 +860,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
                     "due_date": "",
                     "notes": "Switch between tabs",
                     "flagged": false,
@@ -800,6 +871,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
                     "due_date": "",
                     "notes": "Insert line above",
                     "flagged": false,
@@ -810,6 +882,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
                     "due_date": "",
                     "notes": "Multi-cursor editing - it selects all matches in the current file to the currently highlighted text. Press \"ESC\" to disable it.",
                     "flagged": false,
@@ -820,6 +893,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
                     "due_date": "",
                     "notes": "View all available keyboard shortcuts",
                     "flagged": false,
@@ -830,6 +904,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
                     "due_date": "",
                     "notes": "Select current line",
                     "flagged": false,
@@ -840,6 +915,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
                     "due_date": "",
                     "notes": "Open the Find and Replace dialog",
                     "flagged": false,
@@ -850,6 +926,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
                     "due_date": "",
                     "notes": "Toggle secondary sidebar",
                     "flagged": false,
@@ -860,6 +937,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
                     "due_date": "",
                     "notes": "Show/Hide integrated terminal (= Toggle panel view), and switch focus to it",
                     "flagged": false,
@@ -870,6 +948,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
                     "due_date": "",
                     "notes": "Insert line below",
                     "flagged": false,
@@ -892,6 +971,7 @@
             "subtasks": [
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ YouTube",
                     "due_date": "",
                     "notes": "Slow down a video by 25%",
                     "flagged": false,
@@ -902,6 +982,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ YouTube",
                     "due_date": "",
                     "notes": "Speed up a video by 25%",
                     "flagged": false,
@@ -924,6 +1005,7 @@
             "subtasks": [
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ File Manager",
                     "due_date": "",
                     "notes": "Sort by size",
                     "flagged": false,
@@ -934,6 +1016,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ File Manager",
                     "due_date": "",
                     "notes": "Open (or launch) the selected item",
                     "flagged": false,
@@ -944,6 +1027,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ File Manager",
                     "due_date": "",
                     "notes": "Go to \"iCloud Drive\" in Finder",
                     "flagged": false,
@@ -954,6 +1038,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ File Manager",
                     "due_date": "",
                     "notes": "Reveal hidden files such as ._ (dot underscore) files that are normally invisible",
                     "flagged": false,
@@ -964,6 +1049,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ File Manager",
                     "due_date": "",
                     "notes": "Show the active window in icon mode",
                     "flagged": false,
@@ -974,6 +1060,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ File Manager",
                     "due_date": "",
                     "notes": "Sort by name",
                     "flagged": false,
@@ -984,6 +1071,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ File Manager",
                     "due_date": "",
                     "notes": "Rename the selected item",
                     "flagged": false,
@@ -994,6 +1082,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ File Manager",
                     "due_date": "",
                     "notes": "Show the active window in list mode",
                     "flagged": false,
@@ -1004,6 +1093,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ File Manager",
                     "due_date": "",
                     "notes": "Sort by kind",
                     "flagged": false,
@@ -1014,6 +1104,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ File Manager",
                     "due_date": "",
                     "notes": "Move back to the previous Finder location",
                     "flagged": false,
@@ -1024,6 +1115,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ File Manager",
                     "due_date": "",
                     "notes": "Show the active window in gallery mode",
                     "flagged": false,
@@ -1034,6 +1126,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ File Manager",
                     "due_date": "",
                     "notes": "Move the selected item to Trash",
                     "flagged": false,
@@ -1044,6 +1137,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ File Manager",
                     "due_date": "",
                     "notes": "Create a new folder ",
                     "flagged": false,
@@ -1054,6 +1148,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ File Manager",
                     "due_date": "",
                     "notes": "Move forward to the next Finder location",
                     "flagged": false,
@@ -1064,6 +1159,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ File Manager",
                     "due_date": "",
                     "notes": "Show the active window in column mode",
                     "flagged": false,
@@ -1074,6 +1170,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ File Manager",
                     "due_date": "",
                     "notes": "Takes you to a folder that you specify",
                     "flagged": false,
@@ -1084,6 +1181,7 @@
                 },
                 {
                     "tags": "",
+                    "parent_reminder": "◻️ File Manager",
                     "due_date": "",
                     "notes": "Duplicate selected item(s)",
                     "flagged": false,
