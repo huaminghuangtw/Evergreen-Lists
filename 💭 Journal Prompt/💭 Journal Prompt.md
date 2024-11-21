@@ -1,4 +1,4 @@
-| Welcome to my evergreen list "💭 Journal Prompt." <br> Feel free to download it in PDF, CSV, Microsoft Excel, or any other preferred format [here](https://docs.google.com/spreadsheets/d/1RI3C2N7-LaWG1pZC6xMVvS08OJJQp92qJhLaPSXNzQ0)! |
+| Welcome to my evergreen list “💭 Journal Prompt.” <br> Feel free to download it in PDF, CSV, Microsoft Excel, or any other preferred format [here](https://docs.google.com/spreadsheets/d/1RI3C2N7-LaWG1pZC6xMVvS08OJJQp92qJhLaPSXNzQ0)! |
 | :---: |
 
 > [!NOTE]  
@@ -10,23 +10,23 @@
 
 # 📑 Table of Contents
 
-- [🤔 On "Morning"](#-on-morning)
-- [🤔 On "Evening"](#-on-evening)
-- [🤔 On "Today"](#-on-today)
-- [🤔 On "Prioritization"](#-on-prioritization)
-- [🤔 On "Productivity"](#-on-productivity)
-- [🤔 On "Miscellaneous"](#-on-miscellaneous)
+* [🤔 On "Morning"](#-on-morning)
+* [🤔 On "Evening"](#-on-evening)
+* [🤔 On "Today"](#-on-today)
+* [🤔 On "Prioritization"](#-on-prioritization)
+* [🤔 On "Productivity"](#-on-productivity)
+* [🤔 On "Miscellaneous"](#-on-miscellaneous)
 
 ---
 
-# 🤔 On "Morning"
+# 🤔 On “Morning”
 
 | Question | Note |
 | --- | --- |
 | What is today's adventure going to be? What would my greatest day look like TODAY? |  |
 | How do I want to feel at the end of the day? Joyful or frustrated? What do I need to do now, so that I can feel this way in the evening? |  |
 
-# 🤔 On "Evening"
+# 🤔 On “Evening”
 
 | Question | Note |
 | --- | --- |
@@ -37,7 +37,7 @@
 | What did I learn? What did I improve? What was my biggest win of the day? |  |
 | What excited me? What drained me of energy? Was my attention on loving or on who isn't loving me? |  |
 
-# 🤔 On "Today"
+# 🤔 On “Today”
 
 | Question | Note |
 | --- | --- |
@@ -60,7 +60,7 @@
 | What good habit did I perform today that will benefit me in the long term? |  |
 | What would my 80-year-old self say about my decisions today? |  |
 
-# 🤔 On "Prioritization"
+# 🤔 On “Prioritization”
 
 | Question | Note |
 | --- | --- |
@@ -74,24 +74,24 @@
 | What is the biggest bottleneck that holds me back XXX? Am I avoiding it? |  |
 | What is the ONE highest-leverage thing I can do XXX that'll take the largest load off my shoulders? |  |
 
-# 🤔 On "Productivity"
+# 🤔 On “Productivity”
 
 | Question | Note |
 | --- | --- |
 | What would this look like if it were dead or stupid simple and easy? |  |
-| Am I chasing mice or hunting antelope? | "A lion is fully capable of capturing, killing, and eating a field mouse. But it turns out that the energy required to do so exceeds the caloric content of the mouse itself. So a lion that spent its day hunting and eating field mice would slowly starve to death. A lion can’t live on field mice. A lion needs antelope. Antelope are big animals. They take more speed and strength to capture and kill, and once killed, they provide a feast for the lion and her pride. A lion can live a long and happy life on a diet of antelope. The distinction is important. Are you spending all your time and exhausting all your energy catching field mice? In the short term it might give you a nice, rewarding feeling. But in the long run you’re going to die." — _Buck Up, Suck Up . . . and Come Back When You Foul Up: 12 Winning Secrets from the War Room_ |
+| Am I chasing mice or hunting antelope? | “A lion is fully capable of capturing, killing, and eating a field mouse. But it turns out that the energy required to do so exceeds the caloric content of the mouse itself. So a lion that spent its day hunting and eating field mice would slowly starve to death. A lion can't live on field mice. A lion needs antelope. Antelope are big animals. They take more speed and strength to capture and kill, and once killed, they provide a feast for the lion and her pride. A lion can live a long and happy life on a diet of antelope. The distinction is important. Are you spending all your time and exhausting all your energy catching field mice? In the short term it might give you a nice, rewarding feeling. But in the long run you're going to die.” — _Buck Up, Suck Up … and Come Back When You Foul Up: 12 Winning Secrets from the War Room_ |
 | Am I inventing things to do to avoid the important? |  |
 | If this is the only thing I accomplish today, will I be satisfied with my day? |  |
 | Am I being productive or just active/busy? |  |
 | What is the most sensible order of tasks? Which tasks naturally flow into each other? How can I make transitions smoother? |  |
 | Is there a higher leverage, more efficient way to approach this? |  |
 
-# 🤔 On "Miscellaneous"
+# 🤔 On “Miscellaneous”
 
 | Question | Note |
 | --- | --- |
 | What in my field do I think is a law but is actually just a rule? |  |
-| If everything were to stay the same, what’s the one tiny change that would have the greatest positive impact in my life? |  |
+| If everything were to stay the same, what's the one tiny change that would have the greatest positive impact in my life? |  |
 | How can I make sure I actually commit to the experience, rather than retreating back to the safety of my comfort zone? |  |
 | Why do I get out of bed in the morning? |  |
 | What is the trait I most deplore in myself? |  |
@@ -107,7 +107,7 @@
 | Am I gathering more information to get in the way of more action? |  |
 | What is the tiny first step that will move me closer to my big, scary goal? |  |
 | What did I do as a child that made the hours pass like minutes? |  |
-| Think about a "what if?" or worst-case scenario and work your way through the problem. What are my options if it were to happen? |  |
+| Think about a “what if?” or worst-case scenario and work your way through the problem. What are my options if it were to happen? |  |
 | What thinking patterns or toxic, false beliefs I have now would have to be broken and changed? |  |
 | Am I spending my time in alignment with my goals and priorities? |  |
 | Where am I allowing my self-protection to become self-rejection? |  |
@@ -196,7 +196,7 @@
 | What might I do to accomplish my 10-year goals in the next 6 months, if I had a gun against my head? |  |
 | How quickly can I get started? How quickly can I learn from my mistakes? |  |
 | What is a boundary that I need to draw and protect in my life? |  |
-| What am I working on and why? Does it suuport my future-self? |  |
+| What am I working on and why? Does it support my future-self? |  |
 | What lie have I repeated to myself so many times that it feels like the truth? |  |
 | How well am I treating my body and why? |  |
 | What assumptions am I currently making that could be incorrect? |  |
@@ -250,7 +250,7 @@
 | What is the core elements of my ideal day and week? |  |
 | If everything else stays the same, what one variable could create the biggest positive change on my situation? |  |
 | Who are the people I most admire, and why? What qualities do they possess that I wish to emulate? |  |
-| What does "ready" feel like to me? How did I know I were ready for a major step that I have taken in my life? |  |
+| What does “ready” feel like to me? How did I know I were ready for a major step that I have taken in my life? |  |
 | What if my path is a spiral? What if I'm not really going in circles, but going upwards? |  |
 | When was the last time I allowed myself to celebrate good and sufficient enough? |  |
 | Imagine I have achieved everything I have ever wanted. How have I changed as a person? What qualities and achievements define this future version of myself? |  |
@@ -285,11 +285,13 @@
 | Where will my life end up if I have the same lifestyle or keep doing the same thing for 10 years? |  |
 | How can I do less, but better? |  |
 | What do I consider my greatest achievement? |  |
-| Instead of asking, "What could make me feel happy?" Try asking, "What could make the group excited?" |  |
+| Instead of asking, “What could make me feel happy?” Try asking, “What could make the group excited?” |  |
 | What is the quality I most like in a man? |  |
 | How can I design incentives and an environment that will naturally bring about my desired change? |  |
 | What have I been told I'm really good or poor at? |  |
 
-🤔 On "Decision Making"
-🤔 On "Life"
+🤔 On “Decision Making”
+
+🤔 On “Life”
+
 Do I want to be liked or loved?

@@ -1,4 +1,4 @@
-| Welcome to my evergreen list "⌨️ Keyboard Hotkey." <br> Feel free to download it in PDF, CSV, Microsoft Excel, or any other preferred format [here](https://docs.google.com/spreadsheets/d/12UxNMk9LmNd8C0iGM_ssMv1ruUt_mJw-mw43bpm-wcE)! |
+| Welcome to my evergreen list “⌨️ Keyboard Hotkey.” <br> Feel free to download it in PDF, CSV, Microsoft Excel, or any other preferred format [here](https://docs.google.com/spreadsheets/d/12UxNMk9LmNd8C0iGM_ssMv1ruUt_mJw-mw43bpm-wcE)! |
 | :---: |
 
 > [!NOTE]  
@@ -10,15 +10,15 @@
 
 # 📑 Table of Contents
 
-- [◻️ Web Browser](#️-web-browser)
-- [◻️ Terminal](#️-terminal)
-- [◻️ Apple Notes](#️-apple-notes)
-- [◻️ Apple Shortcuts](#️-apple-shortcuts)
-- [◻️ macOS](#️-macos)
-- [◻️ Notion](#️-notion)
-- [◻️ Code Editor](#️-code-editor)
-- [◻️ YouTube](#️-youtube)
-- [◻️ File Manager](#️-file-manager)
+* [◻️ Web Browser](#️-web-browser)
+* [◻️ Terminal](#️-terminal)
+* [◻️ Apple Notes](#️-apple-notes)
+* [◻️ Apple Shortcuts](#️-apple-shortcuts)
+* [◻️ macOS](#️-macos)
+* [◻️ Notion](#️-notion)
+* [◻️ Code Editor](#️-code-editor)
+* [◻️ YouTube](#️-youtube)
+* [◻️ File Manager](#️-file-manager)
 
 ---
 
@@ -68,14 +68,14 @@
 
 | Hotkey | Note |
 | --- | --- |
-| `Cmd` + `Shift` + `I` | Add action: "If-Otherwise-End If" |
+| `Cmd` + `Shift` + `I` | Add action: “If-Otherwise-End If” |
 | `Cmd` + `R` | Run a Shortcut |
-| `Cmd` + `Shift` + `A` | Add action: "Ask for Input" |
-| `Cmd` + `Shift` + `S` | Add action: "Show Result" |
-| `Cmd` + `Shift` + `C` | Add action: "Comment" |
+| `Cmd` + `Shift` + `A` | Add action: “Ask for Input” |
+| `Cmd` + `Shift` + `S` | Add action: “Show Result” |
+| `Cmd` + `Shift` + `C` | Add action: “Comment” |
 | `Cmd` + `N` | Create new Shortcut |
 | `Cmd` + `D` | Duplicate a Shortcut |
-| `Cmd` + `Shift` + `R` | Add action: "Repeat" |
+| `Cmd` + `Shift` + `R` | Add action: “Repeat” |
 | `Cmd` + `↑/↓` | Move line up/down (reordering) |
 
 # ◻️ macOS
@@ -106,6 +106,7 @@
 | `Cmd` + `\` | Show/Hide sidebar |
 
 ◻️ Gmail
+
 # ◻️ Code Editor
 
 | Hotkey | Note |
@@ -129,7 +130,7 @@
 | `Opt` + `Shift` + `O` | Remove unused imports, declarations, etc. |
 | `Ctrl` + `Tab` | Switch between tabs |
 | `Cmd` + `Shift` + `Enter` | Insert line above |
-| `Cmd` + `Shift` + `L` | Multi-cursor editing - it selects all matches in the current file to the currently highlighted text. Press "ESC" to disable it. |
+| `Cmd` + `Shift` + `L` | Multi-cursor editing - it selects all matches in the current file to the currently highlighted text. Press “ESC” to disable it. |
 | `Cmd` + `K S` | View all available keyboard shortcuts |
 | `Cmd` + `L` | Select current line |
 | `Cmd` + `F` | Open the Find and Replace dialog |
@@ -150,7 +151,7 @@
 | --- | --- |
 | `Ctrl` + `Opt` + `Cmd` + `6` | Sort by size |
 | `Cmd` + `O` | Open (or launch) the selected item |
-| `Cmd` + `Shift` + `I` | Go to "iCloud Drive" in Finder |
+| `Cmd` + `Shift` + `I` | Go to “iCloud Drive” in Finder |
 | `Cmd` + `Shift` + `.` | Reveal hidden files such as ._ (dot underscore) files that are normally invisible |
 | `Cmd` + `1` | Show the active window in icon mode |
 | `Ctrl` + `Opt` + `Cmd` + `1` | Sort by name |
