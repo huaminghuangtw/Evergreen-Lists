@@ -2,7 +2,7 @@
 | :---: |
 
 > [!NOTE]  
-> _Last Update: 2024-11-18_  
+> _Last Update: 2024-11-24_  
 >
 > _Curated by [Hua-Ming Huang](https://github.com/huaminghuangtw) with ❤️_  
 
@@ -31,7 +31,7 @@
 | Pro Tip | Note |
 | --- | --- |
 | [Instead of using the traditional copy-and-paste approach to move text/images/files/urls/etc. between apps, use the hidden drag-and-drop feature.](https://www.youtube.com/watch?v=DhwRv1YLhRg) |  |
-| Good phone charging habits to maximize battery lifespan | <ol><li>Always keep the battery level in between 20% and 80%</li><li>Don't put the phone on charge until next morning (overnight) → Note that this doesn't matter as long as the “Optimized Battery Charging” feature is enabled (default for most modern devices)</li><li>Avoid using third-party chargers and cables → Or, at least MFI-certified</li></ol> |
+| Good phone charging habits to maximize battery lifespan | <ol><li>1. Always keep the battery level in between 20% and 80%</li><li>2. Don't put the phone on charge until next morning (overnight) → Note that this doesn't matter as long as the “Optimized Battery Charging” feature is enabled (default for most modern devices)</li><li>3. Avoid using third-party chargers and cables → Or, at least MFI-certified</li></ol> |
 | [Move multiple Home Screen apps at once](https://ios.gadgethacks.com/how-to/move-multiple-home-screen-apps-once-0177985): Tap and hold on one app, then tap more apps to add them to your stack |  |
 
 # 💡 Apple Ecosystem

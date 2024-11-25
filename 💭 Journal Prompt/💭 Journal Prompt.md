@@ -2,7 +2,7 @@
 | :---: |
 
 > [!NOTE]  
-> _Last Update: 2024-11-18_  
+> _Last Update: 2024-11-24_  
 >
 > _Curated by [Hua-Ming Huang](https://github.com/huaminghuangtw) with ❤️_  
 
@@ -67,7 +67,7 @@
 | If XXX were the last day of my life, would I want to do what I am about to do XXX? |  |
 | If I could only accomplish one thing XXX, what would make everything else easier or unnecessary? |  |
 | What is scarce in my work XXX? How can I leverage it? |  |
-| What is XXX's biggest and the most critical task that'll render all the rest either easier or completely irrelevant? |  |
+| What is XXX's biggest and most critical task that'll render all the rest either easier or completely irrelevant? |  |
 | If I had a heart attack and could only work two hours XXX, what would I choose to do? |  |
 | Which undone item, if done XXX, would liberate the most energy for me personally? |  |
 | What are the one or two mission-critical tasks I could accomplish XXX that would define the day as a success? |  |

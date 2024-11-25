@@ -2,7 +2,7 @@
 | :---: |
 
 > [!NOTE]  
-> _Last Update: 2024-11-18_  
+> _Last Update: 2024-11-24_  
 >
 > _Curated by [Hua-Ming Huang](https://github.com/huaminghuangtw) with ❤️_  
 
