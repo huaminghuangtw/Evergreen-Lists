@@ -24,19 +24,19 @@
                     "flagged": false,
                     "list": "👨‍💻 Tech Pro Tip",
                     "priority": "None",
-                    "name": "[Batch rename multiple files](https://stackoverflow.com/a/53321208)",
-                    "url": "https://stackoverflow.com/a/53321208"
+                    "name": "Use the keyboard shortcut `Shift` + `Cmd` + `/` to show the menu bar _search_, which reveals the menu bar with the added benefit of putting the cursor in the search field, so that you can quickly type the command you want and hit `Enter`",
+                    "url": ""
                 },
                 {
                     "tags": "",
                     "parent_reminder": "💡 macOS",
                     "due_date": "",
-                    "notes": "+ Method 1: First `Cmd` + `C`, then `Opt` + `Cmd` + `V` → will paste the file and remove it from original location\n+ Method 2: Install Sindre Sorhus's [Command X](https://sindresorhus.com/command-x) app for more intuitive keyboard shortcuts",
+                    "notes": "",
                     "flagged": false,
                     "list": "👨‍💻 Tech Pro Tip",
                     "priority": "None",
-                    "name": "Move (i.e., cut & paste) files&folders in Finder",
-                    "url": ""
+                    "name": "[Batch rename multiple files](https://stackoverflow.com/a/53321208)",
+                    "url": "https://stackoverflow.com/a/53321208"
                 },
                 {
                     "tags": "",
@@ -58,6 +58,17 @@
                     "list": "👨‍💻 Tech Pro Tip",
                     "priority": "None",
                     "name": "Right-click a folder in Finder on macOS, you will get an \"Import from iPhone/iPad\" option. Click that and your iPhone/iPad will open a scanner app which lets you \"Take Photo\", \"Scan Documents\", and \"Add Sketch.\"",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 macOS",
+                    "due_date": "",
+                    "notes": "+ Method 1: First `Cmd` + `C`, then `Opt` + `Cmd` + `V` → will paste the file and remove it from original location\n+ Method 2: Install Sindre Sorhus's [Command X](https://sindresorhus.com/command-x) app for more intuitive keyboard shortcuts",
+                    "flagged": false,
+                    "list": "👨‍💻 Tech Pro Tip",
+                    "priority": "None",
+                    "name": "Move (i.e., cut & paste) files&folders in Finder",
                     "url": ""
                 }
             ],
@@ -87,23 +98,23 @@
                     "tags": "",
                     "parent_reminder": "💡 iOS",
                     "due_date": "",
-                    "notes": "1. Always keep the battery level in between 20% and 80%\n2. Don’t put the phone on charge until next morning (overnight) → Note that this doesn’t matter as long as the \"Optimized Battery Charging\" feature is enabled (default for most modern devices)\n3. Avoid using third-party chargers and cables → Or, at least MFI-certified",
-                    "flagged": false,
-                    "list": "👨‍💻 Tech Pro Tip",
-                    "priority": "None",
-                    "name": "Good phone charging habits to maximize battery lifespan",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "💡 iOS",
-                    "due_date": "",
                     "notes": "",
                     "flagged": false,
                     "list": "👨‍💻 Tech Pro Tip",
                     "priority": "None",
                     "name": "[Move multiple Home Screen apps at once](https://ios.gadgethacks.com/how-to/move-multiple-home-screen-apps-once-0177985): Tap and hold on one app, then tap more apps to add them to your stack",
                     "url": "https://ios.gadgethacks.com/how-to/move-multiple-home-screen-apps-once-0177985/"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 iOS",
+                    "due_date": "",
+                    "notes": "1. Always keep the battery level in between 20% and 80%\n2. Don’t put the phone on charge until next morning (overnight) → Note that this doesn’t matter as long as the \"Optimized Battery Charging\" feature is enabled (default for most modern devices)\n3. Avoid using third-party chargers and cables → Or, at least MFI-certified",
+                    "flagged": false,
+                    "list": "👨‍💻 Tech Pro Tip",
+                    "priority": "None",
+                    "name": "Good phone charging habits to maximize battery lifespan",
+                    "url": ""
                 }
             ],
             "flagged": false,

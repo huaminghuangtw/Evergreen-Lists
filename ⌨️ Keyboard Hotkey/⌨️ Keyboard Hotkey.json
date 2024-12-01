@@ -101,7 +101,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `Shift` + `W`",
+                    "name": "`Cmd` + `W`",
                     "url": ""
                 },
                 {
@@ -1051,6 +1051,17 @@
                     "tags": "",
                     "parent_reminder": "◻️ File Manager",
                     "due_date": "",
+                    "notes": "Go to \"Downloads\" in Finder",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "`Cmd` + `Opt` + `L`",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ File Manager",
+                    "due_date": "",
                     "notes": "Move forward to the next Finder location",
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
@@ -1067,6 +1078,17 @@
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
                     "name": "`Cmd` + `Shift` + `G`",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ File Manager",
+                    "due_date": "",
+                    "notes": "Go to \"Applications\" in Finder",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "`Cmd` + `Shift` + `A`",
                     "url": ""
                 },
                 {

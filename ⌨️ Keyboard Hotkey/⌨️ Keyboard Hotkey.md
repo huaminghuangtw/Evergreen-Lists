@@ -2,7 +2,7 @@
 | :---: |
 
 > [!NOTE]  
-> _Last Update: 2024-11-24_  
+> _Last Update: 2024-11-29_  
 >
 > _Curated by [Hua-Ming Huang](https://github.com/huaminghuangtw) with ❤️_  
 
@@ -34,7 +34,7 @@
 | `Cmd` + `L` | Select address bar (to edit URL) |
 | `Cmd` + `[Left-Click]` | Open link in a new tab |
 | `Cmd` + `Shift` + `Y` | Show/Hide Collections |
-| `Cmd` + `Shift` + `W` | Close the current window |
+| `Cmd` + `W` | Close the current window |
 | `Cmd` + `T` | Open a new tab |
 | `Cmd` + `[Left-Arrow]` = `Cmd` + `[` | Go back a page |
 | `Cmd` + `Shift` + `R` | Hard reload/refresh a web page |
@@ -153,8 +153,10 @@
 | `Ctrl` + `Opt` + `Cmd` + `6` | Sort by size |
 | `Cmd` + `Shift` + `N` | Create a new folder  |
 | `Cmd` + `Shift` + `I` | Go to “iCloud Drive” in Finder |
+| `Cmd` + `Opt` + `L` | Go to “Downloads” in Finder |
 | `Cmd` + `]` | Move forward to the next Finder location |
 | `Cmd` + `Shift` + `G` | Takes you to a folder that you specify |
+| `Cmd` + `Shift` + `A` | Go to “Applications” in Finder |
 | `Cmd` + `O` | Open (or launch) the selected item |
 | `Cmd` + `Shift` + `.` | Reveal hidden files such as ._ (dot underscore) files that are normally invisible |
 | `Cmd` + `[` | Move back to the previous Finder location |
