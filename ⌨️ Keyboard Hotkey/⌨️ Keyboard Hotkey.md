@@ -1,4 +1,4 @@
-| Welcome to my evergreen list "⌨️ Keyboard Hotkey." <br> Feel free to download it in PDF, CSV, Microsoft Excel, or any other preferred format [here](https://docs.google.com/spreadsheets/d/12UxNMk9LmNd8C0iGM_ssMv1ruUt_mJw-mw43bpm-wcE)! |
+| Welcome to my evergreen list “⌨️ Keyboard Hotkey.” <br> Feel free to download it in PDF, CSV, Microsoft Excel, or any other preferred format [here](https://docs.google.com/spreadsheets/d/12UxNMk9LmNd8C0iGM_ssMv1ruUt_mJw-mw43bpm-wcE)! |
 | :---: |
 
 > [!NOTE]  
@@ -10,15 +10,15 @@
 
 # 📑 Table of Contents
 
-- [◻️ Web Browser](#️-web-browser)
-- [◻️ Terminal](#️-terminal)
-- [◻️ Apple Notes](#️-apple-notes)
-- [◻️ Apple Shortcuts](#️-apple-shortcuts)
-- [◻️ macOS](#️-macos)
-- [◻️ Notion](#️-notion)
-- [◻️ Code Editor](#️-code-editor)
-- [◻️ YouTube](#️-youtube)
-- [◻️ File Manager](#️-file-manager)
+* [◻️ Web Browser](#️-web-browser)
+* [◻️ Terminal](#️-terminal)
+* [◻️ Apple Notes](#️-apple-notes)
+* [◻️ Apple Shortcuts](#️-apple-shortcuts)
+* [◻️ macOS](#️-macos)
+* [◻️ Notion](#️-notion)
+* [◻️ Code Editor](#️-code-editor)
+* [◻️ YouTube](#️-youtube)
+* [◻️ File Manager](#️-file-manager)
 
 ---
 
@@ -68,14 +68,14 @@
 
 | Hotkey | Note |
 | --- | --- |
-| `Cmd` + `Shift` + `I` | Add action: "If-Otherwise-End If" |
-| `Cmd` + `Shift` + `R` | Add action: "Repeat" |
-| `Cmd` + `Shift` + `A` | Add action: "Ask for Input" |
+| `Cmd` + `Shift` + `I` | Add action: “If-Otherwise-End If” |
+| `Cmd` + `Shift` + `R` | Add action: “Repeat” |
+| `Cmd` + `Shift` + `A` | Add action: “Ask for Input” |
 | `Cmd` + `R` | Run a Shortcut |
 | `Cmd` + `↑/↓` | Move line up/down (reordering) |
 | `Cmd` + `D` | Duplicate a Shortcut |
-| `Cmd` + `Shift` + `C` | Add action: "Comment" |
-| `Cmd` + `Shift` + `S` | Add action: "Show Result" |
+| `Cmd` + `Shift` + `C` | Add action: “Comment” |
+| `Cmd` + `Shift` + `S` | Add action: “Show Result” |
 | `Cmd` + `N` | Create new Shortcut |
 
 # ◻️ macOS
@@ -109,6 +109,7 @@
 | `Cmd` + `\` | Show/Hide sidebar |
 
 ◻️ Gmail
+
 # ◻️ Code Editor
 
 | Hotkey | Note |
@@ -121,7 +122,7 @@
 | `Cmd` + `F` | Open the Find and Replace dialog |
 | `Cmd` + `Shift` + `P` | Open command palette |
 | `Opt` + `[Left-Click]` | Put cursor on multiple lines simultaneously |
-| `Cmd` + `Shift` + `L` | Multi-cursor editing - it selects all matches in the current file to the currently highlighted text. Press "ESC" to disable it. |
+| `Cmd` + `Shift` + `L` | Multi-cursor editing - it selects all matches in the current file to the currently highlighted text. Press “ESC” to disable it. |
 | `Ctrl` + `Shift` + `` ` `` | Create a new Terminal window |
 | `Ctrl` + `Shift` + `` ` `` | Create new terminal |
 | `Cmd` + `K Z` | Toggle Zen mode (View > Appearance > Zen Mode/Centered Layout) |
@@ -161,11 +162,11 @@
 | --- | --- |
 | `Ctrl` + `Opt` + `Cmd` + `6` | Sort by size |
 | `Cmd` + `Shift` + `N` | Create a new folder  |
-| `Cmd` + `Shift` + `I` | Go to "iCloud Drive" in Finder |
-| `Cmd` + `Opt` + `L` | Go to "Downloads" in Finder |
+| `Cmd` + `Shift` + `I` | Go to “iCloud Drive” in Finder |
+| `Cmd` + `Opt` + `L` | Go to “Downloads” in Finder |
 | `Cmd` + `]` | Move forward to the next Finder location |
 | `Cmd` + `Shift` + `G` | Takes you to a folder that you specify |
-| `Cmd` + `Shift` + `A` | Go to "Applications" in Finder |
+| `Cmd` + `Shift` + `A` | Go to “Applications” in Finder |
 | `Cmd` + `O` | Open (or launch) the selected item |
 | `Cmd` + `Shift` + `.` | Reveal hidden files such as ._ (dot underscore) files that are normally invisible |
 | `Cmd` + `[` | Move back to the previous Finder location |

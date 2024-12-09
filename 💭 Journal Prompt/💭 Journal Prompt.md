@@ -1,4 +1,4 @@
-| Welcome to my evergreen list "💭 Journal Prompt." <br> Feel free to download it in PDF, CSV, Microsoft Excel, or any other preferred format [here](https://docs.google.com/spreadsheets/d/1RI3C2N7-LaWG1pZC6xMVvS08OJJQp92qJhLaPSXNzQ0)! |
+| Welcome to my evergreen list “💭 Journal Prompt.” <br> Feel free to download it in PDF, CSV, Microsoft Excel, or any other preferred format [here](https://docs.google.com/spreadsheets/d/1RI3C2N7-LaWG1pZC6xMVvS08OJJQp92qJhLaPSXNzQ0)! |
 | :---: |
 
 > [!NOTE]  
@@ -10,23 +10,23 @@
 
 # 📑 Table of Contents
 
-- [🤔 On "Morning"](#-on-morning)
-- [🤔 On "Evening"](#-on-evening)
-- [🤔 On "Today"](#-on-today)
-- [🤔 On "Prioritization"](#-on-prioritization)
-- [🤔 On "Productivity"](#-on-productivity)
-- [🤔 On "Miscellaneous"](#-on-miscellaneous)
+* [🤔 On "Morning"](#-on-morning)
+* [🤔 On "Evening"](#-on-evening)
+* [🤔 On "Today"](#-on-today)
+* [🤔 On "Prioritization"](#-on-prioritization)
+* [🤔 On "Productivity"](#-on-productivity)
+* [🤔 On "Miscellaneous"](#-on-miscellaneous)
 
 ---
 
-# 🤔 On "Morning"
+# 🤔 On “Morning”
 
 | Question | Note |
 | --- | --- |
 | What is today's adventure going to be? What would my greatest day look like TODAY? |  |
 | How do I want to feel at the end of the day? Joyful or frustrated? What do I need to do now, so that I can feel this way in the evening? |  |
 
-# 🤔 On "Evening"
+# 🤔 On “Evening”
 
 | Question | Note |
 | --- | --- |
@@ -37,7 +37,7 @@
 | What's on the agenda for tomorrow? How will I push the needle forward? |  |
 | Am I a little wiser now than I were when I woke up? Am I getting better than yesterday? Did I beat Yesterday Me? |  |
 
-# 🤔 On "Today"
+# 🤔 On “Today”
 
 | Question | Note |
 | --- | --- |
@@ -60,7 +60,7 @@
 | What would my 80-year-old self say about my decisions today? |  |
 | What actions am I engaged in today that I will cringe at in 5 years? |  |
 
-# 🤔 On "Prioritization"
+# 🤔 On “Prioritization”
 
 | Question | Note |
 | --- | --- |
@@ -75,7 +75,7 @@
 | What is the ONE highest-leverage thing I can do XXX that'll take the largest load off my shoulders? |  |
 | What activity I can do XXX that will create the most impact and value to the world? |  |
 
-# 🤔 On "Productivity"
+# 🤔 On “Productivity”
 
 | Question | Note |
 | --- | --- |
@@ -83,16 +83,16 @@
 | Am I being productive or just active/busy? |  |
 | Is there a higher leverage, more efficient way to approach this? |  |
 | What is the most sensible order of tasks? Which tasks naturally flow into each other? How can I make transitions smoother? |  |
-| Am I chasing mice or hunting antelope? | "A lion is fully capable of capturing, killing, and eating a field mouse. But it turns out that the energy required to do so exceeds the caloric content of the mouse itself. So a lion that spent its day hunting and eating field mice would slowly starve to death. A lion can’t live on field mice. A lion needs antelope. Antelope are big animals. They take more speed and strength to capture and kill, and once killed, they provide a feast for the lion and her pride. A lion can live a long and happy life on a diet of antelope. The distinction is important. Are you spending all your time and exhausting all your energy catching field mice? In the short term it might give you a nice, rewarding feeling. But in the long run you’re going to die." — _Buck Up, Suck Up . . . and Come Back When You Foul Up: 12 Winning Secrets from the War Room_ |
+| Am I chasing mice or hunting antelope? | “A lion is fully capable of capturing, killing, and eating a field mouse. But it turns out that the energy required to do so exceeds the caloric content of the mouse itself. So a lion that spent its day hunting and eating field mice would slowly starve to death. A lion can't live on field mice. A lion needs antelope. Antelope are big animals. They take more speed and strength to capture and kill, and once killed, they provide a feast for the lion and her pride. A lion can live a long and happy life on a diet of antelope. The distinction is important. Are you spending all your time and exhausting all your energy catching field mice? In the short term it might give you a nice, rewarding feeling. But in the long run you're going to die.” — _Buck Up, Suck Up … and Come Back When You Foul Up: 12 Winning Secrets from the War Room_ |
 | If this is the only thing I accomplish today, will I be satisfied with my day? |  |
 | Am I inventing things to do to avoid the important? |  |
 
-# 🤔 On "Miscellaneous"
+# 🤔 On “Miscellaneous”
 
 | Question | Note |
 | --- | --- |
 | What in my field do I think is a law but is actually just a rule? |  |
-| Instead of asking, "What could make me feel happy?" Try asking, "What could make the group excited?" |  |
+| Instead of asking, “What could make me feel happy?” Try asking, “What could make the group excited?” |  |
 | What does my ideal ordinary Tuesday look like? What am I doing? Who am I with? How am I spending my time? What makes this day perfect for me? |  |
 | What do I hope will be different 10 years from now? |  |
 | If I do nothing, what will happen? If I act right now, what will happen? | Sometimes you need to let go. Sometimes you need to get going. |
@@ -100,7 +100,7 @@
 | What would I do even if I knew it was going to fail? |  |
 | Where am I allowing my self-protection to become self-rejection? |  |
 | What is holding me back from living my best life? |  |
-| What am I working on and why? Does it suuport my future-self? |  |
+| What am I working on and why? Does it support my future-self? |  |
 | What might I do to accomplish my 10-year goals in the next 6 months, if I had a gun against my head? |  |
 | Where would I most like to live? |  |
 | How is my behavior and lack of presence contributing negatively to the situation that I don't want? |  |
@@ -124,7 +124,7 @@
 | What advantage am I accumulating? |  |
 | Half your problems are just your mind making minor things seem like major things: What am I over-emphasizing right now? |  |
 | How long will I put off what I am capable of doing just to continue what I am comfortable doing? |  |
-| If everything were to stay the same, what’s the one tiny change that would have the greatest positive impact in my life? |  |
+| If everything were to stay the same, what's the one tiny change that would have the greatest positive impact in my life? |  |
 | What am I not achieving simply because I haven't asked? |  |
 | If I hired the best CEO in the world to be the CEO of my life, what actions would be on their 100-day plan? |  |
 | Am I being the type of person who could achieve my goals? Why or why not? |  |
@@ -198,8 +198,8 @@
 | If I could change one thing about myself, what would it be? |  |
 | When you're told that something is impossible, is that the end of the conversation, or does that start a second dialogue in your mind? |  |
 | Imagine, at the end of a long life when you've passed away, you're at the pearly gates of heaven, and the angels have allowed you back to your life for just one moment, and right now is that time. How do you respond? |  |
-| What does "ready" feel like to me? How did I know I were ready for a major step that I have taken in my life? |  |
-| Think about a "what if?" or worst-case scenario and work your way through the problem. What are my options if it were to happen? |  |
+| What does “ready” feel like to me? How did I know I were ready for a major step that I have taken in my life? |  |
+| Think about a “what if?” or worst-case scenario and work your way through the problem. What are my options if it were to happen? |  |
 | Why do I get out of bed in the morning? |  |
 | Do I make it default to focus on deep work that creates value in the world and is difficult to replicate? |  |
 | What is my most marked characteristic? |  |
@@ -291,6 +291,8 @@
 | How is cheap becoming expensive in my life? |  |
 | How can I bring the after into the before? |  |
 
-🤔 On "Decision Making"
-🤔 On "Life"
+🤔 On “Decision Making”
+
+🤔 On “Life”
+
 Do I want to be liked or loved?
