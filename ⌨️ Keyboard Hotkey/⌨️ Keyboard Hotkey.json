@@ -445,7 +445,7 @@
             "name": "◻️ Apple Shortcuts"
         },
         {
-            "url": "",
+            "url": "https://support.apple.com/en-us/102650",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -502,6 +502,28 @@
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
                     "name": "`Cmd` + `Q`",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ macOS",
+                    "due_date": "",
+                    "notes": "Log out",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "`Cmd` + `Shift` + `Q`",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ macOS",
+                    "due_date": "",
+                    "notes": "Lock screen",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "`Cmd` + `Opt` + `Q`",
                     "url": ""
                 },
                 {
@@ -984,22 +1006,110 @@
                     "tags": "",
                     "parent_reminder": "◻️ YouTube",
                     "due_date": "",
-                    "notes": "Slow down a video by 25%",
+                    "notes": "Decrease playback speed",
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Shift` + `,`",
+                    "name": "`Shift` + `,` (`<`)",
                     "url": ""
                 },
                 {
                     "tags": "",
                     "parent_reminder": "◻️ YouTube",
                     "due_date": "",
-                    "notes": "Speed up a video by 25%",
+                    "notes": "Increase playback speed",
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Shift` + `.`",
+                    "name": "`Shift` + `.` (`>`)",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ YouTube",
+                    "due_date": "",
+                    "notes": "Toggle theater mode",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "`t`",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ YouTube",
+                    "due_date": "",
+                    "notes": "Go to search box",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "``/` (`:` on AZERTY keyboard)`",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ YouTube",
+                    "due_date": "",
+                    "notes": "Backward/Forward a video by 5 seconds",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "`←` / `→`",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ YouTube",
+                    "due_date": "",
+                    "notes": "Increase/Decrease volume by 5%",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "`↑` / `↓`",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ YouTube",
+                    "due_date": "",
+                    "notes": "Toggle full screen mode",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "`f`",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ YouTube",
+                    "due_date": "",
+                    "notes": "Toggle Play/Pause",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "``k` (or `Spacebar`)`",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ YouTube",
+                    "due_date": "",
+                    "notes": "Go to the previous/next chapter",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "`Ctrl ` + `←/→`",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ YouTube",
+                    "due_date": "",
+                    "notes": "Toggle Mute/Unmute",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "`m`",
                     "url": ""
                 }
             ],

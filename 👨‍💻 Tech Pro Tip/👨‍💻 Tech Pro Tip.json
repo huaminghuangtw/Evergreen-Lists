@@ -70,6 +70,17 @@
                     "priority": "None",
                     "name": "Move (i.e., cut & paste) files&folders in Finder",
                     "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 macOS",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👨‍💻 Tech Pro Tip",
+                    "priority": "None",
+                    "name": "How to do forward-delete on a MacBook? Hold down the `Fn` button and then press `Backspace`",
+                    "url": ""
                 }
             ],
             "flagged": false,
