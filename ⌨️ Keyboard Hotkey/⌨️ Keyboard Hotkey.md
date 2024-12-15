@@ -141,7 +141,7 @@
 | `Cmd` + `K J` | Unfold/Expand closed items |
 | `Cmd` + `K S` | View all available keyboard shortcuts |
 
-# ◻️ YouTube
+# ◻️ Youtube
 
 | Hotkey | Note |
 | --- | --- |

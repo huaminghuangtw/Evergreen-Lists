@@ -35,7 +35,7 @@
 | <code>sudo timedatectl set-ntp true && date</code> | Sync system clock |
 | <code>vcgencmd get_throttled \| grep -q throttled=0x50005 && echo “Low voltage detected! Please use official power supply.” \|\| echo “Power requirement satisfied.”</code> | Check voltage |
 
-# ◻️ SSH
+# ◻️ Ssh
 
 | Memorize This | Note |
 | --- | --- |
