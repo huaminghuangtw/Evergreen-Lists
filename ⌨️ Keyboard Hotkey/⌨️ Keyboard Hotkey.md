@@ -2,7 +2,7 @@
 | :---: |
 
 > [!NOTE]  
-> _Last Update: 2024-12-09_  
+> _Last Update: 2024-12-16_  
 >
 > _Curated by [Hua-Ming Huang](https://github.com/huaminghuangtw) with ❤️_  
 
@@ -88,7 +88,7 @@
 | `Cmd` + `Opt` + `Esc` | Force quit applications |
 | `Cmd` + `Q` | Quit application |
 | `Cmd` + `Shift` + `Q` | Log out |
-| `Cmd` + `Opt` + `Q` | Lock screen |
+| `Cmd` + `Ctrl` + `Q` | Lock screen |
 | `Cmd` + `[Left-Click]` | on any dock app opens it in Finder. This also works in Spotlight: If you hold `Cmd` while pressing `Enter`, it will show the app (or file) in Finder! |
 | `Ctrl` + `Cmd` + `Space` | Use emojis/symbols. Press it alongside the text to get the corresponding emoji/symbols |
 | `Cmd` + `Shift` + `3` | Capture the full screen |
@@ -148,11 +148,11 @@
 | `Shift` + `,` (`<`) | Decrease playback speed |
 | `Shift` + `.` (`>`) | Increase playback speed |
 | `t` | Toggle theater mode |
-| ``/` (`:` on AZERTY keyboard)` | Go to search box |
+| `/` (`:` on AZERTY keyboard) | Go to search box |
 | `←` / `→` | Backward/Forward a video by 5 seconds |
 | `↑` / `↓` | Increase/Decrease volume by 5% |
 | `f` | Toggle full screen mode |
-| ``k` (or `Spacebar`)` | Toggle Play/Pause |
+| `k` (or `Spacebar`) | Toggle Play/Pause |
 | `Ctrl ` + `←/→` | Go to the previous/next chapter |
 | `m` | Toggle Mute/Unmute |
 

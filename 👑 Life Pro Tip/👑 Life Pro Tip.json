@@ -813,6 +813,17 @@
                     "priority": "None",
                     "name": "Shop on the outer perimeter of the grocery store. This is (usually) where all the whole, unprocessed foods are. The aisles have most of the processed junk.",
                     "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Grocery Shopping\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "Buy pre-cut, frozen fruits and vegetables as a convenient and affordable alternative to fresh ones. They often retain more nutrients since they are picked and frozen at their peak ripeness, making them a more nutrient-dense option.",
+                    "url": ""
                 }
             ],
             "flagged": false,
@@ -1453,12 +1464,12 @@
                     "tags": "",
                     "parent_reminder": "💡 On \"Body Care\"",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "先刷牙 + 洗頭，最後再洗臉",
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "Avoid getting hair or oral hygiene products on the face.",
-                    "url": ""
+                    "name": "Avoid getting hair or oral hygiene products on your face, as they can block pores and potentially trigger acne.",
+                    "url": "%E5%85%88%E5%88%B7%E7%89%99%20(+%20%E6%B4%97%E9%A0%AD)%EF%BC%8C%E6%9C%80%E5%BE%8C%E5%86%8D%E6%B4%97%E8%87%89"
                 },
                 {
                     "tags": "",
@@ -1525,6 +1536,17 @@
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
                     "name": "How to effectively clean the vacuum cleaner bin (to remove dust, hair, etc.)?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"House Cleaning\"",
+                    "due_date": "",
+                    "notes": "1. They dry out more quickly than synthetic sponges. Faster drying reduces the likelihood of bacteria and mold growth, making them more hygienic—and don't get smelly.\n2. Their natural fibrous texture provides excellent scrubbing power without being overly abrasive, effectively removing dirt and residue while being gentle enough to protect surfaces from scratches.\n3. They are durable and can last for several weeks or months. When they wear out, they can be composted instead of thrown away.\n4. They are eco-friendly (biodegradable and compostable), unlike synthetic sponges, which contribute to plastic pollution and take decades to break down.\n5. Added Benefit: You can even use them to clean and exfoliate your body skin during showers!",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "Use [luffa or loofah](https://en.m.wikipedia.org/wiki/Luffa) as dish cleaning sponges.",
                     "url": ""
                 }
             ],

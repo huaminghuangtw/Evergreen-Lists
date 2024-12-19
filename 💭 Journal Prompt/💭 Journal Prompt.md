@@ -2,7 +2,7 @@
 | :---: |
 
 > [!NOTE]  
-> _Last Update: 2024-12-09_  
+> _Last Update: 2024-12-16_  
 >
 > _Curated by [Hua-Ming Huang](https://github.com/huaminghuangtw) with ❤️_  
 
@@ -16,6 +16,7 @@
 * [🤔 On "Prioritization"](#-on-prioritization)
 * [🤔 On "Productivity"](#-on-productivity)
 * [🤔 On "Miscellaneous"](#-on-miscellaneous)
+* [🤔 On "Life"](#-on-life)
 
 ---
 
@@ -44,11 +45,10 @@
 | Are the results I'm expecting aligned with the actions I took today? |  |
 | What am I certain of today that I'll laugh at in 10 years? |  |
 | Am I putting myself in the best position possible today, so that Future Me can play easy mode? |  |
-| What actions were I engaged in 5 years ago that I cringe at today? |  |
 | What was my definition of enoughness 5 years ago and how does it compare to my definition today? |  |
 | What am I going to be celebrating one year from today? |  |
 | What would future me wish that I had done today? |  |
-| How can the work I am doing today accumulate and layer on top of what I did yesterday? | Find ways to compound your efforts. |
+| New Reminder |  |
 | Looking back ten years from now and I can probably identify a few blind spots or mistaken beliefs I held at that time. Now, fast forward ten years: What are likely to be my current blind spots? What am I not spending enough time thinking about or perhaps even willfully ignoring? |  |
 | What does that ideal future look like? What does that imply about how I need to live today? |  |
 | What would I invest in today assuming I had to hold the investment forever? |  |
@@ -86,6 +86,8 @@
 | Am I chasing mice or hunting antelope? | “A lion is fully capable of capturing, killing, and eating a field mouse. But it turns out that the energy required to do so exceeds the caloric content of the mouse itself. So a lion that spent its day hunting and eating field mice would slowly starve to death. A lion can't live on field mice. A lion needs antelope. Antelope are big animals. They take more speed and strength to capture and kill, and once killed, they provide a feast for the lion and her pride. A lion can live a long and happy life on a diet of antelope. The distinction is important. Are you spending all your time and exhausting all your energy catching field mice? In the short term it might give you a nice, rewarding feeling. But in the long run you're going to die.” — _Buck Up, Suck Up … and Come Back When You Foul Up: 12 Winning Secrets from the War Room_ |
 | If this is the only thing I accomplish today, will I be satisfied with my day? |  |
 | Am I inventing things to do to avoid the important? |  |
+| Am I focusing on the big, weighty, important tasks that will provide sufficient reward for my energy? Or am I burning calories chasing the tiny wins that will not move the needle? |  |
+| How can the work I am doing accumulate and layer on top of what I did previously? |  |
 
 # 🤔 On “Miscellaneous”
 
@@ -141,7 +143,6 @@
 | What are the boat anchors or bottlenecks that create drags in my life? What are the things silently holding me back? How can I slowly, methodically cut these lines and unleash my full power? |  |
 | What unrealistic grand beliefs should I cultivate more? |  |
 | Think of my childhood. What is one area where my parents did a good job? What is one area where they could have done better? |  |
-| Am I focusing on the big, weighty, important tasks that will provide sufficient reward for my energy? Or am I burning calories chasing the tiny wins that will not move the needle? |  |
 | What are the current habits that are hindering my future progress? |  |
 | What is something I want, but I haven't asked for? |  |
 | If someone observed my actions for a week, what would they say my priorities are? Does my actions align with my intention? |  |
@@ -290,9 +291,12 @@
 | On what occasion do I lie? |  |
 | How is cheap becoming expensive in my life? |  |
 | How can I bring the after into the before? |  |
+| Do I want to be liked or loved? |  |
 
 🤔 On “Decision Making”
 
-🤔 On “Life”
+# 🤔 On “Life”
 
-Do I want to be liked or loved?
+| Question | Note |
+| --- | --- |
+| Imagine, at the end of a long life when you've passed away, you're at the pearly gates of heaven, and the angels have allowed you back to your life for just one moment, and right now is that time. How do you respond? |  |

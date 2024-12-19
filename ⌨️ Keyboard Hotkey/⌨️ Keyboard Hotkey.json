@@ -523,7 +523,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `Opt` + `Q`",
+                    "name": "`Cmd` + `Ctrl` + `Q`",
                     "url": ""
                 },
                 {
@@ -1043,7 +1043,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "``/` (`:` on AZERTY keyboard)`",
+                    "name": "`/` (`:` on AZERTY keyboard)",
                     "url": ""
                 },
                 {
@@ -1087,7 +1087,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "``k` (or `Spacebar`)`",
+                    "name": "`k` (or `Spacebar`)",
                     "url": ""
                 },
                 {

@@ -2,7 +2,7 @@
 | :---: |
 
 > [!NOTE]  
-> _Last Update: 2024-12-09_  
+> _Last Update: 2024-12-16_  
 >
 > _Curated by [Hua-Ming Huang](https://github.com/huaminghuangtw) with ❤️_  
 
@@ -134,6 +134,7 @@
 | Looking at the UNIT price on the shelf tags at the grocery store. |  |
 | Never do grocery shopping when you are hungry! |  |
 | Shop on the outer perimeter of the grocery store. This is (usually) where all the whole, unprocessed foods are. The aisles have most of the processed junk. |  |
+| Buy pre-cut, frozen fruits and vegetables as a convenient and affordable alternative to fresh ones. They often retain more nutrients since they are picked and frozen at their peak ripeness, making them a more nutrient-dense option. |  |
 
 # 💡 On “Buying Things”
 
@@ -223,7 +224,7 @@
 | Pro Tip | Note |
 | --- | --- |
 | How to deal with Body Odor? | <ol><li>1. Use Exfoliating Gloves to very gently exfoliate skin on your armpits once a week</li><li>2. Apply “The Ordinary Glycolic Acid 7% Toning Solution” all over your body (include armpits) after every shower before lotion</li></ol> |
-| Avoid getting hair or oral hygiene products on the face. |  |
+| Avoid getting hair or oral hygiene products on your face, as they can block pores and potentially trigger acne. | 先刷牙 + 洗頭，最後再洗臉 |
 | Use a microfiber (超細纖維) bath towel, they're about the same price and get you so much drier so much faster! |  |
 | 把「人工皮」當「痘痘貼」使用 → 好處: (1) 可以任意剪裁所需的尺寸大小 (2) 單位面積價格較便宜 (3) 較傳統痘痘貼厚，效果更好 |  |
 | How to deal with Sweaty/Stinky Feet? | <ol><li>1. Choose the right socks: Smartwool® Merino wool socks</li><li>2. Avoid wearing the same pair of socks/shoes on 2 consecutive days. Air out your shoes outside.</li><li>3. Wash your feet at least once, if not twice, a day, using antibacterial soaps. → Dry the feet thoroughly, especially in between the toes. → (1) Apply a light dusting of anti-fungal foot powder/cornstarch/baby powder before slipping on cotton socks and breathable shoes. (2) Use antiperspirant (止汗劑) after showering in the evening (better than in the morning). Repeat this for another 3 or 4 consecutive nights and then switch to using it once or twice a week.</li><li>4. Soak your feet: add a few drops of an antibacterial solution (like sodium hypochloride, aka chlorox 次氯酸鈉/漂白水, or white vinegar) to a bucket/basin of warm water (+ epsom salt + tea tree/eucalyptus oil) → Pro Tip: do this while watching TV.</li></ol> |
@@ -234,6 +235,7 @@
 | --- | --- |
 | [How to clean a microwave with white vinegar?](https://www.ovenclean.com/blog/how-to-clean-a-microwave-with-white-vinegar) | <ol><li>1. In a microwave-safe bowl or jug, mix 500ml of water with 2 tablespoons of white vinegar.</li><li>2. Place the bowl in the microwave and heat on full power for 5 minutes, until the liquid starts boiling.</li><li>3. Leave the microwave door closed for 3 minutes to trap the steam, which will loosen grime.</li><li>4. Carefully open the door, using an oven mitt/glove to remove the hot bowl.</li><li>5. Use a sponge or towel to wipe down the microwave's interior, starting from the top and moving down to the sides and door. For tough spots, scrub gently as needed.</li><li>6. Wipe the turntable with the sponge/towel, then dry it with a clean cloth. Your microwave is now clean!</li><li>7. (Optional) Use any leftover white vinegar to remove grease from the _hob_, _work surfaces_, and _cupboards_—white vinegar is a powerful degreaser, _especially when warm_. It's also versatile for cleaning carpets, clearing drains, washing windows, freshening bathrooms, and more!</li></ol> |
 | How to effectively clean the vacuum cleaner bin (to remove dust, hair, etc.)? | <ol><li>1. Gently scrub the motor/electric parts (e.g., cyclone) with a soft tooth and/or bottle brush</li><li>2. Soak all the non-motor/electric parts (e.g., filter) in warm soapy water (with vinegar) for a few hours</li><li>3. Allow them to air dry for at least 48 hours (and NEVER use the vacuum cleaner before they are completely dry, to avoid the terrible moldy smell!)</li><li>4. (Optional) Add some _dried_ lavender or eucalyptus (or simply newspapers) from time to time to keep it smelling nice</li></ol> |
+| Use [luffa or loofah](https://en.m.wikipedia.org/wiki/Luffa) as dish cleaning sponges. | <ol><li>1. They dry out more quickly than synthetic sponges. Faster drying reduces the likelihood of bacteria and mold growth, making them more hygienic—and don't get smelly.</li><li>2. Their natural fibrous texture provides excellent scrubbing power without being overly abrasive, effectively removing dirt and residue while being gentle enough to protect surfaces from scratches.</li><li>3. They are durable and can last for several weeks or months. When they wear out, they can be composted instead of thrown away.</li><li>4. They are eco-friendly (biodegradable and compostable), unlike synthetic sponges, which contribute to plastic pollution and take decades to break down.</li><li>5. Added Benefit: You can even use them to clean and exfoliate your body skin during showers!</li></ol> |
 
 # 💡 On “Traveling”
 
