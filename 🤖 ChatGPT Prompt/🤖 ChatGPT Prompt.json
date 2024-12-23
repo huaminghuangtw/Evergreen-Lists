@@ -35,6 +35,17 @@
                     "flagged": false,
                     "list": "🤖 ChatGPT Prompt",
                     "priority": "None",
+                    "name": "I want to learn about [TOPIC]. Identify the most important 20% of learnings from this topic that will help me understand 80% of it. Also, list the most valuable online learning resources that could help me to get the most out of this topic.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Learning & Education",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "🤖 ChatGPT Prompt",
+                    "priority": "None",
                     "name": "I want to learn [TOPIC]. I am a complete beginner. Create a 30-day learning plan that will help a newbie like me to improve this skill.",
                     "url": ""
                 },
@@ -80,17 +91,6 @@
                     "list": "🤖 ChatGPT Prompt",
                     "priority": "None",
                     "name": "Create a detailed study plan for learning [insert subject or skill] over the course of [insert time frame]. Include specific goals, resources, and milestones.",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "◻️ Learning & Education",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "🤖 ChatGPT Prompt",
-                    "priority": "None",
-                    "name": "I want to learn about [TOPIC]. Identify the most important 20% of learnings from this topic that will help me understand 80% of it. Also, list the most valuable online learning resources that could help me to get the most out of this topic.",
                     "url": ""
                 },
                 {

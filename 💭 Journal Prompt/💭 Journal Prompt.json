@@ -191,17 +191,6 @@
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
-                    "name": "New Reminder",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "🤔 On \"Today\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "💭 Journal Prompt",
-                    "priority": "None",
                     "name": "Looking back ten years from now and I can probably identify a few blind spots or mistaken beliefs I held at that time. Now, fast forward ten years: What are likely to be my current blind spots? What am I not spending enough time thinking about or perhaps even willfully ignoring?",
                     "url": ""
                 },

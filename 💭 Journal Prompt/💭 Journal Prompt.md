@@ -2,7 +2,7 @@
 | :---: |
 
 > [!NOTE]  
-> _Last Update: 2024-12-16_  
+> _Last Update: 2024-12-23_  
 >
 > _Curated by [Hua-Ming Huang](https://github.com/huaminghuangtw) with ❤️_  
 
@@ -48,7 +48,6 @@
 | What was my definition of enoughness 5 years ago and how does it compare to my definition today? |  |
 | What am I going to be celebrating one year from today? |  |
 | What would future me wish that I had done today? |  |
-| New Reminder |  |
 | Looking back ten years from now and I can probably identify a few blind spots or mistaken beliefs I held at that time. Now, fast forward ten years: What are likely to be my current blind spots? What am I not spending enough time thinking about or perhaps even willfully ignoring? |  |
 | What does that ideal future look like? What does that imply about how I need to live today? |  |
 | What would I invest in today assuming I had to hold the investment forever? |  |
