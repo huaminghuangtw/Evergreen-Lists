@@ -619,7 +619,7 @@
                     "tags": "",
                     "parent_reminder": "🤔 On \"Miscellaneous\"",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "[\"Over the years, I have come to realize that the greatest trap in our life is not success, popularity, or power, but self-rejection. Success, popularity, and power can indeed present a great temptation, but their seductive quality often comes from the way they are part of the much larger temptation to self-rejection. When we have come to believe in the voices that call us worthless and unlovable, then success, popularity, and power are easily perceived as attractive solutions. The real trap, however, is self-rejection. As soon as someone accuses me or criticizes me, as soon as I am rejected, left alone, or abandoned, I find myself thinking, \"Well, that proves once again that I am a nobody.\" ... [My dark side says,] I am no good... I deserve to be pushed aside, forgotten, rejected, and abandoned. Self-rejection is the greatest enemy of the spiritual life because it contradicts the sacred voice that calls us the \"Beloved.\" Being the Beloved constitutes the core truth of our existence.\" — Henri J.M. Nouwen](https://www.goodreads.com/quotes/230436-over-the-years-i-have-come-to-realize-that-the)",
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
@@ -1686,7 +1686,7 @@
                     "tags": "",
                     "parent_reminder": "🤔 On \"Miscellaneous\"",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "\"Ask how something can be done rather than say it can't be done.\" — Bo Bennett",
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
@@ -2726,6 +2726,17 @@
                     "priority": "None",
                     "name": "Do I want to be liked or loved?",
                     "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "如果拔掉所有身份地位和職業頭銜，我是誰？我跟別人又有什麼差別？",
+                    "url": ""
                 }
             ],
             "flagged": false,
@@ -2767,6 +2778,29 @@
             "priority": "None",
             "tags": "",
             "name": "🤔 On \"Life\""
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "Which habits have become more important and I need to double down on next year? Which habits are no longer serving me and need to be replaced next year?",
+                    "url": ""
+                }
+            ],
+            "flagged": false,
+            "list": "💭 Journal Prompt",
+            "priority": "None",
+            "tags": "",
+            "name": "🤔 On \"Year In Review\""
         }
     ]
 }

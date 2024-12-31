@@ -2,7 +2,7 @@
 | :---: |
 
 > [!NOTE]  
-> _Last Update: 2024-12-23_  
+> _Last Update: 2024-12-31_  
 >
 > _Curated by [Hua-Ming Huang](https://github.com/huaminghuangtw) with ❤️_  
 
@@ -250,7 +250,7 @@
 | Pro Tip | Note |
 | --- | --- |
 | Whenever you sit, make sure your butt flush with the backrest to avoid back pain |  |
-| Whenever brushing your teeth: | <ol><li>1. Use your non-dominant hand</li><li>2. Balance on one leg in the morning and the other leg in the evening (例如: 早上用左手刷牙&右腳站立，早上用右手刷牙&左腳站立)</li><li>3. Do (single-leg) squats (on a balance board)</li></ol> |
+| Whenever brushing your teeth: | <ol><li>1. Use your non-dominant hand (Side Note: Regular use of your non-dominant hand for activities like scrolling, brushing teeth, opening doors, etc. can help improve overall dexterity and coordination)</li><li>2. Balance on one leg in the morning and the other leg in the evening (例如: 早上用左手刷牙&右腳站立，早上用右手刷牙&左腳站立)</li><li>3. Do (single-leg) squats (on a balance board)</li></ol> |
 | Get a small trampoline. It's fun to bounce on \& activates your lymphatic system to rid your body of toxins. |  |
 
 # 💡 On “Saving Money”

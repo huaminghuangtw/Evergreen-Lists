@@ -2,7 +2,7 @@
 | :---: |
 
 > [!NOTE]  
-> _Last Update: 2024-12-23_  
+> _Last Update: 2024-12-31_  
 >
 > _Curated by [Hua-Ming Huang](https://github.com/huaminghuangtw) with ❤️_  
 
@@ -17,6 +17,7 @@
 * [🤔 On "Productivity"](#-on-productivity)
 * [🤔 On "Miscellaneous"](#-on-miscellaneous)
 * [🤔 On "Life"](#-on-life)
+* [🤔 On "Year In Review"](#-on-year-in-review)
 
 ---
 
@@ -99,7 +100,7 @@
 | If I do nothing, what will happen? If I act right now, what will happen? | Sometimes you need to let go. Sometimes you need to get going. |
 | How well am I treating my body and why? |  |
 | What would I do even if I knew it was going to fail? |  |
-| Where am I allowing my self-protection to become self-rejection? |  |
+| Where am I allowing my self-protection to become self-rejection? | ["Over the years, I have come to realize that the greatest trap in our life is not success, popularity, or power, but self-rejection. Success, popularity, and power can indeed present a great temptation, but their seductive quality often comes from the way they are part of the much larger temptation to self-rejection. When we have come to believe in the voices that call us worthless and unlovable, then success, popularity, and power are easily perceived as attractive solutions. The real trap, however, is self-rejection. As soon as someone accuses me or criticizes me, as soon as I am rejected, left alone, or abandoned, I find myself thinking, "Well, that proves once again that I am a nobody." ... [My dark side says,] I am no good... I deserve to be pushed aside, forgotten, rejected, and abandoned. Self-rejection is the greatest enemy of the spiritual life because it contradicts the sacred voice that calls us the "Beloved." Being the Beloved constitutes the core truth of our existence." — Henri J.M. Nouwen](https://www.goodreads.com/quotes/230436-over-the-years-i-have-come-to-realize-that-the) |
 | What is holding me back from living my best life? |  |
 | What am I working on and why? Does it support my future-self? |  |
 | What might I do to accomplish my 10-year goals in the next 6 months, if I had a gun against my head? |  |
@@ -196,7 +197,7 @@
 | How would I accomplish my 5-year goals in the next year? |  |
 | Which talent would I most like to have? |  |
 | If I could change one thing about myself, what would it be? |  |
-| When you're told that something is impossible, is that the end of the conversation, or does that start a second dialogue in your mind? |  |
+| When you're told that something is impossible, is that the end of the conversation, or does that start a second dialogue in your mind? | “Ask how something can be done rather than say it can't be done.” — Bo Bennett |
 | Imagine, at the end of a long life when you've passed away, you're at the pearly gates of heaven, and the angels have allowed you back to your life for just one moment, and right now is that time. How do you respond? |  |
 | What does “ready” feel like to me? How did I know I were ready for a major step that I have taken in my life? |  |
 | Think about a “what if?” or worst-case scenario and work your way through the problem. What are my options if it were to happen? |  |
@@ -291,6 +292,7 @@
 | How is cheap becoming expensive in my life? |  |
 | How can I bring the after into the before? |  |
 | Do I want to be liked or loved? |  |
+| 如果拔掉所有身份地位和職業頭銜，我是誰? 我跟別人又有什麼差別?  |  |
 
 🤔 On “Decision Making”
 
@@ -299,3 +301,9 @@
 | Question | Note |
 | --- | --- |
 | Imagine, at the end of a long life when you've passed away, you're at the pearly gates of heaven, and the angels have allowed you back to your life for just one moment, and right now is that time. How do you respond? |  |
+
+# 🤔 On “Year in Review”
+
+| Question | Note |
+| --- | --- |
+| Which habits have become more important and I need to double down on next year? Which habits are no longer serving me and need to be replaced next year? |  |
