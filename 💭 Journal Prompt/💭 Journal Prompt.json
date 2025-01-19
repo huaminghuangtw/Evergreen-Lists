@@ -7,18 +7,18 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Morning\"",
+                    "parent_reminder": "🤔 On \"Good Morning\"",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
-                    "name": "What is today's adventure going to be? What would my greatest day look like TODAY?",
+                    "name": "What would my greatest day look like today? What is today's adventure going to be? What is my side quest for today?",
                     "url": ""
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Morning\"",
+                    "parent_reminder": "🤔 On \"Good Morning\"",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -32,7 +32,7 @@
             "list": "💭 Journal Prompt",
             "priority": "None",
             "tags": "",
-            "name": "🤔 On \"Morning\""
+            "name": "🤔 On \"Good Morning\""
         },
         {
             "url": "",
@@ -41,7 +41,7 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Evening\"",
+                    "parent_reminder": "🤔 On \"Good Evening\"",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -52,7 +52,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Evening\"",
+                    "parent_reminder": "🤔 On \"Good Evening\"",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -63,7 +63,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Evening\"",
+                    "parent_reminder": "🤔 On \"Good Evening\"",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -74,7 +74,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Evening\"",
+                    "parent_reminder": "🤔 On \"Good Evening\"",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -85,7 +85,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Evening\"",
+                    "parent_reminder": "🤔 On \"Good Evening\"",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -96,7 +96,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Evening\"",
+                    "parent_reminder": "🤔 On \"Good Evening\"",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -110,7 +110,7 @@
             "list": "💭 Journal Prompt",
             "priority": "None",
             "tags": "",
-            "name": "🤔 On \"Evening\""
+            "name": "🤔 On \"Good Evening\""
         },
         {
             "url": "",
@@ -446,6 +446,28 @@
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
+                    "name": "How can I approach this with a little less seriousness and a little more sincerity?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Productivity\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What would this look like if it were fun?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Productivity\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
                     "name": "Am I being productive or just active/busy?",
                     "url": ""
                 },
@@ -538,6 +560,17 @@
             "due_date": "",
             "notes": "",
             "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What kept me sane?",
+                    "url": ""
+                },
                 {
                     "tags": "",
                     "parent_reminder": "🤔 On \"Miscellaneous\"",
@@ -2735,7 +2768,62 @@
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
-                    "name": "如果拔掉所有身份地位和職業頭銜，我是誰？我跟別人又有什麼差別？",
+                    "name": "沒了名片，我還剩下什麼？如果拔掉所有身份地位和職業頭銜，我是誰？我跟別人又有什麼差別？",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What’s something I used to believe that I no longer subscribe to?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "Am I aware of the finite, impermanent nature of my time?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What are my strongest beliefs and what would it take for me to change my mind on them?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What do I need to let go of to create space for what I really want?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "Am I holding onto something that I no longer need?",
                     "url": ""
                 }
             ],
@@ -2794,9 +2882,262 @@
                     "priority": "None",
                     "name": "Which habits have become more important and I need to double down on next year? Which habits are no longer serving me and need to be replaced next year?",
                     "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "今年有哪裡做得好的地方? 今年有哪裡可以做得更好的地方?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What did I change my mind on this year?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What were my greatest hits and worst misses this year?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What achievements am I most proud of this year? What was my biggest failure and hardest aspect this year?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What people/activities added the most energy to my life this year?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What did I learn (武裝) this year, and what did I unlearn (卸裝)?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What got too much of my attention this year, and what didn't get enough?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What did I do this year that I'd never done before? What did I not do this year because of fear?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "Where did I take risks this year, and where did I hold myself back?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "Did anyone close to me give birth this year? Did anyone close to me die this year?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What cities/states/countries did I visit this year?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What date(s) from this year will remain etched upon my memory, and why?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What were my best days this year, and how can I create more of them?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What was the best thing I bought this year? Where did most of my money go this year?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What did I get really, really, really excited about this year?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "Compared to this time last year, am I: happier or sadder? Thinner or fatter? Richer or poorer?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What was the best book I read this year?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What was my favorite meal this year?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What did I do on my birthday this year?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "Who was the best new person I met this year?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What did I learn about myself this year?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What valuable life lesson did I learn this year?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What is a quote that sums up my year?",
+                    "url": ""
                 }
             ],
-            "flagged": false,
+            "flagged": true,
             "list": "💭 Journal Prompt",
             "priority": "None",
             "tags": "",

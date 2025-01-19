@@ -43,7 +43,7 @@
                     "tags": "",
                     "parent_reminder": "◻️ Apple Shortcuts",
                     "due_date": "",
-                    "notes": "Move line up/down (reordering)",
+                    "notes": "Move line up/down (re-ordering)",
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
@@ -146,6 +146,17 @@
             "name": "◻️ Apple Shortcuts"
         },
         {
+            "url": "https://support.apple.com/en-am/guide/reminders/remn19b3424c/mac",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [],
+            "flagged": false,
+            "list": "⌨️ Keyboard Hotkey",
+            "priority": "None",
+            "tags": "",
+            "name": "◻️ Apple Reminders"
+        },
+        {
             "url": "https://openai.com/chatgpt/desktop/",
             "due_date": "",
             "notes": "",
@@ -169,7 +180,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Opt` + `Space` on macOS & `Alt` + ``Space` on Windows`",
+                    "name": "`Opt` + `Space` on macOS & `Alt` + `Space` on Windows",
                     "url": ""
                 },
                 {
@@ -237,17 +248,6 @@
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
                     "name": "`Cmd` + `/`",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
-                    "due_date": "",
-                    "notes": "Toggle primary sidebar",
-                    "flagged": false,
-                    "list": "⌨️ Keyboard Hotkey",
-                    "priority": "None",
-                    "name": "`Cmd` + `B`",
                     "url": ""
                 },
                 {
@@ -347,6 +347,17 @@
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
                     "name": "`Cmd` + `L`",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
+                    "due_date": "",
+                    "notes": "Toggle primary sidebar",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "`Cmd` + `B`",
                     "url": ""
                 },
                 {
@@ -629,33 +640,11 @@
                     "tags": "",
                     "parent_reminder": "◻️ File Manager",
                     "due_date": "",
-                    "notes": "Go to \"Downloads\" in Finder",
-                    "flagged": false,
-                    "list": "⌨️ Keyboard Hotkey",
-                    "priority": "None",
-                    "name": "`Cmd` + `Opt` + `L`",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "◻️ File Manager",
-                    "due_date": "",
                     "notes": "Reveal hidden files such as ._ (dot underscore) files that are normally invisible",
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
                     "name": "`Cmd` + `Shift` + `.`",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "◻️ File Manager",
-                    "due_date": "",
-                    "notes": "Go to \"Applications\" in Finder",
-                    "flagged": false,
-                    "list": "⌨️ Keyboard Hotkey",
-                    "priority": "None",
-                    "name": "`Cmd` + `Shift` + `A`",
                     "url": ""
                 },
                 {
@@ -678,6 +667,39 @@
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
                     "name": "`Cmd` + `Shift` + `I`",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ File Manager",
+                    "due_date": "",
+                    "notes": "Go to \"Applications\" in Finder",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "`Cmd` + `Shift` + `A`",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ File Manager",
+                    "due_date": "",
+                    "notes": "Go to \"Documents\" in Finder",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "`Cmd` + `Shift ` + `O`",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ File Manager",
+                    "due_date": "",
+                    "notes": "Go to \"Downloads\" in Finder",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "`Cmd` + `Opt` + `L`",
                     "url": ""
                 },
                 {

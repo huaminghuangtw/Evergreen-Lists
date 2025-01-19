@@ -109,6 +109,17 @@
                     "tags": "",
                     "parent_reminder": "💡 On \"XXX\"",
                     "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "If you believe the police might want your iPhone for evidence during a traffic stop, quickly activate the emergency screen by pressing and holding the **side button** and **volume down button** of your iPhone simultaneously for about 2 seconds. This will disable biometric identification and require your passcode to access the phone. Alternatively, 5 quick presses of the side button achieves the same result. For maximum security, power off your phone entirely, as iPhones are fully encrypted before the first unlock (BFU). After the first unlock (AFU), data is less secure. Note that biometric unlock also requires the passcode after a restart.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"XXX\"",
+                    "due_date": "",
                     "notes": "1. 45-degree angle\n2. gentle/short/downward strokes in the direction of hair growth",
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
@@ -645,6 +656,17 @@
                     "priority": "None",
                     "name": "How to organize plastic bags?",
                     "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Home\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "Store sheet sets by tucking them neatly inside one of the matching pillow cases. This keeps everything together and organized, making it easy to grab and use when needed!",
+                    "url": ""
                 }
             ],
             "flagged": false,
@@ -823,6 +845,17 @@
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
                     "name": "Buy pre-cut, frozen fruits and vegetables as a convenient and affordable alternative to fresh ones. They often retain more nutrients since they are picked and frozen at their peak ripeness, making them a more nutrient-dense option.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Grocery Shopping\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "Clean out your fridge before heading to the grocery store. It helps you avoid “mystery Tupperware” surprises, frees up space, and gives you a clear view of what needs restocking.",
                     "url": ""
                 }
             ],
@@ -1401,7 +1434,7 @@
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "Whenever you hug someone, be the last to let go.",
+                    "name": "Whenever you hug someone, be the last to let go. Life is more fragile than you think.",
                     "url": ""
                 },
                 {
@@ -1412,7 +1445,7 @@
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "Record a video interview with your parents. Ask them questions and have them tell stories about their childhood, adventures, hopes, dreams, and fears. Our time with them is finite, but we often fail to recognize it until it's too late. These recordings will last forever.",
+                    "name": "Call your parents via Zoom and record it. Ask them questions and have them recount / tell stories about their childhood, adventures, fears, dreams, and major life events. Essentially, record a podcast/video interview. Our time with them is finite, but we often fail to recognize it until it's too late. You’ll be so glad you have this when they’re no longer here. These recordings will last forever, and it really beats just having old photos.",
                     "url": ""
                 },
                 {
@@ -1660,6 +1693,17 @@
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
                     "name": "If you bus to other cities, consider finding a car/ride-share instead. It’s cheaper, faster, and leads to interesting conversations.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Saving Money\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "Free Filtered Water at Hotels: Instead of purchasing water bottles from your hotel room minibar, bring a reusable water bottle and fill it up at the fitness center. Nearly all hotels provide filtered water in the fitness center.",
                     "url": ""
                 }
             ],
