@@ -773,7 +773,7 @@
                     "tags": "",
                     "parent_reminder": "◻️ macOS",
                     "due_date": "",
-                    "notes": "on any dock app opens it in Finder. This also works in Spotlight: If you hold `Cmd` while pressing `Enter`, it will show the app (or file) in Finder!",
+                    "notes": "On any dock app opens it in Finder. This also works in Spotlight: If you hold `Cmd` while pressing `Enter`, it will show the app (or file) in Finder!",
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
@@ -894,6 +894,28 @@
                     "tags": "",
                     "parent_reminder": "◻️ macOS",
                     "due_date": "",
+                    "notes": "Use emojis/symbols. Press it alongside the text to get the corresponding emoji/symbols",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "`Ctrl` + `Cmd` + `Space`",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ macOS",
+                    "due_date": "",
+                    "notes": "Open a Finder window with the search bar active",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "`Opt` + `Cmd` + `Space`",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ macOS",
+                    "due_date": "",
                     "notes": "Open Spotlight search bar",
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
@@ -921,17 +943,6 @@
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
                     "name": "`Ctrl` + `Cmd` + `F` / `Esc`",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "◻️ macOS",
-                    "due_date": "",
-                    "notes": "Use emojis/symbols. Press it alongside the text to get the corresponding emoji/symbols",
-                    "flagged": false,
-                    "list": "⌨️ Keyboard Hotkey",
-                    "priority": "None",
-                    "name": "`Ctrl` + `Cmd` + `Space`",
                     "url": ""
                 },
                 {

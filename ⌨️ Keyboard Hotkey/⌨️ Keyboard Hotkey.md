@@ -2,7 +2,7 @@
 | :---: |
 
 > [!NOTE]  
-> _Last Update: 2025-01-19_  
+> _Last Update: 2025-01-20_  
 >
 > _Curated by [Hua-Ming Huang](https://github.com/huaminghuangtw) with ❤️_  
 
@@ -116,7 +116,7 @@
 
 | Hotkey | Note |
 | --- | --- |
-| `Cmd` + `[Left-Click]` | on any dock app opens it in Finder. This also works in Spotlight: If you hold `Cmd` while pressing `Enter`, it will show the app (or file) in Finder! |
+| `Cmd` + `[Left-Click]` | On any dock app opens it in Finder. This also works in Spotlight: If you hold `Cmd` while pressing `Enter`, it will show the app (or file) in Finder! |
 | `Cmd` + `Ctrl` + `Q` | Lock screen |
 | `Cmd` + `Ctrl` + `Shift` + `3` | Snip the full screen and copy the screenshot to clipboard |
 | `Cmd` + `Ctrl` + `Shift` + `4` | Snip the selected area and copy the screenshot to clipboard |
@@ -127,10 +127,11 @@
 | `Cmd` + `Shift` + `4` | Capture a portion of the screen (selected area) |
 | `Cmd` + `Shift` + `5` | Open the Screenshot app (to e.g., record screen) |
 | `Cmd` + `Shift` + `Q` | Log out |
+| `Ctrl` + `Cmd` + `Space` | Use emojis/symbols. Press it alongside the text to get the corresponding emoji/symbols |
+| `Opt` + `Cmd` + `Space` | Open a Finder window with the search bar active |
 | `Cmd` + `Space` | Open Spotlight search bar |
 | `Cmd` + `Tab` | Switch between different open applications |
 | `Ctrl` + `Cmd` + `F` / `Esc` | Enter/Exit full screen mode |
-| `Ctrl` + `Cmd` + `Space` | Use emojis/symbols. Press it alongside the text to get the corresponding emoji/symbols |
 | `Opt` + `Shift` + `K` |  |
 | `Shift` + `Cmd` + `/` | Show the menu bar _search_, which reveals the menu bar with the added benefit of putting the cursor in the search field, so that you can quickly type the command you want and hit `Enter` |
 
