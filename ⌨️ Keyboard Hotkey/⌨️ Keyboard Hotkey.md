@@ -1,8 +1,8 @@
-| Welcome to my evergreen list “⌨️ Keyboard Hotkey.” <br> Feel free to download it in PDF, CSV, Microsoft Excel, or any other preferred format [here](https://docs.google.com/spreadsheets/d/12UxNMk9LmNd8C0iGM_ssMv1ruUt_mJw-mw43bpm-wcE)! |
+| Welcome to my evergreen list "⌨️ Keyboard Hotkey." <br> Feel free to download it in PDF, CSV, Microsoft Excel, or any other preferred format [here](https://docs.google.com/spreadsheets/d/12UxNMk9LmNd8C0iGM_ssMv1ruUt_mJw-mw43bpm-wcE)! |
 | :---: |
 
 > [!NOTE]  
-> _Last Update: 2025-01-20_  
+> _Last Update: 2025-01-30_  
 >
 > _Curated by [Hua-Ming Huang](https://github.com/huaminghuangtw) with ❤️_  
 
@@ -10,16 +10,16 @@
 
 # 📑 Table of Contents
 
-* [◻️ Apple Notes](#️-apple-notes)
-* [◻️ Apple Shortcuts](#️-apple-shortcuts)
-* [◻️ ChatGPT Desktop Application](#️-chatgpt-desktop-application)
-* [◻️ Code Editor](#️-code-editor)
-* [◻️ File Manager](#️-file-manager)
-* [◻️ macOS](#️-macos)
-* [◻️ Notion](#️-notion)
-* [◻️ Terminal](#️-terminal)
-* [◻️ Web Browser](#️-web-browser)
-* [◻️ YouTube](#️-youtube)
+- [◻️ Apple Notes](#️-apple-notes)
+- [◻️ Apple Shortcuts](#️-apple-shortcuts)
+- [◻️ ChatGPT Desktop Application](#️-chatgpt-desktop-application)
+- [◻️ Code Editor](#️-code-editor)
+- [◻️ File Manager](#️-file-manager)
+- [◻️ macOS](#️-macos)
+- [◻️ Notion](#️-notion)
+- [◻️ Terminal](#️-terminal)
+- [◻️ Web Browser](#️-web-browser)
+- [◻️ YouTube](#️-youtube)
 
 ---
 
@@ -38,15 +38,14 @@
 | `Cmd` + `D` | Duplicate a Shortcut |
 | `Cmd` + `N` | Create new Shortcut |
 | `Cmd` + `R` | Run a Shortcut |
-| `Cmd` + `Shift` + `A` | Add action: “Ask for Input” |
-| `Cmd` + `Shift` + `C` | Add action: “Comment” |
-| `Cmd` + `Shift` + `I` | Add action: “If-Otherwise-End If” |
-| `Cmd` + `Shift` + `R` | Add action: “Repeat” |
-| `Cmd` + `Shift` + `S` | Add action: “Show Result” |
+| `Cmd` + `Shift` + `A` | Add action: "Ask for Input" |
+| `Cmd` + `Shift` + `C` | Add action: "Comment" |
+| `Cmd` + `Shift` + `I` | Add action: "If-Otherwise-End If" |
+| `Cmd` + `Shift` + `R` | Add action: "Repeat" |
+| `Cmd` + `Shift` + `S` | Add action: "Show Result" |
 
 ◻️ Apple Reminders
-
-# ◻️ Chatgpt Desktop Application
+# ◻️ ChatGPT Desktop Application
 
 | Hotkey | Note |
 | --- | --- |
@@ -75,7 +74,7 @@
 | `Cmd` + `Opt` + `B` | Toggle secondary sidebar |
 | `Cmd` + `P` | Go to file |
 | `Cmd` + `Shift` + `Enter` | Insert line above |
-| `Cmd` + `Shift` + `L` | Multi-cursor editing - it selects all matches in the current file to the currently highlighted text. Press “ESC” to disable it. |
+| `Cmd` + `Shift` + `L` | Multi-cursor editing - it selects all matches in the current file to the currently highlighted text. Press "ESC" to disable it. |
 | `Cmd` + `Shift` + `P` | Open command palette |
 | `Ctrl` + `` ` `` = `Cmd` + `J` | Show/Hide integrated terminal (= Toggle panel view), and switch focus to it |
 | `Ctrl` + `Shift` + `` ` `` | Create a new Terminal window |
@@ -103,17 +102,16 @@
 | `Cmd` + `O` | Open (or launch) the selected item |
 | `Cmd` + `Shift` + `.` | Reveal hidden files such as ._ (dot underscore) files that are normally invisible |
 | `Cmd` + `Shift` + `G` | Takes you to a folder that you specify |
-| `Cmd` + `Shift` + `I` | Go to “iCloud Drive” in Finder |
-| `Cmd` + `Shift` + `A` | Go to “Applications” in Finder |
-| `Cmd` + `Shift ` + `O` | Go to “Documents” in Finder |
-| `Cmd` + `Opt` + `L` | Go to “Downloads” in Finder |
+| `Cmd` + `Shift` + `I` | Go to "iCloud Drive" in Finder |
+| `Cmd` + `Shift` + `A` | Go to "Applications" in Finder |
+| `Cmd` + `Shift ` + `O` | Go to "Documents" in Finder |
+| `Cmd` + `Opt` + `L` | Go to "Downloads" in Finder |
 | `Cmd` + `Shift` + `N` | Create a new folder  |
 | `Ctrl` + `Opt` + `Cmd` + `1` | Sort by name |
 | `Ctrl` + `Opt` + `Cmd` + `2` | Sort by kind |
 | `Ctrl` + `Opt` + `Cmd` + `6` | Sort by size |
 
 ◻️ Gmail
-
 # ◻️ macOS
 
 | Hotkey | Note |
@@ -180,7 +178,7 @@
 | `Cmd` + `W` | Close the current window |
 | `Space` = `PgDn` | 捲動網頁 |
 
-# ◻️ Youtube
+# ◻️ YouTube
 
 | Hotkey | Note |
 | --- | --- |
