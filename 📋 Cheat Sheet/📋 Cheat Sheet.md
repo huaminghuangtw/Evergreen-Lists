@@ -1,8 +1,8 @@
-| Welcome to my evergreen list "📋 Cheat Sheet." <br> Feel free to download it in PDF, CSV, Microsoft Excel, or any other preferred format [here](https://docs.google.com/spreadsheets/d/1X9zuCMb30DiQba5VNjT-HDwwomA9u0Z-trmuqVmykYY)! |
+| Welcome to my evergreen list “📋 Cheat Sheet.” <br> Feel free to download it in PDF, CSV, Microsoft Excel, or any other preferred format [here](https://docs.google.com/spreadsheets/d/1X9zuCMb30DiQba5VNjT-HDwwomA9u0Z-trmuqVmykYY)! |
 | :---: |
 
 > [!NOTE]  
-> _Last Update: 2025-01-30_  
+> _Last Update: 2025-01-31_  
 >
 > _Curated by [Hua-Ming Huang](https://github.com/huaminghuangtw) with ❤️_  
 
@@ -10,10 +10,10 @@
 
 # 📑 Table of Contents
 
-- [◻️ Git](#️-git)
-- [◻️ Raspberry Pi](#️-raspberry-pi)
-- [◻️ SSH](#️-ssh)
-- [◻️ Network Manager](#️-network-manager)
+* [◻️ Git](#️-git)
+* [◻️ Raspberry Pi](#️-raspberry-pi)
+* [◻️ SSH](#️-ssh)
+* [◻️ Network Manager](#️-network-manager)
 
 ---
 
@@ -33,9 +33,9 @@
 | --- | --- |
 | <code>ifconfig wlan0 \| grep 'inet ' \| awk '{print $2}'</code> | Show IP address |
 | <code>sudo timedatectl set-ntp true && date</code> | Sync system clock |
-| <code>vcgencmd get_throttled \| grep -q throttled=0x50005 && echo "Low voltage detected! Please use official power supply." \|\| echo "Power requirement satisfied."</code> | Check voltage |
+| <code>vcgencmd get_throttled \| grep -q throttled=0x50005 && echo “Low voltage detected! Please use official power supply.” \|\| echo “Power requirement satisfied.”</code> | Check voltage |
 
-# ◻️ SSH
+# ◻️ Ssh
 
 | Memorize This | Note |
 | --- | --- |
