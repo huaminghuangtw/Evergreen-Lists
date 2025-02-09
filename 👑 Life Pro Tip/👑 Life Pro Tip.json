@@ -599,6 +599,17 @@
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
+                    "name": "[When assembling furniture, first tighten all screws to 75%, then fully secure them once all components fit together. This principle extends beyond furniture.](https://perell.com/note/28-pieces-of-life-advice/)",
+                    "url": "https://perell.com/note/28-pieces-of-life-advice/"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Home\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
                     "name": "[10 Useful Hacks with Binder Clips](https://www.youtube.com/watch?v=3czrTVSlGhY)",
                     "url": "https://www.youtube.com/watch?v=3czrTVSlGhY"
                 },
@@ -743,8 +754,8 @@
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "Never say yes on the phone/email",
-                    "url": ""
+                    "name": "[Never say yes on the phone/email to avoid commitments made under social pressure or the desire to please.](https://tim.blog/2023/09/28/shane-parrish-farnam-street/)",
+                    "url": "https://tim.blog/2023/09/28/shane-parrish-farnam-street/"
                 },
                 {
                     "tags": "",
@@ -1101,6 +1112,17 @@
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
+                    "name": "Avoid saying “but” when adding my opinions to others’ ideas—use “and” instead. For example, say, “I like your suggestion, and exploring another option could also be helpful,” rather than, “I like your suggestion, but we should also explore another option.”",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Social Interaction\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
                     "name": "等一下 → 馬上來",
                     "url": ""
                 },
@@ -1224,6 +1246,17 @@
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
                     "name": "Count to 10 in your head before responding to a strong emotion to avoid regret.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Emotion Control\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "Ever been in a heated argument or faced someone overly aggressive? Remember, the emptiest head rattles the loudest. Instead of matching their energy, do the opposite—soften your tone and lower your voice. A calm response can defuse tension and shift the dynamic in your favor.",
                     "url": ""
                 }
             ],
@@ -1479,6 +1512,17 @@
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
                     "name": "When you borrow a man's car, always return it with a full tank of gas.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Life Wisdom/Lesson\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "Separate time for experiencing the present from time for reflecting on memories, and post on social media only when reviewing photos back home, as we remember life more effectively not by taking more pictures, but by revisiting (and deleting) them.",
                     "url": ""
                 }
             ],

@@ -2,7 +2,7 @@
 | :---: |
 
 > [!NOTE]  
-> _Last Update: 2025-01-31_  
+> _Last Update: 2025-02-07_  
 >
 > _Curated by [Hua-Ming Huang](https://github.com/huaminghuangtw) with ❤️_  
 
@@ -64,7 +64,7 @@
 | 讓下次可以快速取用膠帶的方法: (1) 摺一角 (2) 黏在桌邊 |  |
 | Disable auto-play feature on Netflix, YouTube, etc. to prevent binge-watching |  |
 | How to read through any article on the web with a paywall? | <ul><li>Method I: Disable JavaScript → Reload the page → Read the article → Re-enable JavaScript (Or even better: Have a dedicated browser with JavaScript always disabled)</li><li>Method II: Toggle Reader View</li><li>Method III: Use [https://12ft.io](https://12ft.io)</li></ul> |
-| 牙膏、洗面乳等用罄時，使用剪刀將軟管瓶身剪開，將可以再多使用 3-5 次!  |  |
+| 牙膏、洗面乳等用罄時，使用剪刀將軟管瓶身剪開，將可以再多使用 3-5 次！ |  |
 | Write on a Post-it® note affixed to a greeting card rather than on the greeting card itself, so the recipient can throw away the Post-it® and reuse your card. (Employ similar logic for any disposable/consumable item.) |  |
 | 果醬玻璃罐的用途 | <ol><li>泡鍊條</li><li>做冷泡燕麥粥</li><li>分裝現打蔬果昔</li><li>做咖啡奶泡 (with 微波爐)</li><li>裝堅果、椰棗 etc. (better than 保鮮盒)</li><li>裝巧克力可可粉、肌酸粉、咖啡粉 etc.</li></ol> |
 | Break up effervescent tablets into half with your hand before adding to water. It dissolves quicker due to the increased surface area. Stirring it also quickens up the process. |  |
@@ -73,7 +73,7 @@
 | Avoid long exposure to direct sunlight for ANYTHING | 例外: 砧板、菜瓜布、浴室、毛/浴巾、眼罩、枕頭套 |
 | Waiting 30-60 seconds (by wiping the water off your body with your hands, or shaking off like a dog lol) to dry off before stepping out of the shower significantly decreases the volume of water soaked/absorbed by your towel, allowing it to stay drier for longer. | The added benefit is that there is less water on the floor making it safer! |
 | Don't buy CDs for people. They have Spotify. Buy them merch from a band they like instead. It's more personal and the band gets more money. |  |
-| 洗碗精、洗手乳、沐浴乳、洗髮精等用罄時，把容器裝滿水稀釋，將可以再多使用 3-5 次!  |  |
+| 洗碗精、洗手乳、沐浴乳、洗髮精等用罄時，把容器裝滿水稀釋，將可以再多使用 3-5 次！ |  |
 | Apple Maps nearly for navigation. Google Maps for business overview. |  |
 | Always underpromise and overdeliver! For example, if you know how late you are going to be, add an extra 5-10 minutes to it. It might be annoying for the person/people when you say it initially, but when you come before the time you said, it will evoke a far more positive reaction than underestimating the lateness time. |  |
 | How to choose mouthwash/mouthrinse (Mundspülung)? | <ol><li>Has fluoride (cavity prevention)</li><li>No alcohol (dries your tissues out)</li></ol> |
@@ -102,6 +102,7 @@
 
 | Pro Tip | Note |
 | --- | --- |
+| [When assembling furniture, first tighten all screws to 75%, then fully secure them once all components fit together. This principle extends beyond furniture.](https://perell.com/note/28-pieces-of-life-advice/) |  |
 | [10 Useful Hacks with Binder Clips](https://www.youtube.com/watch?v=3czrTVSlGhY) |  |
 | **[Know The Difference!](https://www.youtube.com/watch?v=1NYotD8npmg)** A _toilet plunger_ has a <u>flange (a soft, narrow rubber sleeve)</u> that extends from the cup, designed to create a tight seal in the curved drain of a toilet. A _sink plunger_, on the other hand, has a flat cup suitable for creating a seal on flat surfaces like sinks or bathtubs. |  |
 | [How to Seal a Bag of Chips without a Clip](https://youtu.be/AdhUifjOahs) |  |
@@ -119,7 +120,7 @@
 | End your emails with “I totally understand if you're too busy to reply, and thank you for reading this far,” instead of the usual “I look forward to your reply and speaking soon.” |  |
 | If you're stuck on an annoying call, put your phone on airplane mode instead of just hanging up. The other person will see “call failed” instead of “call ended” |  |
 | Turn off self-view on video calls. Underrated trick to actually focus on the people you're talking to instead of spending most of the time concerned with how you look. |  |
-| Never say yes on the phone/email |  |
+| [Never say yes on the phone/email to avoid commitments made under social pressure or the desire to please.](https://tim.blog/2023/09/28/shane-parrish-farnam-street/) |  |
 | Make phone calls as walking meetings in the sun |  |
 | Whenever you are on a Zoom call, put your headphones or AirPods in, then open up YouTube, and find an ambient soundtrack that you play at 5% volume (e.g., [Lord of the Rings ambience](https://www.youtube.com/watch?v=30b7_S0paCQ\&ab_channel=AmbientWorlds), [Harry Potter ambience](https://www.youtube.com/watch?v=pQdTu0IeVho\&ab_channel=AmbientWorlds), etc.). This way, as you are taking the call, there's a soft, inspiring soundtrack playing in the background. The soundtrack makes anything anyone says feel more relaxed, more warm, and more energizing. |  |
 
@@ -175,6 +176,7 @@
 | Swap out “I know” for “You're right!” |  |
 | Always provide a reason when asking someone to do us a favor. People simply like to have reasons for what they do. |  |
 | 發表主觀意見時，可以在語末加上 “IMO” or “If that makes (any) sense” or “Tell me if you disagree” |  |
+| Avoid saying “but” when adding my opinions to others' ideas—use “and” instead. For example, say, “I like your suggestion, and exploring another option could also be helpful,” rather than, “I like your suggestion, but we should also explore another option.” |  |
 | 等一下 → 馬上來 |  |
 | Replace “Sorry” With “Thank You”: (1) Instead of saying “Sorry, I'm late.” Say: “Thank you for waiting.” (2) Instead of saying “Sorry, I forgot it.” Say: “Thank you for reminding me.” |  |
 | If you need to calm someone down and get them to communicate, ask them questions about numbers or personal information. |  |
@@ -191,6 +193,7 @@
 | Pro Tip | Note |
 | --- | --- |
 | Count to 10 in your head before responding to a strong emotion to avoid regret. |  |
+| Ever been in a heated argument or faced someone overly aggressive? Remember, the emptiest head rattles the loudest. Instead of matching their energy, do the opposite—soften your tone and lower your voice. A calm response can defuse tension and shift the dynamic in your favor. |  |
 
 # 💡 On “Cooking”
 
@@ -222,6 +225,7 @@
 | Call your parents via Zoom and record it. Ask them questions and have them recount / tell stories about their childhood, adventures, fears, dreams, and major life events. Essentially, record a podcast/video interview. Our time with them is finite, but we often fail to recognize it until it's too late. You'll be so glad you have this when they're no longer here. These recordings will last forever, and it really beats just having old photos. |  |
 | Ask someone to do you a small favour, so that he or she can ask you to do a big one in the future. |  |
 | When you borrow a man's car, always return it with a full tank of gas. |  |
+| Separate time for experiencing the present from time for reflecting on memories, and post on social media only when reviewing photos back home, as we remember life more effectively not by taking more pictures, but by revisiting (and deleting) them. |  |
 
 # 💡 On “Body Care”
 

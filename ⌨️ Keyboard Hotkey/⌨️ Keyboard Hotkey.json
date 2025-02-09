@@ -204,17 +204,6 @@
                     "priority": "None",
                     "name": "`Cmd` + `Shift` + `N`",
                     "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "◻️ ChatGPT Desktop Application",
-                    "due_date": "",
-                    "notes": "Search through all your previous conversations using keywords and phrases",
-                    "flagged": false,
-                    "list": "⌨️ Keyboard Hotkey",
-                    "priority": "None",
-                    "name": "`Cmd` + `Shift` + `F`",
-                    "url": ""
                 }
             ],
             "flagged": false,

@@ -2,7 +2,7 @@
 | :---: |
 
 > [!NOTE]  
-> _Last Update: 2025-01-31_  
+> _Last Update: 2025-02-07_  
 >
 > _Curated by [Hua-Ming Huang](https://github.com/huaminghuangtw) with ❤️_  
 
@@ -54,7 +54,6 @@
 | `Opt` + `Space` on macOS \& `Alt` + `Space` on Windows | Quick access to launch ChatGPT instantly from any screen  |
 | `Cmd` + `N` | Open new chat |
 | `Cmd` + `Shift` + `N` | Open new temporary chat |
-| `Cmd` + `Shift` + `F` | Search through all your previous conversations using keywords and phrases |
 
 # ◻️ Code Editor
 
