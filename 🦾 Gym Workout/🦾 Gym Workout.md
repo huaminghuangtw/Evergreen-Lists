@@ -1,4 +1,4 @@
-| Welcome to my evergreen list "🦾 Gym Workout." <br> Feel free to download it in PDF, CSV, Microsoft Excel, or any other preferred format [here](https://docs.google.com/spreadsheets/d/1qsThbkPkQsuJYqkeCFsYa64rcvAzEjhSpc7_PWIDyBA)! |
+| Welcome to my evergreen list “🦾 Gym Workout.” <br> Feel free to download it in PDF, CSV, Microsoft Excel, or any other preferred format [here](https://docs.google.com/spreadsheets/d/1qsThbkPkQsuJYqkeCFsYa64rcvAzEjhSpc7_PWIDyBA)! |
 | :---: |
 
 > [!NOTE]  
@@ -10,9 +10,8 @@
 
 # 📑 Table of Contents
 
-
-
 ---
 
 🟡 Upper Body
+
 🟡 Lower Body

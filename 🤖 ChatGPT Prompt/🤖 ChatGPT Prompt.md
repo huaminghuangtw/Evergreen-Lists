@@ -1,4 +1,4 @@
-| Welcome to my evergreen list "🤖 ChatGPT Prompt." <br> Feel free to download it in PDF, CSV, Microsoft Excel, or any other preferred format [here](https://docs.google.com/spreadsheets/d/1Yn74btdx_xiNtpFiO8bWJwJ_6ud5T0xQhXtoIeTlr8o)! |
+| Welcome to my evergreen list “🤖 ChatGPT Prompt.” <br> Feel free to download it in PDF, CSV, Microsoft Excel, or any other preferred format [here](https://docs.google.com/spreadsheets/d/1Yn74btdx_xiNtpFiO8bWJwJ_6ud5T0xQhXtoIeTlr8o)! |
 | :---: |
 
 > [!NOTE]  
@@ -10,10 +10,10 @@
 
 # 📑 Table of Contents
 
-- [◻️ Learning & Education](#️-learning--education)
-- [◻️ Problem Solving](#️-problem-solving)
-- [◻️ Writing & Publishing](#️-writing--publishing)
-- [◻️ Getting Feedback](#️-getting-feedback)
+* [◻️ Learning & Education](#️-learning--education)
+* [◻️ Problem Solving](#️-problem-solving)
+* [◻️ Writing & Publishing](#️-writing--publishing)
+* [◻️ Getting Feedback](#️-getting-feedback)
 
 ---
 
