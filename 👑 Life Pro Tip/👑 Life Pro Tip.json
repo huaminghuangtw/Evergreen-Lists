@@ -689,6 +689,17 @@
                     "priority": "None",
                     "name": "Store sheet sets by tucking them neatly inside one of the matching pillow cases. This keeps everything together and organized, making it easy to grab and use when needed!",
                     "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Home\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "[How to Tie a Food Bag Properly?](https://www.reddit.com/r/lifehacks/comments/1hlosv9/the_proper_way_to_tie_a_food_bag/)",
+                    "url": "https://www.reddit.com/r/lifehacks/comments/1hlosv9/the_proper_way_to_tie_a_food_bag/"
                 }
             ],
             "flagged": false,
@@ -811,6 +822,17 @@
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
                     "name": "When you're busy, do \"micro-meditation\":",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Wellness & Wellbeing\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "When anxiety hits, drink a glass of water slowly and focus on the sensation. It helps ground you, regulate your breathing, and refresh your mind.",
                     "url": ""
                 }
             ],
@@ -1112,7 +1134,7 @@
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "Avoid saying “but” when adding my opinions to others’ ideas—use “and” instead. For example, say, “I like your suggestion, and exploring another option could also be helpful,” rather than, “I like your suggestion, but we should also explore another option.”",
+                    "name": "Avoid saying “but” when adding opinions to others’ ideas—use “and” instead. For example, say, “I like your suggestion, and exploring another option could also be helpful,” rather than, “I like your suggestion, but we should also explore another option.”",
                     "url": ""
                 },
                 {
@@ -1212,6 +1234,17 @@
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
                     "name": "Master the “gift of goodbye.” Simply say goodbye without giving reasons. → Exit gracefully: “It was so great meeting you, I look forward to seeing you again soon!”",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Social Interaction\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "A short, polite, timely rejection is much more valuable than a delayed, in-depth rejection.",
                     "url": ""
                 },
                 {
@@ -1356,6 +1389,17 @@
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
+                    "name": "[Placing heavier, frozen items on top of lighter ingredients helps weigh them down and gets the blend moving faster. This can also help prevent the blend from stalling.](https://www.vitamix.com/us/en_us/learn)",
+                    "url": "https://www.vitamix.com/us/en_us/learn"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Cooking\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
                     "name": "Grape Stemming Trick: Grab a dish towel, apply a little pressure & some rolling, then you can remove all the grapes from the vine within seconds. No more plucking grapes one by one.",
                     "url": ""
                 },
@@ -1418,7 +1462,7 @@
                     "tags": "",
                     "parent_reminder": "💡 On \"Cooking\"",
                     "due_date": "",
-                    "notes": "+ 3 mins for green tea\n+ 4 mins for black tea\n+ 5 mins for herbal tea",
+                    "notes": "+ 3 mins for green tea\n+ 4 mins for black tea\n+ 5 mins for herbal tea\n(兌水比例約為200–300 c.c.)",
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
@@ -1552,11 +1596,11 @@
                     "tags": "",
                     "parent_reminder": "💡 On \"Body Care\"",
                     "due_date": "",
-                    "notes": "先刷牙 + 洗頭，最後再洗臉",
+                    "notes": "1. 可以仰頭或低頭\n2. 先刷牙 + 洗頭，最後再洗臉",
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "Avoid getting hair or oral hygiene products on your face, as they can block pores and potentially trigger acne.",
+                    "name": "Avoid getting hair ¹ or oral ² hygiene products on your face, as they can block pores and potentially trigger acne.",
                     "url": "%E5%85%88%E5%88%B7%E7%89%99%20(+%20%E6%B4%97%E9%A0%AD)%EF%BC%8C%E6%9C%80%E5%BE%8C%E5%86%8D%E6%B4%97%E8%87%89"
                 },
                 {
@@ -1773,17 +1817,6 @@
             "due_date": "",
             "notes": "",
             "subtasks": [
-                {
-                    "tags": "",
-                    "parent_reminder": "💡 On \"Dressing\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "👑 Life Pro Tip",
-                    "priority": "None",
-                    "name": "[How to properly tie shoe laces?](https://www.fieggen.com/shoelace/index.htm)",
-                    "url": "https://www.fieggen.com/shoelace/index.htm"
-                },
                 {
                     "tags": "",
                     "parent_reminder": "💡 On \"Dressing\"",

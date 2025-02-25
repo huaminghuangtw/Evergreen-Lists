@@ -1,8 +1,8 @@
-| Welcome to my evergreen list “💭 Journal Prompt.” <br> Feel free to download it in PDF, CSV, Microsoft Excel, or any other preferred format [here](https://docs.google.com/spreadsheets/d/1RI3C2N7-LaWG1pZC6xMVvS08OJJQp92qJhLaPSXNzQ0)! |
+| Welcome to my evergreen list "💭 Journal Prompt." <br> Feel free to download it in PDF, CSV, Microsoft Excel, or any other preferred format [here](https://docs.google.com/spreadsheets/d/1RI3C2N7-LaWG1pZC6xMVvS08OJJQp92qJhLaPSXNzQ0)! |
 | :---: |
 
 > [!NOTE]  
-> _Last Update: 2025-01-31_  
+> _Last Update: 2025-02-25_  
 >
 > _Curated by [Hua-Ming Huang](https://github.com/huaminghuangtw) with ❤️_  
 
@@ -10,25 +10,25 @@
 
 # 📑 Table of Contents
 
-* [🤔 On "Good Morning"](#-on-good-morning)
-* [🤔 On "Good Evening"](#-on-good-evening)
-* [🤔 On "Today"](#-on-today)
-* [🤔 On "Prioritization"](#-on-prioritization)
-* [🤔 On "Productivity"](#-on-productivity)
-* [🤔 On "Miscellaneous"](#-on-miscellaneous)
-* [🤔 On "Life"](#-on-life)
-* [🤔 On "Year In Review"](#-on-year-in-review)
+- [🤔 On "Good Morning"](#-on-good-morning)
+- [🤔 On "Good Evening"](#-on-good-evening)
+- [🤔 On "Today"](#-on-today)
+- [🤔 On "Prioritization"](#-on-prioritization)
+- [🤔 On "Productivity"](#-on-productivity)
+- [🤔 On "Miscellaneous"](#-on-miscellaneous)
+- [🤔 On "Life"](#-on-life)
+- [🤔 On "Year In Review"](#-on-year-in-review)
 
 ---
 
-# 🤔 On “Good Morning”
+# 🤔 On "Good Morning"
 
 | Question | Note |
 | --- | --- |
 | What would my greatest day look like today? What is today's adventure going to be? What is my side quest for today? |  |
 | How do I want to feel at the end of the day? Joyful or frustrated? What do I need to do now, so that I can feel this way in the evening? |  |
 
-# 🤔 On “Good Evening”
+# 🤔 On "Good Evening"
 
 | Question | Note |
 | --- | --- |
@@ -39,7 +39,7 @@
 | What's on the agenda for tomorrow? How will I push the needle forward? |  |
 | Am I a little wiser now than I were when I woke up? Am I getting better than yesterday? Did I beat Yesterday Me? |  |
 
-# 🤔 On “Today”
+# 🤔 On "Today"
 
 | Question | Note |
 | --- | --- |
@@ -48,6 +48,7 @@
 | Am I putting myself in the best position possible today, so that Future Me can play easy mode? |  |
 | What was my definition of enoughness 5 years ago and how does it compare to my definition today? |  |
 | What am I going to be celebrating one year from today? |  |
+| What small action can I take today to make myself slightly better off tomorrow? |  |
 | What would future me wish that I had done today? |  |
 | Looking back ten years from now and I can probably identify a few blind spots or mistaken beliefs I held at that time. Now, fast forward ten years: What are likely to be my current blind spots? What am I not spending enough time thinking about or perhaps even willfully ignoring? |  |
 | What does that ideal future look like? What does that imply about how I need to live today? |  |
@@ -56,11 +57,11 @@
 | If I repeated every action I took today, every day for a year, where would I end up? Is this the place I want to be? |  |
 | What good habit did I perform today that will benefit me in the long term? |  |
 | If I knew I would die in 10 years, what would I do today? |  |
-| What are the behaviors I want to unlearn? What are beliefs that no longer serve me? |  |
+| What are the behaviors I want to unlearn? What are the beliefs that are no longer serving me? |  |
 | What would my 80-year-old self say about my decisions today? |  |
 | What actions am I engaged in today that I will cringe at in 5 years? |  |
 
-# 🤔 On “Prioritization”
+# 🤔 On "Prioritization"
 
 | Question | Note |
 | --- | --- |
@@ -75,29 +76,32 @@
 | What is the ONE highest-leverage thing I can do XXX that'll take the largest load off my shoulders? |  |
 | What activity I can do XXX that will create the most impact and value to the world? |  |
 
-# 🤔 On “Productivity”
+# 🤔 On "Productivity"
 
 | Question | Note |
 | --- | --- |
 | What would this look like if it were dead or stupid simple and easy? |  |
+| Have I considered whether doing less might actually lead to better results? |  |
 | How can I approach this with a little less seriousness and a little more sincerity? |  |
 | What would this look like if it were fun? |  |
 | Am I being productive or just active/busy? |  |
 | Is there a higher leverage, more efficient way to approach this? |  |
 | What is the most sensible order of tasks? Which tasks naturally flow into each other? How can I make transitions smoother? |  |
-| Am I chasing mice or hunting antelope? | “A lion is fully capable of capturing, killing, and eating a field mouse. But it turns out that the energy required to do so exceeds the caloric content of the mouse itself. So a lion that spent its day hunting and eating field mice would slowly starve to death. A lion can't live on field mice. A lion needs antelope. Antelope are big animals. They take more speed and strength to capture and kill, and once killed, they provide a feast for the lion and her pride. A lion can live a long and happy life on a diet of antelope. The distinction is important. Are you spending all your time and exhausting all your energy catching field mice? In the short term it might give you a nice, rewarding feeling. But in the long run you're going to die.” — _Buck Up, Suck Up … and Come Back When You Foul Up: 12 Winning Secrets from the War Room_ |
+| Am I chasing mice or hunting antelope? | "A lion is fully capable of capturing, killing, and eating a field mouse. But it turns out that the energy required to do so exceeds the caloric content of the mouse itself. So a lion that spent its day hunting and eating field mice would slowly starve to death. A lion can’t live on field mice. A lion needs antelope. Antelope are big animals. They take more speed and strength to capture and kill, and once killed, they provide a feast for the lion and her pride. A lion can live a long and happy life on a diet of antelope. The distinction is important. Are you spending all your time and exhausting all your energy catching field mice? In the short term it might give you a nice, rewarding feeling. But in the long run you’re going to die." — _Buck Up, Suck Up . . . and Come Back When You Foul Up: 12 Winning Secrets from the War Room_ |
 | If this is the only thing I accomplish today, will I be satisfied with my day? |  |
 | Am I inventing things to do to avoid the important? |  |
 | Am I focusing on the big, weighty, important tasks that will provide sufficient reward for my energy? Or am I burning calories chasing the tiny wins that will not move the needle? |  |
 | How can the work I am doing accumulate and layer on top of what I did previously? |  |
 
-# 🤔 On “Miscellaneous”
+# 🤔 On "Miscellaneous"
 
 | Question | Note |
 | --- | --- |
+| Am I allowing their narrative to impact my life? | Remember: it's not my responsibility to change the narrative that other people have about me. |
 | What kept me sane? |  |
+| When does it benefit me to be patient and when does it not? |  |
 | What in my field do I think is a law but is actually just a rule? |  |
-| Instead of asking, “What could make me feel happy?” Try asking, “What could make the group excited?” |  |
+| Instead of asking, "What could make me feel happy?" Try asking, "What could make the group excited?" |  |
 | What does my ideal ordinary Tuesday look like? What am I doing? Who am I with? How am I spending my time? What makes this day perfect for me? |  |
 | What do I hope will be different 10 years from now? |  |
 | If I do nothing, what will happen? If I act right now, what will happen? | Sometimes you need to let go. Sometimes you need to get going. |
@@ -105,7 +109,7 @@
 | What would I do even if I knew it was going to fail? |  |
 | Where am I allowing my self-protection to become self-rejection? | ["Over the years, I have come to realize that the greatest trap in our life is not success, popularity, or power, but self-rejection. Success, popularity, and power can indeed present a great temptation, but their seductive quality often comes from the way they are part of the much larger temptation to self-rejection. When we have come to believe in the voices that call us worthless and unlovable, then success, popularity, and power are easily perceived as attractive solutions. The real trap, however, is self-rejection. As soon as someone accuses me or criticizes me, as soon as I am rejected, left alone, or abandoned, I find myself thinking, "Well, that proves once again that I am a nobody." ... [My dark side says,] I am no good... I deserve to be pushed aside, forgotten, rejected, and abandoned. Self-rejection is the greatest enemy of the spiritual life because it contradicts the sacred voice that calls us the "Beloved." Being the Beloved constitutes the core truth of our existence." — Henri J.M. Nouwen](https://www.goodreads.com/quotes/230436-over-the-years-i-have-come-to-realize-that-the) |
 | What is holding me back from living my best life? |  |
-| What am I working on and why? Does it support my future-self? |  |
+| What am I working on and why? Does it suuport my future-self? |  |
 | What might I do to accomplish my 10-year goals in the next 6 months, if I had a gun against my head? |  |
 | Where would I most like to live? |  |
 | How is my behavior and lack of presence contributing negatively to the situation that I don't want? |  |
@@ -129,7 +133,7 @@
 | What advantage am I accumulating? |  |
 | Half your problems are just your mind making minor things seem like major things: What am I over-emphasizing right now? |  |
 | How long will I put off what I am capable of doing just to continue what I am comfortable doing? |  |
-| If everything were to stay the same, what's the one tiny change that would have the greatest positive impact in my life? |  |
+| If everything were to stay the same, what’s the one tiny change that would have the greatest positive impact in my life? |  |
 | What am I not achieving simply because I haven't asked? |  |
 | If I hired the best CEO in the world to be the CEO of my life, what actions would be on their 100-day plan? |  |
 | Am I being the type of person who could achieve my goals? Why or why not? |  |
@@ -200,10 +204,10 @@
 | How would I accomplish my 5-year goals in the next year? |  |
 | Which talent would I most like to have? |  |
 | If I could change one thing about myself, what would it be? |  |
-| When you're told that something is impossible, is that the end of the conversation, or does that start a second dialogue in your mind? | “Ask how something can be done rather than say it can't be done.” — Bo Bennett |
+| When you're told that something is impossible, is that the end of the conversation, or does that start a second dialogue in your mind? | <ul><li>"Ask how something can be done rather than say it can't be done." — Bo Bennett</li><li>"When someone tells me 'no,' it doesn't mean I can't do it, it simply means I can't do it with them." — Karen E. Quinones Miller</li></ul> |
 | Imagine, at the end of a long life when you've passed away, you're at the pearly gates of heaven, and the angels have allowed you back to your life for just one moment, and right now is that time. How do you respond? |  |
-| What does “ready” feel like to me? How did I know I were ready for a major step that I have taken in my life? |  |
-| Think about a “what if?” or worst-case scenario and work your way through the problem. What are my options if it were to happen? |  |
+| What does "ready" feel like to me? How did I know I were ready for a major step that I have taken in my life? |  |
+| Think about a "what if?" or worst-case scenario and work your way through the problem. What are my options if it were to happen? |  |
 | Why do I get out of bed in the morning? |  |
 | Do I make it default to focus on deep work that creates value in the world and is difficult to replicate? |  |
 | What is my most marked characteristic? |  |
@@ -295,22 +299,24 @@
 | How is cheap becoming expensive in my life? |  |
 | How can I bring the after into the before? |  |
 | Do I want to be liked or loved? |  |
-| 沒了名片，我還剩下什麼? 如果拔掉所有身份地位和職業頭銜，我是誰? 我跟別人又有什麼差別?  |  |
-| What's something I used to believe that I no longer subscribe to? |  |
+| 沒了名片，我還剩下什麼？如果拔掉所有身份地位和職業頭銜，我是誰？我跟別人又有什麼差別？ |  |
+| What’s something I used to believe that I no longer subscribe to? |  |
 | Am I aware of the finite, impermanent nature of my time? |  |
 | What are my strongest beliefs and what would it take for me to change my mind on them? |  |
 | What do I need to let go of to create space for what I really want? |  |
 | Am I holding onto something that I no longer need? |  |
+| If I had 10x the agency I have, what would I do? |  |
+| What system can I create that will make the goal inevitable? |  |
+| What did I gain by not having what I needed? |  |
 
-🤔 On “Decision Making”
-
-# 🤔 On “Life”
+🤔 On "Decision Making"
+# 🤔 On "Life"
 
 | Question | Note |
 | --- | --- |
 | Imagine, at the end of a long life when you've passed away, you're at the pearly gates of heaven, and the angels have allowed you back to your life for just one moment, and right now is that time. How do you respond? |  |
 
-# 🤔 On “Year in Review”
+# 🤔 On "Year In Review"
 
 | Question | Note |
 | --- | --- |

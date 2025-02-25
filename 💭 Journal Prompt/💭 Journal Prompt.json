@@ -180,6 +180,17 @@
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
+                    "name": "What small action can I take today to make myself slightly better off tomorrow?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Today\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
                     "name": "What would future me wish that I had done today?",
                     "url": ""
                 },
@@ -268,7 +279,7 @@
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
-                    "name": "What are the behaviors I want to unlearn? What are beliefs that no longer serve me?",
+                    "name": "What are the behaviors I want to unlearn? What are the beliefs that are no longer serving me?",
                     "url": ""
                 },
                 {
@@ -446,6 +457,17 @@
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
+                    "name": "Have I considered whether doing less might actually lead to better results?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Productivity\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
                     "name": "How can I approach this with a little less seriousness and a little more sincerity?",
                     "url": ""
                 },
@@ -564,11 +586,33 @@
                     "tags": "",
                     "parent_reminder": "🤔 On \"Miscellaneous\"",
                     "due_date": "",
+                    "notes": "Remember: it's not my responsibility to change the narrative that other people have about me.",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "Am I allowing their narrative to impact my life?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "due_date": "",
                     "notes": "",
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
                     "name": "What kept me sane?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "When does it benefit me to be patient and when does it not?",
                     "url": ""
                 },
                 {
@@ -1719,7 +1763,7 @@
                     "tags": "",
                     "parent_reminder": "🤔 On \"Miscellaneous\"",
                     "due_date": "",
-                    "notes": "\"Ask how something can be done rather than say it can't be done.\" — Bo Bennett",
+                    "notes": "+ \"Ask how something can be done rather than say it can't be done.\" — Bo Bennett\n+ \"When someone tells me 'no,' it doesn't mean I can't do it, it simply means I can't do it with them.\" — Karen E. Quinones Miller",
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
@@ -2824,6 +2868,39 @@
                     "list": "💭 Journal Prompt",
                     "priority": "None",
                     "name": "Am I holding onto something that I no longer need?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "If I had 10x the agency I have, what would I do?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What system can I create that will make the goal inevitable?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What did I gain by not having what I needed?",
                     "url": ""
                 }
             ],
