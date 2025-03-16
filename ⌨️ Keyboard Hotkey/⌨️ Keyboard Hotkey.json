@@ -149,7 +149,118 @@
             "url": "https://support.apple.com/en-am/guide/reminders/remn19b3424c/mac",
             "due_date": "",
             "notes": "",
-            "subtasks": [],
+            "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Apple Reminders",
+                    "due_date": "",
+                    "notes": "Indent Reminder",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "`Cmd` + `]`",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Apple Reminders",
+                    "due_date": "",
+                    "notes": "Outdent Reminder",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "`Cmd` + `[`",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Apple Reminders",
+                    "due_date": "",
+                    "notes": "Set reminder as due tomorrow",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "`Opt` + `Cmd` + `T`",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Apple Reminders",
+                    "due_date": "",
+                    "notes": "Set reminder as due today",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "`Cmd` + `T`",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Apple Reminders",
+                    "due_date": "",
+                    "notes": "Hide all subtasks",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "`Shift` + `Cmd` + `E`",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Apple Reminders",
+                    "due_date": "",
+                    "notes": "Show all subtasks",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "`Cmd` + `E`",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Apple Reminders",
+                    "due_date": "",
+                    "notes": "Mark reminder as completed or incomplete",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "`Shift` + `Cmd` + `C`",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Apple Reminders",
+                    "due_date": "",
+                    "notes": "Flag or unflag reminder",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "`Shift` + `Cmd` + `F`",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Apple Reminders",
+                    "due_date": "",
+                    "notes": "Go to pinned list. To find the number assigned to each list, choose View > Go To.",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "`Cmd` + `[List-Number]`",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Apple Reminders",
+                    "due_date": "",
+                    "notes": "Open \"Reminders User Guide\"",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "`Cmd` + `Shift` + `/`",
+                    "url": ""
+                }
+            ],
             "flagged": false,
             "list": "⌨️ Keyboard Hotkey",
             "priority": "None",
@@ -955,6 +1066,17 @@
                     "priority": "None",
                     "name": "`Shift` + `Cmd` + `/`",
                     "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ macOS",
+                    "due_date": "",
+                    "notes": "Open Control Center",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "`Fn` + `C`",
+                    "url": ""
                 }
             ],
             "flagged": false,
@@ -1194,7 +1316,7 @@
                     "tags": "",
                     "parent_reminder": "◻️ Web Browser",
                     "due_date": "",
-                    "notes": "Show/Hide the favorites bar",
+                    "notes": "Show/Hide the Favorites bar",
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
@@ -1271,18 +1393,7 @@
                     "tags": "",
                     "parent_reminder": "◻️ Web Browser",
                     "due_date": "",
-                    "notes": "Close the current tab",
-                    "flagged": false,
-                    "list": "⌨️ Keyboard Hotkey",
-                    "priority": "None",
-                    "name": "`Cmd` + `W`",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "◻️ Web Browser",
-                    "due_date": "",
-                    "notes": "Close the current window",
+                    "notes": "Close the current tab/window",
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
@@ -1298,6 +1409,28 @@
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
                     "name": "`Space` = `PgDn`",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Web Browser",
+                    "due_date": "",
+                    "notes": "Moves to the next tab on the right",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "`Ctrl` + `Tab`",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Web Browser",
+                    "due_date": "",
+                    "notes": "Moves to the previous tab on the left",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "`Ctrl` + `Shift` + `Tab`",
                     "url": ""
                 }
             ],
@@ -1364,7 +1497,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`f`",
+                    "name": "`F`",
                     "url": ""
                 },
                 {
@@ -1375,7 +1508,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`k` (or `Spacebar`)",
+                    "name": "`K` (or `Spacebar`)",
                     "url": ""
                 },
                 {
@@ -1386,7 +1519,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`m`",
+                    "name": "`M`",
                     "url": ""
                 },
                 {
@@ -1419,7 +1552,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`t`",
+                    "name": "`T`",
                     "url": ""
                 }
             ],

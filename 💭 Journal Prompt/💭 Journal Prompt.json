@@ -586,17 +586,6 @@
                     "tags": "",
                     "parent_reminder": "🤔 On \"Miscellaneous\"",
                     "due_date": "",
-                    "notes": "Remember: it's not my responsibility to change the narrative that other people have about me.",
-                    "flagged": false,
-                    "list": "💭 Journal Prompt",
-                    "priority": "None",
-                    "name": "Am I allowing their narrative to impact my life?",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
-                    "due_date": "",
                     "notes": "",
                     "flagged": false,
                     "list": "💭 Journal Prompt",
@@ -1174,17 +1163,6 @@
                     "list": "💭 Journal Prompt",
                     "priority": "None",
                     "name": "What are the current habits that are hindering my future progress?",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "💭 Journal Prompt",
-                    "priority": "None",
-                    "name": "What is something I want, but I haven't asked for?",
                     "url": ""
                 },
                 {
@@ -2936,6 +2914,28 @@
                     "priority": "None",
                     "name": "Imagine, at the end of a long life when you've passed away, you're at the pearly gates of heaven, and the angels have allowed you back to your life for just one moment, and right now is that time. How do you respond?",
                     "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Life\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What season am I in right now? What am I optimizing for?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Life\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "Close the eyes, look within. Am I satisfied with the life I'm living?",
+                    "url": ""
                 }
             ],
             "flagged": false,
@@ -3219,6 +3219,51 @@
             "priority": "None",
             "tags": "",
             "name": "🤔 On \"Year In Review\""
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Personal Growth\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What would happen if I gave just a little bit more?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Personal Growth\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What is something I really want, but haven't actually asked for?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Personal Growth\"",
+                    "due_date": "",
+                    "notes": "Remember: it's not my responsibility to change the narrative that other people have about me.",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "Am I allowing their narrative to impact my life?",
+                    "url": ""
+                }
+            ],
+            "flagged": false,
+            "list": "💭 Journal Prompt",
+            "priority": "None",
+            "tags": "",
+            "name": "🤔 On \"Personal Growth\""
         }
     ]
 }

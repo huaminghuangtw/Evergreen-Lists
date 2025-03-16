@@ -2,7 +2,7 @@
 | :---: |
 
 > [!NOTE]  
-> _Last Update: 2025-02-25_  
+> _Last Update: 2025-03-15_  
 >
 > _Curated by [Hua-Ming Huang](https://github.com/huaminghuangtw) with ❤️_  
 
@@ -18,6 +18,7 @@
 * [🤔 On "Miscellaneous"](#-on-miscellaneous)
 * [🤔 On "Life"](#-on-life)
 * [🤔 On "Year In Review"](#-on-year-in-review)
+* [🤔 On "Personal Growth"](#-on-personal-growth)
 
 ---
 
@@ -97,7 +98,6 @@
 
 | Question | Note |
 | --- | --- |
-| Am I allowing their narrative to impact my life? | Remember: it's not my responsibility to change the narrative that other people have about me. |
 | What kept me sane? |  |
 | When does it benefit me to be patient and when does it not? |  |
 | What in my field do I think is a law but is actually just a rule? |  |
@@ -151,7 +151,6 @@
 | What unrealistic grand beliefs should I cultivate more? |  |
 | Think of my childhood. What is one area where my parents did a good job? What is one area where they could have done better? |  |
 | What are the current habits that are hindering my future progress? |  |
-| What is something I want, but I haven't asked for? |  |
 | If someone observed my actions for a week, what would they say my priorities are? Does my actions align with my intention? |  |
 | Did I try my best? Did I give absolutely everything I have? |  |
 | What keeps working for me once it's done? |  |
@@ -316,8 +315,10 @@
 | Question | Note |
 | --- | --- |
 | Imagine, at the end of a long life when you've passed away, you're at the pearly gates of heaven, and the angels have allowed you back to your life for just one moment, and right now is that time. How do you respond? |  |
+| What season am I in right now? What am I optimizing for? |  |
+| Close the eyes, look within. Am I satisfied with the life I'm living? |  |
 
-# 🤔 On “Year in Review”
+# 🤔 On “Year In Review”
 
 | Question | Note |
 | --- | --- |
@@ -345,3 +346,11 @@
 | What did I learn about myself this year? |  |
 | What valuable life lesson did I learn this year? |  |
 | What is a quote that sums up my year? |  |
+
+# 🤔 On “Personal Growth”
+
+| Question | Note |
+| --- | --- |
+| What would happen if I gave just a little bit more? |  |
+| What is something I really want, but haven't actually asked for? |  |
+| Am I allowing their narrative to impact my life? | Remember: it's not my responsibility to change the narrative that other people have about me. |

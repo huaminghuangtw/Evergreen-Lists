@@ -2,7 +2,7 @@
 | :---: |
 
 > [!NOTE]  
-> _Last Update: 2025-02-25_  
+> _Last Update: 2025-03-15_  
 >
 > _Curated by [Hua-Ming Huang](https://github.com/huaminghuangtw) with ❤️_  
 
@@ -30,6 +30,7 @@
 * [💡 On "Fitness"](#-on-fitness)
 * [💡 On "Saving Money"](#-on-saving-money)
 * [💡 On "Dressing"](#-on-dressing)
+* [💡 On "Eating"](#-on-eating)
 
 ---
 
@@ -118,6 +119,7 @@
 | Pro Tip | Note |
 | --- | --- |
 | Do not scan the inbox on Friday evening or over the weekend if you might encounter work problems that cannot be addressed properly until Monday |  |
+| [Make decisions easy for busy people. You will rise fast in your career if busy people like working with you. Here’s a tip: when you have a problem to solve, come prepared with a suggested next step. If you have a question, phrase it in a way they can answer yes/no. If there are multiple options, lay them out and ask them to pick one. Try to avoid expansive, open-ended questions.](https://perell.com/note/28-pieces-of-life-advice/) | See also: <https://sketchplanations.com/the-blur-your-eyes-test> |
 | End your emails with “I totally understand if you're too busy to reply, and thank you for reading this far,” instead of the usual “I look forward to your reply and speaking soon.” |  |
 | If you're stuck on an annoying call, put your phone on airplane mode instead of just hanging up. The other person will see “call failed” instead of “call ended” |  |
 | Turn off self-view on video calls. Underrated trick to actually focus on the people you're talking to instead of spending most of the time concerned with how you look. |  |
@@ -202,10 +204,11 @@
 
 | Pro Tip | Note |
 | --- | --- |
-| [Chef Tip: How to peel and segment a grapefruit?](https://www.youtube.com/watch?v=whkgVWWJijE) | <ol><li>[You only cut the rind twice](https://www.youtube.com/watch?v=H_erG7HSK0A&t=419s): (1) Start at stem, cut entirely. (2) Rotate a 90°angle to the first cut, but this time only cut deep enough to go through the rind 外皮，外殼; 硬皮 and pith [the white skin under the rind] 襯皮; 木髓 (吃起來會苦 bitter 的白色纖維), then peel around the core while unrolling the grapefriut.</li><li>Once you peel away the whole rind, cut down one edge of the wedge, but stop at the middle and with your knifes edge, gently push up towards the other side of the wedge. This will peel the wedge from the inner pith. And repeat until all wedges are out.</li></ol> |
+| [Chef Tip: How to peel and segment a grapefruit?](https://www.youtube.com/watch?v=whkgVWWJijE) | <ol><li>[You only cut the rind twice](https://www.youtube.com/watch?v=H_erG7HSK0A&t=419s): (1) Start at stem, cut entirely. (2) Rotate a 90°angle to the first cut, but this time only cut deep enough to go through the rind 外皮，外殼; 硬皮 and pith [the white skin under the rind] 襯皮; 木髓 (吃起來會苦 bitter 的白色纖維), then peel around the core while unrolling the grapefriut.</li><li>Once you peel away the whole rind, cut down one edge of the wedge, but stop at the middle and with your knifes edge, gently push up towards the other side of the wedge. This will peel the wedge from the inner pith. And repeat until all wedges are out.</li><li></li><li>用「手剝」（先用刀切對半）其實比用「刀剝」快上許多…</li></ol> |
 | Egg Cracking: Instead of tapping the egg on the edge of a bowl several times (which creates multiple tiny fractures of egg shells), tap the egg on a flat surface such as the counter (firmly) only ONCE (which creates the cleanest split) |  |
 | [Adding a teaspoon of baking soda to your boiling pot of water will help to seamlessly remove the shell of hard-boiled eggs without peeling.](https://www.youtube.com/watch?v=PN2gYHJNT3Y) | Why? The alkaline in the baking soda will raise the PH level, which helps your egg whites loosen up from the shell and makes it easier to peel. |
 | 水滾七分鐘 → 溫泉蛋 | Make sure there is enough water to completely cover the egg(s) |
+| 如何避免馬鈴薯或蘋果削皮後「褐變」氧化變黑？ | <ol><li>立刻將其浸泡於水中，避免與空氣接觸。也可以加入少許鹽或醋來延緩氧化，並將食材放置於「冷藏」中</li><li>將其加熱煮至半熟（約 5 分鐘），再切片或搗爛成泥後放入「冷凍」保存</li></ol> |
 | 冷凍法省時烤地瓜: 先將地瓜放進冷凍庫不多不少 45 分鐘左右後，「直接」放進烤箱用 200 度烤 30 分鐘，可破壞地瓜細胞壁，加速熱傳導，節省至少一半以上的烘烤時間。這個做法烤出來的地瓜內部組織是綿密的，且依然有著用烤箱長時間烘烤才有的濃郁風味 |  |
 | [How to Measure Spaghetti?](https://www.wikihow.com/Measure-Spaghetti) |  |
 | Don't throw out fruit that is going to bad, especially bananas gone brown. Instead, freeze it and make great smoothie! |  |
@@ -218,12 +221,14 @@
 | 蜂蜜不能用熱水沖泡 → 建議沖泡溫度低於 60℃，較能夠保留完整的營養價值 |  |
 | Steeping minutes for a cup of good tea: | <ul><li>3 mins for green tea</li><li>4 mins for black tea</li><li>5 mins for herbal tea</li><li>c.c.)</li></ul> |
 | Wash your fruits and veggies with white vinegar + baking soda solution | <ol><li>Soak your fruits and veggies in 1 part distilled white vinegar + 3-4 parts filtered water for at least 10 mins — the vinegar's acidity helps remove micro-organisms and some pesticides, but not all.</li><li>Add baking soda (2 tsp) to form CO2 bubbles, which help push dirt out. Let it bubble for 2-5 minutes.</li><li>Rinse with normal water.</li><li>Drain and dry the fruits and veggies, prior to storing in a container in the refrigerator.</li></ol> |
+| 如何正確烹飪青菜，保留最完整的營養素？ | <ul><li>最推薦：「水炒法」—少油或無油</li><li>最不推薦：「汆燙法」—若要採用此方法，應避免長時間烹調，快煮 30 秒至 1 分鐘後即撈起，可保留鮮綠色澤，並減少「水溶性維生素」流失，溶出的營養素可再利用，例如作為湯底或調製醬汁。適用於短時間內即可煮熟的青菜</li><li>「清蒸法」：不會讓蔬菜直接接觸水，能更好地保留營養成分，不過，若蒸太久，會讓菜葉變得軟爛，外觀也會變黃，影響視覺效果。綠葉蔬菜不太適合使用此方法，因為它們容易失去脆感，此方法較適用於根莖類或果實類蔬菜</li><li>「微波法」：利用蔬菜自身所含的水分子在微波作用下摩擦產生熱量，從而快速加熱食物，因此沒有養分流失的問題。微波加熱的一大挑戰是熱量分布不均，導致食物表面已經熟透，但內部仍未完全熟透。為了避免這種情況，建議採用「漸進式加熱法」—若需要加熱 3 分鐘，可以先加熱 2 分鐘後取出，攪拌均勻，再繼續加熱 1 分鐘</li></ul> |
 
 # 💡 On “Life Wisdom/Lesson”
 
 | Pro Tip | Note |
 | --- | --- |
 | If it's raining on a warm summer evening, go outside and dance in it. |  |
+| Read [leaked emails](https://www.wikileaks.org) to learn [how business actually works](https://x.com/TechEmails). |  |
 | Learn one funny dance move. |  |
 | Whenever you hug someone, be the last to let go. Life is more fragile than you think. |  |
 | Call your parents via Zoom and record it. Ask them questions and have them recount / tell stories about their childhood, adventures, fears, dreams, and major life events. Essentially, record a podcast/video interview. Our time with them is finite, but we often fail to recognize it until it's too late. You'll be so glad you have this when they're no longer here. These recordings will last forever, and it really beats just having old photos. |  |
@@ -239,7 +244,7 @@
 | Avoid getting hair ¹ or oral ² hygiene products on your face, as they can block pores and potentially trigger acne. | <ol><li>可以仰頭或低頭</li><li>先刷牙 + 洗頭，最後再洗臉</li></ol> |
 | Use a microfiber (超細纖維) bath towel, they're about the same price and get you so much drier so much faster! |  |
 | 把「人工皮」當「痘痘貼」使用 → 好處: (1) 可以任意剪裁所需的尺寸大小 (2) 單位面積價格較便宜 (3) 較傳統痘痘貼厚，效果更好 |  |
-| How to deal with Sweaty/Stinky Feet? | <ol><li>Choose the right socks: Smartwool® Merino wool socks</li><li>Avoid wearing the same pair of socks/shoes on 2 consecutive days. Air out your shoes outside.</li><li>Wash your feet at least once, if not twice, a day, using antibacterial soaps. → Dry the feet thoroughly, especially in between the toes. → (1) Apply a light dusting of anti-fungal foot powder/cornstarch/baby powder before slipping on cotton socks and breathable shoes. (2) Use antiperspirant (止汗劑) after showering in the evening (better than in the morning). Repeat this for another 3 or 4 consecutive nights and then switch to using it once or twice a week.</li><li>Soak your feet: add a few drops of an antibacterial solution (like sodium hypochloride, aka chlorox 次氯酸鈉/漂白水, or white vinegar) to a bucket/basin of warm water (+ epsom salt + tea tree/eucalyptus oil) → Pro Tip: do this while watching TV.</li></ol> |
+| How to deal with Sweaty/Stinky Feet? | <ol><li>Choose the right socks: Smartwool® Merino wool socks</li><li>Avoid wearing the same pair of socks/shoes on 2 consecutive days. Air out your shoes outside.</li><li>Wash your feet at least once, if not twice, a day, using antibacterial soaps. → Dry the feet thoroughly, especially in between the toes. → (1) Apply a light dusting of anti-fungal foot powder/cornstarch/baby powder before slipping on cotton socks and breathable shoes. (2) Use antiperspirant (止汗劑) after showering in the evening (better than in the morning). Repeat this for another 3 or 4 consecutive nights and then switch to using it once or twice a week.</li><li>Soak your feet: add a few drops of an antibacterial solution (like sodium hypochloride, aka chlorox 次氯酸鈉/漂白水, or white vinegar) to a bucket/basin of warm water (+ epsom salt + tea tree/eucalyptus oil) → Pro Tip: do this while watching TV.</li><li>Baking soda has excellent moisture-absorbing and deodorizing properties. Evenly sprinkle it inside the shoes and let it sit overnight to absorb moisture and odors. The next day, shake out the powder. Doing this once a week can effectively reduce unpleasant smells inside the shoes.</li></ol> |
 
 # 💡 On “House Cleaning”
 
@@ -269,6 +274,7 @@
 
 | Pro Tip | Note |
 | --- | --- |
+| [Save money on city hotels. You’re away from the room for most of the time. If you need to meet at a nice hotel for dinner, stay down the street and make a reservation. Spend the money you save on beach hotels, especially if you plan to spend entire days there.](https://perell.com/note/28-pieces-of-life-advice/) |  |
 | If you bus to other cities, consider finding a car/ride-share instead. It's cheaper, faster, and leads to interesting conversations. |  |
 | Free Filtered Water at Hotels: Instead of purchasing water bottles from your hotel room minibar, bring a reusable water bottle and fill it up at the fitness center. Nearly all hotels provide filtered water in the fitness center. |  |
 
@@ -277,3 +283,11 @@
 | Pro Tip | Note |
 | --- | --- |
 | How to make use of the extra holes (aka The Runner's Knot 跑者洞) on your running shoes? [The Heel Lock Lacing Method](https://www.youtube.com/watch?v=OBbc6TackDQ\&t=68s) | <ol><li>This gives you a better lockdown around the ankle, so it avoids putting too much pressure on the top of you foot and minimizes the heel slippage.</li><li>That's the reason why runner laces are often so long. </li></ol> |
+
+# 💡 On “Eating”
+
+| Pro Tip | Note |
+| --- | --- |
+| [Most of the pleasure in a dessert comes in the first three bites. After that, you should stop eating it. As a reward, you can eat dessert more often because you don’t binge it.](https://perell.com/note/28-pieces-of-life-advice/) |  |
+| 在食物裡加入一小撮抗氧化物，首推藥草和香料，例如奧勒岡草 (Oregano) 或肉桂粉 (Cinnamon)，即可大幅提升餐點之抗氧化能力。 |  |
+| 🥗 Shake your salad back and forth in its container before eating. This helps distribute the dressing evenly, so you use less while still getting great flavor in every bite. |  |

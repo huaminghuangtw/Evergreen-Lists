@@ -728,6 +728,17 @@
                     "tags": "",
                     "parent_reminder": "💡 On \"Email & Phone/Video Call\"",
                     "due_date": "",
+                    "notes": "See also: https://sketchplanations.com/the-blur-your-eyes-test",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "[Make decisions easy for busy people. You will rise fast in your career if busy people like working with you. Here’s a tip: when you have a problem to solve, come prepared with a suggested next step. If you have a question, phrase it in a way they can answer yes/no. If there are multiple options, lay them out and ask them to pick one. Try to avoid expansive, open-ended questions.](https://perell.com/note/28-pieces-of-life-advice/)",
+                    "url": "https://perell.com/note/28-pieces-of-life-advice/"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Email & Phone/Video Call\"",
+                    "due_date": "",
                     "notes": "",
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
@@ -1308,7 +1319,7 @@
                     "tags": "",
                     "parent_reminder": "💡 On \"Cooking\"",
                     "due_date": "",
-                    "notes": "1. [You only cut the rind twice](https://www.youtube.com/watch?v=H_erG7HSK0A&t=419s): (1) Start at stem, cut entirely. (2) Rotate a 90°angle to the first cut, but this time only cut deep enough to go through the rind 外皮，外殼; 硬皮 and pith [the white skin under the rind] 襯皮; 木髓 (吃起來會苦 bitter 的白色纖維), then peel around the core while unrolling the grapefriut.\n2. Once you peel away the whole rind, cut down one edge of the wedge, but stop at the middle and with your knifes edge, gently push up towards the other side of the wedge. This will peel the wedge from the inner pith. And repeat until all wedges are out.",
+                    "notes": "1. [You only cut the rind twice](https://www.youtube.com/watch?v=H_erG7HSK0A&t=419s): (1) Start at stem, cut entirely. (2) Rotate a 90°angle to the first cut, but this time only cut deep enough to go through the rind 外皮，外殼; 硬皮 and pith [the white skin under the rind] 襯皮; 木髓 (吃起來會苦 bitter 的白色纖維), then peel around the core while unrolling the grapefriut.\n2. Once you peel away the whole rind, cut down one edge of the wedge, but stop at the middle and with your knifes edge, gently push up towards the other side of the wedge. This will peel the wedge from the inner pith. And repeat until all wedges are out.\n──────────────\n用「手剝」（先用刀切對半）其實比用「刀剝」快上許多…",
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
@@ -1346,6 +1357,17 @@
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
                     "name": "水滾七分鐘 → 溫泉蛋",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Cooking\"",
+                    "due_date": "",
+                    "notes": "1. 立刻將其浸泡於水中，避免與空氣接觸。也可以加入少許鹽或醋來延緩氧化，並將食材放置於「冷藏」中\n2. 將其加熱煮至半熟（約 5 分鐘），再切片或搗爛成泥後放入「冷凍」保存",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "如何避免馬鈴薯或蘋果削皮後「褐變」氧化變黑？",
                     "url": ""
                 },
                 {
@@ -1479,6 +1501,17 @@
                     "priority": "None",
                     "name": "Wash your fruits and veggies with white vinegar + baking soda solution",
                     "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Cooking\"",
+                    "due_date": "",
+                    "notes": "+ 最推薦：「水炒法」—少油或無油\n+ 最不推薦：「汆燙法」—若要採用此方法，應避免長時間烹調，快煮 30 秒至 1 分鐘後即撈起，可保留鮮綠色澤，並減少「水溶性維生素」流失，溶出的營養素可再利用，例如作為湯底或調製醬汁。適用於短時間內即可煮熟的青菜\n+ 「清蒸法」：不會讓蔬菜直接接觸水，能更好地保留營養成分，不過，若蒸太久，會讓菜葉變得軟爛，外觀也會變黃，影響視覺效果。綠葉蔬菜不太適合使用此方法，因為它們容易失去脆感，此方法較適用於根莖類或果實類蔬菜\n+ 「微波法」：利用蔬菜自身所含的水分子在微波作用下摩擦產生熱量，從而快速加熱食物，因此沒有養分流失的問題。微波加熱的一大挑戰是熱量分布不均，導致食物表面已經熟透，但內部仍未完全熟透。為了避免這種情況，建議採用「漸進式加熱法」—若需要加熱3分鐘，可以先加熱2分鐘後取出，攪拌均勻，再繼續加熱1分鐘",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "如何正確烹飪青菜，保留最完整的營養素？",
+                    "url": ""
                 }
             ],
             "flagged": false,
@@ -1502,6 +1535,17 @@
                     "priority": "None",
                     "name": "If it's raining on a warm summer evening, go outside and dance in it.",
                     "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Life Wisdom/Lesson\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "Read [leaked emails](https://www.wikileaks.org) to learn [how business actually works](https://x.com/TechEmails).",
+                    "url": "https://www.wikileaks.org"
                 },
                 {
                     "tags": "",
@@ -1629,7 +1673,7 @@
                     "tags": "",
                     "parent_reminder": "💡 On \"Body Care\"",
                     "due_date": "",
-                    "notes": "1. Choose the right socks: Smartwool® Merino wool socks\n2. Avoid wearing the same pair of socks/shoes on 2 consecutive days. Air out your shoes outside.\n3. Wash your feet at least once, if not twice, a day, using antibacterial soaps. → Dry the feet thoroughly, especially in between the toes. → (1) Apply a light dusting of anti-fungal foot powder/cornstarch/baby powder before slipping on cotton socks and breathable shoes. (2) Use antiperspirant (止汗劑) after showering in the evening (better than in the morning). Repeat this for another 3 or 4 consecutive nights and then switch to using it once or twice a week.\n4. Soak your feet: add a few drops of an antibacterial solution (like sodium hypochloride, aka chlorox 次氯酸鈉/漂白水, or white vinegar) to a bucket/basin of warm water (+ epsom salt + tea tree/eucalyptus oil) → Pro Tip: do this while watching TV.",
+                    "notes": "1. Choose the right socks: Smartwool® Merino wool socks\n2. Avoid wearing the same pair of socks/shoes on 2 consecutive days. Air out your shoes outside.\n3. Wash your feet at least once, if not twice, a day, using antibacterial soaps. → Dry the feet thoroughly, especially in between the toes. → (1) Apply a light dusting of anti-fungal foot powder/cornstarch/baby powder before slipping on cotton socks and breathable shoes. (2) Use antiperspirant (止汗劑) after showering in the evening (better than in the morning). Repeat this for another 3 or 4 consecutive nights and then switch to using it once or twice a week.\n4. Soak your feet: add a few drops of an antibacterial solution (like sodium hypochloride, aka chlorox 次氯酸鈉/漂白水, or white vinegar) to a bucket/basin of warm water (+ epsom salt + tea tree/eucalyptus oil) → Pro Tip: do this while watching TV.\n5. Baking soda has excellent moisture-absorbing and deodorizing properties. Evenly sprinkle it inside the shoes and let it sit overnight to absorb moisture and odors. The next day, shake out the powder. Doing this once a week can effectively reduce unpleasant smells inside the shoes.",
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
@@ -1791,6 +1835,17 @@
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
+                    "name": "[Save money on city hotels. You’re away from the room for most of the time. If you need to meet at a nice hotel for dinner, stay down the street and make a reservation. Spend the money you save on beach hotels, especially if you plan to spend entire days there.](https://perell.com/note/28-pieces-of-life-advice/)",
+                    "url": "https://perell.com/note/28-pieces-of-life-advice/"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Saving Money\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
                     "name": "If you bus to other cities, consider finding a car/ride-share instead. It’s cheaper, faster, and leads to interesting conversations.",
                     "url": ""
                 },
@@ -1834,6 +1889,51 @@
             "priority": "None",
             "tags": "",
             "name": "💡 On \"Dressing\""
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Eating\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "[Most of the pleasure in a dessert comes in the first three bites. After that, you should stop eating it. As a reward, you can eat dessert more often because you don’t binge it.](https://perell.com/note/28-pieces-of-life-advice/)",
+                    "url": "https://perell.com/note/28-pieces-of-life-advice/"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Eating\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "在食物裡加入一小撮抗氧化物，首推藥草和香料，例如奧勒岡草 (Oregano) 或肉桂粉 (Cinnamon)，即可大幅提升餐點之抗氧化能力。",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Eating\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "🥗 Shake your salad back and forth in its container before eating. This helps distribute the dressing evenly, so you use less while still getting great flavor in every bite.",
+                    "url": ""
+                }
+            ],
+            "flagged": false,
+            "list": "👑 Life Pro Tip",
+            "priority": "None",
+            "tags": "",
+            "name": "💡 On \"Eating\""
         }
     ]
 }

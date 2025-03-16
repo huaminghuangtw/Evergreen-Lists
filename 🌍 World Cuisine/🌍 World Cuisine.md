@@ -2,7 +2,7 @@
 | :---: |
 
 > [!NOTE]  
-> _Last Update: 2025-02-25_  
+> _Last Update: 2025-03-15_  
 >
 > _Curated by [Hua-Ming Huang](https://github.com/huaminghuangtw) with ❤️_  
 
@@ -57,7 +57,7 @@
 | [Palmier](https://www.google.com/search?q=Palmier) |  |
 | [Croque Monsieur](https://www.google.com/search?q=Croque+Monsieur) | = Croque Madame |
 
-# 🇳🇱 Netherlands
+# 🇳🇱 Netherlands
 
 | Name | Note |
 | --- | --- |
@@ -96,7 +96,7 @@
 | [Gyros](https://www.google.com/search?q=Gyros) |  |
 | [Souvlaki](https://www.google.com/search?q=Souvlaki) |  |
 
-# 🇲🇽 Mexico
+# 🇲🇽 Mexico
 
 | Name | Note |
 | --- | --- |
@@ -119,7 +119,7 @@
 | [Pogača](https://www.google.com/search?q=Poga%C4%8Da) |  |
 | [Döner-Kebap](https://www.google.com/search?q=D%C3%B6ner-Kebap) | Döner 是土耳其語「旋轉」的意思，而 Kebap 是「烤肉」的意思，合起來就是「旋轉的烤肉」 |
 
-# 🇭🇺 Hungary
+# 🇭🇺 Hungary
 
 | Name | Note |
 | --- | --- |
@@ -146,7 +146,7 @@
 | [Chả Giò or Nem Rán](https://www.google.com/search?q=Ch%E1%BA%A3+Gi%C3%B2+or+Nem+R%C3%A1n) | Fried Spring Rolls |
 | [Phở](https://www.google.com/search?q=Ph%E1%BB%9F) | <ul><li>Pho 湯河粉 ↔ Pho Xao 乾河粉</li><li>Phở Bò (Beef) ↔ Phở Gà (Chicken)</li></ul> |
 
-# 🇯🇵 Japan
+# 🇯🇵 Japan
 
 | Name | Note |
 | --- | --- |
@@ -162,7 +162,7 @@
 
 🇵🇸 Palestine
 
-# 🇮🇳 India
+# 🇮🇳 India
 
 | Name | Note |
 | --- | --- |
@@ -183,7 +183,7 @@
 
 🇱🇹 Lithuania
 
-# 🇧🇷 Brazil
+# 🇧🇷 Brazil
 
 | Name | Note |
 | --- | --- |

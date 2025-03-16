@@ -2,7 +2,7 @@
 | :---: |
 
 > [!NOTE]  
-> _Last Update: 2025-02-25_  
+> _Last Update: 2025-03-15_  
 >
 > _Curated by [Hua-Ming Huang](https://github.com/huaminghuangtw) with ❤️_  
 
@@ -35,7 +35,7 @@
 | <code>sudo timedatectl set-ntp true && date</code> | Sync system clock |
 | <code>vcgencmd get_throttled \| grep -q throttled=0x50005 && echo “Low voltage detected! Please use official power supply.” \|\| echo “Power requirement satisfied.”</code> | Check voltage |
 
-# ◻️ Ssh
+# ◻️ SSH
 
 | Memorize This | Note |
 | --- | --- |

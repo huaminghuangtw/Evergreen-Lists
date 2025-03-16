@@ -2,7 +2,7 @@
 | :---: |
 
 > [!NOTE]  
-> _Last Update: 2025-02-25_  
+> _Last Update: 2025-03-15_  
 >
 > _Curated by [Hua-Ming Huang](https://github.com/huaminghuangtw) with ❤️_  
 
@@ -12,6 +12,7 @@
 
 * [◻️ Apple Notes](#️-apple-notes)
 * [◻️ Apple Shortcuts](#️-apple-shortcuts)
+* [◻️ Apple Reminders](#️-apple-reminders)
 * [◻️ ChatGPT Desktop Application](#️-chatgpt-desktop-application)
 * [◻️ Code Editor](#️-code-editor)
 * [◻️ File Manager](#️-file-manager)
@@ -44,9 +45,22 @@
 | `Cmd` + `Shift` + `R` | Add action: “Repeat” |
 | `Cmd` + `Shift` + `S` | Add action: “Show Result” |
 
-◻️ Apple Reminders
+# ◻️ Apple Reminders
 
-# ◻️ Chatgpt Desktop Application
+| Hotkey | Note |
+| --- | --- |
+| `Cmd` + `]` | Indent Reminder |
+| `Cmd` + `[` | Outdent Reminder |
+| `Opt` + `Cmd` + `T` | Set reminder as due tomorrow |
+| `Cmd` + `T` | Set reminder as due today |
+| `Shift` + `Cmd` + `E` | Hide all subtasks |
+| `Cmd` + `E` | Show all subtasks |
+| `Shift` + `Cmd` + `C` | Mark reminder as completed or incomplete |
+| `Shift` + `Cmd` + `F` | Flag or unflag reminder |
+| `Cmd` + `[List-Number]` | Go to pinned list. To find the number assigned to each list, choose View > Go To. |
+| `Cmd` + `Shift` + `/` | Open “Reminders User Guide” |
+
+# ◻️ ChatGPT Desktop Application
 
 | Hotkey | Note |
 | --- | --- |
@@ -135,6 +149,7 @@
 | `Ctrl` + `Cmd` + `F` / `Esc` | Enter/Exit full screen mode |
 | `Opt` + `Shift` + `K` |  |
 | `Shift` + `Cmd` + `/` | Show the menu bar _search_, which reveals the menu bar with the added benefit of putting the cursor in the search field, so that you can quickly type the command you want and hit `Enter` |
+| `Fn` + `C` | Open Control Center |
 
 # ◻️ Notion
 
@@ -168,18 +183,19 @@
 | `Cmd` + `L` | Select address bar (to edit URL) |
 | `Cmd` + `N` | Open a new window |
 | `Cmd` + `R` | Normal reload/refresh a web page |
-| `Cmd` + `Shift` + `B` | Show/Hide the favorites bar |
+| `Cmd` + `Shift` + `B` | Show/Hide the Favorites bar |
 | `Cmd` + `Shift` + `F` | Show/Hide toolbar in full screen mode |
 | `Cmd` + `Shift` + `N` | Open a new InPrivate (無痕模式/私密瀏覽) window |
 | `Cmd` + `Shift` + `R` | Hard reload/refresh a web page |
 | `Cmd` + `Shift` + `T` | Reopen the last closed tab |
 | `Cmd` + `Shift` + `Y` | Show/Hide Collections |
 | `Cmd` + `T` | Open a new tab |
-| `Cmd` + `W` | Close the current tab |
-| `Cmd` + `W` | Close the current window |
+| `Cmd` + `W` | Close the current tab/window |
 | `Space` = `PgDn` | 捲動網頁 |
+| `Ctrl` + `Tab` | Moves to the next tab on the right |
+| `Ctrl` + `Shift` + `Tab` | Moves to the previous tab on the left |
 
-# ◻️ Youtube
+# ◻️ YouTube
 
 | Hotkey | Note |
 | --- | --- |
@@ -187,9 +203,9 @@
 | `←` / `→` | Backward/Forward a video by 5 seconds |
 | `↑` / `↓` | Increase/Decrease volume by 5% |
 | `Ctrl ` + `←/→` | Go to the previous/next chapter |
-| `f` | Toggle full screen mode |
-| `k` (or `Spacebar`) | Toggle Play/Pause |
-| `m` | Toggle Mute/Unmute |
+| `F` | Toggle full screen mode |
+| `K` (or `Spacebar`) | Toggle Play/Pause |
+| `M` | Toggle Mute/Unmute |
 | `Shift` + `,` (`<`) | Decrease playback speed |
 | `Shift` + `.` (`>`) | Increase playback speed |
-| `t` | Toggle theater mode |
+| `T` | Toggle theater mode |
