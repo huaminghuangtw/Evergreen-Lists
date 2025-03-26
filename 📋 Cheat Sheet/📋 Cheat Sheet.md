@@ -1,54 +1,105 @@
-| Welcome to my evergreen list “📋 Cheat Sheet.” <br> Feel free to download it in PDF, CSV, Microsoft Excel, or any other preferred format [here](https://docs.google.com/spreadsheets/d/1X9zuCMb30DiQba5VNjT-HDwwomA9u0Z-trmuqVmykYY)! |
-| :---: |
-
-> [!NOTE]  
-> _Last Update: 2025-03-15_  
->
-> _Curated by [Hua-Ming Huang](https://github.com/huaminghuangtw) with ❤️_  
-
+---
+title: 📋 Cheat Sheet
+description: 
+spreadsheetId: 1X9zuCMb30DiQba5VNjT-HDwwomA9u0Z-trmuqVmykYY
+slug: cheat-sheet
+lastModified: 2025-03-22
 ---
 
-# 📑 Table of Contents
+## ◻️ Git
 
-* [◻️ Git](#️-git)
-* [◻️ Raspberry Pi](#️-raspberry-pi)
-* [◻️ SSH](#️-ssh)
-* [◻️ Network Manager](#️-network-manager)
+* Drop all stashed at once
 
----
+	```bash
+    git stash clear
+    ```
 
-# ◻️ Git
+* Show the _files_ in the most recent stash
 
-| Memorize This | Note |
-| --- | --- |
-| <code>git stash clear</code> | Drop all stashed at once |
-| <code>git stash show</code> | Show the _files_ in the most recent stash |
-| <code>git stash drop</code> | Drop the most recent stash |
-| <code>git stash list</code> | List all stashes |
-| <code>git stash show -p</code> | Show the _changes_ of the most recent stash |
+	```bash
+    git stash show
+    ```
 
-# ◻️ Raspberry Pi
+* Drop the most recent stash
 
-| Memorize This | Note |
-| --- | --- |
-| <code>ifconfig wlan0 \| grep 'inet ' \| awk '{print $2}'</code> | Show IP address |
-| <code>sudo timedatectl set-ntp true && date</code> | Sync system clock |
-| <code>vcgencmd get_throttled \| grep -q throttled=0x50005 && echo “Low voltage detected! Please use official power supply.” \|\| echo “Power requirement satisfied.”</code> | Check voltage |
+	```bash
+    git stash drop
+    ```
 
-# ◻️ SSH
+* List all stashes
 
-| Memorize This | Note |
-| --- | --- |
-| <code>cat ~/.ssh/id_rsa.pub</code> | Get SSH key |
-| <code>ssh -T git@github.com</code> | Validate SSH |
-| <code>ssh-keygen</code> | Generate SSH key |
+	```bash
+    git stash list
+    ```
 
-# ◻️ Network Manager
+* Show the _changes_ of the most recent stash
 
-| Memorize This | Note |
-| --- | --- |
-| <code>nmcli dev wifi connect SSID password PASSWORD</code> |  |
-| <code>nmcli con show</code> |  |
-| <code>cat ~/.ssh/id_rsa.pub</code> |  |
-| <code>nmcli dev wifi list</code> |  |
-| <code>nmcli dev status</code> |  |
+	```bash
+    git stash show -p
+    ```
+
+## ◻️ Raspberry Pi
+
+* Show IP address
+
+	```bash
+    ifconfig wlan0 | grep 'inet ' | awk '{print $2}'
+    ```
+
+* Sync system clock
+
+	```bash
+    sudo timedatectl set-ntp true && date
+    ```
+
+* Check voltage
+
+	```bash
+    vcgencmd get_throttled | grep -q throttled=0x50005 && echo "Low voltage detected! Please use official power supply." || echo "Power requirement satisfied."
+    ```
+
+## ◻️ SSH
+
+* Print the public SSH key, which can be used for authentication on remote servers
+
+	```bash
+    cat ~/.ssh/id_rsa.pub
+    ```
+
+* Validate SSH
+
+	```bash
+    ssh -T git@github.com
+    ```
+
+* Generate SSH key
+
+	```bash
+    ssh-keygen
+    ```
+
+## ◻️ Network Manager
+
+* Connect to a WiFi network
+
+	```bash
+    nmcli dev wifi connect SSID password PASSWORD
+    ```
+
+* Display a list of all saved network connections on the system
+
+	```bash
+    nmcli con show
+    ```
+
+* List all available Wi-Fi networks detected by the system
+
+	```bash
+    nmcli dev wifi list
+    ```
+
+* Show the status of all network interfaces, including their connection states
+
+	```bash
+    nmcli dev status
+    ```
