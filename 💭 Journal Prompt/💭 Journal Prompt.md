@@ -1,9 +1,9 @@
 ---
 title: 💭 Journal Prompt
-description: 
+description: Thought-provoking quistions to inspire self-reflection.
 spreadsheetId: 1RI3C2N7-LaWG1pZC6xMVvS08OJJQp92qJhLaPSXNzQ0
 slug: journal-prompt
-lastModified: 2025-03-22
+lastModified: 2025-04-04
 ---
 
 ## 🤔 On “Good Morning”
@@ -159,7 +159,7 @@ lastModified: 2025-03-22
 * What drives the long-term goal for my future-self?
 * What is the best compliment I ever received?
 * What is the worst thing that could happen?
-* What do I believe is tue only because believing it puts me in good standing with my tribe?
+* What do I believe is true only because believing it puts me in good standing with my tribe?
 * If I woke up in 10 years and were in flow, what actions did I take that got me there?
 * What was my greatest waste of time?
 * What is something that I have a hard time being honest about, even to those I trust the most? Why?
@@ -316,9 +316,10 @@ lastModified: 2025-03-22
 
 ## 🤔 On “Personal Growth”
 
+* Am I prepared for my moment? [^8]
 * What would happen if I gave just a little bit more?
 * What is something I really want, but haven't actually asked for?
-* Am I allowing their narrative to impact my life? [^8]
+* Am I allowing their narrative to impact my life? [^9]
 
 [^1]: “A lion is fully capable of capturing, killing, and eating a field mouse. But it turns out that the energy required to do so exceeds the caloric content of the mouse itself. So a lion that spent its day hunting and eating field mice would slowly starve to death. A lion can't live on field mice. A lion needs antelope. Antelope are big animals. They take more speed and strength to capture and kill, and once killed, they provide a feast for the lion and her pride. A lion can live a long and happy life on a diet of antelope. The distinction is important. Are you spending all your time and exhausting all your energy catching field mice? In the short term it might give you a nice, rewarding feeling. But in the long run you're going to die.” — _Buck Up, Suck Up … and Come Back When You Foul Up: 12 Winning Secrets from the War Room_
 [^2]: Sometimes you need to let go. Sometimes you need to get going.
@@ -327,4 +328,5 @@ lastModified: 2025-03-22
 [^5]: Sometimes you need more action, sometimes you need a better strategy.
 [^6]: “Ask how something can be done rather than say it can't be done.” — Bo Bennett
 [^7]: “When someone tells me 'no,' it doesn't mean I can't do it, it simply means I can't do it with them.” — Karen E. Quinones Miller
-[^8]: Remember: it's not my responsibility to change the narrative that other people have about me.
+[^8]: “To each, there comes in their lifetime a special moment when they are figuratively tapped on the shoulder and offered the chance to do a very special thing. What a tragedy if that moment finds them unprepared.” — Winston Churchill
+[^9]: Remember: it's not my responsibility to change the narrative that other people have about me.

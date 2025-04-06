@@ -81,6 +81,17 @@
                     "priority": "None",
                     "name": "How to do forward-delete on a MacBook? Hold down the `Fn` button and then press `Backspace`",
                     "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 macOS",
+                    "due_date": "",
+                    "notes": "1. Open Finder and locate the GIF file.\n2. Select the GIF (without opening it) and press `Spacebar` to preview it.\n3. Alternatively, press `Cmd` + `Y` to open Quick Look.\n4. You can only preview one GIF at a time, but you can use `Tab` to cycle through files.\n5. Press `ESC` to close the preview.",
+                    "flagged": false,
+                    "list": "👨‍💻 Tech Pro Tip",
+                    "priority": "None",
+                    "name": "How to View a GIF with animated frames on macOS?",
+                    "url": ""
                 }
             ],
             "flagged": false,
@@ -125,6 +136,28 @@
                     "list": "👨‍💻 Tech Pro Tip",
                     "priority": "None",
                     "name": "Good phone charging habits to maximize battery lifespan",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 iOS",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👨‍💻 Tech Pro Tip",
+                    "priority": "None",
+                    "name": "在 iPhone 輸入中文時，可以先輸入每個字的首個注音符號，待所有字母輸入完畢後，再依照建議詞彙或上下文選字。這種方式有助於提高輸入速度，特別是在熟悉鍵盤佈局後，可減少中斷思考的時間。",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 iOS",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👨‍💻 Tech Pro Tip",
+                    "priority": "None",
+                    "name": "Saying “Remind me” to Siri can create a reminder in the default list.",
                     "url": ""
                 }
             ],

@@ -1,9 +1,9 @@
 ---
 title: 👑 Life Pro Tip
-description: 
+description: Practical tricks to improve everyday life.
 spreadsheetId: 13QwPCE33ehjr6fjraQgAQZHvTr_Aux0wKNOHAk4OcHo
 slug: life-pro-tip
-lastModified: 2025-03-22
+lastModified: 2025-04-04
 ---
 
 ## 💡 On “Moving”
@@ -39,9 +39,14 @@ lastModified: 2025-03-22
 * 讓下次可以快速取用膠帶的方法: (1) 摺一角 (2) 黏在桌邊
 * Disable auto-play feature on Netflix, YouTube, etc. to prevent binge-watching
 * How to read through any article on the web with a paywall?
-	* Method I: Disable JavaScript → Reload the page → Read the article → Re-enable JavaScript (Or even better: Have a dedicated browser with JavaScript always disabled)
+	* Method I: The easiest way to bypass paywalls is to just disable JavaScript for the site.
+		* Steps
+			1. Disable JavaScript (Or even better: Have a dedicated browser with JavaScript always disabled)
+			2. Reload the page
+			3. Read the article
+			4. Re-enable JavaScript
 	* Method II: Toggle Reader View
-	* Method III: Use [https://12ft.io](https://12ft.io)
+	* Method III: Use tools like <https://12ft.io> or <https://removepaywalls.com>
 * 牙膏、洗面乳等用罄時，使用剪刀將軟管瓶身剪開，將可以再多使用 3-5 次！
 * Write on a Post-it® note affixed to a greeting card rather than on the greeting card itself, so the recipient can throw away the Post-it® and reuse your card. (Employ similar logic for any disposable/consumable item.)
 * 果醬玻璃罐的用途
@@ -53,11 +58,11 @@ lastModified: 2025-03-22
 	6. 裝巧克力可可粉、肌酸粉、咖啡粉 etc.
 * Break up effervescent tablets into half with your hand before adding to water. It dissolves quicker due to the increased surface area. Stirring it also quickens up the process.
 * How to get maximum cooling in your home during summer?
-	1. In the evening, pick a window on the upper floor, or at the farthest point from your bedroom.
-	2. Open all the windows in the house.
-	3. Wait until the temperature outside drops below the interior temperature.
-	4. Turn on that fan and blow the air out of the house through a single window, to take in cool air from the outside.
-	5. In the morning, as the temperatures rise, close all the windows again. You will be amazed at how much cooling effect you will have without resorting to air conditioning.
+	1. Identify the coolest part of your home. In the evening, find a window in a shaded area or on the lower floor where the air is cooler. If possible, use a thermometer to check which part of your home has the lowest temperature.
+	2. Create cross-ventilation. Open windows on opposite sides of the house to encourage airflow. If you have multiple floors, open windows upstairs and downstairs to enhance the chimney effect.
+	3. Wait for the right temperature. Once the outdoor temperature drops below the indoor temperature, it's time to bring in cool air.
+	4. Use a fan strategically. Place a powerful fan near the hottest window and direct it outward to push warm air out. This will draw in cooler air through the other windows.
+	5. Seal the cool air inside. In the morning, before the outdoor temperature rises, close all windows and blinds to trap the cool air. Consider using blackout curtains to reduce heat gain throughout the day.
 * Keep your eye drops in the fridge for the extra soothing and redness relief / to enhance the cooling sensation when applying for itchy/burning eyes.
 * Avoid long exposure to direct sunlight for ANYTHING [^1]
 * Waiting 30-60 seconds (by wiping the water off your body with your hands, or shaking off like a dog lol) to dry off before stepping out of the shower significantly decreases the volume of water soaked/absorbed by your towel, allowing it to stay drier for longer. [^2]

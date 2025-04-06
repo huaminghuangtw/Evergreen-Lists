@@ -1569,7 +1569,7 @@
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
-                    "name": "What do I believe is tue only because believing it puts me in good standing with my tribe?",
+                    "name": "What do I believe is true only because believing it puts me in good standing with my tribe?",
                     "url": ""
                 },
                 {
@@ -2892,17 +2892,6 @@
             "url": "",
             "due_date": "",
             "notes": "",
-            "subtasks": [],
-            "flagged": false,
-            "list": "💭 Journal Prompt",
-            "priority": "None",
-            "tags": "",
-            "name": "🤔 On \"Decision Making\""
-        },
-        {
-            "url": "",
-            "due_date": "",
-            "notes": "",
             "subtasks": [
                 {
                     "tags": "",
@@ -2935,6 +2924,17 @@
                     "list": "💭 Journal Prompt",
                     "priority": "None",
                     "name": "Close the eyes, look within. Am I satisfied with the life I'm living?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Life\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "Which distractions in my life have become disguised as priorities?",
                     "url": ""
                 }
             ],
@@ -3225,6 +3225,17 @@
             "due_date": "",
             "notes": "",
             "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Personal Growth\"",
+                    "due_date": "",
+                    "notes": "“To each, there comes in their lifetime a special moment when they are figuratively tapped on the shoulder and offered the chance to do a very special thing. What a tragedy if that moment finds them unprepared.” — Winston Churchill",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "Am I prepared for my moment?",
+                    "url": ""
+                },
                 {
                     "tags": "",
                     "parent_reminder": "🤔 On \"Personal Growth\"",

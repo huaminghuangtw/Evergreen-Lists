@@ -3,7 +3,7 @@ title: 📱 Shortcuts Dev Tip
 description: Handy tips and techniques for developing Apple Shortcuts, gained through hands-on experience.
 spreadsheetId: 1H0o1QxZfrUhuOyMZUY1Ey8D6jONob1es6K_qrLnUgG8
 slug: shortcuts-dev-tip
-lastModified: 2025-03-28
+lastModified: 2025-04-04
 ---
 
 ## 💁‍♂️ Keyboard hotkeys (macOS)
@@ -42,4 +42,4 @@ lastModified: 2025-03-28
 [^6]: Add action: “Comment”
 [^7]: Add action: “If-Otherwise-End If”
 [^8]: Add action: “Repeat”
-[^9]: Add action: “Show Result“
+[^9]: Add action: “Show Result”

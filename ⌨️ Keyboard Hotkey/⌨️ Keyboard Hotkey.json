@@ -13,7 +13,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `Shift` + `,`",
+                    "name": "Cmd + Shift + ,",
                     "url": ""
                 },
                 {
@@ -24,7 +24,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `Shift` + `.`",
+                    "name": "Cmd + Shift + .",
                     "url": ""
                 }
             ],
@@ -33,117 +33,6 @@
             "priority": "None",
             "tags": "",
             "name": "◻️ Apple Notes"
-        },
-        {
-            "url": "",
-            "due_date": "",
-            "notes": "",
-            "subtasks": [
-                {
-                    "tags": "",
-                    "parent_reminder": "◻️ Apple Shortcuts",
-                    "due_date": "",
-                    "notes": "Move line up/down (re-ordering)",
-                    "flagged": false,
-                    "list": "⌨️ Keyboard Hotkey",
-                    "priority": "None",
-                    "name": "`Cmd` + `↑/↓`",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "◻️ Apple Shortcuts",
-                    "due_date": "",
-                    "notes": "Duplicate a Shortcut",
-                    "flagged": false,
-                    "list": "⌨️ Keyboard Hotkey",
-                    "priority": "None",
-                    "name": "`Cmd` + `D`",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "◻️ Apple Shortcuts",
-                    "due_date": "",
-                    "notes": "Create new Shortcut",
-                    "flagged": false,
-                    "list": "⌨️ Keyboard Hotkey",
-                    "priority": "None",
-                    "name": "`Cmd` + `N`",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "◻️ Apple Shortcuts",
-                    "due_date": "",
-                    "notes": "Run a Shortcut",
-                    "flagged": false,
-                    "list": "⌨️ Keyboard Hotkey",
-                    "priority": "None",
-                    "name": "`Cmd` + `R`",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "◻️ Apple Shortcuts",
-                    "due_date": "",
-                    "notes": "Add action: \"Ask for Input\"",
-                    "flagged": false,
-                    "list": "⌨️ Keyboard Hotkey",
-                    "priority": "None",
-                    "name": "`Cmd` + `Shift` + `A`",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "◻️ Apple Shortcuts",
-                    "due_date": "",
-                    "notes": "Add action: \"Comment\"",
-                    "flagged": false,
-                    "list": "⌨️ Keyboard Hotkey",
-                    "priority": "None",
-                    "name": "`Cmd` + `Shift` + `C`",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "◻️ Apple Shortcuts",
-                    "due_date": "",
-                    "notes": "Add action: \"If-Otherwise-End If\"",
-                    "flagged": false,
-                    "list": "⌨️ Keyboard Hotkey",
-                    "priority": "None",
-                    "name": "`Cmd` + `Shift` + `I`",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "◻️ Apple Shortcuts",
-                    "due_date": "",
-                    "notes": "Add action: \"Repeat\"",
-                    "flagged": false,
-                    "list": "⌨️ Keyboard Hotkey",
-                    "priority": "None",
-                    "name": "`Cmd` + `Shift` + `R`",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "◻️ Apple Shortcuts",
-                    "due_date": "",
-                    "notes": "Add action: \"Show Result\"",
-                    "flagged": false,
-                    "list": "⌨️ Keyboard Hotkey",
-                    "priority": "None",
-                    "name": "`Cmd` + `Shift` + `S`",
-                    "url": ""
-                }
-            ],
-            "flagged": false,
-            "list": "⌨️ Keyboard Hotkey",
-            "priority": "None",
-            "tags": "",
-            "name": "◻️ Apple Shortcuts"
         },
         {
             "url": "https://support.apple.com/en-am/guide/reminders/remn19b3424c/mac",
@@ -158,7 +47,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `]`",
+                    "name": "Cmd + ]",
                     "url": ""
                 },
                 {
@@ -169,7 +58,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `[`",
+                    "name": "Cmd + [",
                     "url": ""
                 },
                 {
@@ -180,7 +69,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Opt` + `Cmd` + `T`",
+                    "name": "Opt + Cmd + T",
                     "url": ""
                 },
                 {
@@ -191,7 +80,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `T`",
+                    "name": "Cmd + T",
                     "url": ""
                 },
                 {
@@ -202,7 +91,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Shift` + `Cmd` + `E`",
+                    "name": "Shift + Cmd + E",
                     "url": ""
                 },
                 {
@@ -213,7 +102,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `E`",
+                    "name": "Cmd + E",
                     "url": ""
                 },
                 {
@@ -224,7 +113,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Shift` + `Cmd` + `C`",
+                    "name": "Shift + Cmd + C",
                     "url": ""
                 },
                 {
@@ -235,7 +124,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Shift` + `Cmd` + `F`",
+                    "name": "Shift + Cmd + F",
                     "url": ""
                 },
                 {
@@ -246,7 +135,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `[List-Number]`",
+                    "name": "Cmd + [List-Number]",
                     "url": ""
                 },
                 {
@@ -257,7 +146,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `Shift` + `/`",
+                    "name": "Cmd + Shift + /",
                     "url": ""
                 }
             ],
@@ -280,18 +169,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Ctrl` + `Cmd` + `S`",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "◻️ ChatGPT Desktop Application",
-                    "due_date": "",
-                    "notes": "Quick access to launch ChatGPT instantly from any screen ",
-                    "flagged": false,
-                    "list": "⌨️ Keyboard Hotkey",
-                    "priority": "None",
-                    "name": "`Opt` + `Space` on macOS & `Alt` + `Space` on Windows",
+                    "name": "Ctrl + Cmd + S",
                     "url": ""
                 },
                 {
@@ -302,7 +180,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `N`",
+                    "name": "Cmd + N",
                     "url": ""
                 },
                 {
@@ -313,7 +191,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `Shift` + `N`",
+                    "name": "Cmd + Shift + N",
                     "url": ""
                 }
             ],
@@ -336,7 +214,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `[Left-Click]` = `F12`",
+                    "name": "Cmd + [Left-Click] = F12",
                     "url": ""
                 },
                 {
@@ -347,7 +225,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `/`",
+                    "name": "Cmd + /",
                     "url": ""
                 },
                 {
@@ -358,7 +236,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `D`",
+                    "name": "Cmd + D",
                     "url": ""
                 },
                 {
@@ -369,7 +247,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `Enter`",
+                    "name": "Cmd + Enter",
                     "url": ""
                 },
                 {
@@ -380,7 +258,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `F`",
+                    "name": "Cmd + F",
                     "url": ""
                 },
                 {
@@ -391,139 +269,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `J` = `Ctrl` + `` ` ``",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
-                    "due_date": "",
-                    "notes": "Fold/Collapse open items",
-                    "flagged": false,
-                    "list": "⌨️ Keyboard Hotkey",
-                    "priority": "None",
-                    "name": "`Cmd` + `K 0`",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
-                    "due_date": "",
-                    "notes": "Unfold/Expand closed items",
-                    "flagged": false,
-                    "list": "⌨️ Keyboard Hotkey",
-                    "priority": "None",
-                    "name": "`Cmd` + `K J`",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
-                    "due_date": "",
-                    "notes": "View all available keyboard shortcuts",
-                    "flagged": false,
-                    "list": "⌨️ Keyboard Hotkey",
-                    "priority": "None",
-                    "name": "`Cmd` + `K S`",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
-                    "due_date": "",
-                    "notes": "Toggle Zen mode (View > Appearance > Zen Mode/Centered Layout)",
-                    "flagged": false,
-                    "list": "⌨️ Keyboard Hotkey",
-                    "priority": "None",
-                    "name": "`Cmd` + `K Z`",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
-                    "due_date": "",
-                    "notes": "Select current line",
-                    "flagged": false,
-                    "list": "⌨️ Keyboard Hotkey",
-                    "priority": "None",
-                    "name": "`Cmd` + `L`",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
-                    "due_date": "",
-                    "notes": "Toggle primary sidebar",
-                    "flagged": false,
-                    "list": "⌨️ Keyboard Hotkey",
-                    "priority": "None",
-                    "name": "`Cmd` + `B`",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
-                    "due_date": "",
-                    "notes": "Toggle secondary sidebar",
-                    "flagged": false,
-                    "list": "⌨️ Keyboard Hotkey",
-                    "priority": "None",
-                    "name": "`Cmd` + `Opt` + `B`",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
-                    "due_date": "",
-                    "notes": "Go to file",
-                    "flagged": false,
-                    "list": "⌨️ Keyboard Hotkey",
-                    "priority": "None",
-                    "name": "`Cmd` + `P`",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
-                    "due_date": "",
-                    "notes": "Insert line above",
-                    "flagged": false,
-                    "list": "⌨️ Keyboard Hotkey",
-                    "priority": "None",
-                    "name": "`Cmd` + `Shift` + `Enter`",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
-                    "due_date": "",
-                    "notes": "Multi-cursor editing - it selects all matches in the current file to the currently highlighted text. Press \"ESC\" to disable it.",
-                    "flagged": false,
-                    "list": "⌨️ Keyboard Hotkey",
-                    "priority": "None",
-                    "name": "`Cmd` + `Shift` + `L`",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
-                    "due_date": "",
-                    "notes": "Open command palette",
-                    "flagged": false,
-                    "list": "⌨️ Keyboard Hotkey",
-                    "priority": "None",
-                    "name": "`Cmd` + `Shift` + `P`",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
-                    "due_date": "",
-                    "notes": "Show/Hide integrated terminal (= Toggle panel view), and switch focus to it",
-                    "flagged": false,
-                    "list": "⌨️ Keyboard Hotkey",
-                    "priority": "None",
-                    "name": "`Ctrl` + `` ` `` = `Cmd` + `J`",
+                    "name": "Cmd + ` = Ctrl + J",
                     "url": ""
                 },
                 {
@@ -534,18 +280,172 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Ctrl` + `Shift` + `` ` ``",
+                    "name": "Ctrl + Shift + `",
                     "url": ""
                 },
                 {
                     "tags": "",
                     "parent_reminder": "◻️ Code Editor",
                     "due_date": "",
-                    "notes": "Create new terminal",
+                    "notes": "Fold/Collapse open items",
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Ctrl` + `Shift` + `` ` ``",
+                    "name": "Cmd + K 0",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
+                    "due_date": "",
+                    "notes": "Unfold/Expand closed items",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + K J",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
+                    "due_date": "",
+                    "notes": "View all available keyboard shortcuts",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + K S",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
+                    "due_date": "",
+                    "notes": "Toggle Zen mode (View > Appearance > Zen Mode/Centered Layout)",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + K Z",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
+                    "due_date": "",
+                    "notes": "Select current line",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + L",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
+                    "due_date": "",
+                    "notes": "Toggle primary sidebar",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + B",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
+                    "due_date": "",
+                    "notes": "Toggle secondary sidebar",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + Opt + B",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
+                    "due_date": "",
+                    "notes": "Go to file",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + P",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
+                    "due_date": "",
+                    "notes": "Insert line above",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + Shift + Enter",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
+                    "due_date": "",
+                    "notes": "Multi-cursor editing - it selects all matches in the current file to the currently highlighted text. Press \"ESC\" to disable it.\n—\nBonus: Install the “[Multiple Cursor Case Preserve](https://marketplace.visualstudio.com/items?itemName=Cardinal90.multi-cursor-case-preserve)” extension for Visual Studio Code. It ensures that when you’re editing text with multiple cursors, the case formatting—such as camelCase, UPPERCASE, or lowercase—is preserved. This is particularly useful when you need to rename variables or terms consistently without disrupting their original casing.",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + Shift + L",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
+                    "due_date": "",
+                    "notes": "Open command palette",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + Shift + P",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
+                    "due_date": "",
+                    "notes": "Open Search panel",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + Shift + F",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
+                    "due_date": "",
+                    "notes": "Open Explorer view",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + Shift + E",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
+                    "due_date": "",
+                    "notes": "Open Extensions marketplace",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + Shift + X",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
+                    "due_date": "",
+                    "notes": "Open Problems panel (for linting and errors)",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + Shift + M",
                     "url": ""
                 },
                 {
@@ -556,7 +456,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Ctrl` + `Tab`",
+                    "name": "Ctrl + Tab",
                     "url": ""
                 },
                 {
@@ -567,7 +467,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`F2`",
+                    "name": "F2",
                     "url": ""
                 },
                 {
@@ -578,7 +478,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Opt` + `[Left-Click]`",
+                    "name": "Opt + [Left-Click]",
                     "url": ""
                 },
                 {
@@ -589,7 +489,18 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Opt` + `↑/↓`",
+                    "name": "Opt + ↑/↓",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Code Editor",
+                    "due_date": "",
+                    "notes": "Duplicate the current line above/below",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Opt + Shift + ↑/↓",
                     "url": ""
                 },
                 {
@@ -600,7 +511,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Opt` + `Shift`",
+                    "name": "Opt + Shift",
                     "url": ""
                 },
                 {
@@ -611,7 +522,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Opt` + `Shift` + `O`",
+                    "name": "Opt + Shift + O",
                     "url": ""
                 }
             ],
@@ -624,7 +535,7 @@
         {
             "url": "",
             "due_date": "",
-            "notes": "• Windows: File Explorer\n• Apple: Finder",
+            "notes": "+ Windows: File Explorer\n+ Apple: Finder",
             "subtasks": [
                 {
                     "tags": "",
@@ -634,7 +545,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `[`",
+                    "name": "Cmd + [",
                     "url": ""
                 },
                 {
@@ -645,7 +556,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `]`",
+                    "name": "Cmd + ]",
                     "url": ""
                 },
                 {
@@ -656,7 +567,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `1`",
+                    "name": "Cmd + 1",
                     "url": ""
                 },
                 {
@@ -667,7 +578,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `2`",
+                    "name": "Cmd + 2",
                     "url": ""
                 },
                 {
@@ -678,7 +589,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `3`",
+                    "name": "Cmd + 3",
                     "url": ""
                 },
                 {
@@ -689,7 +600,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `4`",
+                    "name": "Cmd + 4",
                     "url": ""
                 },
                 {
@@ -700,7 +611,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `D`",
+                    "name": "Cmd + D",
                     "url": ""
                 },
                 {
@@ -711,7 +622,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `Delete / Backspace`",
+                    "name": "Cmd + Delete/Backspace",
                     "url": ""
                 },
                 {
@@ -722,7 +633,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `Enter`",
+                    "name": "Cmd + Enter",
                     "url": ""
                 },
                 {
@@ -733,7 +644,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `O`",
+                    "name": "Cmd + O",
                     "url": ""
                 },
                 {
@@ -744,7 +655,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `Shift` + `.`",
+                    "name": "Cmd + Shift + .",
                     "url": ""
                 },
                 {
@@ -755,7 +666,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `Shift` + `G`",
+                    "name": "Cmd + Shift + G",
                     "url": ""
                 },
                 {
@@ -766,7 +677,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `Shift` + `I`",
+                    "name": "Cmd + Shift + I",
                     "url": ""
                 },
                 {
@@ -777,7 +688,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `Shift` + `A`",
+                    "name": "Cmd + Shift + A",
                     "url": ""
                 },
                 {
@@ -788,7 +699,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `Shift ` + `O`",
+                    "name": "Cmd + Shift  + O",
                     "url": ""
                 },
                 {
@@ -799,7 +710,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `Opt` + `L`",
+                    "name": "Cmd + Opt + L",
                     "url": ""
                 },
                 {
@@ -810,7 +721,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `Shift` + `N`",
+                    "name": "Cmd + Shift + N",
                     "url": ""
                 },
                 {
@@ -821,7 +732,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Ctrl` + `Opt` + `Cmd` + `1`",
+                    "name": "Ctrl + Opt + Cmd + 1",
                     "url": ""
                 },
                 {
@@ -832,7 +743,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Ctrl` + `Opt` + `Cmd` + `2`",
+                    "name": "Ctrl + Opt + Cmd + 2",
                     "url": ""
                 },
                 {
@@ -843,7 +754,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Ctrl` + `Opt` + `Cmd` + `6`",
+                    "name": "Ctrl + Opt + Cmd + 6",
                     "url": ""
                 }
             ],
@@ -852,17 +763,6 @@
             "priority": "None",
             "tags": "",
             "name": "◻️ File Manager"
-        },
-        {
-            "url": "https://support.google.com/mail/answer/6594?hl=en&co=GENIE.Platform%3DDesktop",
-            "due_date": "",
-            "notes": "",
-            "subtasks": [],
-            "flagged": false,
-            "list": "⌨️ Keyboard Hotkey",
-            "priority": "None",
-            "tags": "",
-            "name": "◻️ Gmail"
         },
         {
             "url": "https://support.apple.com/en-us/102650",
@@ -877,7 +777,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `[Left-Click]`",
+                    "name": "Cmd + [Left-Click]",
                     "url": ""
                 },
                 {
@@ -888,7 +788,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `Ctrl` + `Q`",
+                    "name": "Cmd + Ctrl + Q",
                     "url": ""
                 },
                 {
@@ -899,7 +799,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `Ctrl` + `Shift` + `3`",
+                    "name": "Cmd + Ctrl + Shift + 3",
                     "url": ""
                 },
                 {
@@ -910,7 +810,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `Ctrl` + `Shift` + `4`",
+                    "name": "Cmd + Ctrl + Shift + 4",
                     "url": ""
                 },
                 {
@@ -921,7 +821,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `M`",
+                    "name": "Cmd + M",
                     "url": ""
                 },
                 {
@@ -932,7 +832,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `Opt` + `Esc`",
+                    "name": "Cmd + Opt + Esc",
                     "url": ""
                 },
                 {
@@ -943,7 +843,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `Q`",
+                    "name": "Cmd + Q",
                     "url": ""
                 },
                 {
@@ -954,7 +854,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `Shift` + `3`",
+                    "name": "Cmd + Shift + 3",
                     "url": ""
                 },
                 {
@@ -965,7 +865,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `Shift` + `4`",
+                    "name": "Cmd + Shift + 4",
                     "url": ""
                 },
                 {
@@ -976,7 +876,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `Shift` + `5`",
+                    "name": "Cmd + Shift + 5",
                     "url": ""
                 },
                 {
@@ -987,7 +887,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `Shift` + `Q`",
+                    "name": "Cmd + Shift + Q",
                     "url": ""
                 },
                 {
@@ -998,7 +898,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Ctrl` + `Cmd` + `Space`",
+                    "name": "Ctrl + Cmd + Space",
                     "url": ""
                 },
                 {
@@ -1009,7 +909,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Opt` + `Cmd` + `Space`",
+                    "name": "Opt + Cmd + Space",
                     "url": ""
                 },
                 {
@@ -1020,7 +920,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `Space`",
+                    "name": "Cmd + Space",
                     "url": ""
                 },
                 {
@@ -1031,7 +931,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `Tab`",
+                    "name": "Cmd + Tab",
                     "url": ""
                 },
                 {
@@ -1042,7 +942,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Ctrl` + `Cmd` + `F` / `Esc`",
+                    "name": "Ctrl + Cmd + F",
                     "url": ""
                 },
                 {
@@ -1053,18 +953,18 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Opt` + `Shift` + `K`",
+                    "name": "Opt + Shift + K",
                     "url": ""
                 },
                 {
                     "tags": "",
                     "parent_reminder": "◻️ macOS",
                     "due_date": "",
-                    "notes": "Show the menu bar _search_, which reveals the menu bar with the added benefit of putting the cursor in the search field, so that you can quickly type the command you want and hit `Enter`",
+                    "notes": "Show the menu bar search, which reveals the menu bar with the added benefit of putting the cursor in the search field, so that you can quickly type the command you want and hit `Enter`",
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Shift` + `Cmd` + `/`",
+                    "name": "Shift + Cmd + /",
                     "url": ""
                 },
                 {
@@ -1075,7 +975,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Fn` + `C`",
+                    "name": "Fn + C",
                     "url": ""
                 }
             ],
@@ -1098,7 +998,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `[`",
+                    "name": "Cmd + [",
                     "url": ""
                 },
                 {
@@ -1109,7 +1009,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `]`",
+                    "name": "Cmd + ]",
                     "url": ""
                 },
                 {
@@ -1120,7 +1020,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `\\`",
+                    "name": "Cmd + \\",
                     "url": ""
                 }
             ],
@@ -1143,7 +1043,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Ctrl` + `A`",
+                    "name": "Ctrl + A",
                     "url": ""
                 },
                 {
@@ -1154,7 +1054,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Ctrl` + `E`",
+                    "name": "Ctrl + E",
                     "url": ""
                 },
                 {
@@ -1165,7 +1065,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Ctrl` + `U`",
+                    "name": "Ctrl + U",
                     "url": ""
                 },
                 {
@@ -1176,7 +1076,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Ctrl` + `W`",
+                    "name": "Ctrl + W",
                     "url": ""
                 },
                 {
@@ -1187,7 +1087,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Ctrl` + `Y`",
+                    "name": "Ctrl + Y",
                     "url": ""
                 },
                 {
@@ -1198,7 +1098,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Opt` + `B`",
+                    "name": "Opt + B",
                     "url": ""
                 },
                 {
@@ -1209,7 +1109,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Opt` + `D`",
+                    "name": "Opt + D",
                     "url": ""
                 },
                 {
@@ -1220,7 +1120,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Opt` + `F`",
+                    "name": "Opt + F",
                     "url": ""
                 }
             ],
@@ -1243,18 +1143,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `[Left-Arrow]` = `Cmd` + `[`",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "◻️ Web Browser",
-                    "due_date": "",
-                    "notes": "Open link in a new tab",
-                    "flagged": false,
-                    "list": "⌨️ Keyboard Hotkey",
-                    "priority": "None",
-                    "name": "`Cmd` + `[Left-Click]`",
+                    "name": "Cmd + [Left-Arrow] = Cmd + [",
                     "url": ""
                 },
                 {
@@ -1265,7 +1154,18 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `[Right-Arrow]` = `Cmd` + `]`",
+                    "name": "Cmd + [Right-Arrow] = Cmd + ]",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Web Browser",
+                    "due_date": "",
+                    "notes": "Open link in a new tab",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + [Left-Click]",
                     "url": ""
                 },
                 {
@@ -1276,7 +1176,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `D`",
+                    "name": "Cmd + D",
                     "url": ""
                 },
                 {
@@ -1287,7 +1187,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `L`",
+                    "name": "Cmd + L",
                     "url": ""
                 },
                 {
@@ -1298,7 +1198,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `N`",
+                    "name": "Cmd + N",
                     "url": ""
                 },
                 {
@@ -1309,7 +1209,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `R`",
+                    "name": "Cmd + R",
                     "url": ""
                 },
                 {
@@ -1320,7 +1220,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `Shift` + `B`",
+                    "name": "Cmd + Shift + B",
                     "url": ""
                 },
                 {
@@ -1331,7 +1231,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `Shift` + `F`",
+                    "name": "Cmd + Shift + F",
                     "url": ""
                 },
                 {
@@ -1342,7 +1242,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `Shift` + `N`",
+                    "name": "Cmd + Shift + N",
                     "url": ""
                 },
                 {
@@ -1353,7 +1253,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `Shift` + `R`",
+                    "name": "Cmd + Shift + R",
                     "url": ""
                 },
                 {
@@ -1364,7 +1264,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `Shift` + `T`",
+                    "name": "Cmd + Shift + T",
                     "url": ""
                 },
                 {
@@ -1375,7 +1275,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `Shift` + `Y`",
+                    "name": "Cmd + Shift + Y",
                     "url": ""
                 },
                 {
@@ -1386,7 +1286,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `T`",
+                    "name": "Cmd + T",
                     "url": ""
                 },
                 {
@@ -1397,7 +1297,18 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Cmd` + `W`",
+                    "name": "Cmd + W",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Web Browser",
+                    "due_date": "",
+                    "notes": "Close the current window",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + W",
                     "url": ""
                 },
                 {
@@ -1408,29 +1319,51 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Space` = `PgDn`",
+                    "name": "Space = PgDn",
                     "url": ""
                 },
                 {
                     "tags": "",
                     "parent_reminder": "◻️ Web Browser",
                     "due_date": "",
-                    "notes": "Moves to the next tab on the right",
+                    "notes": "Moves to the next tab (rightward)\n—\nNote that `Ctrl` + `Tab` might follow **recently used order** depending on browser settings, while `Opt` + `Cmd` + `[Right-Arrow]` always moves tabs in **linear/sequential order**.",
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Ctrl` + `Tab`",
+                    "name": "Ctrl + Tab",
                     "url": ""
                 },
                 {
                     "tags": "",
                     "parent_reminder": "◻️ Web Browser",
                     "due_date": "",
-                    "notes": "Moves to the previous tab on the left",
+                    "notes": "Moves to the previous tab (leftward)\n—\nNote that `Ctrl` + `Shift ` + `Tab` might follow **recently used order** depending on browser settings, while `Opt` + `Cmd` + `[Left-Arrow]` always moves tabs in **linear/sequential order**.",
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Ctrl` + `Shift` + `Tab`",
+                    "name": "Ctrl + Shift + Tab",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Web Browser",
+                    "due_date": "",
+                    "notes": "Moves to the next tab (rightward)\n—\nNote that `Opt` + `Cmd` + `[Right-Arrow]` always moves tabs in **linear/sequential order**, while `Ctrl` + `Tab` might follow **recently used order** depending on browser settings.",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Opt + Cmd + [Right-Arrow]",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Web Browser",
+                    "due_date": "",
+                    "notes": "Moves to the previous tab (leftward)\n—\nNote that `Opt` + `Cmd` + `[Left-Arrow]` always moves tabs in **linear/sequential order**, while `Ctrl` + `Shift` + `Tab` might follow **recently used order** depending on browser settings.",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Opt + Cmd + [Left-Arrow]",
                     "url": ""
                 }
             ],
@@ -1453,7 +1386,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`/` (`:` on AZERTY keyboard)",
+                    "name": "/",
                     "url": ""
                 },
                 {
@@ -1464,7 +1397,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`←` / `→`",
+                    "name": "←/→",
                     "url": ""
                 },
                 {
@@ -1475,7 +1408,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`↑` / `↓`",
+                    "name": "↑/↓",
                     "url": ""
                 },
                 {
@@ -1486,7 +1419,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Ctrl ` + `←/→`",
+                    "name": "Ctrl  + ←/→",
                     "url": ""
                 },
                 {
@@ -1497,7 +1430,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`F`",
+                    "name": "F",
                     "url": ""
                 },
                 {
@@ -1508,7 +1441,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`K` (or `Spacebar`)",
+                    "name": "K = Spacebar",
                     "url": ""
                 },
                 {
@@ -1519,7 +1452,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`M`",
+                    "name": "M",
                     "url": ""
                 },
                 {
@@ -1530,7 +1463,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Shift` + `,` (`<`)",
+                    "name": "Shift + ,",
                     "url": ""
                 },
                 {
@@ -1541,7 +1474,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`Shift` + `.` (`>`)",
+                    "name": "Shift + .",
                     "url": ""
                 },
                 {
@@ -1552,7 +1485,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "`T`",
+                    "name": "T",
                     "url": ""
                 }
             ],

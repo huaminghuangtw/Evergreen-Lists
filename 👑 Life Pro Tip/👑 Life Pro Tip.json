@@ -124,7 +124,7 @@
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "If you believe the police might want your iPhone for evidence during a traffic stop, quickly activate the emergency screen by pressing and holding the **side button** and **volume down button** of your iPhone simultaneously for about 2 seconds. This will disable biometric identification and require your passcode to access the phone. Alternatively, 5 quick presses of the side button achieves the same result. For maximum security, power off your phone entirely, as iPhones are fully encrypted before the first unlock (BFU). After the first unlock (AFU), data is less secure. Note that biometric unlock also requires the passcode after a restart.",
+                    "name": "If you believe the police might want your iPhone for evidence during a traffic stop, quickly activate the emergency screen by pressing and holding the **side button** and **volume up/down button** of your iPhone simultaneously for about 2 seconds. This will disable biometric identification and require your passcode to access the phone. Alternatively, 5 quick presses of the side button achieves the same result. For maximum security, power off your phone entirely, as iPhones are fully encrypted before the first unlock (BFU). After the first unlock (AFU), data is less secure. Note that biometric unlock also requires the passcode after a restart.",
                     "url": ""
                 },
                 {
@@ -252,7 +252,7 @@
                     "tags": "",
                     "parent_reminder": "💡 On \"Miscellaneous\"",
                     "due_date": "",
-                    "notes": "+ Method I: Disable JavaScript → Reload the page → Read the article → Re-enable JavaScript (Or even better: Have a dedicated browser with JavaScript always disabled)\n+ Method II: Toggle Reader View\n+ Method III: Use [https://12ft.io](https://12ft.io)",
+                    "notes": "+ Method I: The easiest way to bypass paywalls is to just disable JavaScript for the site.\n    - Steps\n        1. Disable JavaScript (Or even better: Have a dedicated browser with JavaScript always disabled)\n        2. Reload the page\n        3. Read the article\n        4. Re-enable JavaScript\n+ Method II: Toggle Reader View\n+ Method III: Use tools like https://12ft.io or https://removepaywalls.com",
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
@@ -307,7 +307,7 @@
                     "tags": "",
                     "parent_reminder": "💡 On \"Miscellaneous\"",
                     "due_date": "",
-                    "notes": "1. In the evening, pick a window on the upper floor, or at the farthest point from your bedroom.\n2. Open all the windows in the house.\n3. Wait until the temperature outside drops below the interior temperature.\n4. Turn on that fan and blow the air out of the house through a single window, to take in cool air from the outside.\n5. In the morning, as the temperatures rise, close all the windows again. You will be amazed at how much cooling effect you will have without resorting to air conditioning.",
+                    "notes": "1. Identify the coolest part of your home. In the evening, find a window in a shaded area or on the lower floor where the air is cooler. If possible, use a thermometer to check which part of your home has the lowest temperature.\n2. Create cross-ventilation. Open windows on opposite sides of the house to encourage airflow. If you have multiple floors, open windows upstairs and downstairs to enhance the chimney effect.\n3. Wait for the right temperature. Once the outdoor temperature drops below the indoor temperature, it’s time to bring in cool air.\n4. Use a fan strategically. Place a powerful fan near the hottest window and direct it outward to push warm air out. This will draw in cooler air through the other windows.\n5. Seal the cool air inside. In the morning, before the outdoor temperature rises, close all windows and blinds to trap the cool air. Consider using blackout curtains to reduce heat gain throughout the day.",
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
@@ -1091,6 +1091,17 @@
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
                     "name": "Whenever you think something nice about someone, let them know IMMEDIATELY. → Find the best in others. Compliment people more.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Social Interaction\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "Playing is the opposite of fighting. If you find yourself stuck in a circular argument, try suggesting a role reversal: “I’ll argue your point, and you argue mine.” Not only does this foster empathy, but it also injects humor and lightens the mood in a tense situation.",
                     "url": ""
                 },
                 {
