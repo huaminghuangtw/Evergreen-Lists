@@ -133,7 +133,7 @@ lastModified: 2025-04-04
 | --- | --- |
 | <kbd>Ctrl</kbd> + <kbd>A</kbd> | Jump to the start of the line |
 | <kbd>Ctrl</kbd> + <kbd>E</kbd> | Jump to the end of the line |
-| <kbd>Ctrl</kbd> + <kbd>U</kbd> | Delete everything you've written in Terminal and start over, in case you entered any typos in between |
+| <kbd>Ctrl</kbd> + <kbd>U</kbd> | Delete everything you’ve written in Terminal and start over, in case you entered any typos in between |
 | <kbd>Ctrl</kbd> + <kbd>W</kbd> | Delete a word backwards from the current cursor position |
 | <kbd>Ctrl</kbd> + <kbd>Y</kbd> | Paste text from the kill buffer |
 | <kbd>Opt</kbd> + <kbd>B</kbd> | Jump backward by a word |
@@ -181,7 +181,7 @@ lastModified: 2025-04-04
 | <kbd>Shift</kbd> + <kbd>.</kbd> | Increase playback speed |
 | <kbd>T</kbd> | Toggle theater mode |
 
-[^1]: Bonus: Install the “[Multiple Cursor Case Preserve](https://marketplace.visualstudio.com/items?itemName=Cardinal90.multi-cursor-case-preserve)” extension for Visual Studio Code. It ensures that when you're editing text with multiple cursors, the case formatting—such as camelCase, UPPERCASE, or lowercase—is preserved. This is particularly useful when you need to rename variables or terms consistently without disrupting their original casing.
+[^1]: Bonus: Install the “[Multiple Cursor Case Preserve](https://marketplace.visualstudio.com/items?itemName=Cardinal90.multi-cursor-case-preserve)” extension for Visual Studio Code. It ensures that when you’re editing text with multiple cursors, the case formatting—such as camelCase, UPPERCASE, or lowercase—is preserved. This is particularly useful when you need to rename variables or terms consistently without disrupting their original casing.
 [^2]: Windows: File Explorer
 [^3]: Apple: Finder
 [^4]: Note that `Ctrl` + `Tab` might follow **recently used order** depending on browser settings, while `Opt` + `Cmd` + `[Right-Arrow]` always moves tabs in **linear/sequential order**.

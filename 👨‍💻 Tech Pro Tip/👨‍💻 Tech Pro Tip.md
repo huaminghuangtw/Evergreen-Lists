@@ -17,7 +17,7 @@ lastModified: 2025-04-04
 * Right-click a folder in Finder on macOS, you will get an “Import from iPhone/iPad” option. Click that and your iPhone/iPad will open a scanner app which lets you “Take Photo”, “Scan Documents”, and “Add Sketch.”
 * Move (i.e., cut & paste) files&folders in Finder
 	* Method 1: First `Cmd` + `C`, then `Opt` + `Cmd` + `V` → will paste the file and remove it from original location
-	* Method 2: Install Sindre Sorhus's [Command X](https://sindresorhus.com/command-x) app for more intuitive keyboard shortcuts
+	* Method 2: Install Sindre Sorhus’s [Command X](https://sindresorhus.com/command-x) app for more intuitive keyboard shortcuts
 * How to do forward-delete on a MacBook? Hold down the `Fn` button and then press `Backspace`
 * How to View a GIF with animated frames on macOS?
 	1. Open Finder and locate the GIF file.
@@ -32,7 +32,7 @@ lastModified: 2025-04-04
 * [Move multiple Home Screen apps at once](https://ios.gadgethacks.com/how-to/move-multiple-home-screen-apps-once-0177985): Tap and hold on one app, then tap more apps to add them to your stack
 * Good phone charging habits to maximize battery lifespan
 	1. Always keep the battery level in between 20% and 80% → Instead of charging your phone for SHORT periods multiple times throughout the day, only charge it ONCE daily for a LONG period (approximately 1 hr) when the battery level is below 20%.
-	2. Don't put the phone on charge until next morning (overnight) → Note that this doesn't matter as long as the “Optimized Battery Charging” feature is enabled (default for most modern devices)
+	2. Don’t put the phone on charge until next morning (overnight) → Note that this doesn’t matter as long as the “Optimized Battery Charging” feature is enabled (default for most modern devices)
 	3. Avoid using third-party chargers and cables → Or, at least MFI-certified
 * 在 iPhone 輸入中文時，可以先輸入每個字的首個注音符號，待所有字母輸入完畢後，再依照建議詞彙或上下文選字。這種方式有助於提高輸入速度，特別是在熟悉鍵盤佈局後，可減少中斷思考的時間。
 * Saying “Remind me” to Siri can create a reminder in the default list.
