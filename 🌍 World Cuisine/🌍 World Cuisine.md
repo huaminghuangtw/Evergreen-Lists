@@ -1,8 +1,8 @@
 ---
 title: 🌍 World Cuisine
+slug: world-cuisine
 description: Explore diverse and delicious recipes from around the globe to broaden your culinary horizons.
 spreadsheetId: 1igJQxFOBLpDtvf1wWkuCNi8KVaC10TJnkLGiVMApNEY
-slug: world-cuisine
 lastModified: 2025-04-04
 ---
 

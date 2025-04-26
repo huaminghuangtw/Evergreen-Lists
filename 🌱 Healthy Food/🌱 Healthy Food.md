@@ -1,8 +1,8 @@
 ---
 title: 🌱 Healthy Food
+slug: healthy-food
 description: A curated list of real, whole foods—nutrient-dense ingredients like fruits, vegetables, spices, and more—to support a healthy lifestyle.
 spreadsheetId: 1VwOgdX6VoIJm9cUxDB7sCvacRyCqx7NZagthFs14CRg
-slug: healthy-food
 lastModified: 2025-04-04
 ---
 

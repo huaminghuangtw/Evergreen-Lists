@@ -1,8 +1,8 @@
 ---
 title: 💭 Journal Prompt
+slug: journal-prompt
 description: Thought-provoking quistions to inspire self-reflection.
 spreadsheetId: 1RI3C2N7-LaWG1pZC6xMVvS08OJJQp92qJhLaPSXNzQ0
-slug: journal-prompt
 lastModified: 2025-04-04
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: 👑 Life Pro Tip
+slug: life-pro-tip
 description: Practical tricks to improve everyday life.
 spreadsheetId: 13QwPCE33ehjr6fjraQgAQZHvTr_Aux0wKNOHAk4OcHo
-slug: life-pro-tip
 lastModified: 2025-04-04
 ---
 

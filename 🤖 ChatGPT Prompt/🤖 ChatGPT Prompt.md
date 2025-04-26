@@ -1,8 +1,8 @@
 ---
 title: 🤖 ChatGPT Prompt
+slug: chatgpt-prompt
 description: A collection of prompts to make the most out of ChatGPT.
 spreadsheetId: 1Yn74btdx_xiNtpFiO8bWJwJ_6ud5T0xQhXtoIeTlr8o
-slug: chatgpt-prompt
 lastModified: 2025-04-04
 ---
 
