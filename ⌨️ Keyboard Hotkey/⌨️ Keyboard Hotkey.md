@@ -1,9 +1,9 @@
 ---
 title: ⌨️ Keyboard Hotkey
-slug: keyboard-hotkey
 description: A compilation of essential keyboard shortcuts to enhance productivity.
 spreadsheetId: 12UxNMk9LmNd8C0iGM_ssMv1ruUt_mJw-mw43bpm-wcE
-lastModified: 2025-04-04
+slug: keyboard-hotkey
+lastModified: 2025-05-15
 ---
 
 ## [◻️ Apple Notes](https://support.apple.com/en-gb/guide/notes/apd46c25187e/mac)
@@ -12,6 +12,8 @@ lastModified: 2025-04-04
 | --- | --- |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>,</kbd> | Zoom out |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>.</kbd> | Zoom in |
+| <kbd>Ctrl</kbd> + <kbd>Cmd</kbd> + <kbd>I</kbd> | Show or hide highlights in a shared note |
+| <kbd>Ctrl</kbd> + <kbd>Cmd</kbd> + <kbd>K</kbd> | Show or hide the activity list in a shared note |
 
 ## [◻️ Apple Reminders](https://support.apple.com/en-am/guide/reminders/remn19b3424c/mac)
 
@@ -26,7 +28,8 @@ lastModified: 2025-04-04
 | <kbd>Shift</kbd> + <kbd>Cmd</kbd> + <kbd>C</kbd> | Mark reminder as completed or incomplete |
 | <kbd>Shift</kbd> + <kbd>Cmd</kbd> + <kbd>F</kbd> | Flag or unflag reminder |
 | <kbd>Cmd</kbd> + <kbd>[List-Number]</kbd> | Go to pinned list. To find the number assigned to each list, choose View > Go To. |
-| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>/</kbd> | Open “Reminders User Guide” |
+| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>/</kbd> | Open "Reminders User Guide" |
+| <kbd>Cmd</kbd> + <kbd>Enter</kbd> | While editing: Save/exit editing the reminder; While not editing: Mark reminder as complete [^1] [^2] |
 
 ## [◻️ ChatGPT Desktop Application](https://openai.com/chatgpt/desktop/)
 
@@ -36,7 +39,7 @@ lastModified: 2025-04-04
 | <kbd>Cmd</kbd> + <kbd>N</kbd> | Open new chat |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd> | Open new temporary chat |
 
-## [◻️ Code Editor](https://code.visualstudio.com/docs/getstarted/keybindings)
+## [◻️ VS Code](https://code.visualstudio.com/docs/getstarted/keybindings)
 
 | <span style="display:inline-block; width:450px">Hotkey</span> | Note |
 | --- | --- |
@@ -51,12 +54,13 @@ lastModified: 2025-04-04
 | <kbd>Cmd</kbd> + <kbd>K J</kbd> | Unfold/Expand closed items |
 | <kbd>Cmd</kbd> + <kbd>K S</kbd> | View all available keyboard shortcuts |
 | <kbd>Cmd</kbd> + <kbd>K Z</kbd> | Toggle Zen mode (View > Appearance > Zen Mode/Centered Layout) |
+| <kbd>Cmd</kbd> + <kbd>K W</kbd> | Close all editors |
 | <kbd>Cmd</kbd> + <kbd>L</kbd> | Select current line |
 | <kbd>Cmd</kbd> + <kbd>B</kbd> | Toggle primary sidebar |
 | <kbd>Cmd</kbd> + <kbd>Opt</kbd> + <kbd>B</kbd> | Toggle secondary sidebar |
 | <kbd>Cmd</kbd> + <kbd>P</kbd> | Go to file |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>Enter</kbd> | Insert line above |
-| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>L</kbd> | Multi-cursor editing - it selects all matches in the current file to the currently highlighted text. Press “ESC” to disable it. [^1] |
+| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>L</kbd> | Multi-cursor editing - it selects all matches in the current file to the currently highlighted text. Press "ESC" to disable it. [^3] |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> | Open command palette |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd> | Open Search panel |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>E</kbd> | Open Explorer view |
@@ -69,8 +73,12 @@ lastModified: 2025-04-04
 | <kbd>Opt</kbd> + <kbd>Shift</kbd> + <kbd>↑/↓</kbd> | Duplicate the current line above/below |
 | <kbd>Opt</kbd> + <kbd>Shift</kbd> | Column/Box Selection: Select blocks of text by holding it while you drag your mouse. |
 | <kbd>Opt</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd> | Remove unused imports, declarations, etc. |
+| <kbd>Cmd</kbd> + <kbd>\\</kbd> | Split Editor Down (Vertical Split) |
+| <kbd>Cmd</kbd> + <kbd>K</kbd> + <kbd>\\</kbd> | Split Editor Down (Horizontal Split) |
+| <kbd>Ctrl</kbd> + <kbd>[1-9]</kbd> | Switch to a specific editor/tab by number |
+| <kbd>Cmd</kbd> + <kbd>K Shift</kbd> + <kbd>Enter</kbd> | Pin/unpin editor/tab |
 
-## ◻️ File Manager [^2] [^3]
+## ◻️ File Manager [^4] [^5]
 
 | <span style="display:inline-block; width:450px">Hotkey</span> | Note |
 | --- | --- |
@@ -80,16 +88,17 @@ lastModified: 2025-04-04
 | <kbd>Cmd</kbd> + <kbd>2</kbd> | Show the active window in list mode |
 | <kbd>Cmd</kbd> + <kbd>3</kbd> | Show the active window in column mode |
 | <kbd>Cmd</kbd> + <kbd>4</kbd> | Show the active window in gallery mode |
-| <kbd>Cmd</kbd> + <kbd>D</kbd> | Duplicate selected item(s) |
 | <kbd>Cmd</kbd> + <kbd>Delete/Backspace</kbd> | Move the selected item to Trash |
+| <kbd>Cmd</kbd> + <kbd>D</kbd> | Duplicate selected item(s) |
 | <kbd>Cmd</kbd> + <kbd>Enter</kbd> | Rename the selected item |
-| <kbd>Cmd</kbd> + <kbd>O</kbd> | Open (or launch) the selected item |
+| <kbd>Cmd</kbd> + <kbd>O</kbd> | Open (or launch) the selected item, just like double-clicking it |
+| <kbd>Cmd</kbd> + <kbd>I</kbd> | Open the Info window for the selected item |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>.</kbd> | Reveal hidden files such as ._ (dot underscore) files that are normally invisible |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>G</kbd> | Takes you to a folder that you specify |
-| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd> | Go to “iCloud Drive” in Finder |
-| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>A</kbd> | Go to “Applications” in Finder |
-| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd> | Go to “Documents” in Finder |
-| <kbd>Cmd</kbd> + <kbd>Opt</kbd> + <kbd>L</kbd> | Go to “Downloads” in Finder |
+| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd> | Go to "iCloud Drive" in Finder |
+| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>A</kbd> | Go to "Applications" in Finder |
+| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd> | Go to "Documents" in Finder |
+| <kbd>Cmd</kbd> + <kbd>Opt</kbd> + <kbd>L</kbd> | Go to "Downloads" in Finder |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd> | Create a new folder  |
 | <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>Cmd</kbd> + <kbd>1</kbd> | Sort by name |
 | <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>Cmd</kbd> + <kbd>2</kbd> | Sort by kind |
@@ -101,6 +110,7 @@ lastModified: 2025-04-04
 | --- | --- |
 | <kbd>Cmd</kbd> + <kbd>[Left-Click]</kbd> | On any dock app opens it in Finder. This also works in Spotlight: If you hold `Cmd` while pressing `Enter`, it will show the app (or file) in Finder! |
 | <kbd>Cmd</kbd> + <kbd>Ctrl</kbd> + <kbd>Q</kbd> | Lock screen |
+| <kbd>Cmd</kbd> + <kbd>Ctrl</kbd> + <kbd>D</kbd> | Lets you look up a dictionary definition for the word you hover over with the cursor (no need to select it) |
 | <kbd>Cmd</kbd> + <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>3</kbd> | Snip the full screen and copy the screenshot to clipboard |
 | <kbd>Cmd</kbd> + <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>4</kbd> | Snip the selected area and copy the screenshot to clipboard |
 | <kbd>Cmd</kbd> + <kbd>M</kbd> | Minimize window |
@@ -108,7 +118,7 @@ lastModified: 2025-04-04
 | <kbd>Cmd</kbd> + <kbd>Q</kbd> | Quit application |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>3</kbd> | Capture the full screen |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>4</kbd> | Capture a portion of the screen (selected area) |
-| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>5</kbd> | Open the Screenshot app (to e.g., record screen) |
+| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>5</kbd> | Open the Screenshot app (to e.g., record screen). This is where you can select/change the default folder/location where screenshots are saved. |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd> | Log out |
 | <kbd>Ctrl</kbd> + <kbd>Cmd</kbd> + <kbd>Space</kbd> | Use emojis/symbols. Press it alongside the text to get the corresponding emoji/symbols |
 | <kbd>Opt</kbd> + <kbd>Cmd</kbd> + <kbd>Space</kbd> | Open a Finder window with the search bar active |
@@ -133,14 +143,14 @@ lastModified: 2025-04-04
 | --- | --- |
 | <kbd>Ctrl</kbd> + <kbd>A</kbd> | Jump to the start of the line |
 | <kbd>Ctrl</kbd> + <kbd>E</kbd> | Jump to the end of the line |
-| <kbd>Ctrl</kbd> + <kbd>U</kbd> | Delete everything you’ve written in Terminal and start over, in case you entered any typos in between |
+| <kbd>Ctrl</kbd> + <kbd>U</kbd> | Delete everything you've written in Terminal and start over, in case you entered any typos in between |
 | <kbd>Ctrl</kbd> + <kbd>W</kbd> | Delete a word backwards from the current cursor position |
 | <kbd>Ctrl</kbd> + <kbd>Y</kbd> | Paste text from the kill buffer |
+| <kbd>Opt</kbd> + <kbd>F</kbd> | Jump forward by a word |
 | <kbd>Opt</kbd> + <kbd>B</kbd> | Jump backward by a word |
 | <kbd>Opt</kbd> + <kbd>D</kbd> | Delete a word forwards from the current cursor position |
-| <kbd>Opt</kbd> + <kbd>F</kbd> | Jump forward by a word |
 
-## ◻️ Web Browser
+## ◻️ Web Browser (Microsoft Edge)
 
 | <span style="display:inline-block; width:450px">Hotkey</span> | Note |
 | --- | --- |
@@ -157,14 +167,17 @@ lastModified: 2025-04-04
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd> | Hard reload/refresh a web page |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>T</kbd> | Reopen the last closed tab |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>Y</kbd> | Show/Hide Collections |
+| <kbd>Cmd</kbd> + <kbd>Opt</kbd> + <kbd>L</kbd> | Show/Hide Downloads |
+| <kbd>Cmd</kbd> + <kbd>Y</kbd> | Open History |
 | <kbd>Cmd</kbd> + <kbd>T</kbd> | Open a new tab |
-| <kbd>Cmd</kbd> + <kbd>W</kbd> | Close the current tab/window |
+| <kbd>Cmd</kbd> + <kbd>W</kbd> | Close the current window |
+| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>W</kbd> | Close the current window, along with all its tabs |
 | <kbd>Cmd</kbd> + <kbd>W</kbd> | Close the current window |
 | <kbd>Space</kbd> = <kbd>PgDn</kbd> | 捲動網頁 |
-| <kbd>Ctrl</kbd> + <kbd>Tab</kbd> | Moves to the next tab (rightward) [^4] |
-| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Tab</kbd> | Moves to the previous tab (leftward) [^5] |
-| <kbd>Opt</kbd> + <kbd>Cmd</kbd> + <kbd>[Right-Arrow]</kbd> | Moves to the next tab (rightward) [^6] |
-| <kbd>Opt</kbd> + <kbd>Cmd</kbd> + <kbd>[Left-Arrow]</kbd> | Moves to the previous tab (leftward) [^7] |
+| <kbd>Ctrl</kbd> + <kbd>Tab</kbd> | Moves to the next tab (rightward) [^6] |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Tab</kbd> | Moves to the previous tab (leftward) [^7] |
+| <kbd>Opt</kbd> + <kbd>Cmd</kbd> + <kbd>[Right-Arrow]</kbd> | Moves to the next tab (rightward) [^8] |
+| <kbd>Opt</kbd> + <kbd>Cmd</kbd> + <kbd>[Left-Arrow]</kbd> | Moves to the previous tab (leftward) [^9] |
 
 ## ◻️ YouTube
 
@@ -173,7 +186,7 @@ lastModified: 2025-04-04
 | <kbd>/</kbd> | Go to search box |
 | <kbd>←/→</kbd> | Backward/Forward a video by 5 seconds |
 | <kbd>↑/↓</kbd> | Increase/Decrease volume by 5% |
-| <kbd>Ctrl</kbd> + <kbd>←/→</kbd> | Go to the previous/next chapter |
+| <kbd>Opt</kbd> + <kbd>←/→</kbd> | Go to the previous/next chapter |
 | <kbd>F</kbd> | Toggle full screen mode |
 | <kbd>K</kbd> = <kbd>Spacebar</kbd> | Toggle Play/Pause |
 | <kbd>M</kbd> | Toggle Mute/Unmute |
@@ -181,10 +194,12 @@ lastModified: 2025-04-04
 | <kbd>Shift</kbd> + <kbd>.</kbd> | Increase playback speed |
 | <kbd>T</kbd> | Toggle theater mode |
 
-[^1]: Bonus: Install the “[Multiple Cursor Case Preserve](https://marketplace.visualstudio.com/items?itemName=Cardinal90.multi-cursor-case-preserve)” extension for Visual Studio Code. It ensures that when you’re editing text with multiple cursors, the case formatting—such as camelCase, UPPERCASE, or lowercase—is preserved. This is particularly useful when you need to rename variables or terms consistently without disrupting their original casing.
-[^2]: Windows: File Explorer
-[^3]: Apple: Finder
-[^4]: Note that `Ctrl` + `Tab` might follow **recently used order** depending on browser settings, while `Opt` + `Cmd` + `[Right-Arrow]` always moves tabs in **linear/sequential order**.
-[^5]: Note that `Ctrl` + `Shift ` + `Tab` might follow **recently used order** depending on browser settings, while `Opt` + `Cmd` + `[Left-Arrow]` always moves tabs in **linear/sequential order**.
-[^6]: Note that `Opt` + `Cmd` + `[Right-Arrow]` always moves tabs in **linear/sequential order**, while `Ctrl` + `Tab` might follow **recently used order** depending on browser settings.
-[^7]: Note that `Opt` + `Cmd` + `[Left-Arrow]` always moves tabs in **linear/sequential order**, while `Ctrl` + `Shift` + `Tab` might follow **recently used order** depending on browser settings.
+[^1]: When editing a reminder (e.g., you’ve clicked into it to change the text), `Cmd` + `Enter` will end editing — it finalizes your changes and exits the editing mode (kind of feels like “selecting” or saving the text).
+[^2]: When not editing (e.g., you're just navigating or viewing reminders), `Cmd` + `Enter` will select all text and enter the editing mode.
+[^3]: Bonus: Install the “[Multiple Cursor Case Preserve](https://marketplace.visualstudio.com/items?itemName=Cardinal90.multi-cursor-case-preserve)” extension for Visual Studio Code. It ensures that when you’re editing text with multiple cursors, the case formatting—such as camelCase, UPPERCASE, or lowercase—is preserved. This is particularly useful when you need to rename variables or terms consistently without disrupting their original casing.
+[^4]: Windows: File Explorer
+[^5]: Apple: Finder
+[^6]: Note that `Ctrl` + `Tab` might follow **recently used order** depending on browser settings, while `Opt` + `Cmd` + `[Right-Arrow]` always moves tabs in **linear/sequential order**.
+[^7]: Note that `Ctrl` + `Shift ` + `Tab` might follow **recently used order** depending on browser settings, while `Opt` + `Cmd` + `[Left-Arrow]` always moves tabs in **linear/sequential order**.
+[^8]: Note that `Opt` + `Cmd` + `[Right-Arrow]` always moves tabs in **linear/sequential order**, while `Ctrl` + `Tab` might follow **recently used order** depending on browser settings.
+[^9]: Note that `Opt` + `Cmd` + `[Left-Arrow]` always moves tabs in **linear/sequential order**, while `Ctrl` + `Shift` + `Tab` might follow **recently used order** depending on browser settings.

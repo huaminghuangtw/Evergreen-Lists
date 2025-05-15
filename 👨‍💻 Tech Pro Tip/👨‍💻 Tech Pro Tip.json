@@ -7,6 +7,40 @@
             "subtasks": [
                 {
                     "tags": "",
+                    "parent_reminder": "💡 General",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👨‍💻 Tech Pro Tip",
+                    "priority": "None",
+                    "name": "Use the `Shift` key to type capital letters instead of relying on `Caps Lock`. It’s more efficient and helps prevent accidental ALL CAPS typing.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 General",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👨‍💻 Tech Pro Tip",
+                    "priority": "None",
+                    "name": "If you’re curious about how a font looks in action, just Google its name — for popular fonts like _Comic Sans_, _Roboto_, or _Courier_, Google will sometimes render the search results page in that font. It’s a clever [Easter egg](https://en.wikipedia.org/wiki/List_of_Google_Easter_eggs) that lets you preview the font in real-time. Great for designers or anyone picking fonts quickly. Note: it works best in Chrome and may not appear if you’re using certain browser extensions.",
+                    "url": "https://en.wikipedia.org/wiki/List_of_Google_Easter_eggs?utm_source=chatgpt.com"
+                }
+            ],
+            "flagged": false,
+            "list": "👨‍💻 Tech Pro Tip",
+            "priority": "None",
+            "tags": "",
+            "name": "💡 General"
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
                     "parent_reminder": "💡 macOS",
                     "due_date": "",
                     "notes": "",
@@ -92,6 +126,17 @@
                     "priority": "None",
                     "name": "How to View a GIF with animated frames on macOS?",
                     "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 macOS",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👨‍💻 Tech Pro Tip",
+                    "priority": "None",
+                    "name": "[You can access the audio files of system sounds like ringtones, alerts, and notifications via `/System/Library/PrivateFrameworks/ToneLibrary.framework/Versions/A/Resources/Ringtones/` & `/System/Library/Sounds/`. Files here are typically in `.m4r`, `.caf`, or `.aiff` format. This directory is read-only under normal user conditions, and modifying it requires elevated permissions.](https://apple.stackexchange.com/questions/467536/on-mac-where-to-find-the-audio-files-of-the-sounds-in-the-native-clock-app)",
+                    "url": "https://apple.stackexchange.com/questions/467536/on-mac-where-to-find-the-audio-files-of-the-sounds-in-the-native-clock-app"
                 }
             ],
             "flagged": false,
@@ -131,7 +176,7 @@
                     "tags": "",
                     "parent_reminder": "💡 iOS",
                     "due_date": "",
-                    "notes": "1. Always keep the battery level in between 20% and 80% → Instead of charging your phone for SHORT periods multiple times throughout the day, only charge it ONCE daily for a LONG period (approximately 1 hr) when the battery level is below 20%.\n2. Don’t put the phone on charge until next morning (overnight) → Note that this doesn’t matter as long as the \"Optimized Battery Charging\" feature is enabled (default for most modern devices)\n3. Avoid using third-party chargers and cables → Or, at least MFI-certified",
+                    "notes": "1. **Keep battery between 20%–80%**  \n   Charge once daily (~1 hr) when below 20%, instead of multiple short charges.\n2. **Avoid overnight charging**  \n   Unless *Optimized Battery Charging* is enabled (default on most modern phones).\n3. **Use certified chargers**  \n   Stick to original or **MFi-certified** accessories to protect your device.",
                     "flagged": false,
                     "list": "👨‍💻 Tech Pro Tip",
                     "priority": "None",

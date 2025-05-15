@@ -141,6 +141,29 @@
             "subtasks": [
                 {
                     "tags": "",
+                    "parent_reminder": "💁‍♂️ Mistakes I have made",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "📱 Shortcuts Dev Tip",
+                    "priority": "None",
+                    "name": "Using the ‘Match Text’ action with the regular anchor ^keyword provides more reliable results compared to using the built-in ‘Begins With ’ condition.",
+                    "url": ""
+                }
+            ],
+            "flagged": false,
+            "list": "📱 Shortcuts Dev Tip",
+            "priority": "None",
+            "tags": "",
+            "name": "💁‍♂️ Mistakes I have made"
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
                     "parent_reminder": "💁‍♂️ Good practices",
                     "due_date": "",
                     "notes": "+ **Why It’s a Good Practice:**\n    + ✅ Prevents Unwanted Execution: Ensures that no additional actions run accidentally, especially if the shortcut is triggered by another shortcut or automation.\n    + ✅ Improves Debugging: Clearly marks the endpoint, making it easier to understand where execution stops.\n    + ✅ Avoids Redundant Processing: If a shortcut continues running unnecessarily, it can consume resources or cause unexpected behavior.\n+ **When You Might Skip It:**\n    + 🚫 If a “Stop and Output” Action Exists: This already terminates the shortcut and returns a value, so an additional stop action isn’t needed.\n    + 🚫 For Simple Shortcuts: If your shortcut only has a few actions and no branching logic, it may not be necessary.\n+ In general, if your shortcut has multiple conditions, loops, or external triggers, adding “Stop This Shortcut” at the end is a good habit.",
@@ -156,6 +179,52 @@
             "priority": "None",
             "tags": "",
             "name": "💁‍♂️ Good practices"
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "💁‍♂️ Testing",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "📱 Shortcuts Dev Tip",
+                    "priority": "None",
+                    "name": "Use Siri to run a shortcut by simply saying its name. For example, say, ‘Hey Siri, Turn off Color Filters.’",
+                    "url": ""
+                }
+            ],
+            "flagged": false,
+            "list": "📱 Shortcuts Dev Tip",
+            "priority": "None",
+            "tags": "",
+            "name": "💁‍♂️ Testing"
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "💁‍♂️ Applications",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "📱 Shortcuts Dev Tip",
+                    "priority": "None",
+                    "name": "[You can rename Shortcuts dynamically to display quick information—like battery level, date, or weather—directly in the shortcut’s name. By using the “Rename Shortcut” action, you can update its title based on live data, making your Home Screen or widget area more informative at a glance. It’s a clever way to turn shortcuts into mini status indicators without needing to open an app.](https://www.reddit.com/r/shortcuts/comments/1k7jg8n/renaming_shortcuts_for_quick_info/?share_id=CCpdoTwK3HFT7Zj2Wuq_2)",
+                    "url": "https://www.reddit.com/r/shortcuts/comments/1k7jg8n/renaming_shortcuts_for_quick_info/?share_id=CCpdoTwK3HFT7Zj2Wuq_2&utm_content=2&utm_medium=ios_app&utm_name=iossmf&utm_source=share&utm_term=22"
+                }
+            ],
+            "flagged": false,
+            "list": "📱 Shortcuts Dev Tip",
+            "priority": "None",
+            "tags": "",
+            "name": "💁‍♂️ Applications"
         }
     ]
 }

@@ -1,9 +1,9 @@
 ---
 title: 🌍 World Cuisine
-slug: world-cuisine
 description: Explore diverse and delicious recipes from around the globe to broaden your culinary horizons.
 spreadsheetId: 1igJQxFOBLpDtvf1wWkuCNi8KVaC10TJnkLGiVMApNEY
-lastModified: 2025-04-04
+slug: world-cuisine
+lastModified: 2025-05-15
 ---
 
 ## 🇮🇪 Ireland
@@ -21,7 +21,7 @@ lastModified: 2025-04-04
 * [Crêpe](https://www.google.com/search?q=Cr%C3%AApe) 可麗餅
 * [Pain au chocolat](https://www.google.com/search?q=Pain+au+chocolat) 巧克力麵包 [^2]
 * [Chocolatine](https://www.google.com/search?q=Chocolatine) 巧克力麵包 [^3]
-* [Paris-Brest](https://www.google.com/search?q=Paris-Brest) 巴黎 - 布雷斯特
+* [Paris-Brest](https://www.google.com/search?q=Paris-Brest) 巴黎-布雷斯特
 * [Soufflé](https://www.google.com/search?q=Souffl%C3%A9) 舒芙蕾
 * [Palmier](https://www.google.com/search?q=Palmier) 蝴蝶酥
 * [Croque Monsieur](https://www.google.com/search?q=Croque+Monsieur) 法式火腿起司三明治 [^4]
@@ -38,6 +38,8 @@ lastModified: 2025-04-04
 * [Carbonara](https://www.google.com/search?q=Carbonara) 卡邦尼義大利麵
 * [Risotto](https://www.google.com/search?q=Risotto) 燉飯
 * [Tortellini](https://www.google.com/search?q=Tortellini) 義式餃子 [^5]
+* [Burrata](https://www.google.com/search?q=Burrata)
+* [Cannolo](https://www.google.com/search?q=Cannolo) 奶油甜餡煎餅卷
 * [Pandoro](https://www.google.com/search?q=Pandoro) 黃金麵包 [^6]
 * [Panettone](https://www.google.com/search?q=Panettone) 義大利水果麵包 [^7]
 * [Gnocchi](https://www.google.com/search?q=Gnocchi) 麵疙瘩
@@ -73,7 +75,7 @@ lastModified: 2025-04-04
 * [Patlican](https://www.google.com/search?q=Patlican) 茄子
 * [Kumpir](https://www.google.com/search?q=Kumpir) 烤馬鈴薯
 * [Pogača](https://www.google.com/search?q=Poga%C4%8Da) 土耳其麵包
-* [Döner-Kebap](https://www.google.com/search?q=D%C3%B6ner-Kebap) 土耳其烤肉 [^13]
+* [Döner-Kebap](https://www.google.com/search?q=D%C3%B6ner-Kebap)  土耳其烤肉 [^13]
 
 ## 🇭🇺 Hungary
 
@@ -128,6 +130,10 @@ lastModified: 2025-04-04
 ## 🇬🇧 United Kingdom
 
 * [Beans on Toast](https://www.google.com/search?q=Beans+on+Toast)
+
+## 🇵🇱 Poland
+
+* [Pierogi](https://www.google.com/search?q=Pierogi)
 
 [^1]: /bæɡˈet/
 [^2]: 法國北部

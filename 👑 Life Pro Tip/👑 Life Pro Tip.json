@@ -96,15 +96,49 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "💡 On \"Miscellaneous\"",
+                    "parent_reminder": "💡 On \"Giving\"",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "Library card + [Libby](https://libbyapp.com/) = read stuff and take advantage of all the resources that come with it (e.g., e-books, movies, music, etc.) for FREE, without ever leaving the house! You can even share library cards with friends/family on Libby.",
+                    "name": "[Giving makes people happy, so why not give gifts others can give?](https://sketchplanations.com/give-gifts-others-can-give)",
+                    "url": "https://sketchplanations.com/give-gifts-others-can-give"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Giving\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "If you’re torn on what gift to send someone, send a book you love. Pair it with a handwritten note explaining why you chose it for them—the more personal and specific, the better. This thoughtful gesture conveys genuine care and has the potential to foster a deeper connection.",
                     "url": ""
                 },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Giving\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "Write on a Post-it® note affixed to a greeting card rather than on the greeting card itself, so the recipient can throw away the Post-it® and reuse your card. (Employ similar logic for any disposable/consumable item.)",
+                    "url": ""
+                }
+            ],
+            "flagged": false,
+            "list": "👑 Life Pro Tip",
+            "priority": "None",
+            "tags": "",
+            "name": "💡 On \"Giving\""
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
                 {
                     "tags": "",
                     "parent_reminder": "💡 On \"Miscellaneous\"",
@@ -113,7 +147,7 @@
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "If you’re torn on what gift to send someone, send a book you love. Pair it with a handwritten note explaining why you chose it for them—the more personal and specific, the better. This thoughtful gesture conveys genuine care and has the potential to foster a deeper connection.",
+                    "name": "Library card + [Libby](https://libbyapp.com/) = read stuff and take advantage of all the resources that come with it (e.g., e-books, movies, music, etc.) for FREE, without ever leaving the house! You can even share library cards with friends/family on Libby.",
                     "url": ""
                 },
                 {
@@ -223,8 +257,8 @@
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "How to make a Post-it® note (N 次貼) lie flawlessly against a surface, without a giant air bubble? Instead of peeling sticky notes from the bottom up, rip sticky notes *from the side, right below where the sticky part ends.*",
-                    "url": ""
+                    "name": "How to make a Post-it® note (N 次貼) lie flawlessly against a surface, without a giant air bubble? Instead of peeling sticky notes from the corner, rip sticky notes *from the side, right below where the sticky part ends.* Or: [pull flat and straight *from the bottom up.*](https://sketchplanations.com/peel-a-post-it)",
+                    "url": "https://sketchplanations.com/peel-a-post-it"
                 },
                 {
                     "tags": "",
@@ -268,17 +302,6 @@
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
                     "name": "牙膏、洗面乳等用罄時，使用剪刀將軟管瓶身剪開，將可以再多使用 3-5 次！",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "💡 On \"Miscellaneous\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "👑 Life Pro Tip",
-                    "priority": "None",
-                    "name": "Write on a Post-it® note affixed to a greeting card rather than on the greeting card itself, so the recipient can throw away the Post-it® and reuse your card. (Employ similar logic for any disposable/consumable item.)",
                     "url": ""
                 },
                 {
@@ -559,7 +582,7 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "💡 On \"Work\"",
+                    "parent_reminder": "💡 On \"Careers & Work\"",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -570,7 +593,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💡 On \"Work\"",
+                    "parent_reminder": "💡 On \"Careers & Work\"",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -578,13 +601,24 @@
                     "priority": "None",
                     "name": "Use an exercise ball or a kneeling chair, instead of an office chair with wheels at work, to maintain a better posture",
                     "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Careers & Work\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "[No matter how much your workplace pushes \"team building\" and \"family culture\" - remember, they're not your friends and it's still a workplace.](https://www.reddit.com/r/LifeProTips/comments/k3ywxq/lpt_no_matter_how_much_your_workplace_pushes_team)",
+                    "url": "https://www.reddit.com/r/LifeProTips/comments/k3ywxq/lpt_no_matter_how_much_your_workplace_pushes_team"
                 }
             ],
             "flagged": false,
             "list": "👑 Life Pro Tip",
             "priority": "None",
             "tags": "",
-            "name": "💡 On \"Work\""
+            "name": "💡 On \"Careers & Work\""
         },
         {
             "url": "",
@@ -601,6 +635,17 @@
                     "priority": "None",
                     "name": "[When assembling furniture, first tighten all screws to 75%, then fully secure them once all components fit together. This principle extends beyond furniture.](https://perell.com/note/28-pieces-of-life-advice/)",
                     "url": "https://perell.com/note/28-pieces-of-life-advice/"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Home\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "[How to make pillows out of blankets?](https://www.reddit.com/r/lifehacks/s/PEescdRSx4)",
+                    "url": "https://www.reddit.com/r/lifehacks/s/PEescdRSx4"
                 },
                 {
                     "tags": "",
@@ -721,7 +766,18 @@
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "Do not scan the inbox on Friday evening or over the weekend if you might encounter work problems that cannot be addressed properly until Monday",
+                    "name": "Do not scan the inbox on Friday evening or over the weekend if you might encounter work problems that cannot be addressed properly until Monday.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Email & Phone/Video Call\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "Do not e-mail first thing in the morning or last thing at night. The former scrambles your priorities and plans for the day, and the latter just gives you insomnia.",
                     "url": ""
                 },
                 {
@@ -754,7 +810,7 @@
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "If you're stuck on an annoying call, put your phone on airplane mode instead of just hanging up. The other person will see \"call failed\" instead of \"call ended\"",
+                    "name": "If you're stuck on an annoying call, put your phone on airplane mode instead of just hanging up. The other person will see \"call failed\" instead of \"call ended.\"",
                     "url": ""
                 },
                 {
@@ -787,7 +843,7 @@
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "Make phone calls as walking meetings in the sun",
+                    "name": "Make phone calls as walking meetings in the sun.",
                     "url": ""
                 },
                 {
@@ -800,6 +856,17 @@
                     "priority": "None",
                     "name": "Whenever you are on a Zoom call, put your headphones or AirPods in, then open up YouTube, and find an ambient soundtrack that you play at 5% volume (e.g., [Lord of the Rings ambience](https://www.youtube.com/watch?v=30b7_S0paCQ&ab_channel=AmbientWorlds), [Harry Potter ambience](https://www.youtube.com/watch?v=pQdTu0IeVho&ab_channel=AmbientWorlds), etc.). This way, as you are taking the call, there’s a soft, inspiring soundtrack playing in the background. The soundtrack makes anything anyone says feel more relaxed, more warm, and more energizing.",
                     "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Email & Phone/Video Call\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "[When asking for a favor over email, lead with the request and save the small talk for later. It feels much more sincere when the pleasantries come after the ask.](https://mariandrew.substack.com/p/100-things-i-know)",
+                    "url": "https://mariandrew.substack.com/p/100-things-i-know"
                 }
             ],
             "flagged": false,
@@ -973,7 +1040,7 @@
                     "tags": "",
                     "parent_reminder": "💡 On \"Buying Things\"",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "Time is an ally of good decisions and an enemy of bad ones.",
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
@@ -1101,6 +1168,17 @@
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
+                    "name": "When someone asks, “Do you want a boy or a girl?” avoid the cliché response, “As long as the baby’s healthy.” It can unintentionally dismiss the experiences of parents with children who face health challenges. A simple, lighthearted answer like “We’re hoping for a girl!” keeps things positive without being insensitive.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Social Interaction\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
                     "name": "Playing is the opposite of fighting. If you find yourself stuck in a circular argument, try suggesting a role reversal: “I’ll argue your point, and you argue mine.” Not only does this foster empathy, but it also injects humor and lightens the mood in a tense situation.",
                     "url": ""
                 },
@@ -1145,7 +1223,7 @@
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "發表主觀意見時，可以在語末加上 “IMO” or “If that makes (any) sense” or “Tell me if you disagree”",
+                    "name": "發表主觀意見時，可以在語末加上 “IMO” or “If that makes (any) sense.” or “Feel free to disagree with me.” or “Correct me if I’m wrong.”",
                     "url": ""
                 },
                 {
@@ -1196,11 +1274,11 @@
                     "tags": "",
                     "parent_reminder": "💡 On \"Social Interaction\"",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "People shaming others for being ignorant are often the most ignorant because they are ignorant of their own ignorance.",
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "When people mock you for not having an opinion on trending events, and label you as ignorant, start asking them about the current situation in Djibouti (吉布地，一個位於非洲東北部的國家) or Eswatini (史瓦帝尼，一個位於非洲南部的國家). It will reveal they aren't up to date on the current situation in those countries - but that they also didn't even know those countries existed. Peak ignorance. → \"People shaming others for being ignorant are often the most ignorant because they are ignorant of their own ignorance.\"",
+                    "name": "When people mock you for not having an opinion on trending events, and label you as ignorant, start asking them about the current situation in Djibouti (吉布地，一個位於非洲東北部的國家) or Eswatini (史瓦帝尼，一個位於非洲南部的國家). It will reveal they aren't up to date on the current situation in those countries - but that they also didn't even know those countries existed. Peak ignorance.",
                     "url": ""
                 },
                 {
@@ -1251,7 +1329,7 @@
                     "tags": "",
                     "parent_reminder": "💡 On \"Social Interaction\"",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "天下無不散的筵席，離別是為了下一次更好的相遇/重逢",
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
@@ -1279,6 +1357,39 @@
                     "priority": "None",
                     "name": "“What's your favorite TY show/book/movie?” → “What's the TV show you are into _recently_?”, “What's the _last_ book you read?”, “What's the movie you are _currently enjoying most_?”",
                     "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Social Interaction\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "[It takes extreme strength and courage to be a consistently kind person in a world that rewards selfishness. Make sure to thank people who demonstrate kindness. They are choosing the hard, selfless route in order to make the world a better place for everyone.](https://www.reddit.com/r/LifeProTips/comments/1107h0s/lpt_it_takes_extreme_strength_and_courage_to_be_a)",
+                    "url": "https://www.reddit.com/r/LifeProTips/comments/1107h0s/lpt_it_takes_extreme_strength_and_courage_to_be_a"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Social Interaction\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "[Kids love absurd questions. If you want to connect with them, ask something totally grown-up—like “What kind of car do you drive?” or “So, what do you do for work?” They’ll crack up, and the more you continue the bit, the more they will loosen up with you.](https://mariandrew.substack.com/p/100-things-i-know)",
+                    "url": "https://mariandrew.substack.com/p/100-things-i-know"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Social Interaction\"",
+                    "due_date": "",
+                    "notes": "[“The way to help someone is not to critique what makes them smaller, but to encourage what makes them larger.” — James Clear](https://jamesclear.com/3-2-1/march-20-2025)",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "[The quickest way to alienate someone is to tell them they need to change. If you truly want to influence/castigate someone’s behavior, the most effective approach is to praise/compliment them when they do something you value — not to criticize them when they don’t.](http://www.youtube.com/watch?v=KyfUysrNaco&t=1h33m3s)",
+                    "url": "http://www.youtube.com/watch?v=KyfUysrNaco&t=1h33m3s"
                 }
             ],
             "flagged": false,
@@ -1623,6 +1734,17 @@
                     "priority": "None",
                     "name": "Separate time for experiencing the present from time for reflecting on memories, and post on social media only when reviewing photos back home, as we remember life more effectively not by taking more pictures, but by revisiting (and deleting) them.",
                     "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Life Wisdom/Lesson\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "[Each path is unique. Remind yourself of this by reading _memoirs_ and _biographies_. If you ever feel like you’re straying from the common route, these books will reassure you that you’re carving out your own distinct journey.](https://mariandrew.substack.com/p/100-things-i-know)",
+                    "url": "https://mariandrew.substack.com/p/100-things-i-know"
                 }
             ],
             "flagged": false,
@@ -1778,8 +1900,41 @@
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
+                    "name": "Skip the boarding line and board the plane last. Ignoring your assigned group is perfectly okay—as long as you have a seat, you’re not missing anything. You’ll avoid the crowded jetway, reduce the time you spend stuck in your seat, and have an easier time navigating the aisle without a line of people behind you. Plus, it gives you a chance to stretch and relax a little longer before the flight.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Traveling\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
                     "name": "[Wearing the travel pillow with the bulk of the cushion at the front (i.e., positioning the snap enclosure at the back) provides better support for the chin, lower jaw, neck, and head, enhancing overall comfort.](https://www.tiktok.com/@sidneyraz/video/6982254638443531525)",
                     "url": "https://www.tiktok.com/@sidneyraz/video/6982254638443531525"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Traveling\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "[Coming back from a trip can feel like you’ve aged a century. Before you head out, tuck a bottle of sparkling water in the fridge and stash a frozen pizza in the freezer—your future, travel-weary self will be deeply touched by your foresight.](https://mariandrew.substack.com/p/100-things-i-know)",
+                    "url": "https://mariandrew.substack.com/p/100-things-i-know"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Traveling\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "[Learn some geography—it makes travel conversations so much richer when you know where different countries are located (and as a bonus, which languages are spoken there!). Understanding the geography and languages of places like Africa, Eastern Europe, and India has completely transformed my interactions—people really light up when you show you understand where they’re from.\n(Americans: yes, knowing those middle states works the same magic 😉)](https://mariandrew.substack.com/p/100-things-i-know)",
+                    "url": "https://mariandrew.substack.com/p/100-things-i-know"
                 }
             ],
             "flagged": false,
@@ -1938,6 +2093,17 @@
                     "priority": "None",
                     "name": "🥗 Shake your salad back and forth in its container before eating. This helps distribute the dressing evenly, so you use less while still getting great flavor in every bite.",
                     "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Eating\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "[Take cucumbers on your hike, bike ride, or any strenuous activity! Packed with 96% water, they’re a refreshing, hydrating boost when you need it most.](https://mariandrew.substack.com/p/100-things-i-know)",
+                    "url": "https://mariandrew.substack.com/p/100-things-i-know"
                 }
             ],
             "flagged": false,

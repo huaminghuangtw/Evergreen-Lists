@@ -26,6 +26,28 @@
                     "priority": "None",
                     "name": "Cmd + Shift + .",
                     "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Apple Notes",
+                    "due_date": "",
+                    "notes": "Show or hide highlights in a shared note",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Ctrl + Cmd + I",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Apple Notes",
+                    "due_date": "",
+                    "notes": "Show or hide the activity list in a shared note",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Ctrl + Cmd + K",
+                    "url": ""
                 }
             ],
             "flagged": false,
@@ -148,6 +170,17 @@
                     "priority": "None",
                     "name": "Cmd + Shift + /",
                     "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Apple Reminders",
+                    "due_date": "",
+                    "notes": "While editing: Save/exit editing the reminder; While not editing: Mark reminder as complete\n—\n1. When editing a reminder (e.g., you’ve clicked into it to change the text), `Cmd` + `Enter` will end editing — it finalizes your changes and exits the editing mode (kind of feels like “selecting” or saving the text).\n2. When not editing (e.g., you're just navigating or viewing reminders), `Cmd` + `Enter` will select all text and enter the editing mode.",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + Enter",
+                    "url": ""
                 }
             ],
             "flagged": false,
@@ -208,7 +241,7 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
+                    "parent_reminder": "◻️ VS Code",
                     "due_date": "",
                     "notes": "Go to function definition",
                     "flagged": false,
@@ -219,7 +252,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
+                    "parent_reminder": "◻️ VS Code",
                     "due_date": "",
                     "notes": "Comment out current line/selected lines",
                     "flagged": false,
@@ -230,7 +263,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
+                    "parent_reminder": "◻️ VS Code",
                     "due_date": "",
                     "notes": "Select word or next occurrence",
                     "flagged": false,
@@ -241,7 +274,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
+                    "parent_reminder": "◻️ VS Code",
                     "due_date": "",
                     "notes": "Insert line below",
                     "flagged": false,
@@ -252,7 +285,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
+                    "parent_reminder": "◻️ VS Code",
                     "due_date": "",
                     "notes": "Open the Find and Replace dialog",
                     "flagged": false,
@@ -263,7 +296,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
+                    "parent_reminder": "◻️ VS Code",
                     "due_date": "",
                     "notes": "Show/Hide Terminal",
                     "flagged": false,
@@ -274,7 +307,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
+                    "parent_reminder": "◻️ VS Code",
                     "due_date": "",
                     "notes": "Create a new Terminal window",
                     "flagged": false,
@@ -285,7 +318,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
+                    "parent_reminder": "◻️ VS Code",
                     "due_date": "",
                     "notes": "Fold/Collapse open items",
                     "flagged": false,
@@ -296,7 +329,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
+                    "parent_reminder": "◻️ VS Code",
                     "due_date": "",
                     "notes": "Unfold/Expand closed items",
                     "flagged": false,
@@ -307,7 +340,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
+                    "parent_reminder": "◻️ VS Code",
                     "due_date": "",
                     "notes": "View all available keyboard shortcuts",
                     "flagged": false,
@@ -318,7 +351,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
+                    "parent_reminder": "◻️ VS Code",
                     "due_date": "",
                     "notes": "Toggle Zen mode (View > Appearance > Zen Mode/Centered Layout)",
                     "flagged": false,
@@ -329,7 +362,18 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
+                    "parent_reminder": "◻️ VS Code",
+                    "due_date": "",
+                    "notes": "Close all editors",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + K W",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ VS Code",
                     "due_date": "",
                     "notes": "Select current line",
                     "flagged": false,
@@ -340,7 +384,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
+                    "parent_reminder": "◻️ VS Code",
                     "due_date": "",
                     "notes": "Toggle primary sidebar",
                     "flagged": false,
@@ -351,7 +395,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
+                    "parent_reminder": "◻️ VS Code",
                     "due_date": "",
                     "notes": "Toggle secondary sidebar",
                     "flagged": false,
@@ -362,7 +406,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
+                    "parent_reminder": "◻️ VS Code",
                     "due_date": "",
                     "notes": "Go to file",
                     "flagged": false,
@@ -373,7 +417,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
+                    "parent_reminder": "◻️ VS Code",
                     "due_date": "",
                     "notes": "Insert line above",
                     "flagged": false,
@@ -384,7 +428,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
+                    "parent_reminder": "◻️ VS Code",
                     "due_date": "",
                     "notes": "Multi-cursor editing - it selects all matches in the current file to the currently highlighted text. Press \"ESC\" to disable it.\n—\nBonus: Install the “[Multiple Cursor Case Preserve](https://marketplace.visualstudio.com/items?itemName=Cardinal90.multi-cursor-case-preserve)” extension for Visual Studio Code. It ensures that when you’re editing text with multiple cursors, the case formatting—such as camelCase, UPPERCASE, or lowercase—is preserved. This is particularly useful when you need to rename variables or terms consistently without disrupting their original casing.",
                     "flagged": false,
@@ -395,7 +439,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
+                    "parent_reminder": "◻️ VS Code",
                     "due_date": "",
                     "notes": "Open command palette",
                     "flagged": false,
@@ -406,7 +450,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
+                    "parent_reminder": "◻️ VS Code",
                     "due_date": "",
                     "notes": "Open Search panel",
                     "flagged": false,
@@ -417,7 +461,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
+                    "parent_reminder": "◻️ VS Code",
                     "due_date": "",
                     "notes": "Open Explorer view",
                     "flagged": false,
@@ -428,7 +472,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
+                    "parent_reminder": "◻️ VS Code",
                     "due_date": "",
                     "notes": "Open Extensions marketplace",
                     "flagged": false,
@@ -439,7 +483,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
+                    "parent_reminder": "◻️ VS Code",
                     "due_date": "",
                     "notes": "Open Problems panel (for linting and errors)",
                     "flagged": false,
@@ -450,7 +494,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
+                    "parent_reminder": "◻️ VS Code",
                     "due_date": "",
                     "notes": "Switch between tabs",
                     "flagged": false,
@@ -461,7 +505,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
+                    "parent_reminder": "◻️ VS Code",
                     "due_date": "",
                     "notes": "Rename every occurrence of the same reference",
                     "flagged": false,
@@ -472,7 +516,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
+                    "parent_reminder": "◻️ VS Code",
                     "due_date": "",
                     "notes": "Put cursor on multiple lines simultaneously",
                     "flagged": false,
@@ -483,7 +527,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
+                    "parent_reminder": "◻️ VS Code",
                     "due_date": "",
                     "notes": "Move line up/down (reordering). Holding it with `Shift` will copy/duplicate the line as well.",
                     "flagged": false,
@@ -494,7 +538,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
+                    "parent_reminder": "◻️ VS Code",
                     "due_date": "",
                     "notes": "Duplicate the current line above/below",
                     "flagged": false,
@@ -505,7 +549,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
+                    "parent_reminder": "◻️ VS Code",
                     "due_date": "",
                     "notes": "Column/Box Selection: Select blocks of text by holding it while you drag your mouse.",
                     "flagged": false,
@@ -516,7 +560,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Code Editor",
+                    "parent_reminder": "◻️ VS Code",
                     "due_date": "",
                     "notes": "Remove unused imports, declarations, etc.",
                     "flagged": false,
@@ -524,13 +568,57 @@
                     "priority": "None",
                     "name": "Opt + Shift + O",
                     "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ VS Code",
+                    "due_date": "",
+                    "notes": "Split Editor Down (Vertical Split)",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + \\",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ VS Code",
+                    "due_date": "",
+                    "notes": "Split Editor Down (Horizontal Split)",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + K + \\",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ VS Code",
+                    "due_date": "",
+                    "notes": "Switch to a specific editor/tab by number",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Ctrl + [1-9]",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ VS Code",
+                    "due_date": "",
+                    "notes": "Pin/unpin editor/tab",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + K Shift + Enter",
+                    "url": ""
                 }
             ],
             "flagged": false,
             "list": "⌨️ Keyboard Hotkey",
             "priority": "None",
             "tags": "",
-            "name": "◻️ Code Editor"
+            "name": "◻️ VS Code"
         },
         {
             "url": "",
@@ -607,22 +695,22 @@
                     "tags": "",
                     "parent_reminder": "◻️ File Manager",
                     "due_date": "",
-                    "notes": "Duplicate selected item(s)",
+                    "notes": "Move the selected item to Trash",
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "Cmd + D",
+                    "name": "Cmd + Delete/Backspace",
                     "url": ""
                 },
                 {
                     "tags": "",
                     "parent_reminder": "◻️ File Manager",
                     "due_date": "",
-                    "notes": "Move the selected item to Trash",
+                    "notes": "Duplicate selected item(s)",
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "Cmd + Delete/Backspace",
+                    "name": "Cmd + D",
                     "url": ""
                 },
                 {
@@ -640,11 +728,22 @@
                     "tags": "",
                     "parent_reminder": "◻️ File Manager",
                     "due_date": "",
-                    "notes": "Open (or launch) the selected item",
+                    "notes": "Open (or launch) the selected item, just like double-clicking it",
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
                     "name": "Cmd + O",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ File Manager",
+                    "due_date": "",
+                    "notes": "Open the Info window for the selected item",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + I",
                     "url": ""
                 },
                 {
@@ -795,6 +894,17 @@
                     "tags": "",
                     "parent_reminder": "◻️ macOS",
                     "due_date": "",
+                    "notes": "Lets you look up a dictionary definition for the word you hover over with the cursor (no need to select it)",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + Ctrl + D",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ macOS",
+                    "due_date": "",
                     "notes": "Snip the full screen and copy the screenshot to clipboard",
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
@@ -872,7 +982,7 @@
                     "tags": "",
                     "parent_reminder": "◻️ macOS",
                     "due_date": "",
-                    "notes": "Open the Screenshot app (to e.g., record screen)",
+                    "notes": "Open the Screenshot app (to e.g., record screen). This is where you can select/change the default folder/location where screenshots are saved.",
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
@@ -1094,6 +1204,17 @@
                     "tags": "",
                     "parent_reminder": "◻️ Terminal",
                     "due_date": "",
+                    "notes": "Jump forward by a word",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Opt + F",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Terminal",
+                    "due_date": "",
                     "notes": "Jump backward by a word",
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
@@ -1111,17 +1232,6 @@
                     "priority": "None",
                     "name": "Opt + D",
                     "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "◻️ Terminal",
-                    "due_date": "",
-                    "notes": "Jump forward by a word",
-                    "flagged": false,
-                    "list": "⌨️ Keyboard Hotkey",
-                    "priority": "None",
-                    "name": "Opt + F",
-                    "url": ""
                 }
             ],
             "flagged": false,
@@ -1137,7 +1247,7 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Web Browser",
+                    "parent_reminder": "◻️ Web Browser (Microsoft Edge)",
                     "due_date": "",
                     "notes": "Go back a page",
                     "flagged": false,
@@ -1148,7 +1258,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Web Browser",
+                    "parent_reminder": "◻️ Web Browser (Microsoft Edge)",
                     "due_date": "",
                     "notes": "Go forward a page",
                     "flagged": false,
@@ -1159,7 +1269,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Web Browser",
+                    "parent_reminder": "◻️ Web Browser (Microsoft Edge)",
                     "due_date": "",
                     "notes": "Open link in a new tab",
                     "flagged": false,
@@ -1170,7 +1280,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Web Browser",
+                    "parent_reminder": "◻️ Web Browser (Microsoft Edge)",
                     "due_date": "",
                     "notes": "Save the current tab as a favorite (i.e., bookmark the current tab)",
                     "flagged": false,
@@ -1181,7 +1291,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Web Browser",
+                    "parent_reminder": "◻️ Web Browser (Microsoft Edge)",
                     "due_date": "",
                     "notes": "Select address bar (to edit URL)",
                     "flagged": false,
@@ -1192,7 +1302,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Web Browser",
+                    "parent_reminder": "◻️ Web Browser (Microsoft Edge)",
                     "due_date": "",
                     "notes": "Open a new window",
                     "flagged": false,
@@ -1203,7 +1313,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Web Browser",
+                    "parent_reminder": "◻️ Web Browser (Microsoft Edge)",
                     "due_date": "",
                     "notes": "Normal reload/refresh a web page",
                     "flagged": false,
@@ -1214,7 +1324,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Web Browser",
+                    "parent_reminder": "◻️ Web Browser (Microsoft Edge)",
                     "due_date": "",
                     "notes": "Show/Hide the Favorites bar",
                     "flagged": false,
@@ -1225,7 +1335,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Web Browser",
+                    "parent_reminder": "◻️ Web Browser (Microsoft Edge)",
                     "due_date": "",
                     "notes": "Show/Hide toolbar in full screen mode",
                     "flagged": false,
@@ -1236,7 +1346,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Web Browser",
+                    "parent_reminder": "◻️ Web Browser (Microsoft Edge)",
                     "due_date": "",
                     "notes": "Open a new InPrivate (無痕模式/私密瀏覽) window",
                     "flagged": false,
@@ -1247,7 +1357,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Web Browser",
+                    "parent_reminder": "◻️ Web Browser (Microsoft Edge)",
                     "due_date": "",
                     "notes": "Hard reload/refresh a web page",
                     "flagged": false,
@@ -1258,7 +1368,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Web Browser",
+                    "parent_reminder": "◻️ Web Browser (Microsoft Edge)",
                     "due_date": "",
                     "notes": "Reopen the last closed tab",
                     "flagged": false,
@@ -1269,7 +1379,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Web Browser",
+                    "parent_reminder": "◻️ Web Browser (Microsoft Edge)",
                     "due_date": "",
                     "notes": "Show/Hide Collections",
                     "flagged": false,
@@ -1280,7 +1390,29 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Web Browser",
+                    "parent_reminder": "◻️ Web Browser (Microsoft Edge)",
+                    "due_date": "",
+                    "notes": "Show/Hide Downloads",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + Opt + L",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Web Browser (Microsoft Edge)",
+                    "due_date": "",
+                    "notes": "Open History",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + Y",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Web Browser (Microsoft Edge)",
                     "due_date": "",
                     "notes": "Open a new tab",
                     "flagged": false,
@@ -1291,18 +1423,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Web Browser",
-                    "due_date": "",
-                    "notes": "Close the current tab/window",
-                    "flagged": false,
-                    "list": "⌨️ Keyboard Hotkey",
-                    "priority": "None",
-                    "name": "Cmd + W",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "◻️ Web Browser",
+                    "parent_reminder": "◻️ Web Browser (Microsoft Edge)",
                     "due_date": "",
                     "notes": "Close the current window",
                     "flagged": false,
@@ -1313,7 +1434,29 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Web Browser",
+                    "parent_reminder": "◻️ Web Browser (Microsoft Edge)",
+                    "due_date": "",
+                    "notes": "Close the current window, along with all its tabs",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + Shift + W",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Web Browser (Microsoft Edge)",
+                    "due_date": "",
+                    "notes": "Close the current window",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + W",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Web Browser (Microsoft Edge)",
                     "due_date": "",
                     "notes": "捲動網頁",
                     "flagged": false,
@@ -1324,7 +1467,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Web Browser",
+                    "parent_reminder": "◻️ Web Browser (Microsoft Edge)",
                     "due_date": "",
                     "notes": "Moves to the next tab (rightward)\n—\nNote that `Ctrl` + `Tab` might follow **recently used order** depending on browser settings, while `Opt` + `Cmd` + `[Right-Arrow]` always moves tabs in **linear/sequential order**.",
                     "flagged": false,
@@ -1335,7 +1478,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Web Browser",
+                    "parent_reminder": "◻️ Web Browser (Microsoft Edge)",
                     "due_date": "",
                     "notes": "Moves to the previous tab (leftward)\n—\nNote that `Ctrl` + `Shift ` + `Tab` might follow **recently used order** depending on browser settings, while `Opt` + `Cmd` + `[Left-Arrow]` always moves tabs in **linear/sequential order**.",
                     "flagged": false,
@@ -1346,7 +1489,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Web Browser",
+                    "parent_reminder": "◻️ Web Browser (Microsoft Edge)",
                     "due_date": "",
                     "notes": "Moves to the next tab (rightward)\n—\nNote that `Opt` + `Cmd` + `[Right-Arrow]` always moves tabs in **linear/sequential order**, while `Ctrl` + `Tab` might follow **recently used order** depending on browser settings.",
                     "flagged": false,
@@ -1357,7 +1500,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Web Browser",
+                    "parent_reminder": "◻️ Web Browser (Microsoft Edge)",
                     "due_date": "",
                     "notes": "Moves to the previous tab (leftward)\n—\nNote that `Opt` + `Cmd` + `[Left-Arrow]` always moves tabs in **linear/sequential order**, while `Ctrl` + `Shift` + `Tab` might follow **recently used order** depending on browser settings.",
                     "flagged": false,
@@ -1371,7 +1514,7 @@
             "list": "⌨️ Keyboard Hotkey",
             "priority": "None",
             "tags": "",
-            "name": "◻️ Web Browser"
+            "name": "◻️ Web Browser (Microsoft Edge)"
         },
         {
             "url": "",
@@ -1419,7 +1562,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "Ctrl  + ←/→",
+                    "name": "Opt  + ←/→",
                     "url": ""
                 },
                 {

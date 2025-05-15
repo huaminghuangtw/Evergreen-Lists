@@ -43,7 +43,7 @@
                     "tags": "",
                     "parent_reminder": "🤔 On \"Good Evening\"",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "[\"Success is largely the failures you avoid. Health is the injuries you don't sustain. Wealth is the purchases you don't make. Happiness is the objects you don't desire. Peace of mind is the arguments you don't engage. Avoid the bad to protect the good.\" — James Clear](https://jamesclear.com/3-2-1/march-27-2025)",
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
@@ -568,6 +568,17 @@
                     "list": "💭 Journal Prompt",
                     "priority": "None",
                     "name": "How can the work I am doing accumulate and layer on top of what I did previously?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Productivity\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "How can I win the day by noon?",
                     "url": ""
                 }
             ],
@@ -2416,17 +2427,6 @@
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
-                    "name": "What can I serve for the world?",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "💭 Journal Prompt",
-                    "priority": "None",
                     "name": "In my professional life, who do I admire most? In my personal life, who do I admire most?",
                     "url": ""
                 },
@@ -2880,6 +2880,39 @@
                     "priority": "None",
                     "name": "What did I gain by not having what I needed?",
                     "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What mastery or gift have I developed that I can offer to the world?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What mastery or gift have I developed that I can offer to the world?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "due_date": "",
+                    "notes": "[“The purpose of life is to discover your gift. The work of life is to develop it. The meaning of life is to give your gift away.” ― David Viscott](https://www.goodreads.com/quotes/7407260-the-purpose-of-life-is-to-discover-your-gift-the)",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What mastery or gift have I developed that I can offer to the world?",
+                    "url": ""
                 }
             ],
             "flagged": false,
@@ -2936,6 +2969,28 @@
                     "priority": "None",
                     "name": "Which distractions in my life have become disguised as priorities?",
                     "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Life\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "If a competent CEO got to run my life for a day, what is the first thing they would eliminate?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Life\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What hard lesson keeps repeating itself in my life because I refuse to learn it?",
+                    "url": ""
                 }
             ],
             "flagged": false,
@@ -2979,7 +3034,7 @@
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
-                    "name": "What did I change my mind on this year?",
+                    "name": "What did/didn't I change my mind on this year?",
                     "url": ""
                 },
                 {
@@ -2991,6 +3046,17 @@
                     "list": "💭 Journal Prompt",
                     "priority": "None",
                     "name": "What were my greatest hits and worst misses this year?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "How far have I come this year? Who do I want to become next year?",
                     "url": ""
                 },
                 {
@@ -3227,7 +3293,29 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Personal Growth\"",
+                    "parent_reminder": "🤔 On \"Self-Reflection\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "Better waves make better surfers. Am I on the right beach?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Self-Reflection\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "Who do I secretly envy—and what does that reveal about what I truly value?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Self-Reflection\"",
                     "due_date": "",
                     "notes": "“To each, there comes in their lifetime a special moment when they are figuratively tapped on the shoulder and offered the chance to do a very special thing. What a tragedy if that moment finds them unprepared.” — Winston Churchill",
                     "flagged": false,
@@ -3238,7 +3326,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Personal Growth\"",
+                    "parent_reminder": "🤔 On \"Self-Reflection\"",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3249,7 +3337,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Personal Growth\"",
+                    "parent_reminder": "🤔 On \"Self-Reflection\"",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3260,7 +3348,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Personal Growth\"",
+                    "parent_reminder": "🤔 On \"Self-Reflection\"",
                     "due_date": "",
                     "notes": "Remember: it's not my responsibility to change the narrative that other people have about me.",
                     "flagged": false,
@@ -3268,13 +3356,79 @@
                     "priority": "None",
                     "name": "Am I allowing their narrative to impact my life?",
                     "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Self-Reflection\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What will I regret not having done or learned 10 years from now?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Self-Reflection\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What trade-offs am I willing to make — or no longer willing to make?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Self-Reflection\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What is something I deeply believe but rarely live out?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Self-Reflection\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "Where am I outsourcing responsibility for my happiness? How can I start taking it back?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Self-Reflection\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What self-imposed sentence are you serving that you need to let go of?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Self-Reflection\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What would I ask for if I wasn’t afraid of hearing no?",
+                    "url": ""
                 }
             ],
             "flagged": false,
             "list": "💭 Journal Prompt",
             "priority": "None",
             "tags": "",
-            "name": "🤔 On \"Personal Growth\""
+            "name": "🤔 On \"Self-Reflection\""
         }
     ]
 }

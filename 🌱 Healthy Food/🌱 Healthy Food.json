@@ -54,7 +54,7 @@
                     "tags": "",
                     "parent_reminder": "🫛 Legumes (荚豆)",
                     "due_date": "",
-                    "notes": "+ DE: Kichererbsen\n+ For baking, the liquid found in a can of chickpeas is known as **aquafaba** and serves as an excellent substitute for eggs.\n    + Approximately 3 tablespoons of aquafaba equate to one egg, 2 tablespoons are equivalent to one egg white, and 1 tablespoon is roughly equal to one egg yolk.",
+                    "notes": "+ DE: Kichererbsen\n+ For baking, the liquid found in a can of chickpeas is known as **aquafaba** and serves as an excellent substitute for eggs. Approximately 3 tablespoons of aquafaba equate to one egg, 2 tablespoons are equivalent to one egg white, and 1 tablespoon is roughly equal to one egg yolk.",
                     "flagged": false,
                     "list": "🌱 Healthy Food",
                     "priority": "None",
@@ -77,12 +77,23 @@
                     "tags": "",
                     "parent_reminder": "🌰 Nuts",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "DE: Esskastanie / Maroni",
                     "flagged": false,
                     "list": "🌱 Healthy Food",
                     "priority": "None",
-                    "name": "[Chestnuts](https://www.google.com/search?q=Chestnuts) 栗子",
-                    "url": "https://www.google.com/search?q=Chestnuts"
+                    "name": "[Chestnut](https://www.google.com/search?q=Chestnuts) 栗子",
+                    "url": "https://www.google.com/search?q=Chestnut"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🌰 Nuts",
+                    "due_date": "",
+                    "notes": "DE: Haselnuss",
+                    "flagged": false,
+                    "list": "🌱 Healthy Food",
+                    "priority": "None",
+                    "name": "[Hazelnut](https://www.google.com/search?q=Hazelnut)",
+                    "url": "https://www.google.com/search?q=Hazelnut"
                 }
             ],
             "flagged": false,
