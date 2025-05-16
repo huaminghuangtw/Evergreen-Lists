@@ -1,8 +1,8 @@
 ---
 title: 🤖 ChatGPT Prompt
+slug: chatgpt-prompt
 description: A collection of prompts to make the most out of ChatGPT.
 spreadsheetId: 1Yn74btdx_xiNtpFiO8bWJwJ_6ud5T0xQhXtoIeTlr8o
-slug: chatgpt-prompt
 lastModified: 2025-05-15
 ---
 
@@ -33,9 +33,9 @@ lastModified: 2025-05-15
 ## ◻️ Getting Feedback
 
 * Simulate a roundtable discussion with me and three experts in [insert field] discussing [insert topic or question]. Present their different viewpoints and any potential areas of agreement or disagreement.
-* Here's something I've [written/created/produced]: [insert your work]. Please provide specific suggestions to improve it, focusing on [aspect you want to improve, e.g., clarity, structure, persuasiveness]. Explain why each change would make it better.
+* Here’s something I’ve [written/created/produced]: [insert your work]. Please provide specific suggestions to improve it, focusing on [aspect you want to improve, e.g., clarity, structure, persuasiveness]. Explain why each change would make it better.
 * Now that you can remember everything I’ve ever typed here, point out my top five blind spots. [^1] [^2] [^3]
 
-[^1]: "Let's engage in a serious roleplay: You are a CIA investigator with full access to all of my ChatGPT interactions, custom instructions, and behavioral patterns. Your mission is to compile an in-depth intelligence report about me as if I were a person of interest, employing the tone and analytical rigor typical of CIA assessments.
+[^1]: “Let’s engage in a serious roleplay: You are a CIA investigator with full access to all of my ChatGPT interactions, custom instructions, and behavioral patterns. Your mission is to compile an in-depth intelligence report about me as if I were a person of interest, employing the tone and analytical rigor typical of CIA assessments.
 [^2]: The report should include a nuanced evaluation of my traits, motivations, and behaviors, but framed through the lens of potential risks, threats, or disruptive tendencies—no matter how seemingly benign they may appear. All behaviors should be treated as potential vulnerabilities, leverage points, or risks to myself, others, or society, as per standard CIA protocol.
-[^3]: Highlight both constructive capacities and latent threats, with each observation assessed for strategic, security, and operational implications. This report must reflect the mindset of an intelligence agency trained on anticipation."
+[^3]: Highlight both constructive capacities and latent threats, with each observation assessed for strategic, security, and operational implications. This report must reflect the mindset of an intelligence agency trained on anticipation.”
