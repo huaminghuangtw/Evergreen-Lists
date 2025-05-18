@@ -1,9 +1,9 @@
 ---
 title: 💪 Home Exercise
-slug: home-exercise
 description: Simple yet effective exercises you can do at home to stay fit and healthy without any equipment.
 spreadsheetId: 1zLI8WqN8xXwbVNBXzU5ixzw688tuBsivD9-SyyTTNbk
-lastModified: 2025-05-16
+slug: home-exercise
+lastModified: 2025-05-18
 ---
 
 ## 🟠 Upper Body
@@ -15,12 +15,14 @@ lastModified: 2025-05-16
 * [Sky Diver Push-Ups](https://www.google.com/search?q=Sky+Diver+Push-Ups) 飛機式伏地挺身
 * [Elbow Clicks](https://www.google.com/search?q=Elbow+Clicks)
 * [Backfists](https://www.google.com/search?q=Backfists)
+* Burpees
+* Knife Hand Strikes
 
 ## 🟠 Lower Body
 
 * [Hop Heel Clicks](https://www.google.com/search?q=Hop+Heel+Clicks) 跳躍碰腳跟
 * [March Steps](https://www.google.com/search?q=March%20Steps) 原地踏步
-* [Lateral Lunges](https://www.google.com/search?q=Lateral%20Lunges) 側弓箭步
+* [Lateral Lunges](https://www.google.com/search?q=Lateral%20Lunges) 側弓箭步 [^1]
 * [Archor Lunges](https://www.google.com/search?q=Archor%20Lunges) 定點弓箭步
 * [High Knees](https://www.google.com/search?q=High%20Knees) 高抬腿
 * [Butt Kicks](https://www.google.com/search?q=Butt%20Kicks) 後踢腿
@@ -39,8 +41,9 @@ lastModified: 2025-05-16
 * [Side Leg Raises](https://www.google.com/search?q=Side+Leg+Raises)
 * [Single Leg Deadlifts](https://www.google.com/search?q=Single+Leg+Deadlifts)
 * [30 Seconds Sumo Squat Hold](https://www.google.com/search?q=30+Seconds+Sumo+Squat+Hold)
-* [Jump Squats](https://www.google.com/search?q=Jump+Squats)
 * Heel Get-Ups
+* Burpees
+* Jumping Lunges
 
 ## 🟠 Core
 
@@ -50,7 +53,7 @@ lastModified: 2025-05-16
 * [Climber Taps](https://www.google.com/search?q=Climber+Taps) 登山者點擊
 * [左右交替摸腳踝](https://www.google.com/search?q=%E5%B7%A6%E5%8F%B3%E4%BA%A4%E6%9B%BF%E6%91%B8%E8%85%B3%E8%B8%9D)
 * [Body Saw Plank](https://www.google.com/search?q=Body%20Saw%20Plank) 滑行平板
-* [Knee Tucks](https://www.google.com/search?q=Knee%20Tucks) 抱膝 [^1]
+* [Knee Tucks](https://www.google.com/search?q=Knee%20Tucks) 抱膝 [^2]
 * [棒式側點腳](https://www.google.com/search?q=%E6%A3%92%E5%BC%8F%E5%81%B4%E9%BB%9E%E8%85%B3)
 * [Hollow Hold](https://www.google.com/search?q=Hollow+Hold) 抱膝捲腹
 * [Plank Walk-Outs](https://www.google.com/search?q=Plank+Walk-Outs)
@@ -74,6 +77,8 @@ lastModified: 2025-05-16
 * [Sit-Ups](https://www.google.com/search?q=Sit-Ups)
 * [One Arm Plank Hold](https://www.google.com/search?q=One+Arm+Plank+Hold)
 * Cross Crunches
+* Shoulder Taps
+* Elbow Plank Arm Raises
 
 ## 🟠 Stretching
 
@@ -84,15 +89,16 @@ lastModified: 2025-05-16
 
 ## 🟠 Yoga
 
-* [Reverse Table Top Pose](https://www.google.com/search?q=Reverse+Table+Top+Pose) 反向桌式 [^2]
-* [Pigeon Pose](https://www.google.com/search?q=Pigeon+Pose) [^3]
-* [Frog Pose](https://www.google.com/search?q=Frog+Pose) [^4]
-* [Corpse Pose](https://www.google.com/search?q=Corpse+Pose) [^5]
-* [Tree Pose](https://www.google.com/search?q=Tree+Pose) [^6]
+* [Reverse Table Top Pose](https://www.google.com/search?q=Reverse+Table+Top+Pose) 反向桌式 [^3]
+* [Pigeon Pose](https://www.google.com/search?q=Pigeon+Pose) [^4]
+* [Frog Pose](https://www.google.com/search?q=Frog+Pose) [^5]
+* [Corpse Pose](https://www.google.com/search?q=Corpse+Pose) [^6]
+* [Tree Pose](https://www.google.com/search?q=Tree+Pose) [^7]
 
-[^1]: Variations: Seated Knee Tucks, Jumping Knee Tucks
-[^2]: = Ardha Purvottanasana
-[^3]: = Kapotasana
-[^4]: = Mandukasana
-[^5]: = Savasana
-[^6]: = Vrikshasana
+[^1]: = Side-to-Side Lunges
+[^2]: Variations: Seated Knee Tucks, Jumping Knee Tucks
+[^3]: = Ardha Purvottanasana
+[^4]: = Kapotasana
+[^5]: = Mandukasana
+[^6]: = Savasana
+[^7]: = Vrikshasana

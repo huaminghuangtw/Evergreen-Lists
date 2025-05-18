@@ -81,6 +81,28 @@
                     "priority": "None",
                     "name": "[Backfists](https://www.google.com/search?q=Backfists)",
                     "url": "https://www.google.com/search?q=Backfists"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🟠 Upper Body",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💪 Home Exercise",
+                    "priority": "None",
+                    "name": "Burpees",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🟠 Upper Body",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💪 Home Exercise",
+                    "priority": "None",
+                    "name": "Knife Hand Strikes",
+                    "url": ""
                 }
             ],
             "flagged": false,
@@ -120,7 +142,7 @@
                     "tags": "",
                     "parent_reminder": "🟠 Lower Body",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "= Side-to-Side Lunges",
                     "flagged": false,
                     "list": "💪 Home Exercise",
                     "priority": "None",
@@ -333,8 +355,8 @@
                     "flagged": false,
                     "list": "💪 Home Exercise",
                     "priority": "None",
-                    "name": "[Jump Squats](https://www.google.com/search?q=Jump+Squats)",
-                    "url": "https://www.google.com/search?q=Jump+Squats"
+                    "name": "Heel Get-Ups",
+                    "url": ""
                 },
                 {
                     "tags": "",
@@ -344,7 +366,18 @@
                     "flagged": false,
                     "list": "💪 Home Exercise",
                     "priority": "None",
-                    "name": "Heel Get-Ups",
+                    "name": "Burpees",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🟠 Lower Body",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💪 Home Exercise",
+                    "priority": "None",
+                    "name": "Jumping Lunges",
                     "url": ""
                 }
             ],
@@ -687,6 +720,28 @@
                     "list": "💪 Home Exercise",
                     "priority": "None",
                     "name": "Cross Crunches",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🟠 Core",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💪 Home Exercise",
+                    "priority": "None",
+                    "name": "Shoulder Taps",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🟠 Core",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💪 Home Exercise",
+                    "priority": "None",
+                    "name": "Elbow Plank Arm Raises",
                     "url": ""
                 }
             ],

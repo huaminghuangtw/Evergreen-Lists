@@ -48,6 +48,61 @@
                     "priority": "None",
                     "name": "Ctrl + Cmd + K",
                     "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Apple Notes",
+                    "due_date": "",
+                    "notes": "Apply bulleted list format",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + Shift + 7",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Apple Notes",
+                    "due_date": "",
+                    "notes": "Apply numbered list format",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + Shift + 9",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Apple Notes",
+                    "due_date": "",
+                    "notes": "Apply checklist format",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + Shift + L",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Apple Notes",
+                    "due_date": "",
+                    "notes": "Apply heading format",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + Shift + H",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Apple Notes",
+                    "due_date": "",
+                    "notes": "Apply subheading format",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + Shift + J",
+                    "url": ""
                 }
             ],
             "flagged": false,
@@ -1441,17 +1496,6 @@
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
                     "name": "Cmd + Shift + W",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "◻️ Web Browser (Microsoft Edge)",
-                    "due_date": "",
-                    "notes": "Close the current window",
-                    "flagged": false,
-                    "list": "⌨️ Keyboard Hotkey",
-                    "priority": "None",
-                    "name": "Cmd + W",
                     "url": ""
                 },
                 {

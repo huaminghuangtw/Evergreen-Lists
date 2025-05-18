@@ -3,10 +3,10 @@ title: 📱 Shortcuts Dev Tip
 slug: shortcuts-dev-tip
 description: Handy tips and techniques for developing Apple Shortcuts, gained through hands-on experience.
 spreadsheetId: 1H0o1QxZfrUhuOyMZUY1Ey8D6jONob1es6K_qrLnUgG8
-lastModified: 2025-05-15
+lastModified: 2025-05-18
 ---
 
-## 💁‍♂️ Keyboard hotkeys (macOS)
+## 💁‍♂️ Keyboard Hotkeys (macOS)
 
 * Cmd + ↑/↓ [^1]
 * Cmd + D [^2]
@@ -18,15 +18,15 @@ lastModified: 2025-05-15
 * Cmd + Shift + R [^8]
 * Cmd + Shift + S [^9]
 
-## 💁‍♂️ Tricks to minimize # of actions used
+## 💁‍♂️ Tricks To Minimize # Of Actions Used
 
 * When using “Set Dictionary Value” to create a dictionary, you can leave the dictionary field blank on the right instead of adding a separate “Dictionary” action and referencing it.
 
-## 💁‍♂️ Mistakes I have made
+## 💁‍♂️ Mistakes I Have Made
 
 * Using the ‘Match Text’ action with the regular anchor ^keyword provides more reliable results compared to using the built-in ‘Begins With ’ condition.
 
-## 💁‍♂️ Good practices
+## 💁‍♂️ Good Practices
 
 * Add a “Stop This Shortcut” action at the end of each shortcut to prevent unintended side effects, especially when dealing with conditional logic or automation.
 	* **Why It’s a Good Practice:**
