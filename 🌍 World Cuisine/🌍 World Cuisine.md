@@ -1,8 +1,8 @@
 ---
 title: 🌍 World Cuisine
+slug: world-cuisine
 description: Explore diverse and delicious recipes from around the globe to broaden your culinary horizons.
 spreadsheetId: 1igJQxFOBLpDtvf1wWkuCNi8KVaC10TJnkLGiVMApNEY
-slug: world-cuisine
 lastModified: 2025-05-18
 ---
 
@@ -21,12 +21,12 @@ lastModified: 2025-05-18
 * [Crêpe](https://www.google.com/search?q=Cr%C3%AApe) 可麗餅
 * [Pain au chocolat](https://www.google.com/search?q=Pain+au+chocolat) 巧克力麵包 [^2]
 * [Chocolatine](https://www.google.com/search?q=Chocolatine) 巧克力麵包 [^3]
-* [Paris-Brest](https://www.google.com/search?q=Paris-Brest) 巴黎-布雷斯特
+* [Paris-Brest](https://www.google.com/search?q=Paris-Brest) 巴黎 - 布雷斯特
 * [Soufflé](https://www.google.com/search?q=Souffl%C3%A9) 舒芙蕾
 * [Palmier](https://www.google.com/search?q=Palmier) 蝴蝶酥
 * [Croque Monsieur](https://www.google.com/search?q=Croque+Monsieur) 法式火腿起司三明治 [^4]
 
-## 🇳🇱 Netherlands
+## 🇳🇱 Netherlands
 
 * [Stroopwafels](https://www.google.com/search?q=Stroopwafels) 荷蘭焦糖煎餅
 
@@ -59,7 +59,7 @@ lastModified: 2025-05-18
 * [Gyros](https://www.google.com/search?q=Gyros) 希臘旋轉烤肉
 * [Souvlaki](https://www.google.com/search?q=Souvlaki) 希臘烤肉串
 
-## 🇲🇽 Mexico
+## 🇲🇽 Mexico
 
 * [Burrito](https://www.google.com/search?q=Burrito) 墨西哥捲餅 [^9]
 * [Taco](https://www.google.com/search?q=Taco) 塔可 [^10]
@@ -75,9 +75,9 @@ lastModified: 2025-05-18
 * [Patlican](https://www.google.com/search?q=Patlican) 茄子
 * [Kumpir](https://www.google.com/search?q=Kumpir) 烤馬鈴薯
 * [Pogača](https://www.google.com/search?q=Poga%C4%8Da) 土耳其麵包
-* [Döner-Kebap](https://www.google.com/search?q=D%C3%B6ner-Kebap)  土耳其烤肉 [^13]
+* [Döner-Kebap](https://www.google.com/search?q=D%C3%B6ner-Kebap) 土耳其烤肉 [^13]
 
-## 🇭🇺 Hungary
+## 🇭🇺 Hungary
 
 * [Kürtőskalács](https://www.google.com/search?q=K%C3%BCrt%C5%91skal%C3%A1cs) 煙囪捲
 
@@ -96,7 +96,7 @@ lastModified: 2025-05-18
 * [Chả Giò or Nem Rán](https://www.google.com/search?q=Ch%E1%BA%A3+Gi%C3%B2+or+Nem+R%C3%A1n) 越式炸春捲 [^15]
 * [Phở](https://www.google.com/search?q=Ph%E1%BB%9F) 河粉 [^16] [^17]
 
-## 🇯🇵 Japan
+## 🇯🇵 Japan
 
 * [Yakisoba](https://www.google.com/search?q=Yakisoba) 炒麵
 * [Kaeshi](https://www.google.com/search?q=Kaeshi) 醬汁
@@ -106,7 +106,7 @@ lastModified: 2025-05-18
 
 * [Raclette](https://www.google.com/search?q=Raclette) 烤起司
 
-## 🇮🇳 India
+## 🇮🇳 India
 
 * [Chapati](https://www.google.com/search?q=Chapati) 印度薄餅
 * [Naan](https://www.google.com/search?q=Naan) 烤餅
@@ -115,7 +115,7 @@ lastModified: 2025-05-18
 * [Masala Chia](https://www.google.com/search?q=Masala+Chia) 印度香料奶茶
 * [Garam Masala](https://www.google.com/search?q=Garam%C2%A0Masala) 綜合香料 [^20]
 
-## 🇧🇷 Brazil
+## 🇧🇷 Brazil
 
 * [Churrasco](https://www.google.com/search?q=Churrasco) 烤肉
 

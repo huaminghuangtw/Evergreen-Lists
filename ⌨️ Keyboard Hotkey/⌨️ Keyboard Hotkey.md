@@ -1,8 +1,8 @@
 ---
 title: ⌨️ Keyboard Hotkey
+slug: keyboard-hotkey
 description: A compilation of essential keyboard shortcuts to enhance productivity.
 spreadsheetId: 12UxNMk9LmNd8C0iGM_ssMv1ruUt_mJw-mw43bpm-wcE
-slug: keyboard-hotkey
 lastModified: 2025-05-18
 ---
 
@@ -33,7 +33,7 @@ lastModified: 2025-05-18
 | <kbd>Shift</kbd> + <kbd>Cmd</kbd> + <kbd>C</kbd> | Mark reminder as completed or incomplete |
 | <kbd>Shift</kbd> + <kbd>Cmd</kbd> + <kbd>F</kbd> | Flag or unflag reminder |
 | <kbd>Cmd</kbd> + <kbd>[List-Number]</kbd> | Go to pinned list. To find the number assigned to each list, choose View > Go To. |
-| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>/</kbd> | Open "Reminders User Guide" |
+| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>/</kbd> | Open “Reminders User Guide” |
 | <kbd>Cmd</kbd> + <kbd>Enter</kbd> | While editing: Save/exit editing the reminder; While not editing: Mark reminder as complete [^1] [^2] |
 
 ## [◻️ ChatGPT Desktop Application](https://openai.com/chatgpt/desktop/)
@@ -65,7 +65,7 @@ lastModified: 2025-05-18
 | <kbd>Cmd</kbd> + <kbd>Opt</kbd> + <kbd>B</kbd> | Toggle secondary sidebar |
 | <kbd>Cmd</kbd> + <kbd>P</kbd> | Go to file |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>Enter</kbd> | Insert line above |
-| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>L</kbd> | Multi-cursor editing - it selects all matches in the current file to the currently highlighted text. Press "ESC" to disable it. [^3] |
+| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>L</kbd> | Multi-cursor editing - it selects all matches in the current file to the currently highlighted text. Press “ESC” to disable it. [^3] |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> | Open command palette |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd> | Open Search panel |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>E</kbd> | Open Explorer view |
@@ -100,10 +100,10 @@ lastModified: 2025-05-18
 | <kbd>Cmd</kbd> + <kbd>I</kbd> | Open the Info window for the selected item |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>.</kbd> | Reveal hidden files such as ._ (dot underscore) files that are normally invisible |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>G</kbd> | Takes you to a folder that you specify |
-| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd> | Go to "iCloud Drive" in Finder |
-| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>A</kbd> | Go to "Applications" in Finder |
-| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd> | Go to "Documents" in Finder |
-| <kbd>Cmd</kbd> + <kbd>Opt</kbd> + <kbd>L</kbd> | Go to "Downloads" in Finder |
+| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd> | Go to “iCloud Drive” in Finder |
+| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>A</kbd> | Go to “Applications” in Finder |
+| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd> | Go to “Documents” in Finder |
+| <kbd>Cmd</kbd> + <kbd>Opt</kbd> + <kbd>L</kbd> | Go to “Downloads” in Finder |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd> | Create a new folder  |
 | <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>Cmd</kbd> + <kbd>1</kbd> | Sort by name |
 | <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>Cmd</kbd> + <kbd>2</kbd> | Sort by kind |
@@ -148,7 +148,7 @@ lastModified: 2025-05-18
 | --- | --- |
 | <kbd>Ctrl</kbd> + <kbd>A</kbd> | Jump to the start of the line |
 | <kbd>Ctrl</kbd> + <kbd>E</kbd> | Jump to the end of the line |
-| <kbd>Ctrl</kbd> + <kbd>U</kbd> | Delete everything you've written in Terminal and start over, in case you entered any typos in between |
+| <kbd>Ctrl</kbd> + <kbd>U</kbd> | Delete everything you’ve written in Terminal and start over, in case you entered any typos in between |
 | <kbd>Ctrl</kbd> + <kbd>W</kbd> | Delete a word backwards from the current cursor position |
 | <kbd>Ctrl</kbd> + <kbd>Y</kbd> | Paste text from the kill buffer |
 | <kbd>Opt</kbd> + <kbd>F</kbd> | Jump forward by a word |
@@ -183,7 +183,7 @@ lastModified: 2025-05-18
 | <kbd>Opt</kbd> + <kbd>Cmd</kbd> + <kbd>[Right-Arrow]</kbd> | Moves to the next tab (rightward) [^8] |
 | <kbd>Opt</kbd> + <kbd>Cmd</kbd> + <kbd>[Left-Arrow]</kbd> | Moves to the previous tab (leftward) [^9] |
 
-## ◻️ YouTube
+## ◻️ Youtube
 
 | <span style="display:inline-block; width:450px">Hotkey</span> | Note |
 | --- | --- |
@@ -199,7 +199,7 @@ lastModified: 2025-05-18
 | <kbd>T</kbd> | Toggle theater mode |
 
 [^1]: When editing a reminder (e.g., you’ve clicked into it to change the text), `Cmd` + `Enter` will end editing — it finalizes your changes and exits the editing mode (kind of feels like “selecting” or saving the text).
-[^2]: When not editing (e.g., you're just navigating or viewing reminders), `Cmd` + `Enter` will select all text and enter the editing mode.
+[^2]: When not editing (e.g., you’re just navigating or viewing reminders), `Cmd` + `Enter` will select all text and enter the editing mode.
 [^3]: Bonus: Install the “[Multiple Cursor Case Preserve](https://marketplace.visualstudio.com/items?itemName=Cardinal90.multi-cursor-case-preserve)” extension for Visual Studio Code. It ensures that when you’re editing text with multiple cursors, the case formatting—such as camelCase, UPPERCASE, or lowercase—is preserved. This is particularly useful when you need to rename variables or terms consistently without disrupting their original casing.
 [^4]: Windows: File Explorer
 [^5]: Apple: Finder

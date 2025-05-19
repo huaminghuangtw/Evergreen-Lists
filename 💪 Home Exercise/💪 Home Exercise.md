@@ -1,8 +1,8 @@
 ---
 title: 💪 Home Exercise
+slug: home-exercise
 description: Simple yet effective exercises you can do at home to stay fit and healthy without any equipment.
 spreadsheetId: 1zLI8WqN8xXwbVNBXzU5ixzw688tuBsivD9-SyyTTNbk
-slug: home-exercise
 lastModified: 2025-05-18
 ---
 
