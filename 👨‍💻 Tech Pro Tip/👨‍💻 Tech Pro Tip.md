@@ -8,9 +8,9 @@ lastModified: 2025-05-18
 
 ## 💡 General
 
-* Use the `Shift` key to type capital letters instead of relying on `Caps Lock`. It’s more efficient and helps prevent accidental ALL CAPS typing.
-* If you’re curious about how a font looks in action, just Google its name — for popular fonts like _Comic Sans_, _Roboto_, or _Courier_, Google will sometimes render the search results page in that font. It’s a clever [Easter egg](https://en.wikipedia.org/wiki/List_of_Google_Easter_eggs) that lets you preview the font in real-time. Great for designers or anyone picking fonts quickly. Note: it works best in Chrome and may not appear if you’re using certain browser extensions.
-* You can create a link that highlights specific text fragment on a page by adding `#:~:text=your%20text%20here` to the end of the URL — it’ll auto-scroll and highlight the exact phrase in Chrome or Edge. For example, linking to “climate change” on Wikipedia looks like this: <https://en.wikipedia.org/wiki/Climate_change>#:~:text=climate%20change.
+* Use the `Shift` key to type capital letters instead of relying on `Caps Lock`. It's more efficient and helps prevent accidental ALL CAPS typing.
+* If you're curious about how a font looks in action, just Google its name — for popular fonts like _Comic Sans_, _Roboto_, or _Courier_, Google will sometimes render the search results page in that font. It's a clever [Easter egg](https://en.wikipedia.org/wiki/List_of_Google_Easter_eggs) that lets you preview the font in real-time. Great for designers or anyone picking fonts quickly. Note: it works best in Chrome and may not appear if you're using certain browser extensions.
+* You can create a link that highlights specific text fragment on a page by adding `#:~:text=your%20text%20here` to the end of the URL — it'll auto-scroll and highlight the exact phrase in Chrome or Edge. For example, linking to “climate change” on Wikipedia looks like this: <https://en.wikipedia.org/wiki/Climate_change>#:~:text=climate%20change.
 
 ## 💡 macOS
 
@@ -23,7 +23,7 @@ lastModified: 2025-05-18
 * Right-click a folder in Finder on macOS, you will get an “Import from iPhone/iPad” option. Click that and your iPhone/iPad will open a scanner app which lets you “Take Photo”, “Scan Documents”, and “Add Sketch.”
 * Move (i.e., cut & paste) files&folders in Finder
 	* Method 1: First `Cmd` + `C`, then `Opt` + `Cmd` + `V` → will paste the file and remove it from original location
-	* Method 2: Install Sindre Sorhus’s [Command X](https://sindresorhus.com/command-x) app for more intuitive keyboard shortcuts
+	* Method 2: Install Sindre Sorhus's [Command X](https://sindresorhus.com/command-x) app for more intuitive keyboard shortcuts
 * How to do forward-delete on a MacBook? Hold down the `Fn` button and then press `Backspace`
 * How to View a GIF with animated frames on macOS?
 	1. Open Finder and locate the GIF file.
