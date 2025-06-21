@@ -38,11 +38,11 @@ lastModified: 2025-05-18
 * [Instead of using the traditional copy-and-paste approach to move text/images/files/urls/etc. between apps, use the hidden drag-and-drop feature.](https://www.youtube.com/watch?v=DhwRv1YLhRg)
 * [Move multiple Home Screen apps at once](https://ios.gadgethacks.com/how-to/move-multiple-home-screen-apps-once-0177985): Tap and hold on one app, then tap more apps to add them to your stack
 * Good phone charging habits to maximize battery lifespan
-	1. **Keep battery between 20–80%**  
+	1. **Keep battery between 20–80%**
 	   Charge once daily (~1 hr) when below 20%, instead of multiple short charges.
-	2. **Avoid overnight charging**  
+	2. **Avoid overnight charging**
 	   Unless _Optimized Battery Charging_ is enabled (default on most modern phones).
-	3. **Use certified chargers**  
+	3. **Use certified chargers**
 	   Stick to original or **MFi-certified** accessories to protect your device.
 * 在 iPhone 輸入中文時，可以先輸入每個字的首個注音符號，待所有字母輸入完畢後，再依照建議詞彙或上下文選字。這種方式有助於提高輸入速度，特別是在熟悉鍵盤佈局後，可減少中斷思考的時間。
 * Saying “Remind me” to Siri can create a reminder in the default list.
