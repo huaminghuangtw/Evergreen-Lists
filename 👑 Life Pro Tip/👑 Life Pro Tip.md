@@ -55,11 +55,10 @@ lastModified: 2025-05-18
 * 牙膏、洗面乳等用罄時，使用剪刀將軟管瓶身剪開，將可以再多使用 3-5 次！
 * 果醬玻璃罐的用途
 	1. 泡鍊條
-	2. 做冷泡燕麥粥
-	3. 分裝現打蔬果昔
-	4. 做咖啡奶泡 (with 微波爐)
-	5. 裝堅果、椰棗 etc. (better than 保鮮盒)
-	6. 裝巧克力可可粉、肌酸粉、咖啡粉 etc.
+	2. 隔夜冷泡燕麥粥
+	3. 現打蔬果昔
+	4. 分裝：全穀物（藜麥、小米、扁豆等）、堅果、椰棗 etc. (better than 保鮮盒)
+	5. 分裝：巧克力可可粉、肌酸粉、咖啡粉等
 * Break up effervescent tablets into half with your hand before adding to water. It dissolves quicker due to the increased surface area. Stirring it also quickens up the process.
 * How to get maximum cooling in your home during summer?
 	1. Identify the coolest part of your home. In the evening, find a window in a shaded area or on the lower floor where the air is cooler. If possible, use a thermometer to check which part of your home has the lowest temperature.
