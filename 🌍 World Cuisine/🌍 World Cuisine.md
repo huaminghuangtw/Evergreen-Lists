@@ -3,7 +3,8 @@ title: 🌍 World Cuisine
 slug: world-cuisine
 description: Explore diverse and delicious recipes from around the globe to broaden your culinary horizons.
 spreadsheetId: 1igJQxFOBLpDtvf1wWkuCNi8KVaC10TJnkLGiVMApNEY
-lastModified: 2025-05-18
+created: 2025-02-25T18:15:40
+modified: 2025-07-04T11:59:47
 ---
 
 ## 🇮🇪 Ireland

@@ -3,7 +3,8 @@ title: 💭 Journal Prompt
 slug: journal-prompt
 description: Thought-provoking quistions to inspire self-reflection.
 spreadsheetId: 1RI3C2N7-LaWG1pZC6xMVvS08OJJQp92qJhLaPSXNzQ0
-lastModified: 2025-05-18
+created: 2024-11-18T18:07:14
+modified: 2025-07-04T12:00:20
 ---
 
 ## 🤔 On “Good Morning”

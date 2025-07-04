@@ -3,7 +3,8 @@ title: ⌨️ Keyboard Hotkey
 slug: keyboard-hotkey
 description: A compilation of essential keyboard shortcuts to enhance productivity.
 spreadsheetId: 12UxNMk9LmNd8C0iGM_ssMv1ruUt_mJw-mw43bpm-wcE
-lastModified: 2025-05-18
+created: 2025-04-04T14:24:33
+modified: 2025-07-04T11:59:07
 ---
 
 ## [◻️ Apple Notes](https://support.apple.com/en-gb/guide/notes/apd46c25187e/mac)

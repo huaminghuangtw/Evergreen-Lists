@@ -3,7 +3,8 @@ title: 👑 Life Pro Tip
 slug: life-pro-tip
 description: Practical tricks to improve everyday life.
 spreadsheetId: 13QwPCE33ehjr6fjraQgAQZHvTr_Aux0wKNOHAk4OcHo
-lastModified: 2025-05-18
+created: 2024-11-18T17:58:02
+modified: 2025-07-04T12:00:02
 ---
 
 ## 💡 On “Moving”

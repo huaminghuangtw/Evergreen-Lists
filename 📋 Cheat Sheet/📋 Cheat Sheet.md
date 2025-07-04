@@ -3,7 +3,8 @@ title: 📋 Cheat Sheet
 slug: cheat-sheet
 description: Handy reference to quickly access terminal commands that I frequently use.
 spreadsheetId: 1X9zuCMb30DiQba5VNjT-HDwwomA9u0Z-trmuqVmykYY
-lastModified: 2025-05-18
+created: 2024-11-18T17:53:47
+modified: 2025-07-04T12:00:27
 ---
 
 ## ◻️ Git

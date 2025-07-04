@@ -3,7 +3,8 @@ title: 👨‍💻 Tech Pro Tip
 slug: tech-pro-tip
 description: Expert tips to streamline workflows and troubleshoot issues in tech.
 spreadsheetId: 1o3HcHxZKbOK178Zswo7Xp4MNM7AgrA6_xaZMEhrdFYM
-lastModified: 2025-05-18
+created: 2024-11-18T17:58:47
+modified: 2025-07-04T12:00:08
 ---
 
 ## 💡 General
