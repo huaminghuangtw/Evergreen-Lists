@@ -7,51 +7,6 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "💡 General",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "👨‍💻 Tech Pro Tip",
-                    "priority": "None",
-                    "name": "Use the `Shift` key to type capital letters instead of relying on `Caps Lock`. It’s more efficient and helps prevent accidental ALL CAPS typing.",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "💡 General",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "👨‍💻 Tech Pro Tip",
-                    "priority": "None",
-                    "name": "If you’re curious about how a font looks in action, just Google its name — for popular fonts like _Comic Sans_, _Roboto_, or _Courier_, Google will sometimes render the search results page in that font. It’s a clever [Easter egg](https://en.wikipedia.org/wiki/List_of_Google_Easter_eggs) that lets you preview the font in real-time. Great for designers or anyone picking fonts quickly. Note: it works best in Chrome and may not appear if you’re using certain browser extensions.",
-                    "url": "https://en.wikipedia.org/wiki/List_of_Google_Easter_eggs?utm_source=chatgpt.com"
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "💡 General",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "👨‍💻 Tech Pro Tip",
-                    "priority": "None",
-                    "name": "You can create a link that highlights specific text fragment on a page by adding `#:~:text=your%20text%20here` to the end of the URL — it’ll auto-scroll and highlight the exact phrase in Chrome or Edge. For example, linking to “climate change” on Wikipedia looks like this: https://en.wikipedia.org/wiki/Climate_change#:~:text=climate%20change.",
-                    "url": ""
-                }
-            ],
-            "flagged": false,
-            "list": "👨‍💻 Tech Pro Tip",
-            "priority": "None",
-            "tags": "",
-            "name": "💡 General"
-        },
-        {
-            "url": "",
-            "due_date": "",
-            "notes": "",
-            "subtasks": [
-                {
-                    "tags": "",
                     "parent_reminder": "💡 macOS",
                     "due_date": "",
                     "notes": "",
@@ -148,6 +103,39 @@
                     "priority": "None",
                     "name": "[You can access the audio files of system sounds like ringtones, alerts, and notifications via `/System/Library/PrivateFrameworks/ToneLibrary.framework/Versions/A/Resources/Ringtones/` & `/System/Library/Sounds/`. Files here are typically in `.m4r`, `.caf`, or `.aiff` format. This directory is read-only under normal user conditions, and modifying it requires elevated permissions.](https://apple.stackexchange.com/questions/467536/on-mac-where-to-find-the-audio-files-of-the-sounds-in-the-native-clock-app)",
                     "url": "https://apple.stackexchange.com/questions/467536/on-mac-where-to-find-the-audio-files-of-the-sounds-in-the-native-clock-app"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 macOS",
+                    "due_date": "",
+                    "notes": "Alternatively, if you’re using Microsoft Edge, you can press `F9` to open **Immersive Reader** for a cleaner reading view (press `F9` again to exit it), then press `Cmd` + `Shift` + `U` to activate **Read Aloud**. It works well on most webpages and supports multiple voices and adjustable reading speeds.",
+                    "flagged": false,
+                    "list": "👨‍💻 Tech Pro Tip",
+                    "priority": "None",
+                    "name": "Enable “Speak selection” in System Settings > Accessibility > Spoken Content to have any selected text read aloud. The default keyboard shortcut is `Option` + `Esc`. Great for proofreading, learning, or resting your eyes.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 macOS",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👨‍💻 Tech Pro Tip",
+                    "priority": "None",
+                    "name": "Use Clamshell Mode on a MacBook by connecting an external (1) monitor, (2) keyboard, and (3) mouse (via Bluetooth or USB), then plugging in the (4) power adapter. Once connected, close the MacBook lid—the external display should become the main screen. Wake the system using the external keyboard or mouse. Adjust **screen mirroring** or **extended display** settings under **System Settings > Displays**. Great for saving desk space and focusing on a larger monitor.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 macOS",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👨‍💻 Tech Pro Tip",
+                    "priority": "None",
+                    "name": "To dictate text on macOS using an external microphone, plug it in and select the mic under **System Settings > Sound > Input**. Then enable **Dictation** under **Keyboard** settings and assign a shortcut key like `Fn` or `Control`. Double-press the shortcut (no need to hold it), wait for the **mic icon**, and start speaking. If the external mic stops working, open **Terminal** and run [`killall corespeechd`](https://www.reddit.com/r/MacOS/comments/1b84wrz/macos_dication_doesnt_work_with_external/) to reset the speech recognition service.",
+                    "url": ""
                 }
             ],
             "flagged": false,
@@ -238,6 +226,17 @@
                     "priority": "None",
                     "name": "[Use Universal Clipboard to copy and paste between your Apple devices](https://support.apple.com/en-us/102430)",
                     "url": "https://support.apple.com/en-us/102430"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 Apple Ecosystem",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👨‍💻 Tech Pro Tip",
+                    "priority": "None",
+                    "name": "You can create clickable links to Apple Notes (`applenotes:note/...`) for use in other apps like Pages or TextEdit. In Apple Notes, highlight a word or symbol, press `Cmd + K` (or tap **Add Link**), and link it to another note by typing part of its title. Then right-click (on macOS) or tap and hold (on iOS) the link, and choose **Copy Link** (macOS) or **Copy** (iOS). Paste the resulting `applenotes:` link into any rich text app — it’ll work just like a regular hyperlink, e.g., `applenotes:note/xxxx-xxxx-xxxx`.",
+                    "url": "https://www.reddit.com/r/AppleNotesGang/comments/1e36uek/link_to_apple_note_from_anywhere_get_deep_link_in/"
                 }
             ],
             "flagged": false,

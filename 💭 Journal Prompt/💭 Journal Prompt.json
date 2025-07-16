@@ -26,6 +26,17 @@
                     "priority": "None",
                     "name": "How do I want to feel at the end of the day? Joyful or frustrated? What do I need to do now, so that I can feel this way in the evening?",
                     "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Good Morning\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What makes me excited to wake up? Will this let me sleep in peace?",
+                    "url": ""
                 }
             ],
             "flagged": true,
@@ -80,7 +91,7 @@
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
-                    "name": "What did I learn? What did I improve? What was my biggest win of the day?",
+                    "name": "What did I learn? How can I improve? What was my biggest win of the day?",
                     "url": ""
                 },
                 {
@@ -126,6 +137,17 @@
                     "list": "💭 Journal Prompt",
                     "priority": "None",
                     "name": "Are the results I'm expecting aligned with the actions I took today?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Today\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What cracks am I creating today that could become major problems tomorrow?",
                     "url": ""
                 },
                 {
@@ -335,6 +357,28 @@
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
+                    "name": "If I were the last person on earth XXX, would I still do the thing I'm going to do?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Prioritization\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What would I do if I wasn't afraid of being wrong or judged?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Prioritization\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
                     "name": "Which undone item, if done XXX, would liberate the most energy for me personally?",
                     "url": ""
                 },
@@ -357,7 +401,7 @@
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
-                    "name": "What is scarce in my work XXX? How can I leverage it?",
+                    "name": "What is scarce in my work XXX? How can I leverage it? What aspect of my work is hardest to copy? How can I amplify it?",
                     "url": ""
                 },
                 {
@@ -446,7 +490,7 @@
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
-                    "name": "What would this look like if it were dead or stupid simple and easy?",
+                    "name": "What would this look like if it were dead simple or stupid easy?",
                     "url": ""
                 },
                 {
@@ -464,7 +508,7 @@
                     "tags": "",
                     "parent_reminder": "🤔 On \"Productivity\"",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "Human being, not human doing.",
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
@@ -480,6 +524,17 @@
                     "list": "💭 Journal Prompt",
                     "priority": "None",
                     "name": "What would this look like if it were fun?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Productivity\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "If this were a puzzle or game, how would I approach it differently?",
                     "url": ""
                 },
                 {
@@ -578,7 +633,73 @@
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
-                    "name": "How can I win the day by noon?",
+                    "name": "How can I win the day by 12:34?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Productivity\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "Which 20% of work produces 80% of result?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Productivity\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "Am I solving the right problem, or just the first one I noticed?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Productivity\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What constraints am I treating as fixed that might be flexible?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Productivity\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "If this were someone else's problem, what advice would I give them?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Productivity\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What if I tried the opposite of what I've been trying?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Productivity\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "How would someone in a completely different field solve this?",
                     "url": ""
                 }
             ],
@@ -593,6 +714,17 @@
             "due_date": "",
             "notes": "",
             "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "[What would I need to hear and get from a past generation to convince me to complete a project they began?](https://kk.org/thetechnium/the-scarcity-of-the-long-term/)",
+                    "url": "https://kk.org/thetechnium/the-scarcity-of-the-long-term/"
+                },
                 {
                     "tags": "",
                     "parent_reminder": "🤔 On \"Miscellaneous\"",
@@ -865,7 +997,7 @@
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
-                    "name": "What if my path is a spiral? What if I'm not really going in circles, but going upwards?",
+                    "name": "What if my path is a spiral? What if I'm not really going in circles, but [going upwards](https://sketchplanations.com/the-upward-spiral)?",
                     "url": ""
                 },
                 {
@@ -1085,7 +1217,7 @@
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
-                    "name": "What are the boring, basic/tiny actions I am avoiding right now?",
+                    "name": "What are the boring, basic, tiny actions I am avoiding right now?",
                     "url": ""
                 },
                 {
@@ -1492,7 +1624,7 @@
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
-                    "name": "Which historical figure do I most identify with?",
+                    "name": "Which historical figure do I mostly identify with?",
                     "url": ""
                 },
                 {
@@ -1877,7 +2009,7 @@
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
-                    "name": "What do you want your obituary or tombstone to say?",
+                    "name": "What do I want my obituary or tombstone to say?",
                     "url": ""
                 },
                 {
@@ -2141,7 +2273,7 @@
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
-                    "name": "What would I do if I had 6 months to live?",
+                    "name": "What would I do if I had only 6 months to live?",
                     "url": ""
                 },
                 {
@@ -2917,6 +3049,29 @@
             "subtasks": [
                 {
                     "tags": "",
+                    "parent_reminder": "🤔 On \"Decision Making\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "If I knew I had to live with the results of this action forever, would I still do it this way?",
+                    "url": ""
+                }
+            ],
+            "flagged": false,
+            "list": "💭 Journal Prompt",
+            "priority": "None",
+            "tags": "",
+            "name": "🤔 On \"Decision Making\""
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
                     "parent_reminder": "🤔 On \"Life\"",
                     "due_date": "",
                     "notes": "",
@@ -3411,6 +3566,17 @@
                     "priority": "None",
                     "name": "What would I ask for if I wasn’t afraid of hearing no?",
                     "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Self-Reflection\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What small daily actions am I overlooking that are actually laying the foundation of my future?",
+                    "url": ""
                 }
             ],
             "flagged": false,
@@ -3418,6 +3584,249 @@
             "priority": "None",
             "tags": "",
             "name": "🤔 On \"Self-Reflection\""
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "Thought-provoking, open-ended deep questions designed to spark meaningful conversations, invite authentic connections, and build stronger bonds.",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What mastery or gift have I developed that I can offer to the world?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "To what extent did achieving \\[X\\] actually change your life—both in expected and unexpected ways?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What’s something most people consider essential that you’ve found entirely unnecessary?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "Is there a daily habit or routine you wish you had adopted much earlier? Why?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What’s one unconventional decision you made five years ago that drew criticism at the time—but ultimately paid off?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What’s a belief you held five years ago that you had to unlearn in order to grow?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What’s something you ignored early on—only to realize later that it mattered far more than you thought?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "due_date": "",
+                    "notes": "Meaning: _What is a really minor or seemingly insignificant opinion, preference, or belief that you feel strongly about and will always defend—no matter how trivial it may seem to others?_",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What’s a small, oddly specific hill you’ll always be willing to die on?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What’s a compliment you received years ago that still sticks with you—and why?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What’s the most recent belief or perspective you changed your mind about? What prompted the shift?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What’s a random, quirky, and weird skill you take way too seriously and become competitive about?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "due_date": "",
+                    "notes": "For example: career, legacy, lifestyle, net worth, etc.",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What does your personal “endgame” look like—when do you know you’ve won?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What’s something you’re probably a little too confident about—but own it anyway?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "If success were guaranteed, what’s the first thing you’d try?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "If no one ever noticed or judged, what’s the one outfit you’d wear on repeat forever?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What’s something you keep collecting without even realizing it?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What's your favorite time of the day—like 12:34 p.m.?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "If you had an alter ego, who—or what—would they be?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What traits do you share with your family (parents or siblings)—and which ones are completely your own?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What’s something about you that usually takes people a long time to notice or understand?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What’s a question you wish people asked you more often—and what would your answer be?",
+                    "url": ""
+                }
+            ],
+            "flagged": true,
+            "list": "💭 Journal Prompt",
+            "priority": "None",
+            "tags": "",
+            "name": "🤔 On \"Asking People\""
         }
     ]
 }

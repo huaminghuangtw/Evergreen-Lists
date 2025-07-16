@@ -7,6 +7,84 @@
             "subtasks": [
                 {
                     "tags": "",
+                    "parent_reminder": "💡 On \"Technology\"",
+                    "due_date": "",
+                    "notes": "+ Method I: The easiest way to bypass paywalls is to just disable JavaScript for the site.\n    - Steps\n        1. Disable JavaScript (Or even better: Have a dedicated browser with JavaScript always disabled)\n        2. Reload the page\n        3. Read the article\n        4. Re-enable JavaScript\n+ Method II: Toggle Reader View\n+ Method III: Use tools like https://12ft.io or https://removepaywalls.com",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "How to read through any article on the web with a paywall?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Technology\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "Use the `Shift` key to type capital letters instead of relying on `Caps Lock`. It’s more efficient and helps prevent accidental ALL CAPS typing.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Technology\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "If you’re curious about how a font looks in action, just Google its name — for popular fonts like _Comic Sans_, _Roboto_, or _Courier_, Google will sometimes render the search results page in that font. It’s a clever [Easter egg](https://en.wikipedia.org/wiki/List_of_Google_Easter_eggs) that lets you preview the font in real-time. Great for designers or anyone picking fonts quickly. Note: it works best in Chrome and may not appear if you’re using certain browser extensions.",
+                    "url": "https://en.wikipedia.org/wiki/List_of_Google_Easter_eggs?utm_source=chatgpt.com"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Technology\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "You can create a link that highlights specific text fragment on a page by adding `#:~:text=your%20text%20here` to the end of the URL — it’ll auto-scroll and highlight the exact phrase in Chrome or Edge. For example, linking to “climate change” on Wikipedia looks like this: https://en.wikipedia.org/wiki/Climate_change#:~:text=climate%20change.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Technology\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "[If you’re on a computer, right-click on the YouTube video at the exact time you want to share, then select “Copy video URL at current time” to get a link that starts at the specific timestamp.](https://www.reddit.com/r/YouShouldKnow/comments/vkj797/comment/idphs20)",
+                    "url": "https://www.reddit.com/r/YouShouldKnow/comments/vkj797/comment/idphs20"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Technology\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "Apple Maps nearly for navigation. Google Maps for business overview.",
+                    "url": ""
+                }
+            ],
+            "flagged": false,
+            "list": "👑 Life Pro Tip",
+            "priority": "None",
+            "tags": "",
+            "name": "💡 On \"Technology\""
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
                     "parent_reminder": "💡 On \"Moving\"",
                     "due_date": "",
                     "notes": "",
@@ -224,7 +302,7 @@
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "自製捕果蠅/蒼蠅 (玻璃) 罐: 醋 + 糖 + 洗碗精 (增加表面張力，讓蟲子跑不出去) + 一小段香蕉 → 最上面用保鮮膜蓋住 & 戳洞",
+                    "name": "自製果蠅誘捕器：在乾淨的玻璃罐中混合醋與糖，滴入少許洗碗精以破壞表面張力，再放入一小段香蕉增強誘餌香氣；用保鮮膜封口，並在上方戳幾個小洞，果蠅即可自由進入卻難以逃脫，實現“易入難出”效果。",
                     "url": ""
                 },
                 {
@@ -286,33 +364,11 @@
                     "tags": "",
                     "parent_reminder": "💡 On \"Miscellaneous\"",
                     "due_date": "",
-                    "notes": "+ Method I: The easiest way to bypass paywalls is to just disable JavaScript for the site.\n    - Steps\n        1. Disable JavaScript (Or even better: Have a dedicated browser with JavaScript always disabled)\n        2. Reload the page\n        3. Read the article\n        4. Re-enable JavaScript\n+ Method II: Toggle Reader View\n+ Method III: Use tools like https://12ft.io or https://removepaywalls.com",
-                    "flagged": false,
-                    "list": "👑 Life Pro Tip",
-                    "priority": "None",
-                    "name": "How to read through any article on the web with a paywall?",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "💡 On \"Miscellaneous\"",
-                    "due_date": "",
                     "notes": "",
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
                     "name": "牙膏、洗面乳等用罄時，使用剪刀將軟管瓶身剪開，將可以再多使用 3-5 次！",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "💡 On \"Miscellaneous\"",
-                    "due_date": "",
-                    "notes": "1. 泡鍊條\n2. 做冷泡燕麥粥\n3. 分裝現打蔬果昔\n4. 做咖啡奶泡 (with 微波爐)\n5. 裝堅果、椰棗 etc. (better than 保鮮盒)\n6. 裝巧克力可可粉、肌酸粉、咖啡粉 etc.",
-                    "flagged": false,
-                    "list": "👑 Life Pro Tip",
-                    "priority": "None",
-                    "name": "果醬玻璃罐的用途",
                     "url": ""
                 },
                 {
@@ -390,17 +446,6 @@
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
                     "name": "洗碗精、洗手乳、沐浴乳、洗髮精等用罄時，把容器裝滿水稀釋，將可以再多使用 3-5 次！",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "💡 On \"Miscellaneous\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "👑 Life Pro Tip",
-                    "priority": "None",
-                    "name": "Apple Maps nearly for navigation. Google Maps for business overview.",
                     "url": ""
                 },
                 {
@@ -528,11 +573,11 @@
                     "tags": "",
                     "parent_reminder": "💡 On \"Miscellaneous\"",
                     "due_date": "",
-                    "notes": "1. bed\n2. office chair\n3. mattress, pillow, blanket, etc.\n4. shoes\n5. phone\n6. laptop, monitor, keyboard, mouse, etc.",
+                    "notes": "1. bed – you spend a third of your life sleeping\n2. bedding – mattress, pillow, blanket, etc.\n3. walking/running shoes, boots – your feet carry you everywhere\n4. tires – they’re the only contact between your vehicle and the road",
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "Invest in things you use for a significant fraction of your life (long-term possessions). You will thank yourself later.",
+                    "name": "Invest in the things (1) you use for a significant portion of your life (2) between you and the Earth. These possessions are worth the investment. You will thank yourself later.",
                     "url": ""
                 },
                 {
@@ -599,7 +644,7 @@
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "Use an exercise ball or a kneeling chair, instead of an office chair with wheels at work, to maintain a better posture",
+                    "name": "Use an exercise ball or a kneeling chair, instead of an office chair with wheels at work, to maintain a better posture.",
                     "url": ""
                 },
                 {
@@ -745,6 +790,17 @@
                     "priority": "None",
                     "name": "[How to Tie a Food Bag Properly?](https://www.reddit.com/r/lifehacks/comments/1hlosv9/the_proper_way_to_tie_a_food_bag/)",
                     "url": "https://www.reddit.com/r/lifehacks/comments/1hlosv9/the_proper_way_to_tie_a_food_bag/"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Home\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "Store canned goods like baked beans upside down, so the contents slide out easily without needing to scrape the bottom when you open the can.",
+                    "url": ""
                 }
             ],
             "flagged": false,
@@ -895,7 +951,7 @@
                     "tags": "",
                     "parent_reminder": "💡 On \"Wellness & Wellbeing\"",
                     "due_date": "",
-                    "notes": "1. Accept things as they are\n2. Stop wishing things were different\n3. No need to label, describe, comment, judge, or attach/assign meaning to everything\n4. According to Vipassana, _craving (wanting something to happen)_ and _aversion (not wanting something to happen)_ are the roots of human suffering.",
+                    "notes": "1. Accept things as they are.\n2. Stop wishing things were different.\n3. No need to label, describe, comment, judge, or attach/assign meaning to everything.\n4. According to Vipassana, _craving (wanting something to happen)_ and _aversion (not wanting something to happen)_ are the roots of human suffering.",
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
@@ -1212,7 +1268,7 @@
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "Always provide a reason when asking someone to do us a favor. People simply like to have reasons for what they do.",
+                    "name": "Always give a reason when asking someone for a favor—people are more willing to help when they understand why.",
                     "url": ""
                 },
                 {
@@ -1245,8 +1301,8 @@
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "等一下 → 馬上來",
-                    "url": ""
+                    "name": "[等一下 → 馬上來](https://sketchplanations.com/dont-think-of-an-elephant)",
+                    "url": "https://sketchplanations.com/dont-think-of-an-elephant"
                 },
                 {
                     "tags": "",
@@ -1329,7 +1385,7 @@
                     "tags": "",
                     "parent_reminder": "💡 On \"Social Interaction\"",
                     "due_date": "",
-                    "notes": "天下無不散的筵席，離別是為了下一次更好的相遇/重逢",
+                    "notes": "+ 天下無不散的筵席，離別是為了下一次更好的相遇/重逢\n+ _[“Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny.” — Steve Maraboli](https://www.goodreads.com/quotes/525097-letting-go-means-to-come-to-the-realization-that-some)_",
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
@@ -1441,7 +1497,7 @@
                     "tags": "",
                     "parent_reminder": "💡 On \"Cooking\"",
                     "due_date": "",
-                    "notes": "1. [You only cut the rind twice](https://www.youtube.com/watch?v=H_erG7HSK0A&t=419s): (1) Start at stem, cut entirely. (2) Rotate a 90°angle to the first cut, but this time only cut deep enough to go through the rind 外皮，外殼; 硬皮 and pith [the white skin under the rind] 襯皮; 木髓 (吃起來會苦 bitter 的白色纖維), then peel around the core while unrolling the grapefriut.\n2. Once you peel away the whole rind, cut down one edge of the wedge, but stop at the middle and with your knifes edge, gently push up towards the other side of the wedge. This will peel the wedge from the inner pith. And repeat until all wedges are out.\n──────────────\n用「手剝」（先用刀切對半）其實比用「刀剝」快上許多…",
+                    "notes": "1. 用「手剝」（先用刀切對半) → 快\n2. 用「刀剝」 → 慢\n    1. [You only cut the rind twice](https://www.youtube.com/watch?v=H_erG7HSK0A&t=419s): (1) Start at stem, cut entirely. (2) Rotate a 90°angle to the first cut, but this time only cut deep enough to go through the rind 外皮，外殼; 硬皮 and pith [the white skin under the rind] 襯皮; 木髓 (吃起來會苦 bitter 的白色纖維), then peel around the core while unrolling the grapefriut.\n    2. Once you peel away the whole rind, cut down one edge of the wedge, but stop at the middle and with your knifes edge, gently push up towards the other side of the wedge. This will peel the wedge from the inner pith. And repeat until all wedges are out.",
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
@@ -1474,22 +1530,11 @@
                     "tags": "",
                     "parent_reminder": "💡 On \"Cooking\"",
                     "due_date": "",
-                    "notes": "Make sure there is enough water to completely cover the egg(s).",
+                    "notes": "1. 立刻將其浸泡於水中，避免與空氣接觸。也可以加入少許「鹽」或「醋」來延緩氧化，並將食材放置於「冷藏」中\n2. 將其加熱煮至半熟（約 5 分鐘），再切片或搗爛成泥後放入「冷凍」保存",
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "水滾七分鐘 → 溫泉蛋",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "💡 On \"Cooking\"",
-                    "due_date": "",
-                    "notes": "1. 立刻將其浸泡於水中，避免與空氣接觸。也可以加入少許鹽或醋來延緩氧化，並將食材放置於「冷藏」中\n2. 將其加熱煮至半熟（約 5 分鐘），再切片或搗爛成泥後放入「冷凍」保存",
-                    "flagged": false,
-                    "list": "👑 Life Pro Tip",
-                    "priority": "None",
-                    "name": "如何避免馬鈴薯或蘋果削皮後「褐變」氧化變黑？",
+                    "name": "如何避免「馬鈴薯」或「蘋果」削皮後「褐變」氧化變黑？",
                     "url": ""
                 },
                 {
@@ -1500,7 +1545,7 @@
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "冷凍法省時烤地瓜: 先將地瓜放進冷凍庫不多不少 45 分鐘左右後，「直接」放進烤箱用 200 度烤 30 分鐘，可破壞地瓜細胞壁，加速熱傳導，節省至少一半以上的烘烤時間。這個做法烤出來的地瓜內部組織是綿密的，且依然有著用烤箱長時間烘烤才有的濃郁風味",
+                    "name": "冷凍法省時烤地瓜：先將地瓜放進冷凍庫不多不少 45 分鐘左右後，「直接」放進烤箱用 200 度烤 30 分鐘，可破壞地瓜細胞壁，加速熱傳導，節省至少一半以上的烘烤時間。這個做法烤出來的地瓜內部組織是綿密的，且依然有著用烤箱長時間烘烤才有的濃郁風味。",
                     "url": ""
                 },
                 {
@@ -1666,6 +1711,17 @@
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
+                    "name": "When you read something helpful, write to the author—a simple act that can yield meaningful results. By expressing your appreciation, you foster **real human connection**, reminding the creator that their work matters. This small gesture also helps **reinforce your learning**, as explaining why something resonated deepens understanding. Additionally, it can **open doors** to potential mentorships, collaborations, or friendships. Because most readers remain silent, your gratitude will be **rare—and memorable**. Whether it’s a bestselling writer or a niche blogger, reaching out strengthens a culture of appreciation and may spark unexpected opportunities.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Life Wisdom/Lesson\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
                     "name": "Read [leaked emails](https://www.wikileaks.org) to learn [how business actually works](https://x.com/TechEmails).",
                     "url": "https://www.wikileaks.org"
                 },
@@ -1745,6 +1801,28 @@
                     "priority": "None",
                     "name": "[Each path is unique. Remind yourself of this by reading _memoirs_ and _biographies_. If you ever feel like you’re straying from the common route, these books will reassure you that you’re carving out your own distinct journey.](https://mariandrew.substack.com/p/100-things-i-know)",
                     "url": "https://mariandrew.substack.com/p/100-things-i-know"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Life Wisdom/Lesson\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "When learning something new, spend five minutes teaching it to someone else. Notice where they get confused—these are the areas where you need to refine your own understanding.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Life Wisdom/Lesson\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "[When learning something new, spend 5 minutes trying to teach it to someone. Make a note of where the other person gets confused. You'll get an immediate sense for your level of understanding of the topic and where you need to dig in more.](https://www.sahilbloom.com/newsletter/the-most-powerful-asymmetries-in-life)",
+                    "url": "https://www.sahilbloom.com/newsletter/the-most-powerful-asymmetries-in-life"
                 }
             ],
             "flagged": false,
@@ -1891,6 +1969,17 @@
                     "priority": "None",
                     "name": "In a hotel, use the pants hangers with clips to keep the curtains/drapes all the way closed during the night.",
                     "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Traveling\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "[The Hotel Towel Drying Trick: After washing your clothes in the sink or shower, lay them flat on a clean towel. Roll the towel up tightly with the clothes inside, creating layers. Then wring the whole roll—this pulls out a surprising amount of water. Unroll, hang your clothes up, and let them air dry overnight. If it’s still damp in the morning, use the hotel hair dryer to finish it off quickly.](https://sketchplanations.com/hotel-drying-technique)",
+                    "url": "https://sketchplanations.com/hotel-drying-technique"
                 },
                 {
                     "tags": "",

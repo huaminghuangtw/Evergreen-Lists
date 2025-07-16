@@ -118,7 +118,7 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "💁‍♂️ Tricks to minimize # of actions used",
+                    "parent_reminder": "💁‍♂️ Tips & tricks to minimize # of actions used",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -126,13 +126,24 @@
                     "priority": "None",
                     "name": "When using “Set Dictionary Value” to create a dictionary, you can leave the dictionary field blank on the right instead of adding a separate “Dictionary” action and referencing it.",
                     "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💁‍♂️ Tips & tricks to minimize # of actions used",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "📱 Shortcuts Dev Tip",
+                    "priority": "None",
+                    "name": "When formatting dates, wrap **literal characters**—such as punctuation, `'T'`, `'Z'`, or any static text—in **single quotes** to treat them as fixed text. This allows you to build custom date-time formats like `yyyy-MM-dd'T'HH:mm:ss'Z'` in a single step without chaining multiple **Format Date** actions. For example, use `yyyy'_Week_'ww` to combine the year and week number in a single action, rather than using 2 separate **Format Date** actions for `yyyy` and `ww`.",
+                    "url": ""
                 }
             ],
             "flagged": false,
             "list": "📱 Shortcuts Dev Tip",
             "priority": "None",
             "tags": "",
-            "name": "💁‍♂️ Tricks to minimize # of actions used"
+            "name": "💁‍♂️ Tips & tricks to minimize # of actions used"
         },
         {
             "url": "",
@@ -141,7 +152,7 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "💁‍♂️ Mistakes I have made",
+                    "parent_reminder": "💁‍♂️ Things I wished I'd known earlier",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -155,7 +166,7 @@
             "list": "📱 Shortcuts Dev Tip",
             "priority": "None",
             "tags": "",
-            "name": "💁‍♂️ Mistakes I have made"
+            "name": "💁‍♂️ Things I wished I'd known earlier"
         },
         {
             "url": "",

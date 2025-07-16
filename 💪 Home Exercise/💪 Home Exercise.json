@@ -90,8 +90,8 @@
                     "flagged": false,
                     "list": "💪 Home Exercise",
                     "priority": "None",
-                    "name": "Burpees",
-                    "url": ""
+                    "name": "[Burpees](https://www.google.com/search?q=Burpees)",
+                    "url": "https://www.google.com/search?q=Burpees"
                 },
                 {
                     "tags": "",
@@ -101,8 +101,19 @@
                     "flagged": false,
                     "list": "💪 Home Exercise",
                     "priority": "None",
-                    "name": "Knife Hand Strikes",
-                    "url": ""
+                    "name": "[Knife Hand Strikes](https://www.google.com/search?q=Knife+Hand+Strikes)",
+                    "url": "https://www.google.com/search?q=Knife+Hand+Strikes"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🟠 Upper Body",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💪 Home Exercise",
+                    "priority": "None",
+                    "name": "[Push-Up Shoulder Tap](https://www.google.com/search?q=Push-Up+Shoulder+Tap)",
+                    "url": "https://www.google.com/search?q=Push-Up+Shoulder+Tap"
                 }
             ],
             "flagged": false,
@@ -355,8 +366,8 @@
                     "flagged": false,
                     "list": "💪 Home Exercise",
                     "priority": "None",
-                    "name": "Heel Get-Ups",
-                    "url": ""
+                    "name": "[Heel Get-Ups](https://www.google.com/search?q=Heel+Get-Ups)",
+                    "url": "https://www.google.com/search?q=Heel+Get-Ups"
                 },
                 {
                     "tags": "",
@@ -366,8 +377,8 @@
                     "flagged": false,
                     "list": "💪 Home Exercise",
                     "priority": "None",
-                    "name": "Burpees",
-                    "url": ""
+                    "name": "[Burpees](https://www.google.com/search?q=Burpees)",
+                    "url": "https://www.google.com/search?q=Burpees"
                 },
                 {
                     "tags": "",
@@ -377,8 +388,107 @@
                     "flagged": false,
                     "list": "💪 Home Exercise",
                     "priority": "None",
-                    "name": "Jumping Lunges",
-                    "url": ""
+                    "name": "[Jumping Lunges](https://www.google.com/search?q=Jumping+Lunges)",
+                    "url": "https://www.google.com/search?q=Jumping+Lunges"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🟠 Lower Body",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💪 Home Exercise",
+                    "priority": "None",
+                    "name": "[Squat Hold Calf Raises](https://www.google.com/search?q=Squat+Hold+Calf+Raises)",
+                    "url": "https://www.google.com/search?q=Squat+Hold+Calf+Raises"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🟠 Lower Body",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💪 Home Exercise",
+                    "priority": "None",
+                    "name": "[Balance Side Lunges](https://www.google.com/search?q=Balance+Side+Lunges)",
+                    "url": "https://www.google.com/search?q=Balance+Side+Lunges"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🟠 Lower Body",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💪 Home Exercise",
+                    "priority": "None",
+                    "name": "[Hero Squats](https://www.google.com/search?q=Hero+Squats)",
+                    "url": "https://www.google.com/search?q=Hero+Squats"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🟠 Lower Body",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💪 Home Exercise",
+                    "priority": "None",
+                    "name": "[Squat Hops on the Spot](https://www.google.com/search?q=Squat+Hops+on+the+Spot)",
+                    "url": "https://www.google.com/search?q=Squat+Hops+on+the+Spot"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🟠 Lower Body",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💪 Home Exercise",
+                    "priority": "None",
+                    "name": "[Split Jacks](https://www.google.com/search?q=Split+Jacks)",
+                    "url": "https://www.google.com/search?q=Split+Jacks"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🟠 Lower Body",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💪 Home Exercise",
+                    "priority": "None",
+                    "name": "[Toe Tap Hops](https://www.google.com/search?q=Toe+Tap+Hops)",
+                    "url": "https://www.google.com/search?q=Toe+Tap+Hops"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🟠 Lower Body",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💪 Home Exercise",
+                    "priority": "None",
+                    "name": "[Jump Squats](https://www.google.com/search?q=Jump+Squats)",
+                    "url": "https://www.google.com/search?q=Jump+Squats"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🟠 Lower Body",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💪 Home Exercise",
+                    "priority": "None",
+                    "name": "[Shrimp Squats](https://www.google.com/search?q=Shrimp+Squats)",
+                    "url": "https://www.google.com/search?q=Shrimp+Squats"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🟠 Lower Body",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💪 Home Exercise",
+                    "priority": "None",
+                    "name": "[Cossack Squats](https://www.google.com/search?q=Cossack+Squats)",
+                    "url": "https://www.google.com/search?q=Cossack+Squats"
                 }
             ],
             "flagged": false,
@@ -400,8 +510,8 @@
                     "flagged": false,
                     "list": "💪 Home Exercise",
                     "priority": "None",
-                    "name": "Reverse Snow Angels",
-                    "url": ""
+                    "name": "[Reverse Snow Angels](https://www.google.com/search?q=Reverse+Snow+Angels)[Reverse Snow Angels](https://www.google.com/search?q=Reverse+Snow+Angels)",
+                    "url": "https://www.google.com/search?q=Reverse+Snow+Angels"
                 },
                 {
                     "tags": "",
@@ -719,8 +829,8 @@
                     "flagged": false,
                     "list": "💪 Home Exercise",
                     "priority": "None",
-                    "name": "Cross Crunches",
-                    "url": ""
+                    "name": "[Cross Crunches](https://www.google.com/search?q=Cross+Crunches)",
+                    "url": "https://www.google.com/search?q=Cross+Crunches"
                 },
                 {
                     "tags": "",
@@ -730,8 +840,8 @@
                     "flagged": false,
                     "list": "💪 Home Exercise",
                     "priority": "None",
-                    "name": "Shoulder Taps",
-                    "url": ""
+                    "name": "[Shoulder Taps](https://www.google.com/search?q=Shoulder+Taps)",
+                    "url": "https://www.google.com/search?q=Shoulder+Taps"
                 },
                 {
                     "tags": "",
@@ -741,8 +851,52 @@
                     "flagged": false,
                     "list": "💪 Home Exercise",
                     "priority": "None",
-                    "name": "Elbow Plank Arm Raises",
-                    "url": ""
+                    "name": "[Elbow Plank Arm Raises](https://www.google.com/search?q=Elbow+Plank+Arm+Raises)",
+                    "url": "https://www.google.com/search?q=Elbow+Plank+Arm+Raises"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🟠 Core",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💪 Home Exercise",
+                    "priority": "None",
+                    "name": "[Plank Leg Raises](https://www.google.com/search?q=Plank+Leg+Raises)",
+                    "url": "https://www.google.com/search?q=Plank+Leg+Raises"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🟠 Core",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💪 Home Exercise",
+                    "priority": "None",
+                    "name": "[Side Bridges](https://www.google.com/search?q=Side+Bridges)",
+                    "url": "https://www.google.com/search?q=Side+Bridges"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🟠 Core",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💪 Home Exercise",
+                    "priority": "None",
+                    "name": "[Plank Step-Outs](https://www.google.com/search?q=Plank+Step-Outs)",
+                    "url": "https://www.google.com/search?q=Plank+Step-Outs"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🟠 Core",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💪 Home Exercise",
+                    "priority": "None",
+                    "name": "[Plank Rotations](https://www.google.com/search?q=Plank+Rotations)",
+                    "url": "https://www.google.com/search?q=Plank+Rotations"
                 }
             ],
             "flagged": false,
@@ -799,6 +953,17 @@
                     "priority": "None",
                     "name": "[Windmill Twist](https://www.google.com/search?q=Windmill+Twist)",
                     "url": "https://www.google.com/search?q=Windmill+Twist"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🟠 Stretching",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💪 Home Exercise",
+                    "priority": "None",
+                    "name": "[Scorpion Twists](https://www.google.com/search?q=Scorpion+Twists)",
+                    "url": "https://www.google.com/search?q=Scorpion+Twists"
                 }
             ],
             "flagged": false,
@@ -812,6 +977,17 @@
             "due_date": "",
             "notes": "",
             "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "🟠 Yoga",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💪 Home Exercise",
+                    "priority": "None",
+                    "name": "[Upward Downward Dog](https://www.google.com/search?q=Upward+Downward+Dog)",
+                    "url": "https://www.google.com/search?q=Upward+Downward+Dog"
+                },
                 {
                     "tags": "",
                     "parent_reminder": "🟠 Yoga",

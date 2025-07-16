@@ -112,6 +112,128 @@
             "name": "◻️ Apple Notes"
         },
         {
+            "url": "https://support.apple.com/guide/calendar/keyboard-shortcuts-ical002/mac",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Apple Calendar",
+                    "due_date": "",
+                    "notes": "Go to the previous day, week, month, or year",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + ←",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Apple Calendar",
+                    "due_date": "",
+                    "notes": "Go to the next day, week, month, or year",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + →",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Apple Calendar",
+                    "due_date": "",
+                    "notes": "Go to today’s date",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + T",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Apple Calendar",
+                    "due_date": "",
+                    "notes": "Go to a specific date",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + Shift + T",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Apple Calendar",
+                    "due_date": "",
+                    "notes": "Switch to Day view",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + 1",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Apple Calendar",
+                    "due_date": "",
+                    "notes": "Switch to Week view",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + 2",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Apple Calendar",
+                    "due_date": "",
+                    "notes": "Switch to Month view",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + 3",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Apple Calendar",
+                    "due_date": "",
+                    "notes": "Switch to Year view",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + 4",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Apple Calendar",
+                    "due_date": "",
+                    "notes": "Add a new event",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + N",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Apple Calendar",
+                    "due_date": "",
+                    "notes": "Edit the selected event",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + E",
+                    "url": ""
+                }
+            ],
+            "flagged": false,
+            "list": "⌨️ Keyboard Hotkey",
+            "priority": "None",
+            "tags": "",
+            "name": "◻️ Apple Calendar"
+        },
+        {
             "url": "https://support.apple.com/en-am/guide/reminders/remn19b3424c/mac",
             "due_date": "",
             "notes": "",
@@ -142,6 +264,17 @@
                     "tags": "",
                     "parent_reminder": "◻️ Apple Reminders",
                     "due_date": "",
+                    "notes": "Set reminder as due today",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + T",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Apple Reminders",
+                    "due_date": "",
                     "notes": "Set reminder as due tomorrow",
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
@@ -153,11 +286,22 @@
                     "tags": "",
                     "parent_reminder": "◻️ Apple Reminders",
                     "due_date": "",
-                    "notes": "Set reminder as due today",
+                    "notes": "Set reminder as due next weekend (Saturday)",
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "Cmd + T",
+                    "name": "Cmd + K",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ Apple Reminders",
+                    "due_date": "",
+                    "notes": "Set reminder as due next week (Monday)",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Opt + Cmd + K",
                     "url": ""
                 },
                 {
@@ -213,17 +357,6 @@
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
                     "name": "Cmd + [List-Number]",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "◻️ Apple Reminders",
-                    "due_date": "",
-                    "notes": "Open \"Reminders User Guide\"",
-                    "flagged": false,
-                    "list": "⌨️ Keyboard Hotkey",
-                    "priority": "None",
-                    "name": "Cmd + Shift + /",
                     "url": ""
                 },
                 {
@@ -353,11 +486,11 @@
                     "tags": "",
                     "parent_reminder": "◻️ VS Code",
                     "due_date": "",
-                    "notes": "Show/Hide Terminal",
+                    "notes": "Show/Hide Terminal (& Switch the cursor between Terminal and code)",
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "Cmd + ` = Ctrl + J",
+                    "name": "Ctrl + ` = Cmd+ J",
                     "url": ""
                 },
                 {
@@ -540,7 +673,7 @@
                     "tags": "",
                     "parent_reminder": "◻️ VS Code",
                     "due_date": "",
-                    "notes": "Open Problems panel (for linting and errors)",
+                    "notes": "Open Problems panel (for linting errors, warnings, and diagnostics)",
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
@@ -628,6 +761,17 @@
                     "tags": "",
                     "parent_reminder": "◻️ VS Code",
                     "due_date": "",
+                    "notes": "Jump to a specific symbol (a function/class/variable/etc.) in the file",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + Shift + O",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ VS Code",
+                    "due_date": "",
                     "notes": "Split Editor Down (Vertical Split)",
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
@@ -666,6 +810,39 @@
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
                     "name": "Cmd + K Shift + Enter",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ VS Code",
+                    "due_date": "",
+                    "notes": "Move to previous terminal",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + Shift + [",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ VS Code",
+                    "due_date": "",
+                    "notes": "Move to next terminal",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + Shift + ]",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ VS Code",
+                    "due_date": "",
+                    "notes": "Shift focus from the terminal pane to the terminal tabs view",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + Shift + \\",
                     "url": ""
                 }
             ],
@@ -1081,6 +1258,17 @@
                     "tags": "",
                     "parent_reminder": "◻️ macOS",
                     "due_date": "",
+                    "notes": "Show the menu bar search, which reveals the menu bar with the added benefit of putting the cursor in the search field, so that you can quickly type the command you want and hit `Enter`",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Cmd + Shift + /",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "◻️ macOS",
+                    "due_date": "",
                     "notes": "Open Spotlight search bar",
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
@@ -1119,17 +1307,6 @@
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
                     "name": "Opt + Shift + K",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "◻️ macOS",
-                    "due_date": "",
-                    "notes": "Show the menu bar search, which reveals the menu bar with the added benefit of putting the cursor in the search field, so that you can quickly type the command you want and hit `Enter`",
-                    "flagged": false,
-                    "list": "⌨️ Keyboard Hotkey",
-                    "priority": "None",
-                    "name": "Shift + Cmd + /",
                     "url": ""
                 },
                 {
