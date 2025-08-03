@@ -2,7 +2,7 @@
 
 ## About
 
-This repository features a collection of [listicles](https://huami.ng/lists) that I've curated over time. They are insights, tips, and resources too brief to stand alone as [notes](https://huami.ng/notes) or [essays](https://huami.ng/writing).
+This repository features a collection of [listicles](https://huami.ng/lists) that I've curated over time. They are insights, tips, and ideas too short to be their own [notes](https://huami.ng/notes) or [essays](https://huami.ng/writing).
 
 You can explore and download these lists at [huami.ng/lists](https://huami.ng/lists). If you find this project useful, please consider supporting my work by [buying me a coffee](https://buymeacoffee.com/huaming.huang).
 
@@ -24,7 +24,7 @@ You can explore and download these lists at [huami.ng/lists](https://huami.ng/li
 
 I use [ Apple Reminders](https://support.apple.com/en-au/guide/reminders/welcome/mac) not only for _task management_, but also for _note-taking_. Its support for notes, URLs, and nested reminders makes it a powerful tool for organizing knowledge.
 
-Whenever I come across something interesting, I add it to the relevant Reminder list. Every month, I use [ Apple Shortcuts](https://shortcutomation.com/gallery/evergreen-lists/share-evergreen-lists/) to export these items into three formats—**[Google Sheets](https://shortcutomation.com/gallery/evergreen-lists/evergreen-list-to-google-sheets/)**, **[JSON](https://shortcutomation.com/gallery/evergreen-lists/evergreen-list-to-json/)**, and **[Markdown](https://shortcutomation.com/gallery/evergreen-lists/evergreen-list-to-markdown/)**—all of which are available in this repository.
+Whenever I come across something interesting, I add it to the relevant Reminder list. Every month, I use [ Apple Shortcuts](https://shortcutomation.com/gallery/evergreen-lists/share-evergreen-lists/) to export these items into three formats—**[Google Sheets](https://shortcutomation.com/gallery/evergreen-lists/evergreen-list-to-google-sheets/)**, **[JSON](https://shortcutomation.com/gallery/evergreen-lists/evergreen-list-to-json/)**, and **[Markdown](https://shortcutomation.com/gallery/evergreen-lists/evergreen-list-to-markdown/)**. You can find all of them in this repo.
 
 <p align="center">
 <a href="assets/mockup.png">
@@ -40,28 +40,28 @@ Whenever I come across something interesting, I add it to the relevant Reminder 
 
 > _“Live as if you were to die tomorrow. Learn as if you were to live forever.” — Mahatma Gandhi_
 
-Inspired by the concepts of [incremental learning](https://www.google.com/search?q=incremental+learning) and [microlearning](https://www.google.com/search?q=microlearning), I utilize the following tools to regularly retrieve and review these “Reminders”:
+Inspired by the concepts of [incremental learning](https://www.google.com/search?q=incremental+learning) and [microlearning](https://www.google.com/search?q=microlearning), I use these tools to regularly pull up and review these “Reminders”:
 
 ### Obsidian Callout
 
-On desktop, I created an [Obsidian Callout](https://help.obsidian.md/callouts) with the [Dataview](https://github.com/blacksmithgu/obsidian-dataview) plugin to display a random item from one of the [evergreen lists](https://huami.ng/lists). For details, see the [full code snippet](https://github.com/huaminghuangtw/Second-Brain/blob/main/Homepage.md#-evergreen-lists).
+On desktop, I made an [Obsidian Callout](https://help.obsidian.md/callouts) with the [Dataview](https://github.com/blacksmithgu/obsidian-dataview) plugin. It shows a random item from the [evergreen lists](https://huami.ng/lists). For details, see the [full code snippet](https://github.com/huaminghuangtw/Second-Brain/blob/main/Homepage.md#-evergreen-lists).
 
 <p align="center">
 <a href="assets/callout.png">
 <kbd>
-<img src="assets/callout.png" width="500" title=""/>
+<img src="assets/callout.png" width="" title=""/>
 </kbd>
 </a>
 </p>
 
 ### Apple Shortcuts
 
-On mobile, I used  Apple Shortcuts to implement and automate a flashcard system that incorporates the [spaced repetition](https://www.google.com/search?q=spaced+repetition) and [active recall](https://www.google.com/search?q=active+recall) techniques. Try [this shortcut](https://shortcutomation.com/gallery/shared/evergreen-lists/) for a demonstration.
+On mobile, I use  Apple Shortcuts to implement a flashcard system. It incorporates the [spaced repetition](https://www.google.com/search?q=spaced+repetition) and [active recall](https://www.google.com/search?q=active+recall) techniques. Try [this shortcut](https://shortcutomation.com/gallery/shared/evergreen-lists/) to see how it works.
 
 <p align="center">
-<a href="assets/notification.jpg">
+<a href="assets/notification.png">
 <kbd>
-<img src="assets/notification.jpg" width="500" title=""/>
+<img src="assets/notification.png" width="" title=""/>
 </kbd>
 </a>
 </p>
