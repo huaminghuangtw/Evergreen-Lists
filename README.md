@@ -20,7 +20,7 @@ You can explore and download these lists at [huami.ng/lists](https://huami.ng/li
 10. **[World Cuisine](https://huami.ng/lists/world-cuisine/)**
 11. **[Healthy Food](https://huami.ng/lists/healthy-food/)**
 
-## How I Built This Project
+## How I Built This System
 
 I use [ Apple Reminders](https://support.apple.com/en-au/guide/reminders/welcome/mac) not only for _task management_, but also for _note-taking_. Its support for notes, URLs, and nested reminders makes it a powerful tool for organizing knowledge.
 
@@ -34,7 +34,7 @@ Whenever I come across something interesting, I add it to the relevant Reminder 
 </a>
 </p>
 
----
+## Tools
 
 > _“Live to learn and you'll really learn to live.” — John C. Maxwell_
 
