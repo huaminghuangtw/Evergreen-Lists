@@ -4,25 +4,9 @@
 
 This repository features a collection of [listicles](https://huami.ng/lists) that I've curated over time. They are insights, tips, and ideas too short to be their own [notes](https://huami.ng/notes) or [essays](https://huami.ng/writing).
 
-You can explore and download these lists at [huami.ng/lists](https://huami.ng/lists). If you find this project useful, please consider supporting my work by [buying me a coffee](https://buymeacoffee.com/huaming.huang).
-
-## Overview
-
-1. **[Shortcuts Dev Tip](https://huami.ng/lists/shortcuts-dev-tip/)**
-2. **[AI Prompt](https://huami.ng/lists/ai-prompt/)**
-3. **[Journal Prompt](https://huami.ng/lists/journal-prompt/)**
-4. **[Keyboard Hotkey](https://huami.ng/lists/keyboard-hotkey/)**
-5. **[Cheat Sheet](https://huami.ng/lists/cheat-sheet/)**
-6. **[Tech Pro Tip](https://huami.ng/lists/tech-pro-tip/)**
-7. **[Life Pro Tip](https://huami.ng/lists/life-pro-tip/)**
-8. **[Home Exercise](https://huami.ng/lists/home-exercise/)**
-9. **[Gym Workout](https://huami.ng/lists/gym-workout/)**
-10. **[World Cuisine](https://huami.ng/lists/world-cuisine/)**
-11. **[Healthy Food](https://huami.ng/lists/healthy-food/)**
-
 ## How I Built This System
 
-I use [ Apple Reminders](https://support.apple.com/en-au/guide/reminders/welcome/mac) not only for _task management_, but also for _note-taking_. Its support for notes, URLs, and nested reminders makes it a powerful tool for organizing knowledge.
+I use [ Apple Reminders](https://support.apple.com/en-au/guide/reminders/welcome/mac) not only for _task management_, but also for _note-taking_. Its support for notes, URLs, and subtasks makes it a powerful tool for organizing knowledge.
 
 Whenever I come across something interesting, I add it to the relevant Reminder list. Every month, I use [ Apple Shortcuts](https://shortcutomation.com/gallery/evergreen-lists/share-evergreen-lists/) to export these items into three formats—**[Google Sheets](https://shortcutomation.com/gallery/evergreen-lists/evergreen-list-to-google-sheets/)**, **[JSON](https://shortcutomation.com/gallery/evergreen-lists/evergreen-list-to-json/)**, and **[Markdown](https://shortcutomation.com/gallery/evergreen-lists/evergreen-list-to-markdown/)**. You can find all of them in this repo.
 
@@ -33,6 +17,9 @@ Whenever I come across something interesting, I add it to the relevant Reminder 
 </kbd>
 </a>
 </p>
+
+> [!TIP]
+> _[Check out](https://github.com/huaminghuangtw/Brain-Food) my other repository to see how I use Reminders for bookmarks!_
 
 ## Tools
 
@@ -65,6 +52,24 @@ On mobile, I use  Apple Shortcuts to implement a flashcard system. It incorpo
 </kbd>
 </a>
 </p>
+
+## Overview
+
+1. **[Shortcuts Dev Tip](https://huami.ng/lists/shortcuts-dev-tip/)**
+2. **[AI Prompt](https://huami.ng/lists/ai-prompt/)**
+3. **[Journal Prompt](https://huami.ng/lists/journal-prompt/)**
+4. **[Keyboard Hotkey](https://huami.ng/lists/keyboard-hotkey/)**
+5. **[Cheat Sheet](https://huami.ng/lists/cheat-sheet/)**
+6. **[Tech Pro Tip](https://huami.ng/lists/tech-pro-tip/)**
+7. **[Life Pro Tip](https://huami.ng/lists/life-pro-tip/)**
+8. **[Home Exercise](https://huami.ng/lists/home-exercise/)**
+9. **[Gym Workout](https://huami.ng/lists/gym-workout/)**
+10. **[World Cuisine](https://huami.ng/lists/world-cuisine/)**
+11. **[Healthy Food](https://huami.ng/lists/healthy-food/)**
+
+## Support
+
+You can explore and download these lists at [huami.ng/lists](https://huami.ng/lists). If you find this project valuable, please consider supporting my work by [buying me a coffee](https://buymeacoffee.com/huaming.huang).
 
 ## Contribution
 
