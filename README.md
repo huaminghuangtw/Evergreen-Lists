@@ -2,11 +2,11 @@
 
 ## About
 
-This repository features a collection of [listicles](https://huami.ng/lists) that I've curated over time. They are insights, tips, and ideas too short to be their own [notes](https://huami.ng/notes) or [essays](https://huami.ng/writing).
+This repository features a collection of [listicles](https://huami.ng/lists) I've curated over time. They are insights, tips, and ideas too short to be their own [notes](https://huami.ng/notes) or [essays](https://huami.ng/writing).
 
 ## How I Built This System
 
-I use [ Apple Reminders](https://support.apple.com/en-au/guide/reminders/welcome/mac) not only for _task management_, but also for _note-taking_. Its support for notes, URLs, and subtasks makes it a powerful tool for organizing knowledge.
+I use [ Apple Reminders](https://support.apple.com/en-au/guide/reminders/welcome/mac) not only for _task management_, but also for _note-taking_. Its support for **notes**, **tags**, **URLs**, and **subtasks** makes it a powerful tool for organizing knowledge.
 
 Whenever I come across something interesting, I add it to the relevant Reminder list. Every month, I use [ Apple Shortcuts](https://shortcutomation.com/gallery/evergreen-lists/share-evergreen-lists/) to export these items into three formats—**[Google Sheets](https://shortcutomation.com/gallery/evergreen-lists/evergreen-list-to-google-sheets/)**, **[JSON](https://shortcutomation.com/gallery/evergreen-lists/evergreen-list-to-json/)**, and **[Markdown](https://shortcutomation.com/gallery/evergreen-lists/evergreen-list-to-markdown/)**. You can find all of them in this repo.
 
@@ -69,7 +69,7 @@ On mobile, I use  Apple Shortcuts to implement a flashcard system. It incorpo
 
 ## Support
 
-You can explore and download these lists at [huami.ng/lists](https://huami.ng/lists). If you find this project valuable, please consider supporting my work by [buying me a coffee](https://buymeacoffee.com/huaming.huang).
+You can explore and download these lists at [huami.ng/lists](https://huami.ng/lists) all shortcuts related to this project on [Shortcutomation](https://shortcutomation.com/gallery/evergreen-lists). If you find this project valuable, please consider supporting my work by [buying me a coffee](https://buymeacoffee.com/huaming.huang).
 
 ## Contribution
 
