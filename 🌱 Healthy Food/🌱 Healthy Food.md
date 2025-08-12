@@ -7,22 +7,22 @@ created: 2025-04-04T14:38:56
 modified: 2025-07-04T11:59:56
 ---
 
-## 🌾 Whole Grains
+# 🌾 Whole Grains
 
 * [Bulgur](https://www.google.com/search?q=Bulgur) 碾碎小麥
 * [Quinoa](https://www.google.com/search?q=Quinoa) 藜麥
 
-## [🫛 Legumes (荚豆)](https://en.wikipedia.org/wiki/Legume) [^1]
+# [🫛 Legumes (荚豆)](https://en.wikipedia.org/wiki/Legume) [^1]
 
 * [Linsen](https://www.google.com/search?q=Linsen) 扁豆 [^2]
 * [Chickpea](https://www.google.com/search?q=Chickpea) 鷹嘴豆 [^3] [^4]
 
-## 🌰 Nuts
+# 🌰 Nuts
 
 * [Chestnut](https://www.google.com/search?q=Chestnuts) 栗子 [^5]
 * [Hazelnut](https://www.google.com/search?q=Hazelnut) [^6]
 
-## 🌶️ Spices
+# 🌶️ Spices
 
 * [Cardamom](https://www.google.com/search?q=Cardamom) 豆蔻
 

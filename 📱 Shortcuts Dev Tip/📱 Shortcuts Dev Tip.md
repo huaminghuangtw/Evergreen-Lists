@@ -7,7 +7,7 @@ created: 2025-03-22T23:34:26
 modified: 2025-07-04T12:00:31
 ---
 
-## 💁‍♂️ Keyboard Hotkeys (macOS)
+# 💁‍♂️ Keyboard Hotkeys (macOS)
 
 * Cmd + ↑/↓ [^1]
 * Cmd + D [^2]
@@ -19,15 +19,15 @@ modified: 2025-07-04T12:00:31
 * Cmd + Shift + R [^8]
 * Cmd + Shift + S [^9]
 
-## 💁‍♂️ Tricks To Minimize # Of Actions Used
+# 💁‍♂️ Tricks To Minimize # Of Actions Used
 
 * When using “Set Dictionary Value” to create a dictionary, you can leave the dictionary field blank on the right instead of adding a separate “Dictionary” action and referencing it.
 
-## 💁‍♂️ Mistakes I Have Made
+# 💁‍♂️ Mistakes I Have Made
 
 * Using the 'Match Text' action with the regular anchor ^keyword provides more reliable results compared to using the built-in 'Begins With ' condition.
 
-## 💁‍♂️ Good Practices
+# 💁‍♂️ Good Practices
 
 * Add a “Stop This Shortcut” action at the end of each shortcut to prevent unintended side effects, especially when dealing with conditional logic or automation.
 	* **Why It's a Good Practice:**
@@ -39,11 +39,11 @@ modified: 2025-07-04T12:00:31
 		* 🚫 For Simple Shortcuts: If your shortcut only has a few actions and no branching logic, it may not be necessary.
 	* In general, if your shortcut has multiple conditions, loops, or external triggers, adding “Stop This Shortcut” at the end is a good habit.
 
-## 💁‍♂️ Testing
+# 💁‍♂️ Testing
 
 * Use Siri to run a shortcut by simply saying its name. For example, say, 'Hey Siri, Turn off Color Filters.'
 
-## 💁‍♂️ Applications
+# 💁‍♂️ Applications
 
 * [You can rename Shortcuts dynamically to display quick information—like battery level, date, or weather—directly in the shortcut’s name. By using the “Rename Shortcut” action, you can update its title based on live data, making your Home Screen or widget area more informative at a glance. It’s a clever way to turn shortcuts into mini status indicators without needing to open an app.](https://www.reddit.com/r/shortcuts/comments/1k7jg8n/renaming_shortcuts_for_quick_info/?share_id=CCpdoTwK3HFT7Zj2Wuq_2)
 

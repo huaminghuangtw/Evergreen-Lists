@@ -7,7 +7,7 @@ created: 2024-11-18T17:53:47
 modified: 2025-07-04T12:00:27
 ---
 
-## ◻️ Git
+# ◻️ Git
 
 * Drop all stashed at once
 
@@ -39,7 +39,7 @@ modified: 2025-07-04T12:00:27
     git stash show -p
     ```
 
-## ◻️ Raspberry Pi
+# ◻️ Raspberry Pi
 
 * Show IP address
 
@@ -59,7 +59,7 @@ modified: 2025-07-04T12:00:27
     vcgencmd get_throttled | grep -q throttled=0x50005 && echo "Low voltage detected! Please use official power supply." || echo "Power requirement satisfied."
     ```
 
-## ◻️ Ssh
+# ◻️ Ssh
 
 * Print the public SSH key, which can be used for authentication on remote servers
 
@@ -79,7 +79,7 @@ modified: 2025-07-04T12:00:27
     ssh-keygen
     ```
 
-## ◻️ Network Manager
+# ◻️ Network Manager
 
 * Connect to a WiFi network
 

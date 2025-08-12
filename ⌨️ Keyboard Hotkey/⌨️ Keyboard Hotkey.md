@@ -7,7 +7,7 @@ created: 2025-04-04T14:24:33
 modified: 2025-07-04T11:59:07
 ---
 
-## [◻️ Apple Notes](https://support.apple.com/en-gb/guide/notes/apd46c25187e/mac)
+# [◻️ Apple Notes](https://support.apple.com/en-gb/guide/notes/apd46c25187e/mac)
 
 | <span style="display:inline-block; width:450px">Hotkey</span> | Note |
 | --- | --- |
@@ -21,7 +21,7 @@ modified: 2025-07-04T11:59:07
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>H</kbd> | Apply heading format |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>J</kbd> | Apply subheading format |
 
-## [◻️ Apple Reminders](https://support.apple.com/en-am/guide/reminders/remn19b3424c/mac)
+# [◻️ Apple Reminders](https://support.apple.com/en-am/guide/reminders/remn19b3424c/mac)
 
 | <span style="display:inline-block; width:450px">Hotkey</span> | Note |
 | --- | --- |
@@ -37,7 +37,7 @@ modified: 2025-07-04T11:59:07
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>/</kbd> | Open “Reminders User Guide” |
 | <kbd>Cmd</kbd> + <kbd>Enter</kbd> | While editing: Save/exit editing the reminder; While not editing: Mark reminder as complete [^1] [^2] |
 
-## [◻️ ChatGPT Desktop Application](https://openai.com/chatgpt/desktop/)
+# [◻️ ChatGPT Desktop Application](https://openai.com/chatgpt/desktop/)
 
 | <span style="display:inline-block; width:450px">Hotkey</span> | Note |
 | --- | --- |
@@ -45,7 +45,7 @@ modified: 2025-07-04T11:59:07
 | <kbd>Cmd</kbd> + <kbd>N</kbd> | Open new chat |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd> | Open new temporary chat |
 
-## [◻️ VS Code](https://code.visualstudio.com/docs/getstarted/keybindings)
+# [◻️ VS Code](https://code.visualstudio.com/docs/getstarted/keybindings)
 
 | <span style="display:inline-block; width:450px">Hotkey</span> | Note |
 | --- | --- |
@@ -84,7 +84,7 @@ modified: 2025-07-04T11:59:07
 | <kbd>Ctrl</kbd> + <kbd>[1-9]</kbd> | Switch to a specific editor/tab by number |
 | <kbd>Cmd</kbd> + <kbd>K Shift</kbd> + <kbd>Enter</kbd> | Pin/unpin editor/tab |
 
-## ◻️ File Manager [^4] [^5]
+# ◻️ File Manager [^4] [^5]
 
 | <span style="display:inline-block; width:450px">Hotkey</span> | Note |
 | --- | --- |
@@ -110,7 +110,7 @@ modified: 2025-07-04T11:59:07
 | <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>Cmd</kbd> + <kbd>2</kbd> | Sort by kind |
 | <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>Cmd</kbd> + <kbd>6</kbd> | Sort by size |
 
-## [◻️ macOS](https://support.apple.com/en-us/102650)
+# [◻️ macOS](https://support.apple.com/en-us/102650)
 
 | <span style="display:inline-block; width:450px">Hotkey</span> | Note |
 | --- | --- |
@@ -135,7 +135,7 @@ modified: 2025-07-04T11:59:07
 | <kbd>Shift</kbd> + <kbd>Cmd</kbd> + <kbd>/</kbd> | Show the menu bar search, which reveals the menu bar with the added benefit of putting the cursor in the search field, so that you can quickly type the command you want and hit `Enter` |
 | <kbd>Fn</kbd> + <kbd>C</kbd> | Open Control Center |
 
-## [◻️ Notion](https://www.notion.so/help/keyboard-shortcuts)
+# [◻️ Notion](https://www.notion.so/help/keyboard-shortcuts)
 
 | <span style="display:inline-block; width:450px">Hotkey</span> | Note |
 | --- | --- |
@@ -143,7 +143,7 @@ modified: 2025-07-04T11:59:07
 | <kbd>Cmd</kbd> + <kbd>]</kbd> | Go forward a page |
 | <kbd>Cmd</kbd> + <kbd>\\</kbd> | Show/Hide sidebar |
 
-## ◻️ Terminal
+# ◻️ Terminal
 
 | <span style="display:inline-block; width:450px">Hotkey</span> | Note |
 | --- | --- |
@@ -156,7 +156,7 @@ modified: 2025-07-04T11:59:07
 | <kbd>Opt</kbd> + <kbd>B</kbd> | Jump backward by a word |
 | <kbd>Opt</kbd> + <kbd>D</kbd> | Delete a word forwards from the current cursor position |
 
-## ◻️ Web Browser (Microsoft Edge)
+# ◻️ Web Browser (Microsoft Edge)
 
 | <span style="display:inline-block; width:450px">Hotkey</span> | Note |
 | --- | --- |
@@ -184,7 +184,7 @@ modified: 2025-07-04T11:59:07
 | <kbd>Opt</kbd> + <kbd>Cmd</kbd> + <kbd>[Right-Arrow]</kbd> | Moves to the next tab (rightward) [^8] |
 | <kbd>Opt</kbd> + <kbd>Cmd</kbd> + <kbd>[Left-Arrow]</kbd> | Moves to the previous tab (leftward) [^9] |
 
-## ◻️ Youtube
+# ◻️ Youtube
 
 | <span style="display:inline-block; width:450px">Hotkey</span> | Note |
 | --- | --- |

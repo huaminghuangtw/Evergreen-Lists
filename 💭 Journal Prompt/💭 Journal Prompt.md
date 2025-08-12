@@ -7,12 +7,12 @@ created: 2024-11-18T18:07:14
 modified: 2025-07-04T12:00:20
 ---
 
-## 🤔 On “Good Morning”
+# 🤔 On “Good Morning”
 
 * What would my greatest day look like today? What is today's adventure going to be? What is my side quest for today?
 * How do I want to feel at the end of the day? Joyful or frustrated? What do I need to do now, so that I can feel this way in the evening?
 
-## 🤔 On “Good Evening”
+# 🤔 On “Good Evening”
 
 * Am I putting myself in good positions and creating the conditions that are impossible to fail and guaranteed for success? [^1]
 * What excited me? What drained me of energy? Was my attention on loving or on who isn't loving me?
@@ -21,7 +21,7 @@ modified: 2025-07-04T12:00:20
 * What's on the agenda for tomorrow? How will I push the needle forward?
 * Am I a little wiser now than I were when I woke up? Am I getting better than yesterday? Did I beat Yesterday Me?
 
-## 🤔 On “Today”
+# 🤔 On “Today”
 
 * Are the results I'm expecting aligned with the actions I took today?
 * What am I certain of today that I'll laugh at in 10 years?
@@ -41,7 +41,7 @@ modified: 2025-07-04T12:00:20
 * What would my 80-year-old self say about my decisions today?
 * What actions am I engaged in today that I will cringe at in 5 years?
 
-## 🤔 On “Prioritization”
+# 🤔 On “Prioritization”
 
 * If XXX were the last day of my life, would I want to do what I am about to do XXX?
 * Which undone item, if done XXX, would liberate the most energy for me personally?
@@ -54,7 +54,7 @@ modified: 2025-07-04T12:00:20
 * What is the ONE highest-leverage thing I can do XXX that'll take the largest load off my shoulders?
 * What activity I can do XXX that will create the most impact and value to the world?
 
-## 🤔 On “Productivity”
+# 🤔 On “Productivity”
 
 * What would this look like if it were dead or stupid simple and easy?
 * Have I considered whether doing less might actually lead to better results?
@@ -70,7 +70,7 @@ modified: 2025-07-04T12:00:20
 * How can the work I am doing accumulate and layer on top of what I did previously?
 * How can I win the day by noon?
 
-## 🤔 On “Miscellaneous”
+# 🤔 On “Miscellaneous”
 
 * What kept me sane?
 * When does it benefit me to be patient and when does it not?
@@ -283,7 +283,7 @@ modified: 2025-07-04T12:00:20
 * What mastery or gift have I developed that I can offer to the world?
 * What mastery or gift have I developed that I can offer to the world? [^9]
 
-## 🤔 On “Life”
+# 🤔 On “Life”
 
 * Imagine, at the end of a long life when you've passed away, you're at the pearly gates of heaven, and the angels have allowed you back to your life for just one moment, and right now is that time. How do you respond?
 * What season am I in right now? What am I optimizing for?
@@ -292,7 +292,7 @@ modified: 2025-07-04T12:00:20
 * If a competent CEO got to run my life for a day, what is the first thing they would eliminate?
 * What hard lesson keeps repeating itself in my life because I refuse to learn it?
 
-## 🤔 On “Year In Review”
+# 🤔 On “Year In Review”
 
 * Which habits have become more important and I need to double down on next year? Which habits are no longer serving me and need to be replaced next year?
 * 今年有哪裡做得好的地方? 今年有哪裡可以做得更好的地方?
@@ -320,7 +320,7 @@ modified: 2025-07-04T12:00:20
 * What valuable life lesson did I learn this year?
 * What is a quote that sums up my year?
 
-## 🤔 On “Self-Reflection”
+# 🤔 On “Self-Reflection”
 
 * Better waves make better surfers. Am I on the right beach?
 * Who do I secretly envy—and what does that reveal about what I truly value?

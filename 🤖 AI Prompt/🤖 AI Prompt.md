@@ -7,7 +7,7 @@ created: 2024-11-18T17:59:34
 modified: 2025-07-04T12:00:36
 ---
 
-## ◻️ Learning & Education
+# ◻️ Learning & Education
 
 * Summarize the book [BOOK_NAME], and give me a list of the most important insights, takeaways, and actionable tips/advice from this book.
 * Explain [insert concept or topic] using three different real-world examples or analogies that would be easy for a beginner to understand.
@@ -22,16 +22,16 @@ modified: 2025-07-04T12:00:36
 * [PASTE YOUR NOTES] Ask me a series of open-ended, short-answer, minimal-prompt questions to test my understanding of the provided material.
 * Analyze the top performers in [INSERT YOUR FIELD OF WORK]. Give me a list of the most important lessons I can learn from these top performers to boost my productivity.
 
-## ◻️ Problem Solving
+# ◻️ Problem Solving
 
 * Your role is that of a problem solver. Give me a step-by-step guide to solve [PROBLEM].
 * Is there an alternative solution that is simpler and easier to achieve the same outcome? Please reason from the first-principle thinking.
 
-## ◻️ Writing & Publishing
+# ◻️ Writing & Publishing
 
 * I am writing a blog post about [TOPIC]. Give me 5 options for a catchy headline that can hooks the audience.
 
-## ◻️ Getting Feedback
+# ◻️ Getting Feedback
 
 * Simulate a roundtable discussion with me and three experts in [FIELDS] discussing [TOPIC]. Present their different viewpoints and any potential areas of agreement or disagreement.
 * Here's something I've [written/created/produced]: [INSERT YOUR WORK]. Please provide specific suggestions to improve it, focusing on [aspect you want to improve, e.g., clarity, structure, persuasiveness]. Explain why each change would make it better.

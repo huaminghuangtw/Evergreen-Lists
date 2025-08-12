@@ -7,13 +7,13 @@ created: 2024-11-18T17:58:47
 modified: 2025-07-04T12:00:08
 ---
 
-## 💡 General
+# 💡 General
 
 * Use the `Shift` key to type capital letters instead of relying on `Caps Lock`. It's more efficient and helps prevent accidental ALL CAPS typing.
 * If you're curious about how a font looks in action, just Google its name — for popular fonts like _Comic Sans_, _Roboto_, or _Courier_, Google will sometimes render the search results page in that font. It's a clever [Easter egg](https://en.wikipedia.org/wiki/List_of_Google_Easter_eggs) that lets you preview the font in real-time. Great for designers or anyone picking fonts quickly. Note: it works best in Chrome and may not appear if you're using certain browser extensions.
 * You can create a link that highlights specific text fragment on a page by adding `#:~:text=your%20text%20here` to the end of the URL — it'll auto-scroll and highlight the exact phrase in Chrome or Edge. For example, linking to “climate change” on Wikipedia looks like this: <https://en.wikipedia.org/wiki/Climate_change>#:~:text=climate%20change.
 
-## 💡 macOS
+# 💡 macOS
 
 * How to add Trash to the Finder window sidebar? Open the Trash > Go to the File menu > Click “Add to Sidebar”
 * Use the keyboard shortcut `Shift` + `Cmd` + `/` to show the menu bar _search_, which reveals the menu bar with the added benefit of putting the cursor in the search field, so that you can quickly type the command you want and hit `Enter`
@@ -34,7 +34,7 @@ modified: 2025-07-04T12:00:08
 	5. Press `ESC` to close the preview.
 * [You can access the audio files of system sounds like ringtones, alerts, and notifications via `/System/Library/PrivateFrameworks/ToneLibrary.framework/Versions/A/Resources/Ringtones/` & `/System/Library/Sounds/`. Files here are typically in `.m4r`, `.caf`, or `.aiff` format. This directory is read-only under normal user conditions, and modifying it requires elevated permissions.](https://apple.stackexchange.com/questions/467536/on-mac-where-to-find-the-audio-files-of-the-sounds-in-the-native-clock-app)
 
-## 💡 iOS
+# 💡 iOS
 
 * [Instead of using the traditional copy-and-paste approach to move text/images/files/urls/etc. between apps, use the hidden drag-and-drop feature.](https://www.youtube.com/watch?v=DhwRv1YLhRg)
 * [Move multiple Home Screen apps at once](https://ios.gadgethacks.com/how-to/move-multiple-home-screen-apps-once-0177985): Tap and hold on one app, then tap more apps to add them to your stack
@@ -48,6 +48,6 @@ modified: 2025-07-04T12:00:08
 * 在 iPhone 輸入中文時，可以先輸入每個字的首個注音符號，待所有字母輸入完畢後，再依照建議詞彙或上下文選字。這種方式有助於提高輸入速度，特別是在熟悉鍵盤佈局後，可減少中斷思考的時間。
 * Saying “Remind me” to Siri can create a reminder in the default list.
 
-## 💡 Apple Ecosystem
+# 💡 Apple Ecosystem
 
 * [Use Universal Clipboard to copy and paste between your Apple devices](https://support.apple.com/en-us/102430)
