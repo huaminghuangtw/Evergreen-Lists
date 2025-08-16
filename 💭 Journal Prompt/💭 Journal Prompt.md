@@ -1,29 +1,14 @@
 ---
 title: 💭 Journal Prompt
-slug: journal-prompt
-description: Thought-provoking quistions to inspire self-reflection.
+description: Thought-provoking questions to inspire self-reflection.
 spreadsheetId: 1RI3C2N7-LaWG1pZC6xMVvS08OJJQp92qJhLaPSXNzQ0
-created: 2024-11-18T18:07:14
-modified: 2025-07-04T12:00:20
+modified: 2025-08-15T11:23:55
 ---
-
-# 🤔 On “Good Morning”
-
-* What would my greatest day look like today? What is today's adventure going to be? What is my side quest for today?
-* How do I want to feel at the end of the day? Joyful or frustrated? What do I need to do now, so that I can feel this way in the evening?
-
-# 🤔 On “Good Evening”
-
-* Am I putting myself in good positions and creating the conditions that are impossible to fail and guaranteed for success? [^1]
-* What excited me? What drained me of energy? Was my attention on loving or on who isn't loving me?
-* Which moments were the most important? Which moments were the most memorable? What major realizations did I have?
-* What did I learn? What did I improve? What was my biggest win of the day?
-* What's on the agenda for tomorrow? How will I push the needle forward?
-* Am I a little wiser now than I were when I woke up? Am I getting better than yesterday? Did I beat Yesterday Me?
 
 # 🤔 On “Today”
 
 * Are the results I'm expecting aligned with the actions I took today?
+* What cracks am I creating today that could become major problems tomorrow?
 * What am I certain of today that I'll laugh at in 10 years?
 * Am I putting myself in the best position possible today, so that Future Me can play easy mode?
 * What was my definition of enoughness 5 years ago and how does it compare to my definition today?
@@ -41,12 +26,30 @@ modified: 2025-07-04T12:00:20
 * What would my 80-year-old self say about my decisions today?
 * What actions am I engaged in today that I will cringe at in 5 years?
 
+# 🤔 On “Good Morning”
+
+* What would my greatest day look like today? What is today's adventure going to be? What is my side quest for today?
+* How do I want to feel at the end of the day? Joyful or frustrated? What do I need to do now, so that I can feel this way in the evening?
+* What makes me excited to wake up? Will this let me sleep in peace?
+
+# 🤔 On “Good Evening”
+
+* Am I putting myself in good positions and creating the conditions that are impossible to fail and guaranteed for success? [^1]
+* What excited me? What drained me of energy? Was my attention on loving or on who isn't loving me?
+* Which moments were the most important? Which moments were the most memorable? What major realizations did I have?
+* What did I learn? How can I improve? What was my biggest win of the day?
+* What frustrated me? How does that frustration reveal my core values?
+* What's on the agenda for tomorrow? How will I push the needle forward?
+* Am I a little wiser now than I were when I woke up? Am I getting better than yesterday? Did I beat Yesterday Me?
+
 # 🤔 On “Prioritization”
 
 * If XXX were the last day of my life, would I want to do what I am about to do XXX?
+* If I were the last person on earth XXX, would I still do the thing I'm going to do?
+* What would I do if I wasn't afraid of being wrong or judged?
 * Which undone item, if done XXX, would liberate the most energy for me personally?
 * If I could only accomplish one thing XXX, what would make everything else easier or unnecessary?
-* What is scarce in my work XXX? How can I leverage it?
+* What is scarce in my work XXX? How can I leverage it? What aspect of my work is hardest to copy? How can I amplify it?
 * If I had a heart attack and could only work two hours XXX, what would I choose to do?
 * What is the biggest bottleneck that holds me back XXX? Am I avoiding it?
 * What are the one or two mission-critical tasks I could accomplish XXX that would define the day as a success?
@@ -56,32 +59,40 @@ modified: 2025-07-04T12:00:20
 
 # 🤔 On “Productivity”
 
-* What would this look like if it were dead or stupid simple and easy?
+* What would this look like if it were dead simple or stupid easy?
 * Have I considered whether doing less might actually lead to better results?
-* How can I approach this with a little less seriousness and a little more sincerity?
+* How can I approach this with a little less seriousness and a little more sincerity? [^2]
 * What would this look like if it were fun?
+* If this were a puzzle or game, how would I approach it differently?
 * Am I being productive or just active/busy?
 * Is there a higher leverage, more efficient way to approach this?
 * What is the most sensible order of tasks? Which tasks naturally flow into each other? How can I make transitions smoother?
-* Am I chasing mice or hunting antelope? [^2]
+* Am I chasing mice or hunting antelope? [^3]
 * If this is the only thing I accomplish today, will I be satisfied with my day?
 * Am I inventing things to do to avoid the important?
 * Am I focusing on the big, weighty, important tasks that will provide sufficient reward for my energy? Or am I burning calories chasing the tiny wins that will not move the needle?
 * How can the work I am doing accumulate and layer on top of what I did previously?
-* How can I win the day by noon?
+* How can I win the day by 12:34?
+* Which 20% of work produces 80% of result?
+* Am I solving the right problem, or just the first one I noticed?
+* What constraints am I treating as fixed that might be flexible?
+* If this were someone else's problem, what advice would I give them?
+* What if I tried the opposite of what I've been trying?
+* How would someone in a completely different field solve this?
 
 # 🤔 On “Miscellaneous”
 
+* [What would I need to hear and get from a past generation to convince me to complete a project they began?](https://kk.org/thetechnium/the-scarcity-of-the-long-term/)
 * What kept me sane?
 * When does it benefit me to be patient and when does it not?
 * What in my field do I think is a law but is actually just a rule?
 * Instead of asking, “What could make me feel happy?” Try asking, “What could make the group excited?”
 * What does my ideal ordinary Tuesday look like? What am I doing? Who am I with? How am I spending my time? What makes this day perfect for me?
 * What do I hope will be different 10 years from now?
-* If I do nothing, what will happen? If I act right now, what will happen? [^3]
+* If I do nothing, what will happen? If I act right now, what will happen? [^4]
 * How well am I treating my body and why?
 * What would I do even if I knew it was going to fail?
-* Where am I allowing my self-protection to become self-rejection? [^4]
+* Where am I allowing my self-protection to become self-rejection? [^5]
 * What is holding me back from living my best life?
 * What am I working on and why? Does it support my future-self?
 * What might I do to accomplish my 10-year goals in the next 6 months, if I had a gun against my head?
@@ -96,9 +107,9 @@ modified: 2025-07-04T12:00:20
 * What makes me hopeful?
 * What would I attempt if I knew I couldn't fail?
 * What is the quality I most like in a woman?
-* What if my path is a spiral? What if I'm not really going in circles, but going upwards?
+* What if my path is a spiral? What if I'm not really going in circles, but [going upwards](https://sketchplanations.com/the-upward-spiral)?
 * When have I felt most joyful this year and what steps can I take to recreate those conditions?
-* If I were stuck in a third world prison or on an island, then I had to call someone to bail me out. Who would I call? [^5]
+* If I were stuck in a third world prison or on an island, then I had to call someone to bail me out. Who would I call? [^6]
 * What would I do if I had a billion dollars?
 * What is my greatest fear?
 * What are some small things that other people have done that really make my day?
@@ -116,12 +127,12 @@ modified: 2025-07-04T12:00:20
 * What are the 20% of activities or people causing 80% of my stress?
 * What would I do if I could stop time for two months?
 * If I woke up 3 years from now and were living my ideal life, what were the 3 things I did to get me there?
-* What are the boring, basic/tiny actions I am avoiding right now?
+* What are the boring, basic, tiny actions I am avoiding right now?
 * What is a boundary that I need to draw and protect in my life?
 * What do I believe to be true that is not?
 * What is not being said right now that needs to be said? What problems could we avoid in the future, if only we had the courage to talk about them now?
 * What have I been told I'm really good or poor at?
-* What are the boat anchors or bottlenecks that create drags in my life? What are the things silently holding me back? How can I slowly, methodically cut these lines and unleash my full power?
+* What are the [boat anchors](https://sketchplanations.com/anchors-and-tugboats) or bottlenecks that create drags in my life? What are the things silently holding me back? How can I slowly, methodically cut these lines and unleash my full power?
 * What unrealistic grand beliefs should I cultivate more?
 * Think of my childhood. What is one area where my parents did a good job? What is one area where they could have done better?
 * What are the current habits that are hindering my future progress?
@@ -141,7 +152,7 @@ modified: 2025-07-04T12:00:20
 * What do I hope will be the same 10 years from now?
 * What would I advise someone else in my situation?
 * What would I work on if I had only six months to live?
-* Think about something I am facing right now. Have I been trying to think my way to a solution or act my way to a solution? [^6]
+* Think about something I am facing right now. Have I been trying to think my way to a solution or act my way to a solution? [^7]
 * What advice would I give myself 10 years ago?
 * What do I wish I could do more quickly? What do I wish I could do more slowly?
 * In what areas of my life do I communicate well? In what areas do I communicate poorly?
@@ -153,7 +164,7 @@ modified: 2025-07-04T12:00:20
 * What is my greatest regret?
 * Where am I consistently executing the wrong thing?
 * What silly story am I telling to myself?
-* Which historical figure do I most identify with?
+* Which historical figure do I mostly identify with?
 * Who is somebody that I miss? Why?
 * Where will my life end up if I have the same lifestyle or keep doing the same thing for 10 years?
 * Opportunities in life come through people. Who do you need to connect with to gain access to the opportunities you want?
@@ -165,7 +176,7 @@ modified: 2025-07-04T12:00:20
 * If I woke up in 10 years and were in flow, what actions did I take that got me there?
 * What was my greatest waste of time?
 * What is something that I have a hard time being honest about, even to those I trust the most? Why?
-* If I were the main character in a movie of my life, what would the audience be screaming at me to do right now?
+* If I were the main character in a movie of my life, what would the audience be screaming at me to do right now? [^8]
 * Am I leaning into my unfair advantages?
 * What is the quality I most like in a man?
 * If I could write my own eulogy, what would it say?
@@ -177,7 +188,7 @@ modified: 2025-07-04T12:00:20
 * How would I accomplish my 5-year goals in the next year?
 * Which talent would I most like to have?
 * If I could change one thing about myself, what would it be?
-* When you're told that something is impossible, is that the end of the conversation, or does that start a second dialogue in your mind? [^7] [^8]
+* When you're told that something is impossible, is that the end of the conversation, or does that start a second dialogue in your mind? [^9] [^10]
 * Imagine, at the end of a long life when you've passed away, you're at the pearly gates of heaven, and the angels have allowed you back to your life for just one moment, and right now is that time. How do you respond?
 * What does “ready” feel like to me? How did I know I were ready for a major step that I have taken in my life?
 * Think about a “what if?” or worst-case scenario and work your way through the problem. What are my options if it were to happen?
@@ -188,7 +199,7 @@ modified: 2025-07-04T12:00:20
 * Is this relationship making me fulfilled or just less lonely?
 * In what ways am I currently self-sabotaging or holding myself back?
 * What do I need to say no to, so that I have space for what I really want to say yes to?
-* What do you want your obituary or tombstone to say?
+* What do I want my obituary or tombstone to say?
 * What is one habit I have formed that had a significant impact on my life?
 * How can I collaborate with people in my field who enjoy unfair advantages?
 * If I could only spend 2 hours a week working on my business, what would I do that most moves the needle? And why am I not just focusing on doing that with the rest of my time too?
@@ -212,7 +223,7 @@ modified: 2025-07-04T12:00:20
 * How did I bond with one of the best friends I've ever had?
 * What project, if successful, will make the rest of my career look like a footnote?
 * What is one dream I have always had but never pursued? Why is it a dream for me? What has stopped me from pursuing it?
-* What would I do if I had 6 months to live?
+* What would I do if I had only 6 months to live?
 * Do I know the game I am playing? Do I want the prize for winning this game? Is the game worth winning?
 * What do I most dislike about my appearance?
 * Imagine I am living my ideal day in the future, what am I doing? How does it differ from my current typical day?
@@ -256,7 +267,6 @@ modified: 2025-07-04T12:00:20
 * How can I make myself an outsider/outlier?
 * Would I treat my best friend the way I am treating myself?
 * What is something I would be proud to fail on, if I had the courage to attempt it?
-* What are some things that frustrate me? Can I find any values or truth that explain why they bug me so much?
 * How did I end up with such a blessed life?
 * If I could give everyone in the world one gift, what would it be?
 * Do I actually need more information, or do I simply need to act on the information I already have?
@@ -281,7 +291,11 @@ modified: 2025-07-04T12:00:20
 * What system can I create that will make the goal inevitable?
 * What did I gain by not having what I needed?
 * What mastery or gift have I developed that I can offer to the world?
-* What mastery or gift have I developed that I can offer to the world? [^9]
+* What mastery or gift have I developed that I can offer to the world? [^11]
+
+# 🤔 On “Decision Making”
+
+* If I knew I had to live with the results of this action forever, would I still do it this way?
 
 # 🤔 On “Life”
 
@@ -322,27 +336,57 @@ modified: 2025-07-04T12:00:20
 
 # 🤔 On “Self-Reflection”
 
-* Better waves make better surfers. Am I on the right beach?
+* A smooth sea never made a skillful sailor. Better waves make better surfers. Am I on the right beach?
 * Who do I secretly envy—and what does that reveal about what I truly value?
-* Am I prepared for my moment? [^10]
+* Am I prepared for my moment? [^12]
 * What would happen if I gave just a little bit more?
 * What is something I really want, but haven't actually asked for?
-* Am I allowing their narrative to impact my life? [^11]
+* Am I allowing their narrative to impact my life? [^13]
 * What will I regret not having done or learned 10 years from now?
 * What trade-offs am I willing to make — or no longer willing to make?
 * What is something I deeply believe but rarely live out?
 * Where am I outsourcing responsibility for my happiness? How can I start taking it back?
 * What self-imposed sentence are you serving that you need to let go of?
 * What would I ask for if I wasn't afraid of hearing no?
+* What small daily actions am I overlooking that are actually laying the foundation of my future?
 
-[^1]: ["Success is largely the failures you avoid. Health is the injuries you don't sustain. Wealth is the purchases you don't make. Happiness is the objects you don't desire. Peace of mind is the arguments you don't engage. Avoid the bad to protect the good." — James Clear](https://jamesclear.com/3-2-1/march-27-2025)
-[^2]: “A lion is fully capable of capturing, killing, and eating a field mouse. But it turns out that the energy required to do so exceeds the caloric content of the mouse itself. So a lion that spent its day hunting and eating field mice would slowly starve to death. A lion can't live on field mice. A lion needs antelope. Antelope are big animals. They take more speed and strength to capture and kill, and once killed, they provide a feast for the lion and her pride. A lion can live a long and happy life on a diet of antelope. The distinction is important. Are you spending all your time and exhausting all your energy catching field mice? In the short term it might give you a nice, rewarding feeling. But in the long run you're going to die.” — _Buck Up, Suck Up … and Come Back When You Foul Up: 12 Winning Secrets from the War Room_
-[^3]: Sometimes you need to let go. Sometimes you need to get going.
-[^4]: ["Over the years, I have come to realize that the greatest trap in our life is not success, popularity, or power, but self-rejection. Success, popularity, and power can indeed present a great temptation, but their seductive quality often comes from the way they are part of the much larger temptation to self-rejection. When we have come to believe in the voices that call us worthless and unlovable, then success, popularity, and power are easily perceived as attractive solutions. The real trap, however, is self-rejection. As soon as someone accuses me or criticizes me, as soon as I am rejected, left alone, or abandoned, I find myself thinking, "Well, that proves once again that I am a nobody." ... [My dark side says,] I am no good... I deserve to be pushed aside, forgotten, rejected, and abandoned. Self-rejection is the greatest enemy of the spiritual life because it contradicts the sacred voice that calls us the "Beloved." Being the Beloved constitutes the core truth of our existence." — Henri J.M. Nouwen](https://www.goodreads.com/quotes/230436-over-the-years-i-have-come-to-realize-that-the)
-[^5]: A question to identify the most high-agency person in your life
-[^6]: Sometimes you need more action, sometimes you need a better strategy.
-[^7]: “Ask how something can be done rather than say it can't be done.” — Bo Bennett
-[^8]: “When someone tells me 'no,' it doesn't mean I can't do it, it simply means I can't do it with them.” — Karen E. Quinones Miller
-[^9]: [“The purpose of life is to discover your gift. The work of life is to develop it. The meaning of life is to give your gift away.” ― David Viscott](https://www.goodreads.com/quotes/7407260-the-purpose-of-life-is-to-discover-your-gift-the)
-[^10]: “To each, there comes in their lifetime a special moment when they are figuratively tapped on the shoulder and offered the chance to do a very special thing. What a tragedy if that moment finds them unprepared.” — Winston Churchill
-[^11]: Remember: it's not my responsibility to change the narrative that other people have about me.
+# 🤔 On “Asking People” [^14]
+
+* What mastery or gift have I developed that I can offer to the world?
+* To what extent did achieving \[X\] actually change your life—both in expected and unexpected ways?
+* What's something most people consider essential that you've found entirely unnecessary?
+* Is there a daily habit or routine you wish you had adopted much earlier? Why?
+* What's one unconventional decision you made five years ago that drew criticism at the time—but ultimately paid off?
+* What's a belief you held five years ago that you had to unlearn in order to grow?
+* What's something you ignored early on—only to realize later that it mattered far more than you thought?
+* What's a small, oddly specific hill you'll always be willing to die on? [^15]
+* What's a compliment you received years ago that still sticks with you—and why?
+* What's the most recent belief or perspective you changed your mind about? What prompted the shift?
+* What's a random, quirky, and weird skill you take way too seriously and become competitive about?
+* What does your personal “endgame” look like—when do you know you've won? [^16]
+* What's something you're probably a little too confident about—but own it anyway?
+* If success were guaranteed, what's the first thing you'd try?
+* If no one ever noticed or judged, what's the one outfit you'd wear on repeat forever?
+* What's something you keep collecting without even realizing it?
+* What's your favorite time of the day—like 12:34 p.m.?
+* If you had an alter ego, who—or what—would they be?
+* What traits do you share with your family (parents or siblings)—and which ones are completely your own?
+* What's something about you that usually takes people a long time to notice or understand?
+* What's a question you wish people asked you more often—and what would your answer be?
+
+[^1]: [“Success is largely the failures you avoid. Health is the injuries you don't sustain. Wealth is the purchases you don't make. Happiness is the objects you don't desire. Peace of mind is the arguments you don't engage. Avoid the bad to protect the good.” — James Clear](https://jamesclear.com/3-2-1/march-27-2025)
+[^2]: Human being, not human doing.
+[^3]: “A lion is fully capable of capturing, killing, and eating a field mouse. But it turns out that the energy required to do so exceeds the caloric content of the mouse itself. So a lion that spent its day hunting and eating field mice would slowly starve to death. A lion can't live on field mice. A lion needs antelope. Antelope are big animals. They take more speed and strength to capture and kill, and once killed, they provide a feast for the lion and her pride. A lion can live a long and happy life on a diet of antelope. The distinction is important. Are you spending all your time and exhausting all your energy catching field mice? In the short term it might give you a nice, rewarding feeling. But in the long run you're going to die.” — _Buck Up, Suck Up … and Come Back When You Foul Up: 12 Winning Secrets from the War Room_
+[^4]: Sometimes you need to let go. Sometimes you need to get going.
+[^5]: [“Over the years, I have come to realize that the greatest trap in our life is not success, popularity, or power, but self-rejection. Success, popularity, and power can indeed present a great temptation, but their seductive quality often comes from the way they are part of the much larger temptation to self-rejection. When we have come to believe in the voices that call us worthless and unlovable, then success, popularity, and power are easily perceived as attractive solutions. The real trap, however, is self-rejection. As soon as someone accuses me or criticizes me, as soon as I am rejected, left alone, or abandoned, I find myself thinking, ”Well, that proves once again that I am a nobody.“ ... [My dark side says,] I am no good... I deserve to be pushed aside, forgotten, rejected, and abandoned. Self-rejection is the greatest enemy of the spiritual life because it contradicts the sacred voice that calls us the ”Beloved.“ Being the Beloved constitutes the core truth of our existence.” — Henri J.M. Nouwen](https://www.goodreads.com/quotes/230436-over-the-years-i-have-come-to-realize-that-the)
+[^6]: A question to identify the most high-agency person in your life
+[^7]: Sometimes you need more action, sometimes you need a better strategy.
+[^8]: “You are not just the actor of your life movie, you are also the director and the screenwriter.” - 你不只是人生電影的演員，也是導演和編劇。
+[^9]: “Ask how something can be done rather than say it can't be done.” — Bo Bennett
+[^10]: “When someone tells me 'no,' it doesn't mean I can't do it, it simply means I can't do it with them.” — Karen E. Quinones Miller
+[^11]: [“The purpose of life is to discover your gift. The work of life is to develop it. The meaning of life is to give your gift away.” ― David Viscott](https://www.goodreads.com/quotes/7407260-the-purpose-of-life-is-to-discover-your-gift-the)
+[^12]: “To each, there comes in their lifetime a special moment when they are figuratively tapped on the shoulder and offered the chance to do a very special thing. What a tragedy if that moment finds them unprepared.” — Winston Churchill
+[^13]: Remember: it's not my responsibility to change the narrative that other people have about me.
+[^14]: Thought-provoking, open-ended deep questions designed to spark meaningful conversations, invite authentic connections, and build stronger bonds.
+[^15]: Meaning: _What is a really minor or seemingly insignificant opinion, preference, or belief that you feel strongly about and will always defend—no matter how trivial it may seem to others?_
+[^16]: For example: career, legacy, lifestyle, net worth, etc.

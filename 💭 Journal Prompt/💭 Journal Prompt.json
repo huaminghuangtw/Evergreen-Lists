@@ -7,129 +7,6 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Good Morning\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "💭 Journal Prompt",
-                    "priority": "None",
-                    "name": "What would my greatest day look like today? What is today's adventure going to be? What is my side quest for today?",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "🤔 On \"Good Morning\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "💭 Journal Prompt",
-                    "priority": "None",
-                    "name": "How do I want to feel at the end of the day? Joyful or frustrated? What do I need to do now, so that I can feel this way in the evening?",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "🤔 On \"Good Morning\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "💭 Journal Prompt",
-                    "priority": "None",
-                    "name": "What makes me excited to wake up? Will this let me sleep in peace?",
-                    "url": ""
-                }
-            ],
-            "flagged": true,
-            "list": "💭 Journal Prompt",
-            "priority": "None",
-            "tags": "",
-            "name": "🤔 On \"Good Morning\""
-        },
-        {
-            "url": "",
-            "due_date": "",
-            "notes": "",
-            "subtasks": [
-                {
-                    "tags": "",
-                    "parent_reminder": "🤔 On \"Good Evening\"",
-                    "due_date": "",
-                    "notes": "[\"Success is largely the failures you avoid. Health is the injuries you don't sustain. Wealth is the purchases you don't make. Happiness is the objects you don't desire. Peace of mind is the arguments you don't engage. Avoid the bad to protect the good.\" — James Clear](https://jamesclear.com/3-2-1/march-27-2025)",
-                    "flagged": false,
-                    "list": "💭 Journal Prompt",
-                    "priority": "None",
-                    "name": "Am I putting myself in good positions and creating the conditions that are impossible to fail and guaranteed for success?",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "🤔 On \"Good Evening\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "💭 Journal Prompt",
-                    "priority": "None",
-                    "name": "What excited me? What drained me of energy? Was my attention on loving or on who isn't loving me?",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "🤔 On \"Good Evening\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "💭 Journal Prompt",
-                    "priority": "None",
-                    "name": "Which moments were the most important? Which moments were the most memorable? What major realizations did I have?",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "🤔 On \"Good Evening\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "💭 Journal Prompt",
-                    "priority": "None",
-                    "name": "What did I learn? How can I improve? What was my biggest win of the day?",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "🤔 On \"Good Evening\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "💭 Journal Prompt",
-                    "priority": "None",
-                    "name": "What's on the agenda for tomorrow? How will I push the needle forward?",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "🤔 On \"Good Evening\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "💭 Journal Prompt",
-                    "priority": "None",
-                    "name": "Am I a little wiser now than I were when I woke up? Am I getting better than yesterday? Did I beat Yesterday Me?",
-                    "url": ""
-                }
-            ],
-            "flagged": true,
-            "list": "💭 Journal Prompt",
-            "priority": "None",
-            "tags": "",
-            "name": "🤔 On \"Good Evening\""
-        },
-        {
-            "url": "",
-            "due_date": "",
-            "notes": "",
-            "subtasks": [
-                {
-                    "tags": "",
                     "parent_reminder": "🤔 On \"Today\"",
                     "due_date": "",
                     "notes": "",
@@ -332,6 +209,140 @@
             "priority": "None",
             "tags": "",
             "name": "🤔 On \"Today\""
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Good Morning\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What would my greatest day look like today? What is today's adventure going to be? What is my side quest for today?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Good Morning\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "How do I want to feel at the end of the day? Joyful or frustrated? What do I need to do now, so that I can feel this way in the evening?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Good Morning\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What makes me excited to wake up? Will this let me sleep in peace?",
+                    "url": ""
+                }
+            ],
+            "flagged": true,
+            "list": "💭 Journal Prompt",
+            "priority": "None",
+            "tags": "",
+            "name": "🤔 On \"Good Morning\""
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Good Evening\"",
+                    "due_date": "",
+                    "notes": "[\"Success is largely the failures you avoid. Health is the injuries you don't sustain. Wealth is the purchases you don't make. Happiness is the objects you don't desire. Peace of mind is the arguments you don't engage. Avoid the bad to protect the good.\" — James Clear](https://jamesclear.com/3-2-1/march-27-2025)",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "Am I putting myself in good positions and creating the conditions that are impossible to fail and guaranteed for success?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Good Evening\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What excited me? What drained me of energy? Was my attention on loving or on who isn't loving me?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Good Evening\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "Which moments were the most important? Which moments were the most memorable? What major realizations did I have?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Good Evening\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What did I learn? How can I improve? What was my biggest win of the day?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Good Evening\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What frustrated me? How does that frustration reveal my core values?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Good Evening\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What's on the agenda for tomorrow? How will I push the needle forward?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🤔 On \"Good Evening\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "Am I a little wiser now than I were when I woke up? Am I getting better than yesterday? Did I beat Yesterday Me?",
+                    "url": ""
+                }
+            ],
+            "flagged": true,
+            "list": "💭 Journal Prompt",
+            "priority": "None",
+            "tags": "",
+            "name": "🤔 On \"Good Evening\""
         },
         {
             "url": "",
@@ -1272,7 +1283,7 @@
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
-                    "name": "What are the boat anchors or bottlenecks that create drags in my life? What are the things silently holding me back? How can I slowly, methodically cut these lines and unleash my full power?",
+                    "name": "What are the [boat anchors](https://sketchplanations.com/anchors-and-tugboats) or bottlenecks that create drags in my life? What are the things silently holding me back? How can I slowly, methodically cut these lines and unleash my full power?",
                     "url": ""
                 },
                 {
@@ -1752,7 +1763,7 @@
                     "tags": "",
                     "parent_reminder": "🤔 On \"Miscellaneous\"",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "\"You are not just the actor of your life movie, you are also the director and the screenwriter.\" - 你不只是人生電影的演員，也是導演和編劇。",
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
@@ -2757,17 +2768,6 @@
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
-                    "name": "What are some things that frustrate me? Can I find any values or truth that explain why they bug me so much?",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "💭 Journal Prompt",
-                    "priority": "None",
                     "name": "How did I end up with such a blessed life?",
                     "url": ""
                 },
@@ -3443,7 +3443,7 @@
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
-                    "name": "Better waves make better surfers. Am I on the right beach?",
+                    "name": "A smooth sea never made a skillful sailor. Better waves make better surfers. Am I on the right beach?",
                     "url": ""
                 },
                 {

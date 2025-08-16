@@ -7,6 +7,95 @@
             "subtasks": [
                 {
                     "tags": "",
+                    "parent_reminder": "💡 Miscellaneous",
+                    "due_date": "",
+                    "notes": "+ Method I: The easiest way to bypass paywalls is to just disable JavaScript for the site.\n    - Steps\n        1. Disable JavaScript (Or even better: Have a dedicated browser with JavaScript always disabled)\n        2. Reload the page\n        3. Read the article\n        4. Re-enable JavaScript\n+ Method II: Toggle Reader View\n+ Method III: Use tools like https://12ft.io or https://removepaywalls.com",
+                    "flagged": false,
+                    "list": "👨‍💻 Tech Pro Tip",
+                    "priority": "None",
+                    "name": "How to read through any article on the web with a paywall?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 Miscellaneous",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👨‍💻 Tech Pro Tip",
+                    "priority": "None",
+                    "name": "Use the `Shift` key to type capital letters instead of relying on `Caps Lock`. It’s more efficient and helps prevent accidental ALL CAPS typing.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 Miscellaneous",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👨‍💻 Tech Pro Tip",
+                    "priority": "None",
+                    "name": "If you’re curious about how a font looks in action, just Google its name — for popular fonts like _Comic Sans_, _Roboto_, or _Courier_, Google will sometimes render the search results page in that font. It’s a clever [Easter egg](https://en.wikipedia.org/wiki/List_of_Google_Easter_eggs) that lets you preview the font in real-time. Great for designers or anyone picking fonts quickly. Note: it works best in Chrome and may not appear if you’re using certain browser extensions.",
+                    "url": "https://en.wikipedia.org/wiki/List_of_Google_Easter_eggs?utm_source=chatgpt.com"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 Miscellaneous",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👨‍💻 Tech Pro Tip",
+                    "priority": "None",
+                    "name": "You can create a link that highlights specific text fragment on a page by adding `#:~:text=your%20text%20here` to the end of the URL — it’ll auto-scroll and highlight the exact phrase in Chrome or Edge. For example, linking to “climate change” on Wikipedia looks like this: https://en.wikipedia.org/wiki/Climate_change#:~:text=climate%20change.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 Miscellaneous",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👨‍💻 Tech Pro Tip",
+                    "priority": "None",
+                    "name": "[If you’re on a computer, right-click on the YouTube video at the exact time you want to share, then select “Copy video URL at current time” to get a link that starts at the specific timestamp.](https://www.reddit.com/r/YouShouldKnow/comments/vkj797/comment/idphs20)",
+                    "url": "https://www.reddit.com/r/YouShouldKnow/comments/vkj797/comment/idphs20"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 Miscellaneous",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👨‍💻 Tech Pro Tip",
+                    "priority": "None",
+                    "name": "Apple Maps nearly for navigation. Google Maps for business overview.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 Miscellaneous",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👨‍💻 Tech Pro Tip",
+                    "priority": "None",
+                    "name": "In most web browsers, holding **Alt** (Windows/Linux) or **Option** (Mac) while clicking a link triggers a quick **download** of the linked file or page instead of opening it. This browser shortcut is the same as right-click \\> \"Save Link As\", making it useful for instantly saving PDFs, images, or other resources without right-clicking.",
+                    "url": ""
+                }
+            ],
+            "flagged": false,
+            "list": "👨‍💻 Tech Pro Tip",
+            "priority": "None",
+            "tags": "",
+            "name": "💡 Miscellaneous"
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
                     "parent_reminder": "💡 macOS",
                     "due_date": "",
                     "notes": "",
@@ -235,7 +324,7 @@
                     "flagged": false,
                     "list": "👨‍💻 Tech Pro Tip",
                     "priority": "None",
-                    "name": "You can create clickable links to Apple Notes (`applenotes:note/...`) for use in other apps like Pages or TextEdit. In Apple Notes, highlight a word or symbol, press `Cmd + K` (or tap **Add Link**), and link it to another note by typing part of its title. Then right-click (on macOS) or tap and hold (on iOS) the link, and choose **Copy Link** (macOS) or **Copy** (iOS). Paste the resulting `applenotes:` link into any rich text app — it’ll work just like a regular hyperlink, e.g., `applenotes:note/xxxx-xxxx-xxxx`.",
+                    "name": "How to create clickable links to Apple Notes (`applenotes:note/...`)? In Apple Notes, select (or double-tap) a word or symbol, press `Cmd + K` (or tap **Add Link**), and type part of the target note title. Then right-click (on macOS) or tap and hold (on iOS) the link, and choose **Copy Link** (macOS) or **Copy** (iOS). Paste the resulting `applenotes:` link into any rich text app — it’ll work just like a regular hyperlink, e.g., `applenotes:note/xxxx-xxxx-xxxx`.",
                     "url": "https://www.reddit.com/r/AppleNotesGang/comments/1e36uek/link_to_apple_note_from_anywhere_get_deep_link_in/"
                 }
             ],
@@ -244,6 +333,40 @@
             "priority": "None",
             "tags": "",
             "name": "💡 Apple Ecosystem"
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "💡Developer Productivity",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👨‍💻 Tech Pro Tip",
+                    "priority": "None",
+                    "name": "When browsing a GitHub repository, simply press the `.` key or replace **`.com` with `.dev`** in the URL to launch the repository in the **[VS Code for the Web](https://code.visualstudio.com/docs/setup/vscode-web)* —a full-featured, browser-based code editor. Example: <https://github.com/user/repo> → <https://github.dev/user/repo>. This is perfect for quick edits, reviews, or exploring code without cloning locally.",
+                    "url": "https://www.reddit.com/r/webdev/comments/y44tp5/you_can_launch_builtin_vscode_directly_from_your"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡Developer Productivity",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👨‍💻 Tech Pro Tip",
+                    "priority": "None",
+                    "name": "You can **quickly launch tools and code sandboxes** using special `.new` URLs, a domain originally created by Google to streamline content creation. Typing `react.new` or `vue.new` in your browser instantly opens a ready-to-code sandbox for **React** or **Vue.js**, without needing a local setup. URLs like `docs.new`, `sheets.new`, and `slides.new` create new Google Docs, Sheets, or Slides with one click. Other services, like YouTube or Spotify, use URLs such as `playlist.new` for fast playlist creation.",
+                    "url": ""
+                }
+            ],
+            "flagged": false,
+            "list": "👨‍💻 Tech Pro Tip",
+            "priority": "None",
+            "tags": "",
+            "name": "💡Developer Productivity"
         }
     ]
 }

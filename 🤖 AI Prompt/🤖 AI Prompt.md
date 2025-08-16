@@ -1,13 +1,11 @@
 ---
-title: 🤖 ChatGPT Prompt
-slug: chatgpt-prompt
+title: 🤖 AI Prompt
 description: A collection of prompts to make the most out of ChatGPT.
 spreadsheetId: 1Yn74btdx_xiNtpFiO8bWJwJ_6ud5T0xQhXtoIeTlr8o
-created: 2024-11-18T17:59:34
-modified: 2025-07-04T12:00:36
+modified: 2025-08-15T11:30:25
 ---
 
-# ◻️ Learning & Education
+# ◻️ Learning \& Education
 
 * Summarize the book [BOOK_NAME], and give me a list of the most important insights, takeaways, and actionable tips/advice from this book.
 * Explain [insert concept or topic] using three different real-world examples or analogies that would be easy for a beginner to understand.
@@ -27,7 +25,7 @@ modified: 2025-07-04T12:00:36
 * Your role is that of a problem solver. Give me a step-by-step guide to solve [PROBLEM].
 * Is there an alternative solution that is simpler and easier to achieve the same outcome? Please reason from the first-principle thinking.
 
-# ◻️ Writing & Publishing
+# ◻️ Writing \& Publishing
 
 * I am writing a blog post about [TOPIC]. Give me 5 options for a catchy headline that can hooks the audience.
 

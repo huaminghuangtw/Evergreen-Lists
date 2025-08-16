@@ -7,76 +7,220 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "💡 On \"Technology\"",
+                    "parent_reminder": "💡 On \"Life Wisdom/Lesson\"",
                     "due_date": "",
-                    "notes": "+ Method I: The easiest way to bypass paywalls is to just disable JavaScript for the site.\n    - Steps\n        1. Disable JavaScript (Or even better: Have a dedicated browser with JavaScript always disabled)\n        2. Reload the page\n        3. Read the article\n        4. Re-enable JavaScript\n+ Method II: Toggle Reader View\n+ Method III: Use tools like https://12ft.io or https://removepaywalls.com",
+                    "notes": "",
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "How to read through any article on the web with a paywall?",
+                    "name": "If it's raining on a warm summer evening, go outside and dance in it.",
                     "url": ""
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💡 On \"Technology\"",
+                    "parent_reminder": "💡 On \"Life Wisdom/Lesson\"",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "Use the `Shift` key to type capital letters instead of relying on `Caps Lock`. It’s more efficient and helps prevent accidental ALL CAPS typing.",
+                    "name": "When you read something helpful, write to the author—a simple act that can yield meaningful results. By expressing your appreciation, you foster **real human connection**, reminding the creator that their work matters. This small gesture also helps **reinforce your learning**, as explaining why something resonated deepens understanding. Additionally, it can **open doors** to potential mentorships, collaborations, or friendships. Because most readers remain silent, your gratitude will be **rare—and memorable**. Whether it’s a bestselling writer or a niche blogger, reaching out strengthens a culture of appreciation and may spark unexpected opportunities.",
                     "url": ""
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💡 On \"Technology\"",
+                    "parent_reminder": "💡 On \"Life Wisdom/Lesson\"",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "If you’re curious about how a font looks in action, just Google its name — for popular fonts like _Comic Sans_, _Roboto_, or _Courier_, Google will sometimes render the search results page in that font. It’s a clever [Easter egg](https://en.wikipedia.org/wiki/List_of_Google_Easter_eggs) that lets you preview the font in real-time. Great for designers or anyone picking fonts quickly. Note: it works best in Chrome and may not appear if you’re using certain browser extensions.",
-                    "url": "https://en.wikipedia.org/wiki/List_of_Google_Easter_eggs?utm_source=chatgpt.com"
+                    "name": "Read [leaked emails](https://www.wikileaks.org) to learn [how business actually works](https://x.com/TechEmails).",
+                    "url": "https://www.wikileaks.org"
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💡 On \"Technology\"",
+                    "parent_reminder": "💡 On \"Life Wisdom/Lesson\"",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "You can create a link that highlights specific text fragment on a page by adding `#:~:text=your%20text%20here` to the end of the URL — it’ll auto-scroll and highlight the exact phrase in Chrome or Edge. For example, linking to “climate change” on Wikipedia looks like this: https://en.wikipedia.org/wiki/Climate_change#:~:text=climate%20change.",
+                    "name": "Learn one funny dance move.",
                     "url": ""
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💡 On \"Technology\"",
+                    "parent_reminder": "💡 On \"Life Wisdom/Lesson\"",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "[If you’re on a computer, right-click on the YouTube video at the exact time you want to share, then select “Copy video URL at current time” to get a link that starts at the specific timestamp.](https://www.reddit.com/r/YouShouldKnow/comments/vkj797/comment/idphs20)",
-                    "url": "https://www.reddit.com/r/YouShouldKnow/comments/vkj797/comment/idphs20"
+                    "name": "Whenever you hug someone, be the last to let go. Life is more fragile than you think.",
+                    "url": ""
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💡 On \"Technology\"",
+                    "parent_reminder": "💡 On \"Life Wisdom/Lesson\"",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "Apple Maps nearly for navigation. Google Maps for business overview.",
+                    "name": "Call your parents via Zoom and record it. Ask them questions and have them recount / tell stories about their childhood, adventures, fears, dreams, and major life events. Essentially, record a podcast/video interview. Our time with them is finite, but we often fail to recognize it until it's too late. You’ll be so glad you have this when they’re no longer here. These recordings will last forever, and it really beats just having old photos.",
                     "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Life Wisdom/Lesson\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "Ask someone to do you a small favour, so that he or she can ask you to do a big one in the future.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Life Wisdom/Lesson\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "When you borrow a man's car, always return it with a full tank of gas.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Life Wisdom/Lesson\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "Separate time for experiencing the present from time for reflecting on memories, and post on social media only when reviewing photos back home, as we remember life more effectively not by taking more pictures, but by revisiting (and deleting) them.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Life Wisdom/Lesson\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "[Each path is unique. Remind yourself of this by reading _memoirs_ and _biographies_. If you ever feel like you’re straying from the common route, these books will reassure you that you’re carving out your own distinct journey.](https://mariandrew.substack.com/p/100-things-i-know)",
+                    "url": "https://mariandrew.substack.com/p/100-things-i-know"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Life Wisdom/Lesson\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "When learning something new, spend five minutes teaching it to someone else. Notice where they get confused—these are the areas where you need to refine your own understanding.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Life Wisdom/Lesson\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "[When learning something new, spend 5 minutes trying to teach it to someone. Make a note of where the other person gets confused. You'll get an immediate sense for your level of understanding of the topic and where you need to dig in more.](https://www.sahilbloom.com/newsletter/the-most-powerful-asymmetries-in-life)",
+                    "url": "https://www.sahilbloom.com/newsletter/the-most-powerful-asymmetries-in-life"
                 }
             ],
             "flagged": false,
             "list": "👑 Life Pro Tip",
             "priority": "None",
             "tags": "",
-            "name": "💡 On \"Technology\""
+            "name": "💡 On \"Life Wisdom/Lesson\""
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Eating\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "[Most of the pleasure in a dessert comes in the first three bites. After that, you should stop eating it. As a reward, you can eat dessert more often because you don’t binge it.](https://perell.com/note/28-pieces-of-life-advice/)",
+                    "url": "https://perell.com/note/28-pieces-of-life-advice/"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Eating\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "在食物裡加入一小撮抗氧化物，首推藥草和香料，例如奧勒岡草 (Oregano) 或肉桂粉 (Cinnamon)，即可大幅提升餐點之抗氧化能力。",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Eating\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "🥗 Shake your salad back and forth in its container before eating. This helps distribute the dressing evenly, so you use less while still getting great flavor in every bite.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Eating\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "Before squeezing a lime (or any citrus), roll it firmly on the counter with your palm for a few seconds. This breaks down the internal membranes and releases more juice, so you get the most out of every fruit with less effort.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Eating\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "[Take cucumbers on your hike, bike ride, or any strenuous activity! Packed with 96% water, they’re a refreshing, hydrating boost when you need it most.](https://mariandrew.substack.com/p/100-things-i-know)",
+                    "url": "https://mariandrew.substack.com/p/100-things-i-know"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Eating\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "[How to attract the right people? Be unapologetically yourself. When you edit your personality, you attract relationships that need constant maintenance. Stop filtering who you are to be liked. The right ones will stick. The wrong ones will walk.](https://x.com/SahilBloom/status/1949818412898607405)",
+                    "url": "https://x.com/SahilBloom/status/1949818412898607405"
+                }
+            ],
+            "flagged": false,
+            "list": "👑 Life Pro Tip",
+            "priority": "None",
+            "tags": "",
+            "name": "💡 On \"Eating\""
         },
         {
             "url": "",
@@ -408,7 +552,7 @@
                     "tags": "",
                     "parent_reminder": "💡 On \"Miscellaneous\"",
                     "due_date": "",
-                    "notes": "例外: 砧板、菜瓜布、浴室、毛/浴巾、眼罩、枕頭套",
+                    "notes": "例外: 砧板、菜瓜布、毛/浴巾、眼罩、枕頭套",
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
@@ -1209,7 +1353,7 @@
                     "tags": "",
                     "parent_reminder": "💡 On \"Social Interaction\"",
                     "due_date": "",
-                    "notes": "Many people have trouble thinking of themselves as smart, or pretty, or kind, unless told by someone else. You can help them out.",
+                    "notes": "+ Many people have trouble thinking of themselves as smart, or pretty, or kind, unless told by someone else. You can help them out and make someone’s day.\n+ Start with “[NAME], I'm super grateful for you, you know why?” And then\nthrows them the most sincere, genuine compliment.\n",
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
@@ -1346,6 +1490,17 @@
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
                     "name": "Instead of asking “Do you have any questions?”, try “What questions do you have?”",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Social Interaction\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "How to increase engagement in discussions? Instead of “Anything else?”, ask “What else?”",
                     "url": ""
                 },
                 {
@@ -1673,7 +1828,7 @@
                     "tags": "",
                     "parent_reminder": "💡 On \"Cooking\"",
                     "due_date": "",
-                    "notes": "+ 最推薦：「水炒法」—少油或無油\n+ 最不推薦：「汆燙法」—若要採用此方法，應避免長時間烹調，快煮 30 秒至 1 分鐘後即撈起，可保留鮮綠色澤，並減少「水溶性維生素」流失，溶出的營養素可再利用，例如作為湯底或調製醬汁。適用於短時間內即可煮熟的青菜\n+ 「清蒸法」：不會讓蔬菜直接接觸水，能更好地保留營養成分，不過，若蒸太久，會讓菜葉變得軟爛，外觀也會變黃，影響視覺效果。綠葉蔬菜不太適合使用此方法，因為它們容易失去脆感，此方法較適用於根莖類或果實類蔬菜\n+ 「微波法」：利用蔬菜自身所含的水分子在微波作用下摩擦產生熱量，從而快速加熱食物，因此沒有養分流失的問題。微波加熱的一大挑戰是熱量分布不均，導致食物表面已經熟透，但內部仍未完全熟透。為了避免這種情況，建議採用「漸進式加熱法」—若需要加熱3分鐘，可以先加熱2分鐘後取出，攪拌均勻，再繼續加熱1分鐘",
+                    "notes": "+ 最推薦：「水炒法」—少油或無油\n+ 最不推薦：「汆燙法」—若要採用此方法，應避免長時間烹調，快煮 30 秒至 1 分鐘後即撈起，可保留鮮綠色澤，並減少「水溶性維生素」流失，溶出的營養素可再利用，例如作為湯底或調製醬汁。適用於短時間內即可煮熟的青菜\n+ 「清蒸法」：不會讓蔬菜直接接觸水，能更好地保留營養成分，不過，若蒸太久，會讓菜葉變得軟爛，外觀也會變黃，影響視覺效果。綠葉蔬菜不太適合使用此方法，因為它們容易失去爽脆口感，此方法較適用於根莖類或果實類蔬菜\n+ 「微波法」：利用蔬菜自身所含的水分子在微波作用下摩擦產生熱量，從而快速加熱食物，因此沒有養分流失的問題。微波加熱的一大挑戰是熱量分布不均，導致食物表面已經熟透，但內部仍未完全熟透。為了避免這種情況，建議採用「漸進式加熱法」—若需要加熱3分鐘，可以先加熱2分鐘後取出，攪拌均勻，再繼續加熱1分鐘",
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
@@ -1686,150 +1841,6 @@
             "priority": "None",
             "tags": "",
             "name": "💡 On \"Cooking\""
-        },
-        {
-            "url": "",
-            "due_date": "",
-            "notes": "",
-            "subtasks": [
-                {
-                    "tags": "",
-                    "parent_reminder": "💡 On \"Life Wisdom/Lesson\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "👑 Life Pro Tip",
-                    "priority": "None",
-                    "name": "If it's raining on a warm summer evening, go outside and dance in it.",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "💡 On \"Life Wisdom/Lesson\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "👑 Life Pro Tip",
-                    "priority": "None",
-                    "name": "When you read something helpful, write to the author—a simple act that can yield meaningful results. By expressing your appreciation, you foster **real human connection**, reminding the creator that their work matters. This small gesture also helps **reinforce your learning**, as explaining why something resonated deepens understanding. Additionally, it can **open doors** to potential mentorships, collaborations, or friendships. Because most readers remain silent, your gratitude will be **rare—and memorable**. Whether it’s a bestselling writer or a niche blogger, reaching out strengthens a culture of appreciation and may spark unexpected opportunities.",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "💡 On \"Life Wisdom/Lesson\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "👑 Life Pro Tip",
-                    "priority": "None",
-                    "name": "Read [leaked emails](https://www.wikileaks.org) to learn [how business actually works](https://x.com/TechEmails).",
-                    "url": "https://www.wikileaks.org"
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "💡 On \"Life Wisdom/Lesson\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "👑 Life Pro Tip",
-                    "priority": "None",
-                    "name": "Learn one funny dance move.",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "💡 On \"Life Wisdom/Lesson\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "👑 Life Pro Tip",
-                    "priority": "None",
-                    "name": "Whenever you hug someone, be the last to let go. Life is more fragile than you think.",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "💡 On \"Life Wisdom/Lesson\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "👑 Life Pro Tip",
-                    "priority": "None",
-                    "name": "Call your parents via Zoom and record it. Ask them questions and have them recount / tell stories about their childhood, adventures, fears, dreams, and major life events. Essentially, record a podcast/video interview. Our time with them is finite, but we often fail to recognize it until it's too late. You’ll be so glad you have this when they’re no longer here. These recordings will last forever, and it really beats just having old photos.",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "💡 On \"Life Wisdom/Lesson\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "👑 Life Pro Tip",
-                    "priority": "None",
-                    "name": "Ask someone to do you a small favour, so that he or she can ask you to do a big one in the future.",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "💡 On \"Life Wisdom/Lesson\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "👑 Life Pro Tip",
-                    "priority": "None",
-                    "name": "When you borrow a man's car, always return it with a full tank of gas.",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "💡 On \"Life Wisdom/Lesson\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "👑 Life Pro Tip",
-                    "priority": "None",
-                    "name": "Separate time for experiencing the present from time for reflecting on memories, and post on social media only when reviewing photos back home, as we remember life more effectively not by taking more pictures, but by revisiting (and deleting) them.",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "💡 On \"Life Wisdom/Lesson\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "👑 Life Pro Tip",
-                    "priority": "None",
-                    "name": "[Each path is unique. Remind yourself of this by reading _memoirs_ and _biographies_. If you ever feel like you’re straying from the common route, these books will reassure you that you’re carving out your own distinct journey.](https://mariandrew.substack.com/p/100-things-i-know)",
-                    "url": "https://mariandrew.substack.com/p/100-things-i-know"
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "💡 On \"Life Wisdom/Lesson\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "👑 Life Pro Tip",
-                    "priority": "None",
-                    "name": "When learning something new, spend five minutes teaching it to someone else. Notice where they get confused—these are the areas where you need to refine your own understanding.",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "💡 On \"Life Wisdom/Lesson\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "👑 Life Pro Tip",
-                    "priority": "None",
-                    "name": "[When learning something new, spend 5 minutes trying to teach it to someone. Make a note of where the other person gets confused. You'll get an immediate sense for your level of understanding of the topic and where you need to dig in more.](https://www.sahilbloom.com/newsletter/the-most-powerful-asymmetries-in-life)",
-                    "url": "https://www.sahilbloom.com/newsletter/the-most-powerful-asymmetries-in-life"
-                }
-            ],
-            "flagged": false,
-            "list": "👑 Life Pro Tip",
-            "priority": "None",
-            "tags": "",
-            "name": "💡 On \"Life Wisdom/Lesson\""
         },
         {
             "url": "",
@@ -1873,11 +1884,11 @@
                     "tags": "",
                     "parent_reminder": "💡 On \"Body Care\"",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "1. 可以任意剪裁所需的尺寸大小\n2. 單位面積價格較便宜\n3. 較傳統痘痘貼厚，效果更好",
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "把「人工皮」當「痘痘貼」使用 → 好處: (1) 可以任意剪裁所需的尺寸大小 (2) 單位面積價格較便宜 (3) 較傳統痘痘貼厚，效果更好",
+                    "name": "把「人工皮」當「痘痘貼」使用的好處",
                     "url": ""
                 },
                 {
@@ -2144,62 +2155,6 @@
             "priority": "None",
             "tags": "",
             "name": "💡 On \"Dressing\""
-        },
-        {
-            "url": "",
-            "due_date": "",
-            "notes": "",
-            "subtasks": [
-                {
-                    "tags": "",
-                    "parent_reminder": "💡 On \"Eating\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "👑 Life Pro Tip",
-                    "priority": "None",
-                    "name": "[Most of the pleasure in a dessert comes in the first three bites. After that, you should stop eating it. As a reward, you can eat dessert more often because you don’t binge it.](https://perell.com/note/28-pieces-of-life-advice/)",
-                    "url": "https://perell.com/note/28-pieces-of-life-advice/"
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "💡 On \"Eating\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "👑 Life Pro Tip",
-                    "priority": "None",
-                    "name": "在食物裡加入一小撮抗氧化物，首推藥草和香料，例如奧勒岡草 (Oregano) 或肉桂粉 (Cinnamon)，即可大幅提升餐點之抗氧化能力。",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "💡 On \"Eating\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "👑 Life Pro Tip",
-                    "priority": "None",
-                    "name": "🥗 Shake your salad back and forth in its container before eating. This helps distribute the dressing evenly, so you use less while still getting great flavor in every bite.",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "💡 On \"Eating\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "👑 Life Pro Tip",
-                    "priority": "None",
-                    "name": "[Take cucumbers on your hike, bike ride, or any strenuous activity! Packed with 96% water, they’re a refreshing, hydrating boost when you need it most.](https://mariandrew.substack.com/p/100-things-i-know)",
-                    "url": "https://mariandrew.substack.com/p/100-things-i-know"
-                }
-            ],
-            "flagged": false,
-            "list": "👑 Life Pro Tip",
-            "priority": "None",
-            "tags": "",
-            "name": "💡 On \"Eating\""
         }
     ]
 }

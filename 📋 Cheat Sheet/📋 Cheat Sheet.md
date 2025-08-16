@@ -1,10 +1,8 @@
 ---
 title: 📋 Cheat Sheet
-slug: cheat-sheet
 description: Handy reference to quickly access terminal commands that I frequently use.
 spreadsheetId: 1X9zuCMb30DiQba5VNjT-HDwwomA9u0Z-trmuqVmykYY
-created: 2024-11-18T17:53:47
-modified: 2025-07-04T12:00:27
+modified: 2025-08-15T09:37:37
 ---
 
 # ◻️ Git
@@ -50,16 +48,16 @@ modified: 2025-07-04T12:00:27
 * Sync system clock
 
 	```bash
-    sudo timedatectl set-ntp true && date
+    sudo timedatectl set-ntp true \&\& date
     ```
 
 * Check voltage
 
 	```bash
-    vcgencmd get_throttled | grep -q throttled=0x50005 && echo "Low voltage detected! Please use official power supply." || echo "Power requirement satisfied."
+    vcgencmd get_throttled | grep -q throttled=0x50005 \&\& echo “Low voltage detected! Please use official power supply.” || echo “Power requirement satisfied.”
     ```
 
-# ◻️ Ssh
+# ◻️ SSH
 
 * Print the public SSH key, which can be used for authentication on remote servers
 

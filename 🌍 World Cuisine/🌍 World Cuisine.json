@@ -9,11 +9,11 @@
                     "tags": "",
                     "parent_reminder": "🇮🇪 Ireland",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "= 馬鈴薯泥甘藍",
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Colcannon](https://www.google.com/search?q=Colcannon) 馬鈴薯泥甘藍",
+                    "name": "[Colcannon](https://www.google.com/search?q=Colcannon)",
                     "url": "https://www.google.com/search?q=Colcannon"
                 }
             ],
@@ -32,11 +32,11 @@
                     "tags": "",
                     "parent_reminder": "🇩🇪 Germany",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "= 德式餛飩/雲吞",
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Maltasche](https://www.google.com/search?q=Maltasche) 德式餛飩/雲吞",
+                    "name": "[Maltasche](https://www.google.com/search?q=Maltasche)",
                     "url": "https://www.google.com/search?q=Maltasche"
                 },
                 {
@@ -47,7 +47,7 @@
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Spätzle](https://www.google.com/search?q=Sp%C3%A4tzle) 麵疙瘩",
+                    "name": "[Spätzle](https://www.google.com/search?q=Sp%C3%A4tzle)",
                     "url": "https://www.google.com/search?q=Sp%C3%A4tzle"
                 }
             ],
@@ -70,18 +70,18 @@
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Baguette](https://www.google.com/search?q=Baguette) 法國麵包",
+                    "name": "[Baguette](https://www.google.com/search?q=Baguette)",
                     "url": "https://www.google.com/search?q=Baguette"
                 },
                 {
                     "tags": "",
                     "parent_reminder": "🇫🇷 France",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "= 可麗餅",
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Crêpe](https://www.google.com/search?q=Cr%C3%AApe) 可麗餅",
+                    "name": "[Crêpe](https://www.google.com/search?q=Cr%C3%AApe)",
                     "url": "https://www.google.com/search?q=Cr%C3%AApe"
                 },
                 {
@@ -92,7 +92,7 @@
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Pain au chocolat](https://www.google.com/search?q=Pain+au+chocolat) 巧克力麵包",
+                    "name": "[Pain au chocolat](https://www.google.com/search?q=Pain+au+chocolat)",
                     "url": "https://www.google.com/search?q=Pain+au+chocolat"
                 },
                 {
@@ -103,7 +103,7 @@
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Chocolatine](https://www.google.com/search?q=Chocolatine) 巧克力麵包",
+                    "name": "[Chocolatine](https://www.google.com/search?q=Chocolatine)",
                     "url": "https://www.google.com/search?q=Chocolatine"
                 },
                 {
@@ -114,40 +114,40 @@
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Paris-Brest](https://www.google.com/search?q=Paris-Brest) 巴黎-布雷斯特",
+                    "name": "[Paris-Brest](https://www.google.com/search?q=Paris-Brest)",
                     "url": "https://www.google.com/search?q=Paris-Brest"
                 },
                 {
                     "tags": "",
                     "parent_reminder": "🇫🇷 France",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "= 舒芙蕾",
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Soufflé](https://www.google.com/search?q=Souffl%C3%A9) 舒芙蕾",
+                    "name": "[Soufflé](https://www.google.com/search?q=Souffl%C3%A9)",
                     "url": "https://www.google.com/search?q=Souffl%C3%A9"
                 },
                 {
                     "tags": "",
                     "parent_reminder": "🇫🇷 France",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "= 蝴蝶酥",
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Palmier](https://www.google.com/search?q=Palmier) 蝴蝶酥",
+                    "name": "[Palmier](https://www.google.com/search?q=Palmier)",
                     "url": "https://www.google.com/search?q=Palmier"
                 },
                 {
                     "tags": "",
                     "parent_reminder": "🇫🇷 France",
                     "due_date": "",
-                    "notes": "= Croque Madame",
+                    "notes": "= Croque Madame = 法式火腿起司三明治",
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Croque Monsieur](https://www.google.com/search?q=Croque+Monsieur) 法式火腿起司三明治",
+                    "name": "[Croque Monsieur](https://www.google.com/search?q=Croque+Monsieur)",
                     "url": "https://www.google.com/search?q=Croque+Monsieur"
                 }
             ],
@@ -166,11 +166,11 @@
                     "tags": "",
                     "parent_reminder": "🇳🇱 Netherlands",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "= 荷蘭焦糖煎餅",
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Stroopwafels](https://www.google.com/search?q=Stroopwafels) 荷蘭焦糖煎餅",
+                    "name": "[Stroopwafels](https://www.google.com/search?q=Stroopwafels)",
                     "url": "https://www.google.com/search?q=Syrup+Waffles"
                 }
             ],
@@ -193,7 +193,7 @@
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Calzone](https://www.google.com/search?q=Calzone) 卡頌",
+                    "name": "[Calzone](https://www.google.com/search?q=Calzone)",
                     "url": "https://www.google.com/search?q=Calzone"
                 },
                 {
@@ -204,7 +204,7 @@
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Insalata Caprese](https://www.google.com/search?q=Insalata+Caprese) 卡布里沙拉",
+                    "name": "[Insalata Caprese](https://www.google.com/search?q=Insalata+Caprese)",
                     "url": "https://www.google.com/search?q=Caprese+Salad"
                 },
                 {
@@ -215,7 +215,7 @@
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Galeto](https://www.google.com/search?q=Galeto) 義式烤雞",
+                    "name": "[Galeto](https://www.google.com/search?q=Galeto)",
                     "url": "https://www.google.com/search?q=Galeto"
                 },
                 {
@@ -226,7 +226,7 @@
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Carbonara](https://www.google.com/search?q=Carbonara) 卡邦尼義大利麵",
+                    "name": "[Carbonara](https://www.google.com/search?q=Carbonara)",
                     "url": "https://www.google.com/search?q=Carbonara"
                 },
                 {
@@ -237,7 +237,7 @@
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Risotto](https://www.google.com/search?q=Risotto) 燉飯",
+                    "name": "[Risotto](https://www.google.com/search?q=Risotto)",
                     "url": "https://www.google.com/search?q=Risotto"
                 },
                 {
@@ -248,7 +248,7 @@
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Tortellini](https://www.google.com/search?q=Tortellini) 義式餃子",
+                    "name": "[Tortellini](https://www.google.com/search?q=Tortellini)",
                     "url": "https://www.google.com/search?q=Tortellini"
                 },
                 {
@@ -266,11 +266,11 @@
                     "tags": "",
                     "parent_reminder": "🇨🇮 Italy",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "= 奶油甜餡煎餅卷",
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Cannolo](https://www.google.com/search?q=Cannolo) 奶油甜餡煎餅卷",
+                    "name": "[Cannolo](https://www.google.com/search?q=Cannolo)",
                     "url": "https://www.google.com/search?q=Cannolo"
                 },
                 {
@@ -281,7 +281,7 @@
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Pandoro](https://www.google.com/search?q=Pandoro) 黃金麵包",
+                    "name": "[Pandoro](https://www.google.com/search?q=Pandoro)",
                     "url": "https://www.google.com/search?q=Pandoro"
                 },
                 {
@@ -292,7 +292,7 @@
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Panettone](https://www.google.com/search?q=Panettone) 義大利水果麵包",
+                    "name": "[Panettone](https://www.google.com/search?q=Panettone)",
                     "url": "https://www.google.com/search?q=Panettone"
                 },
                 {
@@ -303,7 +303,7 @@
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Gnocchi](https://www.google.com/search?q=Gnocchi) 麵疙瘩",
+                    "name": "[Gnocchi](https://www.google.com/search?q=Gnocchi)",
                     "url": "https://www.google.com/search?q=Gnocchi"
                 }
             ],
@@ -322,33 +322,33 @@
                     "tags": "",
                     "parent_reminder": "🇸🇪 Sweden",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "= 鯡魚",
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Sill](https://www.google.com/search?q=Sill) 鯡魚",
+                    "name": "[Sill](https://www.google.com/search?q=Sill)",
                     "url": "https://www.google.com/search?q=Sill"
                 },
                 {
                     "tags": "",
                     "parent_reminder": "🇸🇪 Sweden",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "= 瑞典肉丸",
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Köttbullar](https://www.google.com/search?q=K%C3%B6ttbullar) 瑞典肉丸",
+                    "name": "[Köttbullar](https://www.google.com/search?q=K%C3%B6ttbullar)",
                     "url": "https://www.google.com/search?q=K%C3%B6ttbullar"
                 },
                 {
                     "tags": "",
                     "parent_reminder": "🇸🇪 Sweden",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "= 法倫香腸",
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Falukorv](https://www.google.com/search?q=Falukorv) 法倫香腸",
+                    "name": "[Falukorv](https://www.google.com/search?q=Falukorv)",
                     "url": "https://www.google.com/search?q=Falukorv"
                 },
                 {
@@ -359,40 +359,40 @@
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Pråstost](https://www.google.com/search?q=Pr%C3%A5stost) 教士起司",
+                    "name": "[Pråstost](https://www.google.com/search?q=Pr%C3%A5stost)",
                     "url": "https://www.google.com/search?q=Pr%C3%A5stost"
                 },
                 {
                     "tags": "",
                     "parent_reminder": "🇸🇪 Sweden",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "= 硬麵包",
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Knäckebröd](https://www.google.com/search?q=Kn%C3%A4ckebr%C3%B6d) 硬麵包",
+                    "name": "[Knäckebröd](https://www.google.com/search?q=Kn%C3%A4ckebr%C3%B6d)",
                     "url": "https://www.google.com/search?q=Kn%C3%A4ckebr%C3%B6d"
                 },
                 {
                     "tags": "",
                     "parent_reminder": "🇸🇪 Sweden",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "= 肉桂捲",
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Kanelbulle](https://www.google.com/search?q=Kanelbulle) 肉桂捲",
+                    "name": "[Kanelbulle](https://www.google.com/search?q=Kanelbulle)",
                     "url": "https://www.google.com/search?q=Kanelbulle"
                 },
                 {
                     "tags": "",
                     "parent_reminder": "🇸🇪 Sweden",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "= 魚子醬抹醬",
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Smörgåskaviar](https://www.google.com/search?q=Sm%C3%B6rg%C3%A5skaviar) 魚子醬抹醬",
+                    "name": "[Smörgåskaviar](https://www.google.com/search?q=Sm%C3%B6rg%C3%A5skaviar)",
                     "url": "https://www.google.com/search?q=Sm%C3%B6rg%C3%A5skaviar"
                 }
             ],
@@ -411,22 +411,22 @@
                     "tags": "",
                     "parent_reminder": "🇬🇷 Greece",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "= 希臘旋轉烤肉",
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Gyros](https://www.google.com/search?q=Gyros) 希臘旋轉烤肉",
+                    "name": "[Gyros](https://www.google.com/search?q=Gyros)",
                     "url": "https://www.google.com/search?q=Gyros"
                 },
                 {
                     "tags": "",
                     "parent_reminder": "🇬🇷 Greece",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "= 希臘烤肉串",
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Souvlaki](https://www.google.com/search?q=Souvlaki) 希臘烤肉串",
+                    "name": "[Souvlaki](https://www.google.com/search?q=Souvlaki)",
                     "url": "https://www.google.com/search?q=Souvlaki"
                 }
             ],
@@ -449,7 +449,7 @@
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Burrito](https://www.google.com/search?q=Burrito) 墨西哥捲餅",
+                    "name": "[Burrito](https://www.google.com/search?q=Burrito)",
                     "url": "https://www.google.com/search?q=Burrito"
                 },
                 {
@@ -460,7 +460,7 @@
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Taco](https://www.google.com/search?q=Taco) 塔可",
+                    "name": "[Taco](https://www.google.com/search?q=Taco)",
                     "url": "https://www.google.com/search?q=Taco"
                 },
                 {
@@ -471,7 +471,7 @@
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Tortilla](https://www.google.com/search?q=Tortilla) 玉米餅",
+                    "name": "[Tortilla](https://www.google.com/search?q=Tortilla)",
                     "url": "https://www.google.com/search?q=Tortilla"
                 }
             ],
@@ -490,77 +490,77 @@
                     "tags": "",
                     "parent_reminder": "🇹🇷 Turkey",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "= 烤羊腸",
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Kokoreç](https://www.google.com/search?q=Kokore%C3%A7) 烤羊腸",
+                    "name": "[Kokoreç](https://www.google.com/search?q=Kokore%C3%A7)",
                     "url": "https://www.google.com/search?q=Kokore%C3%A7"
                 },
                 {
                     "tags": "",
                     "parent_reminder": "🇹🇷 Turkey",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "= 土耳其披薩",
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Lahmacun](https://www.google.com/search?q=Lahmacun) 土耳其披薩",
+                    "name": "[Lahmacun](https://www.google.com/search?q=Lahmacun)",
                     "url": "https://www.google.com/search?q=Lahmacun"
                 },
                 {
                     "tags": "",
                     "parent_reminder": "🇹🇷 Turkey",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "= 果仁蜜餅",
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Baklava](https://www.google.com/search?q=Baklava) 果仁蜜餅",
+                    "name": "[Baklava](https://www.google.com/search?q=Baklava)",
                     "url": "https://www.google.com/search?q=Baklava"
                 },
                 {
                     "tags": "",
                     "parent_reminder": "🇹🇷 Turkey",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "= 餡餅",
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Börek](https://www.google.com/search?q=B%C3%B6rek) 土耳其餡餅",
+                    "name": "[Börek](https://www.google.com/search?q=B%C3%B6rek)",
                     "url": "https://www.google.com/search?q=B%C3%B6rek"
                 },
                 {
                     "tags": "",
                     "parent_reminder": "🇹🇷 Turkey",
                     "due_date": "",
-                    "notes": "≈ [Fladenbrot](https://www.google.com/search?q=Fladenbrot)",
+                    "notes": "≈ [Fladenbrot](https://www.google.com/search?q=Fladenbrot)\n= 土耳其烤餅",
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Pide](https://www.google.com/search?q=Pide) 土耳其烤餅",
+                    "name": "[Pide](https://www.google.com/search?q=Pide)",
                     "url": "https://www.google.com/search?q=Pide"
                 },
                 {
                     "tags": "",
                     "parent_reminder": "🇹🇷 Turkey",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "= 烤茄子",
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Patlican](https://www.google.com/search?q=Patlican) 茄子",
+                    "name": "[Patlican](https://www.google.com/search?q=Patlican)",
                     "url": "https://www.google.com/search?q=Patlican"
                 },
                 {
                     "tags": "",
                     "parent_reminder": "🇹🇷 Turkey",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "= 烤馬鈴薯",
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Kumpir](https://www.google.com/search?q=Kumpir) 烤馬鈴薯",
+                    "name": "[Kumpir](https://www.google.com/search?q=Kumpir)",
                     "url": "https://www.google.com/search?q=Kumpir"
                 },
                 {
@@ -571,7 +571,7 @@
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Pogača](https://www.google.com/search?q=Poga%C4%8Da) 土耳其麵包",
+                    "name": "[Pogača](https://www.google.com/search?q=Poga%C4%8Da)",
                     "url": "https://www.google.com/search?q=Poga%C4%8Da"
                 },
                 {
@@ -582,7 +582,7 @@
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Döner-Kebap](https://www.google.com/search?q=D%C3%B6ner-Kebap)  土耳其烤肉",
+                    "name": "[Döner-Kebap](https://www.google.com/search?q=D%C3%B6ner-Kebap)",
                     "url": "https://www.google.com/search?q=D%C3%B6ner-Kebap"
                 }
             ],
@@ -601,11 +601,11 @@
                     "tags": "",
                     "parent_reminder": "🇭🇺 Hungary",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "= 煙囪捲",
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Kürtőskalács](https://www.google.com/search?q=K%C3%BCrt%C5%91skal%C3%A1cs) 煙囪捲",
+                    "name": "[Kürtőskalács](https://www.google.com/search?q=K%C3%BCrt%C5%91skal%C3%A1cs)",
                     "url": "https://www.google.com/search?q=K%C3%BCrt%C5%91skal%C3%A1cs"
                 }
             ],
@@ -624,11 +624,11 @@
                     "tags": "",
                     "parent_reminder": "🇹🇭 Thailand",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "= 泰式炒河粉",
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Pad Thai](https://www.google.com/search?q=Pad+Thai) 泰式炒河粉",
+                    "name": "[Pad Thai](https://www.google.com/search?q=Pad+Thai)",
                     "url": "https://www.google.com/search?q=Pad+Thai"
                 }
             ],
@@ -651,7 +651,7 @@
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Rendang](https://www.google.com/search?q=Rendang) 仁當",
+                    "name": "[Rendang](https://www.google.com/search?q=Rendang)",
                     "url": "https://www.google.com/search?q=Rendang"
                 }
             ],
@@ -674,29 +674,29 @@
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Bánh Bao](https://www.google.com/search?q=B%C3%A1nh+Bao) 包子",
+                    "name": "[Bánh Bao](https://www.google.com/search?q=B%C3%A1nh+Bao)",
                     "url": "https://www.google.com/search?q=B%C3%A1nh+Bao"
                 },
                 {
                     "tags": "",
                     "parent_reminder": "🇻🇳 Vietnam",
                     "due_date": "",
-                    "notes": "Fresh (Non-Fried) Spring Rolls = Summer Rolls = Rice Paper Rolls",
+                    "notes": "= Fresh (Non-Fried) Spring Rolls = Summer Rolls = Rice Paper Rolls = 越式生春捲",
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Gỏi Cuốn](https://www.google.com/search?q=G%E1%BB%8Fi+Cu%E1%BB%91n) 越式春捲",
+                    "name": "[Gỏi Cuốn](https://www.google.com/search?q=G%E1%BB%8Fi+Cu%E1%BB%91n)",
                     "url": "https://www.google.com/search?q=G%E1%BB%8Fi+Cu%E1%BB%91n"
                 },
                 {
                     "tags": "",
                     "parent_reminder": "🇻🇳 Vietnam",
                     "due_date": "",
-                    "notes": "Fried Spring Rolls",
+                    "notes": "= Fried Spring Rolls = 越式炸春捲",
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Chả Giò or Nem Rán](https://www.google.com/search?q=Ch%E1%BA%A3+Gi%C3%B2+or+Nem+R%C3%A1n) 越式炸春捲",
+                    "name": "[Chả Giò or Nem Rán](https://www.google.com/search?q=Ch%E1%BA%A3+Gi%C3%B2+or+Nem+R%C3%A1n)",
                     "url": "https://www.google.com/search?q=Ch%E1%BA%A3+Gi%C3%B2+or+Nem+R%C3%A1n"
                 },
                 {
@@ -707,7 +707,7 @@
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Phở](https://www.google.com/search?q=Ph%E1%BB%9F) 河粉",
+                    "name": "[Phở](https://www.google.com/search?q=Ph%E1%BB%9F)",
                     "url": "https://www.google.com/search?q=Ph%E1%BB%9F"
                 }
             ],
@@ -730,7 +730,7 @@
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Yakisoba](https://www.google.com/search?q=Yakisoba) 炒麵",
+                    "name": "[Yakisoba](https://www.google.com/search?q=Yakisoba)",
                     "url": "https://www.google.com/search?q=Yakisoba"
                 },
                 {
@@ -741,18 +741,18 @@
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Kaeshi](https://www.google.com/search?q=Kaeshi) 醬汁",
+                    "name": "[Kaeshi](https://www.google.com/search?q=Kaeshi)",
                     "url": "https://www.google.com/search?q=Kaeshi"
                 },
                 {
                     "tags": "",
                     "parent_reminder": "🇯🇵 Japan",
                     "due_date": "",
-                    "notes": "在日本料理中經常作為「糖」的替代品",
+                    "notes": "味醂：在日本料理中經常作為「糖」的替代品",
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Mirin](https://www.google.com/search?q=Mirin) 味醂",
+                    "name": "[Mirin](https://www.google.com/search?q=Mirin)",
                     "url": "https://www.google.com/search?q=Mirin"
                 }
             ],
@@ -775,7 +775,7 @@
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Raclette](https://www.google.com/search?q=Raclette) 烤起司",
+                    "name": "[Raclette](https://www.google.com/search?q=Raclette)",
                     "url": "https://www.google.com/search?q=Raclette"
                 }
             ],
@@ -794,33 +794,33 @@
                     "tags": "",
                     "parent_reminder": "🇮🇳 India",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "= 印度薄餅",
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Chapati](https://www.google.com/search?q=Chapati) 印度薄餅",
+                    "name": "[Chapati](https://www.google.com/search?q=Chapati)",
                     "url": "https://www.google.com/search?q=Chapati"
                 },
                 {
                     "tags": "",
                     "parent_reminder": "🇮🇳 India",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "= 印度烤餅",
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Naan](https://www.google.com/search?q=Naan) 烤餅",
+                    "name": "[Naan](https://www.google.com/search?q=Naan)",
                     "url": "https://www.google.com/search?q=Naan"
                 },
                 {
                     "tags": "",
                     "parent_reminder": "🇮🇳 India",
                     "due_date": "",
-                    "notes": "= Kaju Barfi",
+                    "notes": "= Kaju Barfi = 腰果糖片",
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Kaju Katli](https://www.google.com/search?q=Kaju+Katli) 腰果糖片",
+                    "name": "[Kaju Katli](https://www.google.com/search?q=Kaju+Katli)",
                     "url": "https://www.google.com/search?q=Kaju+Katli"
                 },
                 {
@@ -831,7 +831,7 @@
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Mango Lassi](https://www.google.com/search?q=Mango+Lassi) 芒果拉昔",
+                    "name": "[Mango Lassi](https://www.google.com/search?q=Mango+Lassi)",
                     "url": "https://www.google.com/search?q=Mango+Lassi"
                 },
                 {
@@ -842,18 +842,18 @@
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Masala Chia](https://www.google.com/search?q=Masala+Chia) 印度香料奶茶",
+                    "name": "[Masala Chia](https://www.google.com/search?q=Masala+Chia)",
                     "url": "https://www.google.com/search?q=Masala+Chia"
                 },
                 {
                     "tags": "",
                     "parent_reminder": "🇮🇳 India",
                     "due_date": "",
-                    "notes": "印度什香粉: 一種由多種香料混合起來的調味料",
+                    "notes": "印度什香粉：一種由多種香料混合起來的綜合調味料",
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Garam Masala](https://www.google.com/search?q=Garam%C2%A0Masala) 綜合香料",
+                    "name": "[Garam Masala](https://www.google.com/search?q=Garam%C2%A0Masala)",
                     "url": "https://www.google.com/search?q=Garam%C2%A0Masala"
                 }
             ],
@@ -876,7 +876,7 @@
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Churrasco](https://www.google.com/search?q=Churrasco) 烤肉",
+                    "name": "[Churrasco](https://www.google.com/search?q=Churrasco)",
                     "url": "https://www.google.com/search?q=Churrasco"
                 }
             ],
@@ -895,11 +895,11 @@
                     "tags": "",
                     "parent_reminder": "🇷🇺 Russia",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "= 俄式燴牛肉",
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Бефстроганов](https://www.google.com/search?q=%D0%91%D0%B5%D1%84%D1%81%D1%82%D1%80%D0%BE%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2) 俄式燴牛肉",
+                    "name": "[Бефстроганов](https://www.google.com/search?q=%D0%91%D0%B5%D1%84%D1%81%D1%82%D1%80%D0%BE%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2)",
                     "url": "https://www.google.com/search?q=%D0%91%D0%B5%D1%84%D1%81%D1%82%D1%80%D0%BE%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2"
                 }
             ],
@@ -918,11 +918,11 @@
                     "tags": "",
                     "parent_reminder": "🇪🇸 Spain",
                     "due_date": "",
-                    "notes": "[How churros are made in a traditional churería](https://www.reddit.com/r/educationalgifs/s/6VAdLlscOx)",
+                    "notes": "+ = 吉拿棒\n+ [How churros are made in a traditional churería](https://www.reddit.com/r/educationalgifs/s/6VAdLlscOx) ",
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
-                    "name": "[Churro](https://www.google.com/search?q=Churro) 吉拿棒",
+                    "name": "[Churro](https://www.google.com/search?q=Churro)",
                     "url": "https://www.google.com/search?q=Churro"
                 }
             ],
