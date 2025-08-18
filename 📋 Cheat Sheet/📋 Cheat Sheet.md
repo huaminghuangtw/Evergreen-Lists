@@ -1,5 +1,6 @@
 ---
 title: 📋 Cheat Sheet
+slug: cheat-sheet
 description: Handy reference to quickly access terminal commands that I frequently use.
 spreadsheetId: 1X9zuCMb30DiQba5VNjT-HDwwomA9u0Z-trmuqVmykYY
 modified: 2025-08-15T09:37:37
