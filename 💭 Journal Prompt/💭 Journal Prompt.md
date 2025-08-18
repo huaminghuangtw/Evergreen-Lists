@@ -3,7 +3,8 @@ title: 💭 Journal Prompt
 slug: journal-prompt
 description: Thought-provoking questions to inspire self-reflection.
 spreadsheetId: 1RI3C2N7-LaWG1pZC6xMVvS08OJJQp92qJhLaPSXNzQ0
-modified: 2025-08-15T11:23:55
+created: 2024-11-18T18:07:14
+modified: 2025-08-19T06:21:57
 ---
 
 # 🤔 On “Today”

@@ -3,7 +3,8 @@ title: 📱 Shortcuts Dev Tip
 slug: shortcuts-dev-tip
 description: Handy tips and techniques for developing Apple Shortcuts, gained through hands-on experience.
 spreadsheetId: 1H0o1QxZfrUhuOyMZUY1Ey8D6jONob1es6K_qrLnUgG8
-modified: 2025-08-15T08:36:33
+created: 2025-03-22T23:34:26
+modified: 2025-08-19T06:22:25
 ---
 
 # 💁‍♂️ Keyboard hotkeys (macOS)

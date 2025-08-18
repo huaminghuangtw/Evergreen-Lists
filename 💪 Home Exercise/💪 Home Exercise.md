@@ -3,7 +3,8 @@ title: 💪 Home Exercise
 slug: home-exercise
 description: Simple yet effective exercises you can do at home to stay fit and healthy without any equipment.
 spreadsheetId: 1zLI8WqN8xXwbVNBXzU5ixzw688tuBsivD9-SyyTTNbk
-modified: 2025-08-15T09:32:27
+created: 2025-05-16T12:25:40
+modified: 2025-08-19T06:21:51
 ---
 
 # 🟠 Upper Body
