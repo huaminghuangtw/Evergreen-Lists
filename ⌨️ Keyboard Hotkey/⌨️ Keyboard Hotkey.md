@@ -3,6 +3,8 @@ title: ⌨️ Keyboard Hotkey
 slug: keyboard-hotkey
 description: A compilation of essential keyboard shortcuts to enhance productivity.
 spreadsheetId: 12UxNMk9LmNd8C0iGM_ssMv1ruUt_mJw-mw43bpm-wcE
+created: 2025-04-04T14:24:33
+modified: 2025-08-19T23:57:38
 ---
 
 # [◻️ VS Code](https://code.visualstudio.com/docs/getstarted/keybindings)
@@ -26,10 +28,10 @@ spreadsheetId: 12UxNMk9LmNd8C0iGM_ssMv1ruUt_mJw-mw43bpm-wcE
 | <kbd>Cmd</kbd> + <kbd>Opt</kbd> + <kbd>B</kbd> | Toggle secondary sidebar |
 | <kbd>Cmd</kbd> + <kbd>P</kbd> | Go to file |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>Enter</kbd> | Insert line above |
-| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>L</kbd> | Multi-cursor editing - it selects all matches in the current file to the currently highlighted text. Press "ESC" to disable it. [^1] |
+| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>L</kbd> | Multi-cursor editing - it selects all matches in the current file to the currently highlighted text. Press “ESC” to disable it. [^1] |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> | Open command palette |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd> | Open Search panel |
-| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>E</kbd> | Open the Explorer file tree and reveal the file you’re currently viewing. |
+| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>E</kbd> | Open the Explorer file tree and reveal the file you're currently viewing. |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>X</kbd> | Open Extensions marketplace |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>M</kbd> | Open Problems panel (for linting errors, warnings, and diagnostics) |
 | <kbd>Ctrl</kbd> + <kbd>Tab</kbd> | Switch between tabs |
@@ -68,7 +70,7 @@ spreadsheetId: 12UxNMk9LmNd8C0iGM_ssMv1ruUt_mJw-mw43bpm-wcE
 | --- | --- |
 | <kbd>Cmd</kbd> + <kbd>←</kbd> | Go to the previous day, week, month, or year |
 | <kbd>Cmd</kbd> + <kbd>→</kbd> | Go to the next day, week, month, or year |
-| <kbd>Cmd</kbd> + <kbd>T</kbd> | Go to today’s date |
+| <kbd>Cmd</kbd> + <kbd>T</kbd> | Go to today's date |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>T</kbd> | Go to a specific date |
 | <kbd>Cmd</kbd> + <kbd>1</kbd> | Switch to Day view |
 | <kbd>Cmd</kbd> + <kbd>2</kbd> | Switch to Week view |
@@ -119,10 +121,10 @@ spreadsheetId: 12UxNMk9LmNd8C0iGM_ssMv1ruUt_mJw-mw43bpm-wcE
 | <kbd>Cmd</kbd> + <kbd>I</kbd> | Open the Info window for the selected item |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>.</kbd> | Reveal hidden files such as ._ (dot underscore) files that are normally invisible |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>G</kbd> | Takes you to a folder that you specify |
-| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd> | Go to "iCloud Drive" in Finder |
-| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>A</kbd> | Go to "Applications" in Finder |
-| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd> | Go to "Documents" in Finder |
-| <kbd>Cmd</kbd> + <kbd>Opt</kbd> + <kbd>L</kbd> | Go to "Downloads" in Finder |
+| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd> | Go to “iCloud Drive” in Finder |
+| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>A</kbd> | Go to “Applications” in Finder |
+| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd> | Go to “Documents” in Finder |
+| <kbd>Cmd</kbd> + <kbd>Opt</kbd> + <kbd>L</kbd> | Go to “Downloads” in Finder |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd> | Create a new folder  |
 | <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>Cmd</kbd> + <kbd>1</kbd> | Sort by name |
 | <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>Cmd</kbd> + <kbd>2</kbd> | Sort by kind |
@@ -217,8 +219,8 @@ spreadsheetId: 12UxNMk9LmNd8C0iGM_ssMv1ruUt_mJw-mw43bpm-wcE
 | <kbd>Shift</kbd> + <kbd>.</kbd> | Increase playback speed |
 | <kbd>T</kbd> | Toggle theater mode |
 
-[^1]: Bonus: Install the “[Multiple Cursor Case Preserve](https://marketplace.visualstudio.com/items?itemName=Cardinal90.multi-cursor-case-preserve)” extension for Visual Studio Code. It ensures that when you’re editing text with multiple cursors, the case formatting—such as camelCase, UPPERCASE, or lowercase—is preserved. This is particularly useful when you need to rename variables or terms consistently without disrupting their original casing.
-[^2]: When editing a reminder (e.g., you’ve clicked into it to change the text), `Cmd` + `Enter` will end editing — it finalizes your changes and exits the editing mode (kind of feels like “selecting” or saving the text).
+[^1]: Bonus: Install the “[Multiple Cursor Case Preserve](https://marketplace.visualstudio.com/items?itemName=Cardinal90.multi-cursor-case-preserve)” extension for Visual Studio Code. It ensures that when you're editing text with multiple cursors, the case formatting—such as camelCase, UPPERCASE, or lowercase—is preserved. This is particularly useful when you need to rename variables or terms consistently without disrupting their original casing.
+[^2]: When editing a reminder (e.g., you've clicked into it to change the text), `Cmd` + `Enter` will end editing — it finalizes your changes and exits the editing mode (kind of feels like “selecting” or saving the text).
 [^3]: When not editing (e.g., you're just navigating or viewing reminders), `Cmd` + `Enter` will select all text and enter the editing mode.
 [^4]: Windows: File Explorer
 [^5]: Apple: Finder
