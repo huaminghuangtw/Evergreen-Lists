@@ -1,0 +1,274 @@
+{
+    "reminders": [
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "💁‍♂️ Keyboard hotkeys (macOS)",
+                    "due_date": "",
+                    "notes": "Move action up/down",
+                    "flagged": false,
+                    "list": "📱 Shortcuts Dev Tip",
+                    "priority": "None",
+                    "name": "Cmd + ↑/↓",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💁‍♂️ Keyboard hotkeys (macOS)",
+                    "due_date": "",
+                    "notes": "Duplicate a shortcut",
+                    "flagged": false,
+                    "list": "📱 Shortcuts Dev Tip",
+                    "priority": "None",
+                    "name": "Cmd + D",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💁‍♂️ Keyboard hotkeys (macOS)",
+                    "due_date": "",
+                    "notes": "Delete a shortcut",
+                    "flagged": false,
+                    "list": "📱 Shortcuts Dev Tip",
+                    "priority": "None",
+                    "name": "Cmd + Backspace",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💁‍♂️ Keyboard hotkeys (macOS)",
+                    "due_date": "",
+                    "notes": "Create new shortcut",
+                    "flagged": false,
+                    "list": "📱 Shortcuts Dev Tip",
+                    "priority": "None",
+                    "name": "Cmd + N",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💁‍♂️ Keyboard hotkeys (macOS)",
+                    "due_date": "",
+                    "notes": "Run a Shortcut",
+                    "flagged": false,
+                    "list": "📱 Shortcuts Dev Tip",
+                    "priority": "None",
+                    "name": "Cmd + R",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💁‍♂️ Keyboard hotkeys (macOS)",
+                    "due_date": "",
+                    "notes": "Add action: \"Ask for Input\"",
+                    "flagged": false,
+                    "list": "📱 Shortcuts Dev Tip",
+                    "priority": "None",
+                    "name": "Cmd + Shift + A",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💁‍♂️ Keyboard hotkeys (macOS)",
+                    "due_date": "",
+                    "notes": "Add action: \"Comment\"",
+                    "flagged": false,
+                    "list": "📱 Shortcuts Dev Tip",
+                    "priority": "None",
+                    "name": "Cmd + Shift + C",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💁‍♂️ Keyboard hotkeys (macOS)",
+                    "due_date": "",
+                    "notes": "Add action: \"If-Otherwise-End If\"",
+                    "flagged": false,
+                    "list": "📱 Shortcuts Dev Tip",
+                    "priority": "None",
+                    "name": "Cmd + Shift + I",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💁‍♂️ Keyboard hotkeys (macOS)",
+                    "due_date": "",
+                    "notes": "Add action: \"Repeat\"",
+                    "flagged": false,
+                    "list": "📱 Shortcuts Dev Tip",
+                    "priority": "None",
+                    "name": "Cmd + Shift + R",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💁‍♂️ Keyboard hotkeys (macOS)",
+                    "due_date": "",
+                    "notes": "Add action: \"Show Result\"",
+                    "flagged": false,
+                    "list": "📱 Shortcuts Dev Tip",
+                    "priority": "None",
+                    "name": "Cmd + Shift + S",
+                    "url": ""
+                }
+            ],
+            "flagged": false,
+            "list": "📱 Shortcuts Dev Tip",
+            "priority": "None",
+            "tags": "",
+            "name": "💁‍♂️ Keyboard hotkeys (macOS)"
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "💁‍♂️ Tips & tricks to minimize # of actions used",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "📱 Shortcuts Dev Tip",
+                    "priority": "None",
+                    "name": "When using “Set Dictionary Value” to create a dictionary, you can leave the dictionary field blank on the right instead of adding a separate “Dictionary” action and referencing it.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💁‍♂️ Tips & tricks to minimize # of actions used",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "📱 Shortcuts Dev Tip",
+                    "priority": "None",
+                    "name": "When handling nested dictionaries and arrays, use **Dot Notation** (e.g., `myDict.key1.key2` or `myArray.0.key`) to access values directly in one step—instead of chaining multiple “Get Value from Dictionary” actions. This approach makes complex data structures much easier to manage, especially when dealing with data from APIs or JSON.",
+                    "url": "https://www.reddit.com/r/shortcuts/comments/cyqpj3/working_with_dictionaries_part_3_accessing_values/"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💁‍♂️ Tips & tricks to minimize # of actions used",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "📱 Shortcuts Dev Tip",
+                    "priority": "None",
+                    "name": "When formatting dates, wrap **literal characters**—such as punctuation, `'T'`, `'Z'`, or any static text—in **single quotes** to treat them as fixed text. This allows you to build custom date-time formats like `yyyy-MM-dd'T'HH:mm:ss'Z'` in a single step without chaining multiple **Format Date** actions. For example, use `yyyy'_Week_'ww` to combine the year and week number in a single action, rather than using 2 separate **Format Date** actions for `yyyy` and `ww`.",
+                    "url": ""
+                }
+            ],
+            "flagged": false,
+            "list": "📱 Shortcuts Dev Tip",
+            "priority": "None",
+            "tags": "",
+            "name": "💁‍♂️ Tips & tricks to minimize # of actions used"
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "💁‍♂️ Things I wished I'd known earlier",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "📱 Shortcuts Dev Tip",
+                    "priority": "None",
+                    "name": "Using the ‘Match Text’ action with the regular anchor ^keyword provides more reliable results compared to using the built-in ‘Begins With ’ condition.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💁‍♂️ Things I wished I'd known earlier",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "📱 Shortcuts Dev Tip",
+                    "priority": "None",
+                    "name": "On macOS, you can instantly replace selected text in place—no need to copy and paste manually. Just select the text and trigger your shortcut with a keyboard shortcut. This is especially helpful for repetitive formatting tasks like slugifying or hyperlinking text.",
+                    "url": ""
+                }
+            ],
+            "flagged": false,
+            "list": "📱 Shortcuts Dev Tip",
+            "priority": "None",
+            "tags": "",
+            "name": "💁‍♂️ Things I wished I'd known earlier"
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "💁‍♂️ Good practices",
+                    "due_date": "",
+                    "notes": "+ **Why It’s a Good Practice:**\n    + ✅ Prevents Unwanted Execution: Ensures that no additional actions run accidentally, especially if the shortcut is triggered by another shortcut or automation.\n    + ✅ Improves Debugging: Clearly marks the endpoint, making it easier to understand where execution stops.\n    + ✅ Avoids Redundant Processing: If a shortcut continues running unnecessarily, it can consume resources or cause unexpected behavior.\n+ **When You Might Skip It:**\n    + 🚫 If a “Stop and Output” Action Exists: This already terminates the shortcut and returns a value, so an additional stop action isn’t needed.\n    + 🚫 For Simple Shortcuts: If your shortcut only has a few actions and no branching logic, it may not be necessary.\n+ In general, if your shortcut has multiple conditions, loops, or external triggers, adding “Stop This Shortcut” at the end is a good habit.",
+                    "flagged": false,
+                    "list": "📱 Shortcuts Dev Tip",
+                    "priority": "None",
+                    "name": "Add a “Stop This Shortcut” action at the end of each shortcut to prevent unintended side effects, especially when dealing with conditional logic or automation.",
+                    "url": ""
+                }
+            ],
+            "flagged": false,
+            "list": "📱 Shortcuts Dev Tip",
+            "priority": "None",
+            "tags": "",
+            "name": "💁‍♂️ Good practices"
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "💁‍♂️ Testing",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "📱 Shortcuts Dev Tip",
+                    "priority": "None",
+                    "name": "Use Siri to run a shortcut by simply saying its name. For example, say, ‘Hey Siri, Turn off Color Filters.’",
+                    "url": ""
+                }
+            ],
+            "flagged": false,
+            "list": "📱 Shortcuts Dev Tip",
+            "priority": "None",
+            "tags": "",
+            "name": "💁‍♂️ Testing"
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "💁‍♂️ Applications",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "📱 Shortcuts Dev Tip",
+                    "priority": "None",
+                    "name": "[You can rename Shortcuts dynamically to display quick information—like battery level, date, or weather—directly in the shortcut’s name. By using the “Rename Shortcut” action, you can update its title based on live data, making your Home Screen or widget area more informative at a glance. It’s a clever way to turn shortcuts into mini status indicators without needing to open an app.](https://www.reddit.com/r/shortcuts/comments/1k7jg8n/renaming_shortcuts_for_quick_info/?share_id=CCpdoTwK3HFT7Zj2Wuq_2)",
+                    "url": "https://www.reddit.com/r/shortcuts/comments/1k7jg8n/renaming_shortcuts_for_quick_info/?share_id=CCpdoTwK3HFT7Zj2Wuq_2&utm_content=2&utm_medium=ios_app&utm_name=iossmf&utm_source=share&utm_term=22"
+                }
+            ],
+            "flagged": false,
+            "list": "📱 Shortcuts Dev Tip",
+            "priority": "None",
+            "tags": "",
+            "name": "💁‍♂️ Applications"
+        }
+    ]
+}

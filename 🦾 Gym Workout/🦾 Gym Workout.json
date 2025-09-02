@@ -1,0 +1,26 @@
+{
+    "reminders": [
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [],
+            "flagged": false,
+            "list": "🦾 Gym Workout",
+            "priority": "None",
+            "tags": "",
+            "name": "🟡 Upper Body"
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [],
+            "flagged": false,
+            "list": "🦾 Gym Workout",
+            "priority": "None",
+            "tags": "",
+            "name": "🟡 Lower Body"
+        }
+    ]
+}
