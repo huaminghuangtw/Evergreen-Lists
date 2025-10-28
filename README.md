@@ -56,17 +56,17 @@ On mobile, I use  Apple Shortcuts to implement a flashcard system. It incorpo
 
 ## Overview
 
-1. **[Shortcuts Dev Tip](https://huami.ng/lists/shortcuts-dev-tip/)**
-2. **[AI Prompt](https://huami.ng/lists/ai-prompt/)**
-3. **[Journal Prompt](https://huami.ng/lists/journal-prompt/)**
-4. **[Keyboard Hotkey](https://huami.ng/lists/keyboard-hotkey/)**
-5. **[Cheat Sheet](https://huami.ng/lists/cheat-sheet/)**
-6. **[Tech Pro Tip](https://huami.ng/lists/tech-pro-tip/)**
-7. **[Life Pro Tip](https://huami.ng/lists/life-pro-tip/)**
-8. **[Home Exercise](https://huami.ng/lists/home-exercise/)**
-9. **[Gym Workout](https://huami.ng/lists/gym-workout/)**
-10. **[World Cuisine](https://huami.ng/lists/world-cuisine/)**
-11. **[Healthy Food](https://huami.ng/lists/healthy-food/)**
+1. **[Shortcuts Dev Tip](https://huami.ng/shortcuts-dev-tip/)**
+2. **[AI Prompt](https://huami.ng/ai-prompt/)**
+3. **[Journal Prompt](https://huami.ng/journal-prompt/)**
+4. **[Keyboard Hotkey](https://huami.ng/keyboard-hotkey/)**
+5. **[Cheat Sheet](https://huami.ng/cheat-sheet/)**
+6. **[Tech Pro Tip](https://huami.ng/tech-pro-tip/)**
+7. **[Life Pro Tip](https://huami.ng/life-pro-tip/)**
+8. **[Home Exercise](https://huami.ng/home-exercise/)**
+9. **[Gym Workout](https://huami.ng/gym-workout/)**
+10. **[World Cuisine](https://huami.ng/world-cuisine/)**
+11. **[Healthy Food](https://huami.ng/healthy-food/)**
 
 ## Support
 
