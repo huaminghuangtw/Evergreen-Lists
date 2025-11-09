@@ -4,7 +4,7 @@ slug: tech-pro-tip
 description: Expert tips to streamline workflows and troubleshoot issues in tech.
 spreadsheetId: 1o3HcHxZKbOK178Zswo7Xp4MNM7AgrA6_xaZMEhrdFYM
 created: 2024-11-18T17:58:47
-modified: 2025-08-29T08:30:46
+modified: 2025-11-08T16:53:50
 ---
 
 # 💡 Miscellaneous
@@ -55,11 +55,11 @@ modified: 2025-08-29T08:30:46
 * [Move multiple Home Screen apps at once](https://ios.gadgethacks.com/how-to/move-multiple-home-screen-apps-once-0177985): Tap and hold on one app, then tap more apps to add them to your stack
 * Good phone charging habits to maximize battery lifespan
 	1. **Keep battery between 20–80%**
-	   Charge once daily (~1 hr) when below 20%, instead of multiple short charges.
+		 Charge once daily (~1 hr) when below 20%, instead of multiple short charges.
 	2. **Avoid overnight charging**
-	   Unless _Optimized Battery Charging_ is enabled (default on most modern phones).
+		 Unless _Optimized Battery Charging_ is enabled (default on most modern phones).
 	3. **Use certified chargers**
-	   Stick to original or **MFi-certified** accessories to protect your device.
+		 Stick to original or **MFi-certified** accessories to protect your device.
 * 在 iPhone 輸入中文時，可以先輸入每個字的首個注音符號，待所有字母輸入完畢後，再依照建議詞彙或上下文選字。這種方式有助於提高輸入速度，特別是在熟悉鍵盤佈局後，可減少中斷思考的時間。
 * Saying “Remind me” to Siri can create a reminder in the default list.
 
