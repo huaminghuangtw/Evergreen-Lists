@@ -1,7 +1,3 @@
----
-created: 2025-11-14T20:16:41
-modified: 2025-11-14T20:16:41
----
 
 # Evergreen Lists
 
