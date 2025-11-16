@@ -4,7 +4,7 @@ slug: journal-prompt
 description: Thought-provoking questions to inspire self-reflection.
 spreadsheetId: 1RI3C2N7-LaWG1pZC6xMVvS08OJJQp92qJhLaPSXNzQ0
 created: 2024-11-18T18:07:14
-modified: 2025-08-29T08:30:46
+modified: 2025-11-16T16:53:50
 ---
 
 # 🤔 On “Today”
@@ -376,7 +376,7 @@ modified: 2025-08-29T08:30:46
 * What’s something about you that usually takes people a long time to notice or understand?
 * What’s a question you wish people asked you more often—and what would your answer be?
 
-[^1]: [“Success is largely the failures you avoid. Health is the injuries you don't sustain. Wealth is the purchases you don't make. Happiness is the objects you don't desire. Peace of mind is the arguments you don't engage. Avoid the bad to protect the good.” — James Clear](https://jamesclear.com/3-2-1/march-27-2025)
+[^1]: *[“Success is largely the failures you avoid. Health is the injuries you don't sustain. Wealth is the purchases you don't make. Happiness is the objects you don't desire. Peace of mind is the arguments you don't engage. Avoid the bad to protect the good.” — James Clear](https://jamesclear.com/3-2-1/march-27-2025)*
 [^2]: Human being, not human doing.
 [^3]: “A lion is fully capable of capturing, killing, and eating a field mouse. But it turns out that the energy required to do so exceeds the caloric content of the mouse itself. So a lion that spent its day hunting and eating field mice would slowly starve to death. A lion can’t live on field mice. A lion needs antelope. Antelope are big animals. They take more speed and strength to capture and kill, and once killed, they provide a feast for the lion and her pride. A lion can live a long and happy life on a diet of antelope. The distinction is important. Are you spending all your time and exhausting all your energy catching field mice? In the short term it might give you a nice, rewarding feeling. But in the long run you’re going to die.” — _Buck Up, Suck Up … and Come Back When You Foul Up: 12 Winning Secrets from the War Room_
 [^4]: Sometimes you need to let go. Sometimes you need to get going.
