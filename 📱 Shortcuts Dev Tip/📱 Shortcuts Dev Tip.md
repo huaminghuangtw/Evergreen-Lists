@@ -4,7 +4,7 @@ slug: shortcuts-dev-tip
 description: Handy tips and techniques for developing Apple Shortcuts, gained through hands-on experience.
 spreadsheetId: 1H0o1QxZfrUhuOyMZUY1Ey8D6jONob1es6K_qrLnUgG8
 created: 2025-03-22T23:34:26
-modified: 2025-08-29T08:30:46
+modified: 2025-11-20T18:10:27
 ---
 
 # 💁‍♂️ Keyboard hotkeys (macOS)
@@ -24,7 +24,7 @@ modified: 2025-08-29T08:30:46
 
 * When using “Set Dictionary Value” to create a dictionary, you can leave the dictionary field blank on the right instead of adding a separate “Dictionary” action and referencing it.
 * When handling nested dictionaries and arrays, use **Dot Notation** (e.g., `myDict.key1.key2` or `myArray.0.key`) to access values directly in one step—instead of chaining multiple “Get Value from Dictionary” actions. This approach makes complex data structures much easier to manage, especially when dealing with data from APIs or JSON.
-* When formatting dates, wrap **literal characters**—such as punctuation, `'T'`, `'Z'`, or any static text—in **single quotes** to treat them as fixed text. This allows you to build custom date-time formats like `yyyy-MM-dd'T'HH:mm:ss'Z'` in a single step without chaining multiple **Format Date** actions. For example, use `yyyy'_Week_'ww` to combine the year and week number in a single action, rather than using 2 separate **Format Date** actions for `yyyy` and `ww`.
+* When formatting dates, wrap **literal characters**—such as punctuation, `’T'`, `’Z'`, or any static text—in **single quotes** to treat them as fixed text. This allows you to build custom date-time formats like `yyyy-MM-dd’T’HH:mm:ss’Z'` in a single step without chaining multiple **Format Date** actions. For example, use `yyyy’_Week_’ww` to combine the year and week number in a single action, rather than using 2 separate **Format Date** actions for `yyyy` and `ww`.
 
 # 💁‍♂️ Things I wished I’d known earlier
 
