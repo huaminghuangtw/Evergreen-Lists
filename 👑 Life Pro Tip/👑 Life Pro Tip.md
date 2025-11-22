@@ -4,7 +4,7 @@ slug: life-pro-tip
 description: Practical tricks to improve everyday life.
 spreadsheetId: 13QwPCE33ehjr6fjraQgAQZHvTr_Aux0wKNOHAk4OcHo
 created: 2024-11-18T17:58:02
-modified: 2025-08-29T08:30:46
+modified: 2025-11-20T18:10:27
 ---
 
 # 💡 On “Life Wisdom/Lesson”
@@ -20,7 +20,7 @@ modified: 2025-08-29T08:30:46
 * Separate time for experiencing the present from time for reflecting on memories, and post on social media only when reviewing photos back home, as we remember life more effectively not by taking more pictures, but by revisiting (and deleting) them.
 * [Each path is unique. Remind yourself of this by reading _memoirs_ and _biographies_. If you ever feel like you’re straying from the common route, these books will reassure you that you’re carving out your own distinct journey.](https://mariandrew.substack.com/p/100-things-i-know)
 * When learning something new, spend five minutes teaching it to someone else. Notice where they get confused—these are the areas where you need to refine your own understanding.
-* [When learning something new, spend 5 minutes trying to teach it to someone. Make a note of where the other person gets confused. You'll get an immediate sense for your level of understanding of the topic and where you need to dig in more.](https://www.sahilbloom.com/newsletter/the-most-powerful-asymmetries-in-life)
+* [When learning something new, spend 5 minutes trying to teach it to someone. Make a note of where the other person gets confused. You’ll get an immediate sense for your level of understanding of the topic and where you need to dig in more.](https://www.sahilbloom.com/newsletter/the-most-powerful-asymmetries-in-life)
 
 # 💡 On “Eating”
 
@@ -113,7 +113,7 @@ modified: 2025-08-29T08:30:46
 
 * When people hesitate to give you honest feedback, ask for a score from 0-10, instead of asking, “_What do you think?_”—which invites ambiguity. You’ll rarely get a perfect 10, and this makes it easy to follow up with, “_What would make this closer to a 10?_” Better questions lead to better feedback—and faster growth.
 * Use an exercise ball or a kneeling chair, instead of an office chair with wheels at work, to maintain a better posture.
-* [No matter how much your workplace pushes “team building” and “family culture” - remember, they're not your friends and it's still a workplace.](https://www.reddit.com/r/LifeProTips/comments/k3ywxq/lpt_no_matter_how_much_your_workplace_pushes_team)
+* [No matter how much your workplace pushes “team building” and “family culture” - remember, they’re not your friends and it’s still a workplace.](https://www.reddit.com/r/LifeProTips/comments/k3ywxq/lpt_no_matter_how_much_your_workplace_pushes_team)
 
 # 💡 On “Home”
 
@@ -190,7 +190,7 @@ modified: 2025-08-29T08:30:46
 
 * Always ask/negotiate for what you want. Many people are happy to help—if the request is direct and specific. But never expect people to say yes.
 * At checkout you can just ask “Do you have any coupons I can apply to this?”
-* [Don't be afraid to ask a question that may sound stupid or dumb, because 99% of the time everyone else is thinking of the same question and is too embarrassed/scared to ask it. The simplest questions are the last to be answered. “Shake the tree.” You never know what will fall out. It never hurts to ask.](https://terrytao.wordpress.com/career-advice/ask-yourself-dumb-questions-and-answer-them/)
+* [Don’t be afraid to ask a question that may sound stupid or dumb, because 99% of the time everyone else is thinking of the same question and is too embarrassed/scared to ask it. The simplest questions are the last to be answered. “Shake the tree.” You never know what will fall out. It never hurts to ask.](https://terrytao.wordpress.com/career-advice/ask-yourself-dumb-questions-and-answer-them/)
 * Send one message a day to a person you admire because you never know when you’ll get a response back.
 
 # 💡 On “Social Interaction”
