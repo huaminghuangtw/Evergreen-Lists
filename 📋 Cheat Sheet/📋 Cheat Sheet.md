@@ -4,7 +4,7 @@ slug: cheat-sheet
 description: Handy reference to quickly access terminal commands that I frequently use.
 spreadsheetId: 1X9zuCMb30DiQba5VNjT-HDwwomA9u0Z-trmuqVmykYY
 created: 2024-11-18T17:53:47
-modified: 2025-08-19T06:22:18
+modified: 2025-11-20T18:10:27
 ---
 
 # ◻️ Git
@@ -44,7 +44,7 @@ modified: 2025-08-19T06:22:18
 * Show IP address
 
 	```bash
-    ifconfig wlan0 | grep 'inet ' | awk '{print $2}'
+    ifconfig wlan0 | grep ’inet ' | awk '{print $2}'
     ```
 
 * Sync system clock
