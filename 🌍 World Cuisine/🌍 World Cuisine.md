@@ -3,9 +3,10 @@ title: 🌍 World Cuisine
 slug: world-cuisine
 description: Explore diverse and delicious recipes from around the globe to broaden your culinary horizons.
 spreadsheetId: 1igJQxFOBLpDtvf1wWkuCNi8KVaC10TJnkLGiVMApNEY
+modified: 2025-12-02T16:06:05
 created: 2025-02-25T18:15:40
-modified: 2025-08-19T06:21:25
 ---
+
 
 # 🇮🇪 Ireland
 
@@ -24,12 +25,13 @@ modified: 2025-08-19T06:21:25
 * [Chocolatine](https://www.google.com/search?q=Chocolatine) [^6]
 * [Paris-Brest](https://www.google.com/search?q=Paris-Brest)
 * [Soufflé](https://www.google.com/search?q=Souffl%C3%A9) [^7]
-* [Palmier](https://www.google.com/search?q=Palmier) [^8]
-* [Croque Monsieur](https://www.google.com/search?q=Croque+Monsieur) [^9]
+* [Canelé](https://www.google.com/search?q=Canelé) [^8]
+* [Palmier](https://www.google.com/search?q=Palmier) [^9]
+* [Croque Monsieur](https://www.google.com/search?q=Croque+Monsieur) [^10]
 
 # 🇳🇱 Netherlands
 
-* [Stroopwafels](https://www.google.com/search?q=Stroopwafels) [^10]
+* [Stroopwafels](https://www.google.com/search?q=Stroopwafels) [^11]
 
 # 🇨🇮 Italy
 
@@ -38,14 +40,14 @@ modified: 2025-08-19T06:21:25
 * [Galeto](https://www.google.com/search?q=Galeto)
 * [Carbonara](https://www.google.com/search?q=Carbonara)
 * [Risotto](https://www.google.com/search?q=Risotto)
-* [Tortellini](https://www.google.com/search?q=Tortellini) [^11]
+* [Tortellini](https://www.google.com/search?q=Tortellini) [^12]
 * [Burrata](https://www.google.com/search?q=Burrata)
-* [Cannolo](https://www.google.com/search?q=Cannolo) [^12]
-* [Pandoro](https://www.google.com/search?q=Pandoro) [^13]
-* [Panettone](https://www.google.com/search?q=Panettone) [^14]
+* [Cannolo](https://www.google.com/search?q=Cannolo) [^13]
+* [Pandoro](https://www.google.com/search?q=Pandoro) [^14]
+* [Panettone](https://www.google.com/search?q=Panettone) [^15]
 * [Gnocchi](https://www.google.com/search?q=Gnocchi)
 
-# 🇸🇪 Sweden [^15]
+# 🇸🇪 Sweden [^22]
 
 * [Sill](https://www.google.com/search?q=Sill) [^16]
 * [Köttbullar](https://www.google.com/search?q=K%C3%B6ttbullar) [^17]
@@ -57,34 +59,34 @@ modified: 2025-08-19T06:21:25
 
 # 🇬🇷 Greece
 
-* [Gyros](https://www.google.com/search?q=Gyros) [^22]
-* [Souvlaki](https://www.google.com/search?q=Souvlaki) [^23]
+* [Gyros](https://www.google.com/search?q=Gyros) [^23]
+* [Souvlaki](https://www.google.com/search?q=Souvlaki) [^24]
 
 # 🇲🇽 Mexico
 
-* [Burrito](https://www.google.com/search?q=Burrito) [^24]
-* [Taco](https://www.google.com/search?q=Taco) [^25]
-* [Tortilla](https://www.google.com/search?q=Tortilla) [^26]
+* [Burrito](https://www.google.com/search?q=Burrito) [^25]
+* [Taco](https://www.google.com/search?q=Taco) [^26]
+* [Tortilla](https://www.google.com/search?q=Tortilla) [^27]
 
 # 🇹🇷 Turkey
 
-* [Kokoreç](https://www.google.com/search?q=Kokore%C3%A7) [^27]
-* [Lahmacun](https://www.google.com/search?q=Lahmacun) [^28]
-* [Baklava](https://www.google.com/search?q=Baklava) [^29]
-* [Börek](https://www.google.com/search?q=B%C3%B6rek) [^30]
-* [Pide](https://www.google.com/search?q=Pide) [^31] [^32]
-* [Patlican](https://www.google.com/search?q=Patlican) [^33]
-* [Kumpir](https://www.google.com/search?q=Kumpir) [^34]
+* [Kokoreç](https://www.google.com/search?q=Kokore%C3%A7) [^28]
+* [Lahmacun](https://www.google.com/search?q=Lahmacun) [^29]
+* [Baklava](https://www.google.com/search?q=Baklava) [^30]
+* [Börek](https://www.google.com/search?q=B%C3%B6rek) [^31]
+* [Pide](https://www.google.com/search?q=Pide) [^32] [^33]
+* [Patlican](https://www.google.com/search?q=Patlican) [^34]
+* [Kumpir](https://www.google.com/search?q=Kumpir) [^35]
 * [Pogača](https://www.google.com/search?q=Poga%C4%8Da)
-* [Döner-Kebap](https://www.google.com/search?q=D%C3%B6ner-Kebap) [^35]
+* [Döner-Kebap](https://www.google.com/search?q=D%C3%B6ner-Kebap) [^36]
 
 # 🇭🇺 Hungary
 
-* [Kürtőskalács](https://www.google.com/search?q=K%C3%BCrt%C5%91skal%C3%A1cs) [^36]
+* [Kürtőskalács](https://www.google.com/search?q=K%C3%BCrt%C5%91skal%C3%A1cs) [^37]
 
 # 🇹🇭 Thailand
 
-* [Pad Thai](https://www.google.com/search?q=Pad+Thai) [^37]
+* [Pad Thai](https://www.google.com/search?q=Pad+Thai) [^38]
 
 # 🇮🇩 Indonesia
 
@@ -93,15 +95,15 @@ modified: 2025-08-19T06:21:25
 # 🇻🇳 Vietnam
 
 * [Bánh Bao](https://www.google.com/search?q=B%C3%A1nh+Bao)
-* [Gỏi Cuốn](https://www.google.com/search?q=G%E1%BB%8Fi+Cu%E1%BB%91n) [^38]
-* [Chả Giò or Nem Rán](https://www.google.com/search?q=Ch%E1%BA%A3+Gi%C3%B2+or+Nem+R%C3%A1n) [^39]
-* [Phở](https://www.google.com/search?q=Ph%E1%BB%9F) [^40] [^41]
+* [Gỏi Cuốn](https://www.google.com/search?q=G%E1%BB%8Fi+Cu%E1%BB%91n) [^39]
+* [Chả Giò or Nem Rán](https://www.google.com/search?q=Ch%E1%BA%A3+Gi%C3%B2+or+Nem+R%C3%A1n) [^40]
+* [Phở](https://www.google.com/search?q=Ph%E1%BB%9F) [^41] [^42]
 
 # 🇯🇵 Japan
 
 * [Yakisoba](https://www.google.com/search?q=Yakisoba)
 * [Kaeshi](https://www.google.com/search?q=Kaeshi)
-* [Mirin](https://www.google.com/search?q=Mirin) [^42]
+* [Mirin](https://www.google.com/search?q=Mirin) [^43]
 
 # 🇨🇭 Switzerland
 
@@ -109,12 +111,12 @@ modified: 2025-08-19T06:21:25
 
 # 🇮🇳 India
 
-* [Chapati](https://www.google.com/search?q=Chapati) [^43]
-* [Naan](https://www.google.com/search?q=Naan) [^44]
-* [Kaju Katli](https://www.google.com/search?q=Kaju+Katli) [^45]
+* [Chapati](https://www.google.com/search?q=Chapati) [^44]
+* [Naan](https://www.google.com/search?q=Naan) [^45]
+* [Kaju Katli](https://www.google.com/search?q=Kaju+Katli) [^46]
 * [Mango Lassi](https://www.google.com/search?q=Mango+Lassi)
 * [Masala Chia](https://www.google.com/search?q=Masala+Chia)
-* [Garam Masala](https://www.google.com/search?q=Garam%C2%A0Masala) [^46]
+* [Garam Masala](https://www.google.com/search?q=Garam%C2%A0Masala) [^47]
 
 # 🇧🇷 Brazil
 
@@ -122,11 +124,11 @@ modified: 2025-08-19T06:21:25
 
 # 🇷🇺 Russia
 
-* [Бефстроганов](https://www.google.com/search?q=%D0%91%D0%B5%D1%84%D1%81%D1%82%D1%80%D0%BE%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2) [^47]
+* [Бефстроганов](https://www.google.com/search?q=%D0%91%D0%B5%D1%84%D1%81%D1%82%D1%80%D0%BE%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2) [^48]
 
 # 🇪🇸 Spain
 
-* [Churro](https://www.google.com/search?q=Churro) [^48] [^49]
+* [Churro](https://www.google.com/search?q=Churro) [^49] [^51]
 
 # 🇬🇧 United Kingdom
 
@@ -143,45 +145,47 @@ modified: 2025-08-19T06:21:25
 [^5]: 法國北部
 [^6]: 法國南部
 [^7]: = 舒芙蕾
-[^8]: = 蝴蝶酥
-[^9]: = Croque Madame = 法式火腿起司三明治
-[^10]: = 荷蘭焦糖煎餅
-[^11]: = Tortelloni
-[^12]: = 奶油甜餡煎餅卷
-[^13]: 形狀: eight-pointed star
-[^14]: 形狀: cylinder
-[^15]: 奶品之國
+[^8]: = 可麗露
+[^9]: = 蝴蝶酥
+[^10]: = Croque Madame = 法式火腿起司三明治
+[^11]: = 荷蘭焦糖煎餅
+[^12]: = Tortelloni
+[^13]: = 奶油甜餡煎餅卷
+[^14]: 形狀: eight-pointed star
+[^15]: 形狀: cylinder
 [^16]: = 鯡魚
 [^17]: = 瑞典肉丸
 [^18]: = 法倫香腸
 [^19]: = 硬麵包
 [^20]: = 肉桂捲
 [^21]: = 魚子醬抹醬
-[^22]: = 希臘旋轉烤肉
-[^23]: = 希臘烤肉串
-[^24]: 使用麵粉
-[^25]: 使用麵粉 or 玉米粉
-[^26]: 使用玉米粉
-[^27]: = 烤羊腸
-[^28]: = 土耳其披薩
-[^29]: = 果仁蜜餅
-[^30]: = 餡餅
-[^31]: ≈ [Fladenbrot](https://www.google.com/search?q=Fladenbrot)
-[^32]: = 土耳其烤餅
-[^33]: = 烤茄子
-[^34]: = 烤馬鈴薯
-[^35]: Döner 是土耳其語「旋轉」的意思，而 Kebap 是「烤肉」的意思，合起來就是「旋轉的烤肉」
-[^36]: = 煙囪捲
-[^37]: = 泰式炒河粉
-[^38]: = Fresh (Non-Fried) Spring Rolls = Summer Rolls = Rice Paper Rolls = 越式生春捲
-[^39]: = Fried Spring Rolls = 越式炸春捲
-[^40]: Pho 湯河粉 ↔ Pho Xao 乾河粉
-[^41]: Phở Bò (Beef) ↔ Phở Gà (Chicken)
-[^42]: 味醂：在日本料理中經常作為「糖」的替代品
-[^43]: = 印度薄餅
-[^44]: = 印度烤餅
-[^45]: = Kaju Barfi = 腰果糖片
-[^46]: 印度什香粉：一種由多種香料混合起來的綜合調味料
-[^47]: = 俄式燴牛肉
-[^48]: = 吉拿棒
-[^49]: [How churros are made in a traditional churería](https://www.reddit.com/r/educationalgifs/s/6VAdLlscOx)
+[^22]: 奶品之國
+[^23]: = 希臘旋轉烤肉
+[^24]: = 希臘烤肉串
+[^25]: 使用麵粉
+[^26]: 使用麵粉 or 玉米粉
+[^27]: 使用玉米粉
+[^28]: = 烤羊腸
+[^29]: = 土耳其披薩
+[^30]: = 果仁蜜餅
+[^31]: = 餡餅
+[^32]: ≈ [Fladenbrot](https://www.google.com/search?q=Fladenbrot)
+[^33]: = 土耳其烤餅
+[^34]: = 烤茄子
+[^35]: = 烤馬鈴薯
+[^36]: Döner 是土耳其語「旋轉」的意思，而 Kebap 是「烤肉」的意思，合起來就是「旋轉的烤肉」
+[^37]: = 煙囪捲
+[^38]: = 泰式炒河粉
+[^39]: = Fresh (Non-Fried) Spring Rolls = Summer Rolls = Rice Paper Rolls = 越式生春捲
+[^40]: = Fried Spring Rolls = 越式炸春捲
+[^41]: Pho 湯河粉 ↔ Pho Xao 乾河粉
+[^42]: Phở Bò (Beef) ↔ Phở Gà (Chicken)
+[^43]: 味醂：在日本料理中經常作為「糖」的替代品
+[^44]: = 印度薄餅
+[^45]: = 印度烤餅
+[^46]: = Kaju Barfi = 腰果糖片
+[^47]: 印度什香粉：一種由多種香料混合起來的綜合調味料
+[^48]: = 俄式燴牛肉
+[^49]: = 吉拿棒
+[^50]: [How churros are made in a traditional churería](https://www.reddit.com/r/educationalgifs/s/6VAdLlscOx) 
+[^51]: 
