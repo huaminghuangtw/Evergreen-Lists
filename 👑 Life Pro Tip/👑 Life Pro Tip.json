@@ -75,11 +75,11 @@
                     "tags": "",
                     "parent_reminder": "💡 On \"Life Wisdom/Lesson\"",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "[The Ben Franklin Effect](https://www.google.com/search?q=The+Ben+Franklin+Effect): If you're trying to create a relationship, or even turn an enemy into a friend, you might consider what small favor you can _request_, rather than what you can _give_.\n“Nothing makes one feel so strong as a call for help.” — Pope Paul VI",
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "Ask someone to do you a small favour, so that he or she can ask you to do a big one in the future.",
+                    "name": "Ask someone to do you a small favor, so that he or she can ask you to do a big one in the future.",
                     "url": ""
                 },
                 {
@@ -123,7 +123,7 @@
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "When learning something new, spend five minutes teaching it to someone else. Notice where they get confused—these are the areas where you need to refine your own understanding.",
+                    "name": "When learning something new, spend five minutes teaching it to someone else. Notice where they get confused—these are the areas where you need to .",
                     "url": ""
                 },
                 {
@@ -134,8 +134,19 @@
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "[When learning something new, spend 5 minutes trying to teach it to someone. Make a note of where the other person gets confused. You'll get an immediate sense for your level of understanding of the topic and where you need to dig in more.](https://www.sahilbloom.com/newsletter/the-most-powerful-asymmetries-in-life)",
+                    "name": "[When learning something new, spend 5 minutes trying to teach it to someone. Make a note of where the other person gets confused. Notice where they get confused—you'll get an immediate sense for your level of understanding of the topic and where you need to dig in more.](https://www.sahilbloom.com/newsletter/the-most-powerful-asymmetries-in-life)",
                     "url": "https://www.sahilbloom.com/newsletter/the-most-powerful-asymmetries-in-life"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Life Wisdom/Lesson\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "Carry a pocket notebook everywhere you go. Get into the habit of jotting down ideas, thoughts, or insights the moment they come to you. You’ll capture sparks of creativity that would otherwise fade—and over time, you’ll build a personal library of ideas to revisit and develop.",
+                    "url": ""
                 }
             ],
             "flagged": false,
@@ -151,7 +162,18 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "💡 On \"Eating\"",
+                    "parent_reminder": "💡 On \"Eating & Drinking\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "要讓家庭號寶特瓶汽水保氣，最有效的方法是「冷藏」以維持二氧化碳溶解度，並在每次喝完後適度「捏扁」瓶身減少空氣體積，再將瓶口「倒置」存放，讓液體封住瓶口以減緩氣泡逸出，同時務必轉緊瓶蓋並避免劇烈搖晃；若想延長保氣時間，可額外使用[真空酒瓶塞](https://www.google.com/search?q=真空酒瓶塞)或分裝玻璃瓶，搭配這些技巧可以讓汽水氣泡維持更久。",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Eating & Drinking\"",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -162,7 +184,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💡 On \"Eating\"",
+                    "parent_reminder": "💡 On \"Eating & Drinking\"",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -173,7 +195,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💡 On \"Eating\"",
+                    "parent_reminder": "💡 On \"Eating & Drinking\"",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -184,7 +206,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💡 On \"Eating\"",
+                    "parent_reminder": "💡 On \"Eating & Drinking\"",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -195,7 +217,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💡 On \"Eating\"",
+                    "parent_reminder": "💡 On \"Eating & Drinking\"",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -206,7 +228,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💡 On \"Eating\"",
+                    "parent_reminder": "💡 On \"Eating & Drinking\"",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -220,7 +242,7 @@
             "list": "👑 Life Pro Tip",
             "priority": "None",
             "tags": "",
-            "name": "💡 On \"Eating\""
+            "name": "💡 On \"Eating & Drinking\""
         },
         {
             "url": "",
@@ -600,7 +622,7 @@
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "Always underpromise and overdeliver! For example, if you know how late you are going to be, add an extra 5-10 minutes to it. It might be annoying for the person/people when you say it initially, but when you come before the time you said, it will evoke a far more positive reaction than underestimating the lateness time.",
+                    "name": "Always underpromise and overdeliver (aka [baker’s dozen](https://www.google.com/search?q=baker%E2%80%99s+dozen))! For example, if you know how late you are going to be, add an extra 5-10 minutes to it. It might be annoying for the person/people when you say it initially, but when you come before the time you said, it will evoke a far more positive reaction than underestimating the lateness time.",
                     "url": ""
                 },
                 {
@@ -717,7 +739,7 @@
                     "tags": "",
                     "parent_reminder": "💡 On \"Miscellaneous\"",
                     "due_date": "",
-                    "notes": "1. bed – you spend a third of your life sleeping\n2. bedding – mattress, pillow, blanket, etc.\n3. walking/running shoes, boots – your feet carry you everywhere\n4. tires – they’re the only contact between your vehicle and the road",
+                    "notes": "1. bed – you spend a third of your life sleeping\n2. bedding – mattress, pillow, blanket, etc.\n3. soft-soled walking/running shoes, boots – your feet carry you everywhere\n4. tires – they’re the only contact between your vehicle and the road",
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
@@ -801,6 +823,17 @@
                     "priority": "None",
                     "name": "[No matter how much your workplace pushes \"team building\" and \"family culture\" - remember, they're not your friends and it's still a workplace.](https://www.reddit.com/r/LifeProTips/comments/k3ywxq/lpt_no_matter_how_much_your_workplace_pushes_team)",
                     "url": "https://www.reddit.com/r/LifeProTips/comments/k3ywxq/lpt_no_matter_how_much_your_workplace_pushes_team"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Careers & Work\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "Always book an extra day off after a holiday. It gives you time to recover, unpack, and mentally transition back to work fully recharged.",
+                    "url": ""
                 }
             ],
             "flagged": false,
@@ -1179,6 +1212,17 @@
                     "priority": "None",
                     "name": "Clean out your fridge before heading to the grocery store. It helps you avoid “mystery Tupperware” surprises, frees up space, and gives you a clear view of what needs restocking.",
                     "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Grocery Shopping\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "Low",
+                    "name": "The fastest supermarket queue is often behind the fullest trolley. It seems counterintuitive, but the real bottleneck isn’t the scanning — it’s the human part of the process: greeting the cashier, unloading, card tapping, receipt printing, and packing. It’s not about how many items are ahead of you — it’s about how many people are. One customer with 100 items might move faster than three customers with 10 items each. The fewer transactions, the faster the line. Skip the line full of “quick shoppers.” Pick the one with fewer people, even if their carts are full — you’ll likely walk out sooner.",
+                    "url": ""
                 }
             ],
             "flagged": false,
@@ -1222,7 +1266,7 @@
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "Whenever doing research before purchasing any consumer electronics, watch “Review After 1 Year” YouTube videos instead of “Unboxing” ones",
+                    "name": "When researching consumer electronics, skip the flashy “unboxing” videos and look for “1-year review” videos instead. They reveal how the product actually holds up over time, giving you a far more realistic picture before buying.",
                     "url": ""
                 },
                 {
@@ -1257,6 +1301,17 @@
                     "priority": "None",
                     "name": "If you’re looking for your good X, you have bad Xs. Throw those out.",
                     "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Buying Things\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "When buying a used car, test-drive it to a nearby auto-parts store and use their free [OBD-II](https://www.google.com/search?q=OBD-II) scanner to check for recently cleared or hidden engine codes—many sellers reset check-engine lights to disguise issues. You don’t need mechanical skills; AutoZone, Advance Auto Parts, and O’Reilly all loan scanners, and a quick YouTube tutorial shows you how to use them. Also ask the seller not to start the car before you arrive so you can do a true **cold start**, since many problems only appear when the engine is started after sitting but vanish once warm.",
+                    "url": "https://www.reddit.com/r/YouShouldKnow/comments/i2xzsj/ysk_if_you_are_buying_a_used_car_test_drive_it_to/"
                 }
             ],
             "flagged": false,
@@ -1279,6 +1334,17 @@
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
                     "name": "If you want your kids to listen when you have something important to say, speak very quietly. Yelling doesn't work, but a whisper grabs their attention.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Parenting\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "Preserve your children’s art. Frame the best pieces. It celebrates their imagination and turns fleeting moments into lasting memories. Also, a rotating display strengthens their confidence and pride in their work.",
                     "url": ""
                 }
             ],
@@ -1353,12 +1419,12 @@
                     "tags": "",
                     "parent_reminder": "💡 On \"Social Interaction\"",
                     "due_date": "",
-                    "notes": "+ Many people have trouble thinking of themselves as smart, or pretty, or kind, unless told by someone else. You can help them out and make someone’s day.\n+ Start with “[NAME], I'm super grateful for you, you know why?” And then\nthrows them the most sincere, genuine compliment.\n",
+                    "notes": "",
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "Whenever you think something nice about someone, let them know IMMEDIATELY. → Find the best in others. Compliment people more.",
-                    "url": ""
+                    "name": "If a friend or family member is diagnosed with dementia or Alzheimer’s, ask them early on about their all-time favorite songs. Build a playlist from their answers—music tied to meaningful memories can later help trigger recognition, calm emotions, and provide comfort as the disease progresses.",
+                    "url": "https://www.reddit.com/r/LifeProTips/comments/d09tq7/lpt_if_a_friend_or_a_family_member_gets_diagnosed/"
                 },
                 {
                     "tags": "",
@@ -1540,7 +1606,7 @@
                     "tags": "",
                     "parent_reminder": "💡 On \"Social Interaction\"",
                     "due_date": "",
-                    "notes": "+ 天下無不散的筵席，離別是為了下一次更好的相遇/重逢\n+ _[“Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny.” — Steve Maraboli](https://www.goodreads.com/quotes/525097-letting-go-means-to-come-to-the-realization-that-some)_",
+                    "notes": "+ Or a \"French exit\", where you slip out unseen.\n+ 天下無不散的筵席，離別是為了下一次更好的相遇/重逢\n+ _[“Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny.” — Steve Maraboli](https://www.goodreads.com/quotes/525097-letting-go-means-to-come-to-the-realization-that-some)_",
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
@@ -1551,34 +1617,12 @@
                     "tags": "",
                     "parent_reminder": "💡 On \"Social Interaction\"",
                     "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "👑 Life Pro Tip",
-                    "priority": "None",
-                    "name": "A short, polite, timely rejection is much more valuable than a delayed, in-depth rejection.",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "💡 On \"Social Interaction\"",
-                    "due_date": "",
                     "notes": "This lets the other person say whatever first comes to mind without the pressure of having to choose a single favorite. They'll almost always have one and be able to talk about it.",
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "“What's your favorite TY show/book/movie?” → “What's the TV show you are into _recently_?”, “What's the _last_ book you read?”, “What's the movie you are _currently enjoying most_?”",
+                    "name": "“What's your favorite TV show/book/movie?” → “What's the TV show you are into _recently_?”, “What's the _last_ book you read?”, “What's the movie you are _currently enjoying most_?”",
                     "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "💡 On \"Social Interaction\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "👑 Life Pro Tip",
-                    "priority": "None",
-                    "name": "[It takes extreme strength and courage to be a consistently kind person in a world that rewards selfishness. Make sure to thank people who demonstrate kindness. They are choosing the hard, selfless route in order to make the world a better place for everyone.](https://www.reddit.com/r/LifeProTips/comments/1107h0s/lpt_it_takes_extreme_strength_and_courage_to_be_a)",
-                    "url": "https://www.reddit.com/r/LifeProTips/comments/1107h0s/lpt_it_takes_extreme_strength_and_courage_to_be_a"
                 },
                 {
                     "tags": "",
@@ -1595,12 +1639,56 @@
                     "tags": "",
                     "parent_reminder": "💡 On \"Social Interaction\"",
                     "due_date": "",
-                    "notes": "[“The way to help someone is not to critique what makes them smaller, but to encourage what makes them larger.” — James Clear](https://jamesclear.com/3-2-1/march-20-2025)",
+                    "notes": "+ [“The way to help someone is not to critique what makes them smaller, but to encourage what makes them larger.” — James Clear](https://jamesclear.com/3-2-1/march-20-2025)\n+ “We cannot teach people anything. We can only help them discover it within themselves.” — Galileo Galilei",
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
                     "name": "[The quickest way to alienate someone is to tell them they need to change. If you truly want to influence/castigate someone’s behavior, the most effective approach is to praise/compliment them when they do something you value — not to criticize them when they don’t.](http://www.youtube.com/watch?v=KyfUysrNaco&t=1h33m3s)",
                     "url": "http://www.youtube.com/watch?v=KyfUysrNaco&t=1h33m3s"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Social Interaction\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "Always bring a small gift—wine, flowers, or a treat—to a dinner or birthday party, even if the host says it’s unnecessary. It’s a simple gesture of gratitude and thoughtfulness that’s always appreciated. Never show up empty-handed.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Social Interaction\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "Be polite to rude strangers. Responding with calm and courtesy in the face of rudeness is surprisingly satisfying and oddly thrilling.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Social Interaction\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "Send voice messages instead of long texts. They convey tone, emotion, and nuance, making your messages feel personal—like a mini podcast for your friend.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Social Interaction\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "When two friends could genuinely benefit from knowing each other, proactively make the introduction. It takes you 30 seconds, but it could change their lives — they might start a company, hire each other, or even fall in love. Networks don’t shrink when you share them; they multiply. There’s no higher ROI on any other 30-second act. (Tip: only introduce people when both sides stand to gain — not just one.)",
+                    "url": ""
                 }
             ],
             "flagged": false,
@@ -1700,6 +1788,17 @@
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
+                    "name": "🥑 Avocados bruise easily and oxidize quickly, which causes them to turn brown. To slow this process, lightly coat the surface with lemon or lime juice, then wrap it tightly (or place it in an airtight container) before refrigerating.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Cooking\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
                     "name": "冷凍法省時烤地瓜：先將地瓜放進冷凍庫不多不少 45 分鐘左右後，「直接」放進烤箱用 200 度烤 30 分鐘，可破壞地瓜細胞壁，加速熱傳導，節省至少一半以上的烘烤時間。這個做法烤出來的地瓜內部組織是綿密的，且依然有著用烤箱長時間烘烤才有的濃郁風味。",
                     "url": ""
                 },
@@ -1722,7 +1821,7 @@
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "Don't throw out fruit that is going to bad, especially bananas gone brown. Instead, freeze it and make great smoothie!",
+                    "name": "Don't throw out fruit that is going to bad, especially bananas gone brown. Instead, freeze it and make great smoothie or popsicles!",
                     "url": ""
                 },
                 {
@@ -2125,6 +2224,17 @@
                     "priority": "None",
                     "name": "Free Filtered Water at Hotels: Instead of purchasing water bottles from your hotel room minibar, bring a reusable water bottle and fill it up at the fitness center. Nearly all hotels provide filtered water in the fitness center.",
                     "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Saving Money\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "Don’t buy a wedding outfit you’ll barely wear—rent it. Stylish, affordable, and clutter-free.",
+                    "url": ""
                 }
             ],
             "flagged": false,
@@ -2155,6 +2265,85 @@
             "priority": "None",
             "tags": "",
             "name": "💡 On \"Dressing\""
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Productivity\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "Trick yourself into productivity the same way you trick yourself into procrastination. When you say “just one more game/post/video” and end up losing hours, flip that mindset for useful tasks: “just one line of code,” “just one page,” “just one rep,” “just one tutorial.” That small start often snowballs into real progress.",
+                    "url": "https://www.reddit.com/r/productivity/comments/cdir3g/trick_yourself_into_productivity_the_same_way_you"
+                }
+            ],
+            "flagged": false,
+            "list": "👑 Life Pro Tip",
+            "priority": "None",
+            "tags": "",
+            "name": "💡 On \"Productivity\""
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Small Acts of Kindness\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "Staying over at a friend’s place? Strip the bed before you leave. It’s a small gesture that makes cleanup easier and shows appreciation for their hospitality.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Small Acts of Kindness\"",
+                    "due_date": "",
+                    "notes": "+ Many people have trouble thinking of themselves as smart, or pretty, or kind, unless told by someone else. You can help them out and make someone’s day.\n+ Start with “[NAME], I'm super grateful for you, you know why?” And then throws them the most sincere, genuine compliment.",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "Whenever you think something nice about someone, let them know IMMEDIATELY. → Find the best in others. Compliment people more (on less obvious things).",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Small Acts of Kindness\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "Say no quickly as a way of kindness: If you have/want to say no to something, do it immediately. That gives the asker maximum time to find alternatives. A short, polite, timely rejection is much more valuable than a delayed, in-depth rejection.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 On \"Small Acts of Kindness\"",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "[It takes extreme strength and courage to be a consistently kind person in a world that rewards selfishness. Make sure to thank people who demonstrate kindness. They are choosing the hard, selfless route in order to make the world a better place for everyone.](https://www.reddit.com/r/LifeProTips/comments/1107h0s/lpt_it_takes_extreme_strength_and_courage_to_be_a)",
+                    "url": "https://www.reddit.com/r/LifeProTips/comments/1107h0s/lpt_it_takes_extreme_strength_and_courage_to_be_a"
+                }
+            ],
+            "flagged": false,
+            "list": "👑 Life Pro Tip",
+            "priority": "None",
+            "tags": "",
+            "name": "💡 On \"Small Acts of Kindness\""
         }
     ]
 }
