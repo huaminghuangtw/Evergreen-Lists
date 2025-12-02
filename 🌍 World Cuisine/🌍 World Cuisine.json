@@ -132,6 +132,17 @@
                     "tags": "",
                     "parent_reminder": "🇫🇷 France",
                     "due_date": "",
+                    "notes": "= 可麗露",
+                    "flagged": false,
+                    "list": "🌍 World Cuisine",
+                    "priority": "None",
+                    "name": "[Canelé](https://www.google.com/search?q=Canelé)",
+                    "url": "https://www.google.com/search?q=Canel%C3%A9"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🇫🇷 France",
+                    "due_date": "",
                     "notes": "= 蝴蝶酥",
                     "flagged": false,
                     "list": "🌍 World Cuisine",
