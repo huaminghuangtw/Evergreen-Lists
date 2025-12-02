@@ -180,7 +180,7 @@
                     "flagged": false,
                     "list": "📱 Shortcuts Dev Tip",
                     "priority": "None",
-                    "name": "Using the ‘Match Text’ action with the regular anchor ^keyword provides more reliable results compared to using the built-in ‘Begins With ’ condition.",
+                    "name": "Using the ‘Match Text’ action with the regular anchor ^keyword provides more reliable results compared to using the built-in ‘Begins With’ condition.",
                     "url": ""
                 },
                 {
