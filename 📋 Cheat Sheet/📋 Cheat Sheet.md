@@ -3,104 +3,79 @@ title: 📋 Cheat Sheet
 slug: cheat-sheet
 description: Handy reference to quickly access terminal commands that I frequently use.
 spreadsheetId: 1X9zuCMb30DiQba5VNjT-HDwwomA9u0Z-trmuqVmykYY
+modified: 2025-12-02T16:36:35
 created: 2024-11-18T17:53:47
-modified: 2025-11-20T18:10:27
 ---
+
 
 # ◻️ Git
 
 * Drop all stashed at once
-
-	```bash
+    ```bash
     git stash clear
     ```
-
 * Show the _files_ in the most recent stash
-
-	```bash
+    ```bash
     git stash show
     ```
-
 * Drop the most recent stash
-
-	```bash
+    ```bash
     git stash drop
     ```
-
 * List all stashes
-
-	```bash
+    ```bash
     git stash list
     ```
-
 * Show the _changes_ of the most recent stash
-
-	```bash
+    ```bash
     git stash show -p
     ```
 
 # ◻️ Raspberry Pi
 
 * Show IP address
-
-	```bash
-    ifconfig wlan0 | grep ’inet ' | awk '{print $2}'
+    ```bash
+    ifconfig wlan0 | grep 'inet ' | awk '{print $2}'
     ```
-
 * Sync system clock
-
-	```bash
-    sudo timedatectl set-ntp true \&\& date
+    ```bash
+    sudo timedatectl set-ntp true && date
     ```
-
 * Check voltage
-
-	```bash
-    vcgencmd get_throttled | grep -q throttled=0x50005 \&\& echo “Low voltage detected! Please use official power supply.” || echo “Power requirement satisfied.”
+    ```bash
+    vcgencmd get_throttled | grep -q throttled=0x50005 && echo “Low voltage detected! Please use official power supply.” || echo “Power requirement satisfied.”
     ```
 
 # ◻️ SSH
 
 * Print the public SSH key, which can be used for authentication on remote servers
-
-	```bash
+    ```bash
     cat ~/.ssh/id_rsa.pub
     ```
-
 * Validate SSH
-
-	```bash
+    ```bash
     ssh -T git@github.com
     ```
-
 * Generate SSH key
-
-	```bash
+    ```bash
     ssh-keygen
     ```
 
 # ◻️ Network Manager
 
 * Connect to a WiFi network
-
-	```bash
+    ```bash
     nmcli dev wifi connect SSID password PASSWORD
     ```
-
 * Display a list of all saved network connections on the system
-
-	```bash
+    ```bash
     nmcli con show
     ```
-
 * List all available Wi-Fi networks detected by the system
-
-	```bash
+    ```bash
     nmcli dev wifi list
     ```
-
 * Show the status of all network interfaces, including their connection states
-
-	```bash
+    ```bash
     nmcli dev status
     ```
