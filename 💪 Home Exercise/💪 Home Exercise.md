@@ -3,9 +3,10 @@ title: 💪 Home Exercise
 slug: home-exercise
 description: Simple yet effective exercises you can do at home to stay fit and healthy without any equipment.
 spreadsheetId: 1zLI8WqN8xXwbVNBXzU5ixzw688tuBsivD9-SyyTTNbk
+modified: 2025-12-02T16:13:39
 created: 2025-05-16T12:25:40
-modified: 2025-08-19T06:21:51
 ---
+
 
 # 🟠 Upper Body
 
@@ -23,6 +24,7 @@ modified: 2025-08-19T06:21:51
 # 🟠 Lower Body
 
 * [Hop Heel Clicks](https://www.google.com/search?q=Hop+Heel+Clicks) [^4]
+* [Squat to Stands](https://www.google.com/search?q=Squat+to+Stands)
 * [March Steps](https://www.google.com/search?q=March%20Steps)
 * [Lateral Lunges](https://www.google.com/search?q=Lateral%20Lunges) [^5]
 * [Archor Lunges](https://www.google.com/search?q=Archor%20Lunges) [^6]
@@ -55,13 +57,16 @@ modified: 2025-08-19T06:21:51
 * [Jump Squats](https://www.google.com/search?q=Jump+Squats)
 * [Shrimp Squats](https://www.google.com/search?q=Shrimp+Squats)
 * [Cossack Squats](https://www.google.com/search?q=Cossack+Squats)
+* [90/90 Hip Switches](https://www.google.com/search?q=90/90+Hip+Switches)
 
 # 🟠 Core
 
 * [Reverse Snow Angels](https://www.google.com/search?q=Reverse+Snow+Angels)
 * [W-Extensions](https://www.google.com/search?q=W-Extensions)
+* [Bear Crawl](https://www.google.com/search?q=Bear+Crawl)
 * [Boat Pose Hold](https://www.google.com/search?q=Boat+Pose+Hold) [^15]
 * [Climber Taps](https://www.google.com/search?q=Climber+Taps)
+* [Dead Bugs](https://www.google.com/search?q=Dead+Bugs)
 * [左右交替摸腳踝](https://www.google.com/search?q=%E5%B7%A6%E5%8F%B3%E4%BA%A4%E6%9B%BF%E6%91%B8%E8%85%B3%E8%B8%9D)
 * [Body Saw Plank](https://www.google.com/search?q=Body%20Saw%20Plank) [^16]
 * [Knee Tucks](https://www.google.com/search?q=Knee%20Tucks) [^17]
@@ -77,7 +82,7 @@ modified: 2025-08-19T06:21:51
 * [Knee Crunches](https://www.google.com/search?q=Knee+Crunches)
 * [Knee-to-Elbow](https://www.google.com/search?q=Knee-to-Elbow) [^19]
 * [Back Extensions](https://www.google.com/search?q=Back+Extensions)
-* [Up \& Down Planks](https://www.google.com/search?q=Up+\&+Down+Planks)
+* [Up & Down Planks](https://www.google.com/search?q=Up+&+Down+Planks)
 * [Climbers](https://www.google.com/search?q=Climbers)
 * [Plank Crunches](https://www.google.com/search?q=Plank+Crunches)
 * [March Twists](https://www.google.com/search?q=March+Twists)
@@ -94,6 +99,8 @@ modified: 2025-08-19T06:21:51
 * [Side Bridges](https://www.google.com/search?q=Side+Bridges)
 * [Plank Step-Outs](https://www.google.com/search?q=Plank+Step-Outs)
 * [Plank Rotations](https://www.google.com/search?q=Plank+Rotations)
+* [Scissors](https://www.google.com/search?q=Scissors)
+* [Plank Rolls](https://www.google.com/search?q=Plank+Rolls)
 
 # 🟠 Stretching
 
@@ -102,6 +109,7 @@ modified: 2025-08-19T06:21:51
 * [Standing Torso/Trunk/Spinal Twist](https://www.google.com/search?q=Standing+Torso/Trunk/Spinal+Twist)
 * [Windmill Twist](https://www.google.com/search?q=Windmill+Twist)
 * [Scorpion Twists](https://www.google.com/search?q=Scorpion+Twists)
+* [Spiderman Stretch](https://www.google.com/search?q=Spiderman+Stretch)
 
 # 🟠 Yoga
 
