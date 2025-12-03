@@ -46,7 +46,7 @@
                     "flagged": false,
                     "list": "👨‍💻 Tech Pro Tip",
                     "priority": "None",
-                    "name": "You can create a link that highlights specific text fragment on a page by adding `#:~:text=your%20text%20here` to the end of the URL — it’ll auto-scroll and highlight the exact phrase in Chrome or Edge. For example, linking to “climate change” on Wikipedia looks like this: https://en.wikipedia.org/wiki/Climate_change#:~:text=climate%20change.",
+                    "name": "You can create a link that highlights specific text fragment on a page by adding `#:~:text=your%20text%20here` to the end of the URL — it’ll auto-scroll and highlight the exact phrase. For example, linking to “climate change” on Wikipedia looks like this: https://en.wikipedia.org/wiki/Climate_change#:~:text=climate%20change. On iPhone, there’s an even easier method: simply select the text, tap **Share**, choose **Copy Link with Highlight**, and Safari will automatically generate a highlight-enabled URL.",
                     "url": ""
                 },
                 {
@@ -179,7 +179,7 @@
                     "flagged": false,
                     "list": "👨‍💻 Tech Pro Tip",
                     "priority": "None",
-                    "name": "How to View a GIF with animated frames on macOS?",
+                    "name": "How to view a GIF with animated frames on macOS?",
                     "url": ""
                 },
                 {
@@ -224,6 +224,28 @@
                     "list": "👨‍💻 Tech Pro Tip",
                     "priority": "None",
                     "name": "To dictate text on macOS using an external microphone, plug it in and select the mic under **System Settings > Sound > Input**. Then enable **Dictation** under **Keyboard** settings and assign a shortcut key like `Fn` or `Control`. Double-press the shortcut (no need to hold it), wait for the **mic icon**, and start speaking. If the external mic stops working, open **Terminal** and run [`killall corespeechd`](https://www.reddit.com/r/MacOS/comments/1b84wrz/macos_dication_doesnt_work_with_external/) to reset the speech recognition service.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 macOS",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👨‍💻 Tech Pro Tip",
+                    "priority": "None",
+                    "name": "Hold Option (⌥) + click the WiFi icon in the menu bar to see detailed network info like IP address, BSSID, and channel. This trick isn’t limited to WiFi—many apps and system menus reveal hidden features when you hold Option, so try Option-clicking everything to uncover powerful shortcuts.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "💡 macOS",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👨‍💻 Tech Pro Tip",
+                    "priority": "None",
+                    "name": "Type anything into Spotlight and press ⌘B to instantly open it as a web search in your default browser.",
                     "url": ""
                 }
             ],
@@ -347,7 +369,7 @@
                     "flagged": false,
                     "list": "👨‍💻 Tech Pro Tip",
                     "priority": "None",
-                    "name": "When browsing a GitHub repository, simply press the `.` key or replace **`.com` with `.dev`** in the URL to launch the repository in the **[VS Code for the Web](https://code.visualstudio.com/docs/setup/vscode-web)* —a full-featured, browser-based code editor. Example: <https://github.com/user/repo> → <https://github.dev/user/repo>. This is perfect for quick edits, reviews, or exploring code without cloning locally.",
+                    "name": "When browsing a GitHub repository, simply press the `.` key or replace `.com` with `.dev` in the URL to launch the repository in the [VS Code for the Web](https://code.visualstudio.com/docs/setup/vscode-web) —a full-featured, browser-based code editor. Example: <https://github.com/user/repo> → <https://github.dev/user/repo>. This is perfect for quick edits, reviews, or exploring code without cloning locally.",
                     "url": "https://www.reddit.com/r/webdev/comments/y44tp5/you_can_launch_builtin_vscode_directly_from_your"
                 },
                 {
