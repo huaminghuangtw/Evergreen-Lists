@@ -146,6 +146,17 @@
                     "flagged": false,
                     "list": "💪 Home Exercise",
                     "priority": "None",
+                    "name": "[Squat to Stands](https://www.google.com/search?q=Squat+to+Stands)",
+                    "url": "https://www.google.com/search?q=Squat+to+Stands"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🟠 Lower Body",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💪 Home Exercise",
+                    "priority": "None",
                     "name": "[March Steps](https://www.google.com/search?q=March%20Steps)",
                     "url": "https://www.google.com/search?q=March"
                 },
@@ -489,6 +500,17 @@
                     "priority": "None",
                     "name": "[Cossack Squats](https://www.google.com/search?q=Cossack+Squats)",
                     "url": "https://www.google.com/search?q=Cossack+Squats"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🟠 Lower Body",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💪 Home Exercise",
+                    "priority": "None",
+                    "name": "[90/90 Hip Switches](https://www.google.com/search?q=90/90+Hip+Switches)",
+                    "url": "https://www.google.com/search?q=90/90+Hip+Switches"
                 }
             ],
             "flagged": false,
@@ -528,6 +550,17 @@
                     "tags": "",
                     "parent_reminder": "🟠 Core",
                     "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💪 Home Exercise",
+                    "priority": "None",
+                    "name": "[Bear Crawl](https://www.google.com/search?q=Bear+Crawl)",
+                    "url": "https://www.google.com/search?q=Bear+Crawl"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🟠 Core",
+                    "due_date": "",
                     "notes": "= 船式靜止",
                     "flagged": false,
                     "list": "💪 Home Exercise",
@@ -545,6 +578,17 @@
                     "priority": "None",
                     "name": "[Climber Taps](https://www.google.com/search?q=Climber+Taps)",
                     "url": "https://www.google.com/search?q=Climber+Taps"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🟠 Core",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💪 Home Exercise",
+                    "priority": "None",
+                    "name": "[Dead Bugs](https://www.google.com/search?q=Dead+Bugs)",
+                    "url": "https://www.google.com/search?q=Dead+Bugs"
                 },
                 {
                     "tags": "",
@@ -897,6 +941,28 @@
                     "priority": "None",
                     "name": "[Plank Rotations](https://www.google.com/search?q=Plank+Rotations)",
                     "url": "https://www.google.com/search?q=Plank+Rotations"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🟠 Core",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💪 Home Exercise",
+                    "priority": "None",
+                    "name": "[Scissors](https://www.google.com/search?q=Scissors)",
+                    "url": "https://www.google.com/search?q=Scissors"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🟠 Core",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💪 Home Exercise",
+                    "priority": "None",
+                    "name": "[Plank Rolls](https://www.google.com/search?q=Plank+Rolls)",
+                    "url": "https://www.google.com/search?q=Plank+Rolls"
                 }
             ],
             "flagged": false,
@@ -964,6 +1030,17 @@
                     "priority": "None",
                     "name": "[Scorpion Twists](https://www.google.com/search?q=Scorpion+Twists)",
                     "url": "https://www.google.com/search?q=Scorpion+Twists"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🟠 Stretching",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💪 Home Exercise",
+                    "priority": "None",
+                    "name": "[Spiderman Stretch](https://www.google.com/search?q=Spiderman+Stretch)",
+                    "url": "https://www.google.com/search?q=Spiderman+Stretch"
                 }
             ],
             "flagged": false,
