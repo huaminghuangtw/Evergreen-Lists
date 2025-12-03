@@ -855,7 +855,7 @@
         {
             "url": "",
             "due_date": "",
-            "notes": "+ Windows: File Explorer\n+ Apple: Finder",
+            "notes": "",
             "subtasks": [
                 {
                     "tags": "",
@@ -1219,17 +1219,6 @@
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
                     "name": "Cmd + Shift + 5",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "◻️ macOS",
-                    "due_date": "",
-                    "notes": "Log out",
-                    "flagged": false,
-                    "list": "⌨️ Keyboard Hotkey",
-                    "priority": "None",
-                    "name": "Cmd + Shift + Q",
                     "url": ""
                 },
                 {
