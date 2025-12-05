@@ -3,8 +3,8 @@ title: ⌨️ Keyboard Hotkey
 slug: keyboard-hotkey
 description: A compilation of essential keyboard shortcuts to enhance productivity.
 spreadsheetId: 12UxNMk9LmNd8C0iGM_ssMv1ruUt_mJw-mw43bpm-wcE
-modified: 2025-12-02T16:20:14
 created: 2025-04-04T14:24:33
+modified: 2025-12-04T17:06:31
 ---
 
 # [◻️ VS Code](https://code.visualstudio.com/docs/getstarted/keybindings)
@@ -28,7 +28,7 @@ created: 2025-04-04T14:24:33
 | <kbd>Cmd</kbd> + <kbd>Opt</kbd> + <kbd>B</kbd> | Toggle secondary sidebar |
 | <kbd>Cmd</kbd> + <kbd>P</kbd> | Go to file |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>Enter</kbd> | Insert line above |
-| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>L</kbd> | Multi-cursor editing - it selects all matches in the current file to the currently highlighted text. Press "ESC" to disable it. [^1] |
+| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>L</kbd> | Multi-cursor editing - it selects all matches in the current file to the currently highlighted text. Press “ESC” to disable it. [^1] |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> | Open command palette |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd> | Open Search panel |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>E</kbd> | Open the Explorer file tree and reveal the file you’re currently viewing. |
@@ -121,10 +121,10 @@ created: 2025-04-04T14:24:33
 | <kbd>Cmd</kbd> + <kbd>I</kbd> | Open the Info window for the selected item |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>.</kbd> | Reveal hidden files such as ._ (dot underscore) files that are normally invisible |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>G</kbd> | Takes you to a folder that you specify |
-| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd> | Go to "iCloud Drive" in Finder |
-| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>A</kbd> | Go to "Applications" in Finder |
-| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd> | Go to "Documents" in Finder |
-| <kbd>Cmd</kbd> + <kbd>Opt</kbd> + <kbd>L</kbd> | Go to "Downloads" in Finder |
+| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd> | Go to “iCloud Drive” in Finder |
+| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>A</kbd> | Go to “Applications” in Finder |
+| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd> | Go to “Documents” in Finder |
+| <kbd>Cmd</kbd> + <kbd>Opt</kbd> + <kbd>L</kbd> | Go to “Downloads” in Finder |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd> | Create a new folder  |
 | <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>Cmd</kbd> + <kbd>1</kbd> | Sort by name |
 | <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>Cmd</kbd> + <kbd>2</kbd> | Sort by kind |
@@ -168,7 +168,7 @@ created: 2025-04-04T14:24:33
 | - | - |
 | <kbd>Ctrl</kbd> + <kbd>A</kbd> | Jump to the start of the line |
 | <kbd>Ctrl</kbd> + <kbd>E</kbd> | Jump to the end of the line |
-| <kbd>Ctrl</kbd> + <kbd>U</kbd> | Delete everything you've written in Terminal and start over, in case you entered any typos in between |
+| <kbd>Ctrl</kbd> + <kbd>U</kbd> | Delete everything you’ve written in Terminal and start over, in case you entered any typos in between |
 | <kbd>Ctrl</kbd> + <kbd>W</kbd> | Delete a word backwards from the current cursor position |
 | <kbd>Ctrl</kbd> + <kbd>Y</kbd> | Paste text from the kill buffer |
 | <kbd>Opt</kbd> + <kbd>F</kbd> | Jump forward by a word |
@@ -220,7 +220,7 @@ created: 2025-04-04T14:24:33
 
 [^1]: Bonus: Install the “[Multiple Cursor Case Preserve](https://marketplace.visualstudio.com/items?itemName=Cardinal90.multi-cursor-case-preserve)” extension for Visual Studio Code. It ensures that when you’re editing text with multiple cursors, the case formatting—such as camelCase, UPPERCASE, or lowercase—is preserved. This is particularly useful when you need to rename variables or terms consistently without disrupting their original casing.
 [^2]: When editing a reminder (e.g., you’ve clicked into it to change the text), `Cmd` + `Enter` will end editing — it finalizes your changes and exits the editing mode (kind of feels like “selecting” or saving the text).
-[^3]: When not editing (e.g., you're just navigating or viewing reminders), `Cmd` + `Enter` will select all text and enter the editing mode.
+[^3]: When not editing (e.g., you’re just navigating or viewing reminders), `Cmd` + `Enter` will select all text and enter the editing mode.
 [^4]: Note that `Ctrl` + `Tab` might follow **recently used order** depending on browser settings, while `Opt` + `Cmd` + `[Right-Arrow]` always moves tabs in **linear/sequential order**.
 [^5]: Note that `Ctrl` + `Shift ` + `Tab` might follow **recently used order** depending on browser settings, while `Opt` + `Cmd` + `[Left-Arrow]` always moves tabs in **linear/sequential order**.
 [^6]: Note that `Opt` + `Cmd` + `[Right-Arrow]` always moves tabs in **linear/sequential order**, while `Ctrl` + `Tab` might follow **recently used order** depending on browser settings.
