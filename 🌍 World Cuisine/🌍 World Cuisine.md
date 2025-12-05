@@ -3,10 +3,9 @@ title: 🌍 World Cuisine
 slug: world-cuisine
 description: Explore diverse and delicious recipes from around the globe to broaden your culinary horizons.
 spreadsheetId: 1igJQxFOBLpDtvf1wWkuCNi8KVaC10TJnkLGiVMApNEY
-modified: 2025-12-02T16:06:05
-created: 2025-02-25T18:15:40
+created: 2025-12-05T16:32:14
+modified: 2025-12-05T16:38:01
 ---
-
 
 # 🇮🇪 Ireland
 
@@ -47,15 +46,15 @@ created: 2025-02-25T18:15:40
 * [Panettone](https://www.google.com/search?q=Panettone) [^15]
 * [Gnocchi](https://www.google.com/search?q=Gnocchi)
 
-# 🇸🇪 Sweden [^22]
+# 🇸🇪 Sweden [^16]
 
-* [Sill](https://www.google.com/search?q=Sill) [^16]
-* [Köttbullar](https://www.google.com/search?q=K%C3%B6ttbullar) [^17]
-* [Falukorv](https://www.google.com/search?q=Falukorv) [^18]
+* [Sill](https://www.google.com/search?q=Sill) [^17]
+* [Köttbullar](https://www.google.com/search?q=K%C3%B6ttbullar) [^18]
+* [Falukorv](https://www.google.com/search?q=Falukorv) [^19]
 * [Pråstost](https://www.google.com/search?q=Pr%C3%A5stost)
-* [Knäckebröd](https://www.google.com/search?q=Kn%C3%A4ckebr%C3%B6d) [^19]
-* [Kanelbulle](https://www.google.com/search?q=Kanelbulle) [^20]
-* [Smörgåskaviar](https://www.google.com/search?q=Sm%C3%B6rg%C3%A5skaviar) [^21]
+* [Knäckebröd](https://www.google.com/search?q=Kn%C3%A4ckebr%C3%B6d) [^20]
+* [Kanelbulle](https://www.google.com/search?q=Kanelbulle) [^21]
+* [Smörgåskaviar](https://www.google.com/search?q=Sm%C3%B6rg%C3%A5skaviar) [^22]
 
 # 🇬🇷 Greece
 
@@ -128,7 +127,7 @@ created: 2025-02-25T18:15:40
 
 # 🇪🇸 Spain
 
-* [Churro](https://www.google.com/search?q=Churro) [^49] [^51]
+* [Churro](https://www.google.com/search?q=Churro) [^49] [^50]
 
 # 🇬🇧 United Kingdom
 
@@ -153,13 +152,13 @@ created: 2025-02-25T18:15:40
 [^13]: = 奶油甜餡煎餅卷
 [^14]: 形狀: eight-pointed star
 [^15]: 形狀: cylinder
-[^16]: = 鯡魚
-[^17]: = 瑞典肉丸
-[^18]: = 法倫香腸
-[^19]: = 硬麵包
-[^20]: = 肉桂捲
-[^21]: = 魚子醬抹醬
-[^22]: 奶品之國
+[^16]: 奶品之國
+[^17]: = 鯡魚
+[^18]: = 瑞典肉丸
+[^19]: = 法倫香腸
+[^20]: = 硬麵包
+[^21]: = 肉桂捲
+[^22]: = 魚子醬抹醬
 [^23]: = 希臘旋轉烤肉
 [^24]: = 希臘烤肉串
 [^25]: 使用麵粉
@@ -187,5 +186,4 @@ created: 2025-02-25T18:15:40
 [^47]: 印度什香粉：一種由多種香料混合起來的綜合調味料
 [^48]: = 俄式燴牛肉
 [^49]: = 吉拿棒
-[^50]: [How churros are made in a traditional churería](https://www.reddit.com/r/educationalgifs/s/6VAdLlscOx) 
-[^51]: 
+[^50]: [This is how churros are made in a traditional churería](https://www.reddit.com/r/educationalgifs/s/6VAdLlscOx)
