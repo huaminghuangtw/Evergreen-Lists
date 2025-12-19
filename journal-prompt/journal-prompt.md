@@ -1,10 +1,9 @@
 ---
 title: 💭 Journal Prompt
-slug: journal-prompt
 description: Thought-provoking questions to inspire self-reflection.
 spreadsheetId: 1RI3C2N7-LaWG1pZC6xMVvS08OJJQp92qJhLaPSXNzQ0
 created: 2024-11-18T18:07:14
-modified: 2025-12-05T15:03:42
+modified: 2025-12-19T16:42:30
 ---
 
 # 🤔 On “Today”

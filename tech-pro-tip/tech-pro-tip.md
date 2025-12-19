@@ -1,10 +1,9 @@
 ---
 title: 👨‍💻 Tech Pro Tip
-slug: tech-pro-tip
 description: Expert tips to streamline workflows and troubleshoot issues in tech.
 spreadsheetId: 1o3HcHxZKbOK178Zswo7Xp4MNM7AgrA6_xaZMEhrdFYM
 created: 2024-11-18T17:58:47
-modified: 2025-12-05T15:17:53
+modified: 2025-12-19T16:42:49
 ---
 
 # 💡 Miscellaneous

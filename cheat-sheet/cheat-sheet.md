@@ -1,10 +1,9 @@
 ---
 title: 📋 Cheat Sheet
-slug: cheat-sheet
 description: Handy reference to quickly access terminal commands that I frequently use.
 spreadsheetId: 1X9zuCMb30DiQba5VNjT-HDwwomA9u0Z-trmuqVmykYY
 created: 2024-11-18T17:53:47
-modified: 2025-12-05T17:07:13
+modified: 2025-12-19T16:42:09
 ---
 
 # ◻️ Git
