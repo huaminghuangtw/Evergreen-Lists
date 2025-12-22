@@ -3,7 +3,7 @@ title: 💭 Journal Prompt
 description: Thought-provoking questions to inspire self-reflection.
 spreadsheetId: 1RI3C2N7-LaWG1pZC6xMVvS08OJJQp92qJhLaPSXNzQ0
 created: 2024-11-18T18:07:14
-modified: 2025-12-19T16:42:30
+modified: 2025-12-21T15:01:26
 ---
 
 # 🤔 On “Today”
@@ -402,7 +402,7 @@ modified: 2025-12-19T16:42:30
 [^10]: On your journey through life, make sure your biography has at least one extraordinary chapter.
 [^11]: “Ask how something can be done rather than say it can’t be done.” — Bo Bennett
 [^12]: “When someone tells me ‘no,’ it doesn’t mean I can’t do it, it simply means I can’t do it with them.” — Karen E. Quinones Miller
-[^13]: [“The purpose of life is to discover your gift. The work of life is to develop it. The meaning of life is to give your gift away.” ― David Viscott](https://www.goodreads.com/quotes/7407260-the-purpose-of-life-is-to-discover-your-gift-the)
+[^13]: [“The purpose of life is to discover your gift. The work of life is to develop it. The meaning of life is to give your gift away.” — David Viscott](https://www.goodreads.com/quotes/7407260-the-purpose-of-life-is-to-discover-your-gift-the)
 [^14]: “To each, there comes in their lifetime a special moment when they are figuratively tapped on the shoulder and offered the chance to do a very special thing. What a tragedy if that moment finds them unprepared.” — Winston Churchill
 [^15]: Remember: it’s not my responsibility to change the narrative that other people have about me.
 [^16]: Thought-provoking, open-ended deep questions designed to spark meaningful conversations, invite authentic connections, and build stronger bonds.
