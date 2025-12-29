@@ -3,7 +3,7 @@ title: 👑 Life Pro Tip
 description: Practical tricks to improve everyday life.
 spreadsheetId: 13QwPCE33ehjr6fjraQgAQZHvTr_Aux0wKNOHAk4OcHo
 created: 2025-12-05T15:00:12
-modified: 2025-12-19T16:42:38
+modified: 2025-12-28T18:44:10
 ---
 
 # 💡 On “Life Wisdom/Lesson”
@@ -102,10 +102,10 @@ modified: 2025-12-19T16:42:38
 * Don’t look at your medical test reports before the doctor has a chance to explain them to you. Additionally, never ask the doctor what you should do. Instead, ask him what he would do if he were in your place. You would be surprised at the difference.
 * Regularly open windows to remove CO2 and exchange for fresh air
 * Invest in the things (1) you use for a significant portion of your life (2) between you and the Earth. These possessions are worth the investment. You will thank yourself later.
-	1. bed – you spend a third of your life sleeping
-	2. bedding – mattress, pillow, blanket, etc.
-	3. soft-soled walking/running shoes, boots – your feet carry you everywhere
-	4. tires – they’re the only contact between your vehicle and the road
+	1. bed — you spend a third of your life sleeping
+	2. bedding — mattress, pillow, blanket, etc.
+	3. soft-soled walking/running shoes, boots — your feet carry you everywhere
+	4. tires — they’re the only contact between your vehicle and the road
 * 去麥當勞點餐時，和店員說要「不加鹽」的薯條，就可以得到熱騰騰、剛出爐的新鮮現炸薯條
 * How to correctly use the 3 compartments in a washing machine tray/drawer?
 	1. Slot I is for the pre-wash cycle followed by a main wash cycle if you have it on, but remember to fill Slot II every time as well
