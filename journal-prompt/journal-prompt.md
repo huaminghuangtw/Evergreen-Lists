@@ -3,7 +3,7 @@ title: 💭 Journal Prompt
 description: Thought-provoking questions to inspire self-reflection.
 spreadsheetId: 1RI3C2N7-LaWG1pZC6xMVvS08OJJQp92qJhLaPSXNzQ0
 created: 2024-11-18T18:07:14
-modified: 2025-12-21T15:01:26
+modified: 2026-01-25T16:14:19
 ---
 
 # 🤔 On “Today”
@@ -99,7 +99,7 @@ modified: 2025-12-21T15:01:26
 * Where am I allowing my self-protection to become self-rejection? [^6]
 * What is holding me back from living my best life?
 * What am I working on and why? Does it support my future-self?
-* What might I do to accomplish my 10-year goals in the next 6 months, if I had a gun against my head?
+* What might I do to accomplish my 10-year goals in the next 6 months, if I had a gun against my head?
 * Where would I most like to live?
 * How is my behavior and lack of presence contributing negatively to the situation that I don’t want?
 * Imagine my life as a novel. What title would I give to the current chapter? If I am going to look back on this chapter after reading the entire novel, what actions would have made this chapter a key inflection point in my life journey?
