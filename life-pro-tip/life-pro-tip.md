@@ -3,7 +3,7 @@ title: 👑 Life Pro Tip
 description: Practical tricks to improve everyday life.
 spreadsheetId: 13QwPCE33ehjr6fjraQgAQZHvTr_Aux0wKNOHAk4OcHo
 created: 2025-12-05T15:00:12
-modified: 2025-12-28T18:44:10
+modified: 2026-01-25T16:14:19
 ---
 
 # 💡 On “Life Wisdom/Lesson”
@@ -68,7 +68,7 @@ modified: 2025-12-28T18:44:10
 	3. Put the keys on your shoes or under whatever you need to take with you leaving home
 	4. Trick/Train yourself into not locking the door with the knob, but only with the keys
 * 衣物車縫處脫線 → 打火機轉小火，點脫線處，弄熄，線頭就燒成小黑球 (= 打結)
-* How to make a Post-it® note (N 次貼) lie flawlessly against a surface, without a giant air bubble? Instead of peeling sticky notes from the corner, rip sticky notes _from the side, right below where the sticky part ends._ Or: [pull flat and straight *from the bottom up.*](https://sketchplanations.com/peel-a-post-it)
+* How to make a Post-it® note (N 次貼) lie flawlessly against a surface, without a giant air bubble? Instead of peeling sticky notes from the corner, rip sticky notes _from the side, right below where the sticky part ends._ Or: [pull flat and straight *from the bottom up.*](https://sketchplanations.com/peel-a-post-it)
 * 讓下次可以快速取用膠帶的方法: (1) 摺一角 (2) 黏在桌邊
 * Disable auto-play feature on Netflix, YouTube, etc. to prevent binge-watching
 * 牙膏、洗面乳等用罄時，使用剪刀將軟管瓶身剪開，將可以再多使用 3-5 次！
@@ -295,7 +295,7 @@ modified: 2025-12-28T18:44:10
 	2. 單位面積價格較便宜
 	3. 較傳統痘痘貼厚，效果更好
 * How to deal with Sweaty/Stinky Feet?
-	1. Choose the right socks: Smartwool® Merino wool socks
+	1. Choose the right socks: Smartwool® Merino wool socks
 	2. Avoid wearing the same pair of socks/shoes on 2 consecutive days. Air out your shoes outside.
 	3. Wash your feet at least once, if not twice, a day, using antibacterial soaps. → Dry the feet thoroughly, especially in between the toes. → (1) Apply a light dusting of anti-fungal foot powder/cornstarch/baby powder before slipping on cotton socks and breathable shoes. (2) Use antiperspirant (止汗劑) after showering in the evening (better than in the morning). Repeat this for another 3 or 4 consecutive nights and then switch to using it once or twice a week.
 	4. Soak your feet: add a few drops of an antibacterial solution (like sodium hypochloride, aka chlorox 次氯酸鈉/漂白水, or white vinegar) to a bucket/basin of warm water (+ epsom salt + tea tree/eucalyptus oil) → Pro Tip: do this while watching TV.
@@ -366,7 +366,7 @@ modified: 2025-12-28T18:44:10
 * Whenever you think something nice about someone, let them know IMMEDIATELY. → Find the best in others. Compliment people more (on less obvious things).
 	* Many people have trouble thinking of themselves as smart, or pretty, or kind, unless told by someone else. You can help them out and make someone’s day.
 	* Start with “[NAME], I’m super grateful for you, you know why?” And then throws them the most sincere, genuine compliment.
-* Say no quickly as a way of kindness: If you have/want to say no to something, do it immediately. That gives the asker maximum time to find alternatives. A short, polite, timely rejection is much more valuable than a delayed, in-depth rejection.
+* Say no quickly as a way of kindness: If you have/want to say no to something, do it immediately. That gives the asker maximum time to find alternatives. A short, polite, timely rejection is much more valuable than a delayed, in-depth rejection.
 * [It takes extreme strength and courage to be a consistently kind person in a world that rewards selfishness. Make sure to thank people who demonstrate kindness. They are choosing the hard, selfless route in order to make the world a better place for everyone.](https://www.reddit.com/r/LifeProTips/comments/1107h0s/lpt_it_takes_extreme_strength_and_courage_to_be_a)
 
 [^1]: 例外: 砧板、菜瓜布、毛/浴巾、眼罩、枕頭套
