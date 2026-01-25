@@ -3,7 +3,7 @@ title: 🌍 World Cuisine
 description: Explore diverse and delicious recipes from around the globe to broaden your culinary horizons.
 spreadsheetId: 1igJQxFOBLpDtvf1wWkuCNi8KVaC10TJnkLGiVMApNEY
 created: 2025-12-05T16:32:14
-modified: 2025-12-19T16:42:58
+modified: 2026-01-25T16:14:19
 ---
 
 # 🇮🇪 Ireland
@@ -27,7 +27,7 @@ modified: 2025-12-19T16:42:58
 * [Palmier](https://www.google.com/search?q=Palmier) [^9]
 * [Croque Monsieur](https://www.google.com/search?q=Croque+Monsieur) [^10]
 
-# 🇳🇱 Netherlands
+# 🇳🇱 Netherlands
 
 * [Stroopwafels](https://www.google.com/search?q=Stroopwafels) [^11]
 
@@ -60,7 +60,7 @@ modified: 2025-12-19T16:42:58
 * [Gyros](https://www.google.com/search?q=Gyros) [^23]
 * [Souvlaki](https://www.google.com/search?q=Souvlaki) [^24]
 
-# 🇲🇽 Mexico
+# 🇲🇽 Mexico
 
 * [Burrito](https://www.google.com/search?q=Burrito) [^25]
 * [Taco](https://www.google.com/search?q=Taco) [^26]
@@ -78,7 +78,7 @@ modified: 2025-12-19T16:42:58
 * [Pogača](https://www.google.com/search?q=Poga%C4%8Da)
 * [Döner-Kebap](https://www.google.com/search?q=D%C3%B6ner-Kebap) [^36]
 
-# 🇭🇺 Hungary
+# 🇭🇺 Hungary
 
 * [Kürtőskalács](https://www.google.com/search?q=K%C3%BCrt%C5%91skal%C3%A1cs) [^37]
 
@@ -97,7 +97,7 @@ modified: 2025-12-19T16:42:58
 * [Chả Giò or Nem Rán](https://www.google.com/search?q=Ch%E1%BA%A3+Gi%C3%B2+or+Nem+R%C3%A1n) [^40]
 * [Phở](https://www.google.com/search?q=Ph%E1%BB%9F) [^41] [^42]
 
-# 🇯🇵 Japan
+# 🇯🇵 Japan
 
 * [Yakisoba](https://www.google.com/search?q=Yakisoba)
 * [Kaeshi](https://www.google.com/search?q=Kaeshi)
@@ -107,16 +107,16 @@ modified: 2025-12-19T16:42:58
 
 * [Raclette](https://www.google.com/search?q=Raclette)
 
-# 🇮🇳 India
+# 🇮🇳 India
 
 * [Chapati](https://www.google.com/search?q=Chapati) [^44]
 * [Naan](https://www.google.com/search?q=Naan) [^45]
 * [Kaju Katli](https://www.google.com/search?q=Kaju+Katli) [^46]
 * [Mango Lassi](https://www.google.com/search?q=Mango+Lassi)
 * [Masala Chia](https://www.google.com/search?q=Masala+Chia)
-* [Garam Masala](https://www.google.com/search?q=Garam%C2%A0Masala) [^47]
+* [Garam Masala](https://www.google.com/search?q=Garam%C2%A0Masala) [^47]
 
-# 🇧🇷 Brazil
+# 🇧🇷 Brazil
 
 * [Churrasco](https://www.google.com/search?q=Churrasco)
 
