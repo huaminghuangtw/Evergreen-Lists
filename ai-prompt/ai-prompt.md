@@ -1,9 +1,9 @@
 ---
-title: 🤖 AI Prompt
+title: 🤖 AI Prompt
 description: A collection of prompts to make the most out of ChatGPT.
 spreadsheetId: 1Yn74btdx_xiNtpFiO8bWJwJ_6ud5T0xQhXtoIeTlr8o
 created: 2024-11-18T17:59:34
-modified: 2025-12-19T16:41:58
+modified: 2026-01-25T16:14:19
 ---
 
 # ◻️ Learning & Education
