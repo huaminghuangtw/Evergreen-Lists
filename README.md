@@ -32,7 +32,7 @@ Inspired by the concepts of [incremental learning](https://www.google.com/search
 
 ### Obsidian Callout
 
-On desktop, I made an [Obsidian Callout](https://help.obsidian.md/callouts) with the [Dataview](https://github.com/blacksmithgu/obsidian-dataview) plugin. It shows a random item from the [evergreen lists](https://huami.ng/lists). For details, see the [full code snippet](https://github.com/huaminghuangtw/Second-Brain/blob/main/Homepage.md#-evergreen-lists).
+On desktop, I made an [Obsidian Callout](https://help.obsidian.md/callouts) with the [Dataview](https://github.com/blacksmithgu/obsidian-dataview) plugin. It shows a random item from the [evergreen lists](https://huami.ng/lists). For details, see the [full code snippet](https://github.com/huaminghuangtw/Second-Brain/blob/main/Homepage.md).
 
 <p align="center">
 <a href="assets/callout.png">
