@@ -3,7 +3,7 @@ title: 📋 Cheat Sheet
 description: Handy reference to quickly access terminal commands that I frequently use.
 spreadsheetId: 1X9zuCMb30DiQba5VNjT-HDwwomA9u0Z-trmuqVmykYY
 created: 2024-11-18T17:53:47
-modified: 2025-12-19T16:42:09
+modified: 2026-02-21T08:28:22
 ---
 
 # ◻️ Git
@@ -95,14 +95,12 @@ modified: 2025-12-19T16:42:09
 
 	```bash
 	nmcli dev wifi connect SSID password PASSWORD
-
 	```
 
 * Display a list of all saved network connections on the system
 
 	```bash
 	nmcli con show
-
 	```
 
 * List all available Wi-Fi networks detected by the system
@@ -116,5 +114,4 @@ modified: 2025-12-19T16:42:09
 
 	```bash
 	nmcli dev status
-
 	```
