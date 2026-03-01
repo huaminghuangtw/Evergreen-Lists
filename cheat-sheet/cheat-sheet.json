@@ -7,7 +7,7 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Git",
+                    "parent_reminder": "Git",
                     "due_date": "",
                     "notes": "Drop all stashed at once",
                     "flagged": false,
@@ -18,7 +18,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Git",
+                    "parent_reminder": "Git",
                     "due_date": "",
                     "notes": "Show the _files_ in the most recent stash",
                     "flagged": false,
@@ -29,7 +29,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Git",
+                    "parent_reminder": "Git",
                     "due_date": "",
                     "notes": "Drop the most recent stash",
                     "flagged": false,
@@ -40,7 +40,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Git",
+                    "parent_reminder": "Git",
                     "due_date": "",
                     "notes": "List all stashes",
                     "flagged": false,
@@ -51,7 +51,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Git",
+                    "parent_reminder": "Git",
                     "due_date": "",
                     "notes": "Show the _changes_ of the most recent stash",
                     "flagged": false,
@@ -65,7 +65,7 @@
             "list": "📋 Cheat Sheet",
             "priority": "None",
             "tags": "",
-            "name": "◻️ Git"
+            "name": "Git"
         },
         {
             "url": "",
@@ -74,7 +74,7 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Raspberry Pi",
+                    "parent_reminder": "Raspberry Pi",
                     "due_date": "",
                     "notes": "Show IP address",
                     "flagged": false,
@@ -85,7 +85,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Raspberry Pi",
+                    "parent_reminder": "Raspberry Pi",
                     "due_date": "",
                     "notes": "Sync system clock",
                     "flagged": false,
@@ -96,7 +96,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Raspberry Pi",
+                    "parent_reminder": "Raspberry Pi",
                     "due_date": "",
                     "notes": "Check voltage",
                     "flagged": false,
@@ -110,7 +110,7 @@
             "list": "📋 Cheat Sheet",
             "priority": "None",
             "tags": "",
-            "name": "◻️ Raspberry Pi"
+            "name": "Raspberry Pi"
         },
         {
             "url": "",
@@ -119,7 +119,7 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ SSH",
+                    "parent_reminder": "SSH",
                     "due_date": "",
                     "notes": "Print the public SSH key, which can be used for authentication on remote servers",
                     "flagged": false,
@@ -130,7 +130,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ SSH",
+                    "parent_reminder": "SSH",
                     "due_date": "",
                     "notes": "Validate SSH",
                     "flagged": false,
@@ -141,7 +141,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ SSH",
+                    "parent_reminder": "SSH",
                     "due_date": "",
                     "notes": "Generate SSH key",
                     "flagged": false,
@@ -155,7 +155,7 @@
             "list": "📋 Cheat Sheet",
             "priority": "None",
             "tags": "",
-            "name": "◻️ SSH"
+            "name": "SSH"
         },
         {
             "url": "",
@@ -164,7 +164,7 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Network Manager",
+                    "parent_reminder": "Network Manager",
                     "due_date": "",
                     "notes": "Connect to a WiFi network",
                     "flagged": false,
@@ -175,7 +175,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Network Manager",
+                    "parent_reminder": "Network Manager",
                     "due_date": "",
                     "notes": "Display a list of all saved network connections on the system",
                     "flagged": false,
@@ -186,7 +186,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Network Manager",
+                    "parent_reminder": "Network Manager",
                     "due_date": "",
                     "notes": "List all available Wi-Fi networks detected by the system",
                     "flagged": false,
@@ -197,7 +197,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Network Manager",
+                    "parent_reminder": "Network Manager",
                     "due_date": "",
                     "notes": "Show the status of all network interfaces, including their connection states",
                     "flagged": false,
@@ -211,7 +211,7 @@
             "list": "📋 Cheat Sheet",
             "priority": "None",
             "tags": "",
-            "name": "◻️ Network Manager"
+            "name": "Network Manager"
         }
     ]
 }

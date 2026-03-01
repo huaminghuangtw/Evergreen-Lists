@@ -7,7 +7,7 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "💁‍♂️ Keyboard hotkeys (macOS)",
+                    "parent_reminder": "Keyboard hotkeys (macOS)",
                     "due_date": "",
                     "notes": "Move action up/down",
                     "flagged": false,
@@ -18,7 +18,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💁‍♂️ Keyboard hotkeys (macOS)",
+                    "parent_reminder": "Keyboard hotkeys (macOS)",
                     "due_date": "",
                     "notes": "Duplicate a shortcut",
                     "flagged": false,
@@ -29,7 +29,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💁‍♂️ Keyboard hotkeys (macOS)",
+                    "parent_reminder": "Keyboard hotkeys (macOS)",
                     "due_date": "",
                     "notes": "Delete a shortcut",
                     "flagged": false,
@@ -40,7 +40,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💁‍♂️ Keyboard hotkeys (macOS)",
+                    "parent_reminder": "Keyboard hotkeys (macOS)",
                     "due_date": "",
                     "notes": "Create new shortcut",
                     "flagged": false,
@@ -51,7 +51,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💁‍♂️ Keyboard hotkeys (macOS)",
+                    "parent_reminder": "Keyboard hotkeys (macOS)",
                     "due_date": "",
                     "notes": "Run a Shortcut",
                     "flagged": false,
@@ -62,7 +62,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💁‍♂️ Keyboard hotkeys (macOS)",
+                    "parent_reminder": "Keyboard hotkeys (macOS)",
                     "due_date": "",
                     "notes": "Add action: \"Ask for Input\"",
                     "flagged": false,
@@ -73,7 +73,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💁‍♂️ Keyboard hotkeys (macOS)",
+                    "parent_reminder": "Keyboard hotkeys (macOS)",
                     "due_date": "",
                     "notes": "Add action: \"Comment\"",
                     "flagged": false,
@@ -84,7 +84,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💁‍♂️ Keyboard hotkeys (macOS)",
+                    "parent_reminder": "Keyboard hotkeys (macOS)",
                     "due_date": "",
                     "notes": "Add action: \"If-Otherwise-End If\"",
                     "flagged": false,
@@ -95,7 +95,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💁‍♂️ Keyboard hotkeys (macOS)",
+                    "parent_reminder": "Keyboard hotkeys (macOS)",
                     "due_date": "",
                     "notes": "Add action: \"Repeat\"",
                     "flagged": false,
@@ -106,7 +106,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💁‍♂️ Keyboard hotkeys (macOS)",
+                    "parent_reminder": "Keyboard hotkeys (macOS)",
                     "due_date": "",
                     "notes": "Add action: \"Show Result\"",
                     "flagged": false,
@@ -120,7 +120,7 @@
             "list": "📱 Shortcuts Dev Tip",
             "priority": "None",
             "tags": "",
-            "name": "💁‍♂️ Keyboard hotkeys (macOS)"
+            "name": "Keyboard hotkeys (macOS)"
         },
         {
             "url": "",
@@ -129,7 +129,7 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "💁‍♂️ Tips & tricks to minimize # of actions used",
+                    "parent_reminder": "Tips & tricks to minimize # of actions used",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -140,7 +140,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💁‍♂️ Tips & tricks to minimize # of actions used",
+                    "parent_reminder": "Tips & tricks to minimize # of actions used",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -151,7 +151,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💁‍♂️ Tips & tricks to minimize # of actions used",
+                    "parent_reminder": "Tips & tricks to minimize # of actions used",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -165,7 +165,7 @@
             "list": "📱 Shortcuts Dev Tip",
             "priority": "None",
             "tags": "",
-            "name": "💁‍♂️ Tips & tricks to minimize # of actions used"
+            "name": "Tips & tricks to minimize # of actions used"
         },
         {
             "url": "",
@@ -174,7 +174,7 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "💁‍♂️ Things I wished I'd known earlier",
+                    "parent_reminder": "Things I wished I'd known earlier",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -185,7 +185,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💁‍♂️ Things I wished I'd known earlier",
+                    "parent_reminder": "Things I wished I'd known earlier",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -199,7 +199,7 @@
             "list": "📱 Shortcuts Dev Tip",
             "priority": "None",
             "tags": "",
-            "name": "💁‍♂️ Things I wished I'd known earlier"
+            "name": "Things I wished I'd known earlier"
         },
         {
             "url": "",
@@ -208,9 +208,9 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "💁‍♂️ Good practices",
+                    "parent_reminder": "Good practices",
                     "due_date": "",
-                    "notes": "+ **Why It’s a Good Practice:**\n    + ✅ Prevents Unwanted Execution: Ensures that no additional actions run accidentally, especially if the shortcut is triggered by another shortcut or automation.\n    + ✅ Improves Debugging: Clearly marks the endpoint, making it easier to understand where execution stops.\n    + ✅ Avoids Redundant Processing: If a shortcut continues running unnecessarily, it can consume resources or cause unexpected behavior.\n+ **When You Might Skip It:**\n    + 🚫 If a “Stop and Output” Action Exists: This already terminates the shortcut and returns a value, so an additional stop action isn’t needed.\n    + 🚫 For Simple Shortcuts: If your shortcut only has a few actions and no branching logic, it may not be necessary.\n+ In general, if your shortcut has multiple conditions, loops, or external triggers, adding “Stop This Shortcut” at the end is a good habit.",
+                    "notes": "+ **Why It’s a Good Practice:**\n    + Prevents Unwanted Execution: Ensures that no additional actions run accidentally, especially if the shortcut is triggered by another shortcut or automation.\n    + Improves Debugging: Clearly marks the endpoint, making it easier to understand where execution stops.\n    + Avoids Redundant Processing: If a shortcut continues running unnecessarily, it can consume resources or cause unexpected behavior.\n+ **When You Might Skip It:**\n    + If a “Stop and Output” Action Exists: This already terminates the shortcut and returns a value, so an additional stop action isn’t needed.\n    + For Simple Shortcuts: If your shortcut only has a few actions and no branching logic, it may not be necessary.\n+ In general, if your shortcut has multiple conditions, loops, or external triggers, adding “Stop This Shortcut” at the end is a good habit.",
                     "flagged": false,
                     "list": "📱 Shortcuts Dev Tip",
                     "priority": "None",
@@ -222,7 +222,7 @@
             "list": "📱 Shortcuts Dev Tip",
             "priority": "None",
             "tags": "",
-            "name": "💁‍♂️ Good practices"
+            "name": "Good practices"
         },
         {
             "url": "",
@@ -231,7 +231,7 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "💁‍♂️ Testing",
+                    "parent_reminder": "Testing",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -245,7 +245,7 @@
             "list": "📱 Shortcuts Dev Tip",
             "priority": "None",
             "tags": "",
-            "name": "💁‍♂️ Testing"
+            "name": "Testing"
         },
         {
             "url": "",
@@ -254,7 +254,7 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "💁‍♂️ Applications",
+                    "parent_reminder": "Applications",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -268,7 +268,7 @@
             "list": "📱 Shortcuts Dev Tip",
             "priority": "None",
             "tags": "",
-            "name": "💁‍♂️ Applications"
+            "name": "Applications"
         }
     ]
 }

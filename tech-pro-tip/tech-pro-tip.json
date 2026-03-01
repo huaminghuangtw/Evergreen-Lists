@@ -7,9 +7,9 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "💡 Miscellaneous",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
-                    "notes": "+ Method I: The easiest way to bypass paywalls is to just disable JavaScript for the site.\n    - Steps\n        1. Disable JavaScript (Or even better: Have a dedicated browser with JavaScript always disabled)\n        2. Reload the page\n        3. Read the article\n        4. Re-enable JavaScript\n+ Method II: Toggle Reader View\n+ Method III: Use tools like https://12ft.io or https://removepaywalls.com",
+                    "notes": "+ Method I: The easiest way to bypass paywalls is to just disable JavaScript for the site.\n  + Step 1: Disable JavaScript (Or even better: Have a dedicated browser with JavaScript always disabled)\n  + Step 2: Reload the page\n  + Step 3: Read the article\n  + Step 4: Re-enable JavaScript\n+ Method II: Toggle Reader View\n+ Method III: Use tools like https://12ft.io or https://removepaywalls.com",
                     "flagged": false,
                     "list": "👨‍💻 Tech Pro Tip",
                     "priority": "None",
@@ -18,7 +18,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💡 Miscellaneous",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -29,7 +29,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💡 Miscellaneous",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -40,7 +40,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💡 Miscellaneous",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -51,7 +51,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💡 Miscellaneous",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -62,18 +62,18 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💡 Miscellaneous",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
                     "list": "👨‍💻 Tech Pro Tip",
                     "priority": "None",
-                    "name": "Apple Maps nearly for navigation. Google Maps for business overview.",
+                    "name": "Apple Maps for navigation. Google Maps for business overview.",
                     "url": ""
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💡 Miscellaneous",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -87,7 +87,7 @@
             "list": "👨‍💻 Tech Pro Tip",
             "priority": "None",
             "tags": "",
-            "name": "💡 Miscellaneous"
+            "name": "Miscellaneous"
         },
         {
             "url": "",
@@ -96,7 +96,7 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "💡 macOS",
+                    "parent_reminder": "macOS",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -107,7 +107,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💡 macOS",
+                    "parent_reminder": "macOS",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -118,7 +118,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💡 macOS",
+                    "parent_reminder": "macOS",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -129,7 +129,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💡 macOS",
+                    "parent_reminder": "macOS",
                     "due_date": "",
                     "notes": "+ Method 1: `Cmd`+`2` (List View) → Shift click for your selection → `Cmd`+`1` (Icon View)\n+ Method 2: Drag a rectangle around files",
                     "flagged": false,
@@ -140,7 +140,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💡 macOS",
+                    "parent_reminder": "macOS",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -151,7 +151,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💡 macOS",
+                    "parent_reminder": "macOS",
                     "due_date": "",
                     "notes": "+ Method 1: First `Cmd` + `C`, then `Opt` + `Cmd` + `V` → will paste the file and remove it from original location\n+ Method 2: Install Sindre Sorhus's [Command X](https://sindresorhus.com/command-x) app for more intuitive keyboard shortcuts",
                     "flagged": false,
@@ -162,7 +162,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💡 macOS",
+                    "parent_reminder": "macOS",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -173,7 +173,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💡 macOS",
+                    "parent_reminder": "macOS",
                     "due_date": "",
                     "notes": "1. Open Finder and locate the GIF file.\n2. Select the GIF (without opening it) and press `Spacebar` to preview it.\n3. Alternatively, press `Cmd` + `Y` to open Quick Look.\n4. You can only preview one GIF at a time, but you can use `Tab` to cycle through files.\n5. Press `ESC` to close the preview.",
                     "flagged": false,
@@ -184,7 +184,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💡 macOS",
+                    "parent_reminder": "macOS",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -195,7 +195,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💡 macOS",
+                    "parent_reminder": "macOS",
                     "due_date": "",
                     "notes": "Alternatively, if you’re using Microsoft Edge, you can press `F9` to open **Immersive Reader** for a cleaner reading view (press `F9` again to exit it), then press `Cmd` + `Shift` + `U` to activate **Read Aloud**. It works well on most webpages and supports multiple voices and adjustable reading speeds.",
                     "flagged": false,
@@ -206,7 +206,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💡 macOS",
+                    "parent_reminder": "macOS",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -217,7 +217,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💡 macOS",
+                    "parent_reminder": "macOS",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -228,7 +228,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💡 macOS",
+                    "parent_reminder": "macOS",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -239,7 +239,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💡 macOS",
+                    "parent_reminder": "macOS",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -253,7 +253,7 @@
             "list": "👨‍💻 Tech Pro Tip",
             "priority": "None",
             "tags": "",
-            "name": "💡 macOS"
+            "name": "macOS"
         },
         {
             "url": "",
@@ -262,7 +262,7 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "💡 iOS",
+                    "parent_reminder": "iOS",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -273,7 +273,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💡 iOS",
+                    "parent_reminder": "iOS",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -284,9 +284,9 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💡 iOS",
+                    "parent_reminder": "iOS",
                     "due_date": "",
-                    "notes": "1. **Keep battery between 20–80%**  \n   Charge once daily (~1 hr) when below 20%, instead of multiple short charges.\n2. **Avoid overnight charging**  \n   Unless *Optimized Battery Charging* is enabled (default on most modern phones).\n3. **Use certified chargers**  \n   Stick to original or **MFi-certified** accessories to protect your device.",
+                    "notes": "1. **Keep battery between 20–80%**\n  Charge once daily (~1 hr) when below 20%, instead of multiple short charges.\n2. **Avoid overnight charging**\n  Unless *Optimized Battery Charging* is enabled (default on most modern phones).\n3. **Use certified chargers**\n  Stick to original or **MFi-certified** accessories to protect your device.",
                     "flagged": false,
                     "list": "👨‍💻 Tech Pro Tip",
                     "priority": "None",
@@ -295,7 +295,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💡 iOS",
+                    "parent_reminder": "iOS",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -306,7 +306,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💡 iOS",
+                    "parent_reminder": "iOS",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -320,7 +320,7 @@
             "list": "👨‍💻 Tech Pro Tip",
             "priority": "None",
             "tags": "",
-            "name": "💡 iOS"
+            "name": "iOS"
         },
         {
             "url": "",
@@ -329,7 +329,7 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "💡 Apple Ecosystem",
+                    "parent_reminder": "Apple Ecosystem",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -340,7 +340,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💡 Apple Ecosystem",
+                    "parent_reminder": "Apple Ecosystem",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -354,7 +354,7 @@
             "list": "👨‍💻 Tech Pro Tip",
             "priority": "None",
             "tags": "",
-            "name": "💡 Apple Ecosystem"
+            "name": "Apple Ecosystem"
         },
         {
             "url": "",
@@ -363,7 +363,7 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "💡Developer Productivity",
+                    "parent_reminder": "Developer Productivity",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -374,7 +374,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "💡Developer Productivity",
+                    "parent_reminder": "Developer Productivity",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -388,7 +388,7 @@
             "list": "👨‍💻 Tech Pro Tip",
             "priority": "None",
             "tags": "",
-            "name": "💡Developer Productivity"
+            "name": "Developer Productivity"
         }
     ]
 }

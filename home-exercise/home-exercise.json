@@ -7,7 +7,7 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Upper Body",
+                    "parent_reminder": "Upper Body",
                     "due_date": "",
                     "notes": "= 肩胛骨推舉",
                     "flagged": false,
@@ -18,7 +18,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Upper Body",
+                    "parent_reminder": "Upper Body",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -29,7 +29,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Upper Body",
+                    "parent_reminder": "Upper Body",
                     "due_date": "",
                     "notes": "= 交互式肱三頭肌伸展",
                     "flagged": false,
@@ -40,7 +40,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Upper Body",
+                    "parent_reminder": "Upper Body",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -51,7 +51,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Upper Body",
+                    "parent_reminder": "Upper Body",
                     "due_date": "",
                     "notes": "= 飛機式伏地挺身",
                     "flagged": false,
@@ -62,7 +62,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Upper Body",
+                    "parent_reminder": "Upper Body",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -73,7 +73,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Upper Body",
+                    "parent_reminder": "Upper Body",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -84,7 +84,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Upper Body",
+                    "parent_reminder": "Upper Body",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -95,7 +95,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Upper Body",
+                    "parent_reminder": "Upper Body",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -106,7 +106,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Upper Body",
+                    "parent_reminder": "Upper Body",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -114,13 +114,24 @@
                     "priority": "None",
                     "name": "[Push-Up Shoulder Tap](https://www.google.com/search?q=Push-Up+Shoulder+Tap)",
                     "url": "https://www.google.com/search?q=Push-Up+Shoulder+Tap"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Upper Body",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💪 Home Exercise",
+                    "priority": "None",
+                    "name": "[Dragon Push-Ups](https://www.google.com/search?q=Dragon+Push-Ups)",
+                    "url": "https://www.google.com/search?q=Dragon+Push-Ups"
                 }
             ],
             "flagged": false,
             "list": "💪 Home Exercise",
             "priority": "None",
             "tags": "",
-            "name": "🟠 Upper Body"
+            "name": "Upper Body"
         },
         {
             "url": "",
@@ -129,7 +140,7 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Lower Body",
+                    "parent_reminder": "Lower Body",
                     "due_date": "",
                     "notes": "= 跳躍碰腳跟",
                     "flagged": false,
@@ -140,7 +151,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Lower Body",
+                    "parent_reminder": "Lower Body",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -151,7 +162,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Lower Body",
+                    "parent_reminder": "Lower Body",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -162,7 +173,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Lower Body",
+                    "parent_reminder": "Lower Body",
                     "due_date": "",
                     "notes": "= Side-to-Side Lunges = 側弓箭步",
                     "flagged": false,
@@ -173,7 +184,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Lower Body",
+                    "parent_reminder": "Lower Body",
                     "due_date": "",
                     "notes": "= 定點弓箭步",
                     "flagged": false,
@@ -184,7 +195,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Lower Body",
+                    "parent_reminder": "Lower Body",
                     "due_date": "",
                     "notes": "= 高抬腿",
                     "flagged": false,
@@ -195,7 +206,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Lower Body",
+                    "parent_reminder": "Lower Body",
                     "due_date": "",
                     "notes": "= 後踢腿",
                     "flagged": false,
@@ -206,7 +217,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Lower Body",
+                    "parent_reminder": "Lower Body",
                     "due_date": "",
                     "notes": "= 深蹲跳",
                     "flagged": false,
@@ -217,7 +228,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Lower Body",
+                    "parent_reminder": "Lower Body",
                     "due_date": "",
                     "notes": "= 側向墊步",
                     "flagged": false,
@@ -228,7 +239,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Lower Body",
+                    "parent_reminder": "Lower Body",
                     "due_date": "",
                     "notes": "= 轉體弓箭步",
                     "flagged": false,
@@ -239,7 +250,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Lower Body",
+                    "parent_reminder": "Lower Body",
                     "due_date": "",
                     "notes": "= 強力深蹲",
                     "flagged": false,
@@ -250,7 +261,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Lower Body",
+                    "parent_reminder": "Lower Body",
                     "due_date": "",
                     "notes": "= 弓箭步登階",
                     "flagged": false,
@@ -261,7 +272,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Lower Body",
+                    "parent_reminder": "Lower Body",
                     "due_date": "",
                     "notes": "= 深蹲定格提踵",
                     "flagged": false,
@@ -272,7 +283,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Lower Body",
+                    "parent_reminder": "Lower Body",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -283,7 +294,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Lower Body",
+                    "parent_reminder": "Lower Body",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -294,7 +305,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Lower Body",
+                    "parent_reminder": "Lower Body",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -305,7 +316,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Lower Body",
+                    "parent_reminder": "Lower Body",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -316,7 +327,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Lower Body",
+                    "parent_reminder": "Lower Body",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -327,7 +338,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Lower Body",
+                    "parent_reminder": "Lower Body",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -338,7 +349,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Lower Body",
+                    "parent_reminder": "Lower Body",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -349,7 +360,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Lower Body",
+                    "parent_reminder": "Lower Body",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -360,7 +371,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Lower Body",
+                    "parent_reminder": "Lower Body",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -371,7 +382,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Lower Body",
+                    "parent_reminder": "Lower Body",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -382,18 +393,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Lower Body",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "💪 Home Exercise",
-                    "priority": "None",
-                    "name": "[Burpees](https://www.google.com/search?q=Burpees)",
-                    "url": "https://www.google.com/search?q=Burpees"
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "🟠 Lower Body",
+                    "parent_reminder": "Lower Body",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -404,7 +404,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Lower Body",
+                    "parent_reminder": "Lower Body",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -415,7 +415,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Lower Body",
+                    "parent_reminder": "Lower Body",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -426,7 +426,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Lower Body",
+                    "parent_reminder": "Lower Body",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -437,7 +437,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Lower Body",
+                    "parent_reminder": "Lower Body",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -448,7 +448,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Lower Body",
+                    "parent_reminder": "Lower Body",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -459,7 +459,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Lower Body",
+                    "parent_reminder": "Lower Body",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -470,7 +470,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Lower Body",
+                    "parent_reminder": "Lower Body",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -481,7 +481,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Lower Body",
+                    "parent_reminder": "Lower Body",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -492,7 +492,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Lower Body",
+                    "parent_reminder": "Lower Body",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -503,7 +503,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Lower Body",
+                    "parent_reminder": "Lower Body",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -517,7 +517,7 @@
             "list": "💪 Home Exercise",
             "priority": "None",
             "tags": "",
-            "name": "🟠 Lower Body"
+            "name": "Lower Body"
         },
         {
             "url": "",
@@ -526,7 +526,7 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Core",
+                    "parent_reminder": "Core",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -537,7 +537,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Core",
+                    "parent_reminder": "Core",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -548,7 +548,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Core",
+                    "parent_reminder": "Core",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -559,7 +559,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Core",
+                    "parent_reminder": "Core",
                     "due_date": "",
                     "notes": "= 船式靜止",
                     "flagged": false,
@@ -570,7 +570,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Core",
+                    "parent_reminder": "Core",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -581,9 +581,9 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Core",
+                    "parent_reminder": "Core",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "= 死蟲式",
                     "flagged": false,
                     "list": "💪 Home Exercise",
                     "priority": "None",
@@ -592,7 +592,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Core",
+                    "parent_reminder": "Core",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -603,7 +603,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Core",
+                    "parent_reminder": "Core",
                     "due_date": "",
                     "notes": "= 滑行平板",
                     "flagged": false,
@@ -614,7 +614,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Core",
+                    "parent_reminder": "Core",
                     "due_date": "",
                     "notes": "Variations: Seated Knee Tucks, Jumping Knee Tucks",
                     "flagged": false,
@@ -625,7 +625,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Core",
+                    "parent_reminder": "Core",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -636,7 +636,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Core",
+                    "parent_reminder": "Core",
                     "due_date": "",
                     "notes": "= 抱膝捲腹",
                     "flagged": false,
@@ -647,7 +647,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Core",
+                    "parent_reminder": "Core",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -658,7 +658,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Core",
+                    "parent_reminder": "Core",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -669,7 +669,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Core",
+                    "parent_reminder": "Core",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -680,7 +680,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Core",
+                    "parent_reminder": "Core",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -691,7 +691,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Core",
+                    "parent_reminder": "Core",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -702,7 +702,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Core",
+                    "parent_reminder": "Core",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -713,7 +713,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Core",
+                    "parent_reminder": "Core",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -724,7 +724,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Core",
+                    "parent_reminder": "Core",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -735,7 +735,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Core",
+                    "parent_reminder": "Core",
                     "due_date": "",
                     "notes": "= 膝蓋碰手肘",
                     "flagged": false,
@@ -746,7 +746,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Core",
+                    "parent_reminder": "Core",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -757,7 +757,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Core",
+                    "parent_reminder": "Core",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -768,7 +768,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Core",
+                    "parent_reminder": "Core",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -779,7 +779,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Core",
+                    "parent_reminder": "Core",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -790,7 +790,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Core",
+                    "parent_reminder": "Core",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -801,7 +801,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Core",
+                    "parent_reminder": "Core",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -812,7 +812,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Core",
+                    "parent_reminder": "Core",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -823,7 +823,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Core",
+                    "parent_reminder": "Core",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -834,7 +834,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Core",
+                    "parent_reminder": "Core",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -845,7 +845,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Core",
+                    "parent_reminder": "Core",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -856,7 +856,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Core",
+                    "parent_reminder": "Core",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -867,7 +867,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Core",
+                    "parent_reminder": "Core",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -878,7 +878,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Core",
+                    "parent_reminder": "Core",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -889,7 +889,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Core",
+                    "parent_reminder": "Core",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -900,7 +900,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Core",
+                    "parent_reminder": "Core",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -911,7 +911,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Core",
+                    "parent_reminder": "Core",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -922,7 +922,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Core",
+                    "parent_reminder": "Core",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -933,7 +933,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Core",
+                    "parent_reminder": "Core",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -944,7 +944,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Core",
+                    "parent_reminder": "Core",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -955,7 +955,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Core",
+                    "parent_reminder": "Core",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -963,13 +963,35 @@
                     "priority": "None",
                     "name": "[Plank Rolls](https://www.google.com/search?q=Plank+Rolls)",
                     "url": "https://www.google.com/search?q=Plank+Rolls"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Core",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💪 Home Exercise",
+                    "priority": "None",
+                    "name": "[Knee-in & Twist](https://www.google.com/search?q=Knee-in+%26+Twist)",
+                    "url": "https://www.google.com/search?q=Knee-in+%26+Twist"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Core",
+                    "due_date": "",
+                    "notes": "RTO = Rings Turned Out",
+                    "flagged": false,
+                    "list": "💪 Home Exercise",
+                    "priority": "None",
+                    "name": "[RTO Push-ups](https://www.google.com/search?q=RTO+Push-ups)",
+                    "url": "https://www.google.com/search?q=RTO+Push-ups"
                 }
             ],
             "flagged": false,
             "list": "💪 Home Exercise",
             "priority": "None",
             "tags": "",
-            "name": "🟠 Core"
+            "name": "Core"
         },
         {
             "url": "",
@@ -978,7 +1000,7 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Stretching",
+                    "parent_reminder": "Stretching",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -989,7 +1011,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Stretching",
+                    "parent_reminder": "Stretching",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1000,7 +1022,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Stretching",
+                    "parent_reminder": "Stretching",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1011,7 +1033,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Stretching",
+                    "parent_reminder": "Stretching",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1022,7 +1044,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Stretching",
+                    "parent_reminder": "Stretching",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1033,7 +1055,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Stretching",
+                    "parent_reminder": "Stretching",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1047,7 +1069,7 @@
             "list": "💪 Home Exercise",
             "priority": "None",
             "tags": "",
-            "name": "🟠 Stretching"
+            "name": "Stretching"
         },
         {
             "url": "",
@@ -1056,7 +1078,7 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Yoga",
+                    "parent_reminder": "Yoga",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1067,7 +1089,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Yoga",
+                    "parent_reminder": "Yoga",
                     "due_date": "",
                     "notes": "= Ardha Purvottanasana = 反向桌式",
                     "flagged": false,
@@ -1078,7 +1100,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Yoga",
+                    "parent_reminder": "Yoga",
                     "due_date": "",
                     "notes": "= Kapotasana",
                     "flagged": false,
@@ -1089,7 +1111,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Yoga",
+                    "parent_reminder": "Yoga",
                     "due_date": "",
                     "notes": "= Mandukasana",
                     "flagged": false,
@@ -1100,7 +1122,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Yoga",
+                    "parent_reminder": "Yoga",
                     "due_date": "",
                     "notes": "= Savasana",
                     "flagged": false,
@@ -1111,7 +1133,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🟠 Yoga",
+                    "parent_reminder": "Yoga",
                     "due_date": "",
                     "notes": "= Vrikshasana",
                     "flagged": false,
@@ -1125,7 +1147,7 @@
             "list": "💪 Home Exercise",
             "priority": "None",
             "tags": "",
-            "name": "🟠 Yoga"
+            "name": "Yoga"
         }
     ]
 }

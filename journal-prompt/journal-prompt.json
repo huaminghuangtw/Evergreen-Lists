@@ -7,7 +7,7 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Today\"",
+                    "parent_reminder": "Today",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -18,7 +18,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Today\"",
+                    "parent_reminder": "Today",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -29,7 +29,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Today\"",
+                    "parent_reminder": "Today",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -40,7 +40,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Today\"",
+                    "parent_reminder": "Today",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -51,7 +51,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Today\"",
+                    "parent_reminder": "Today",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -62,7 +62,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Today\"",
+                    "parent_reminder": "Today",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -73,7 +73,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Today\"",
+                    "parent_reminder": "Today",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -84,7 +84,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Today\"",
+                    "parent_reminder": "Today",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -95,7 +95,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Today\"",
+                    "parent_reminder": "Today",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -106,7 +106,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Today\"",
+                    "parent_reminder": "Today",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -117,7 +117,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Today\"",
+                    "parent_reminder": "Today",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -128,7 +128,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Today\"",
+                    "parent_reminder": "Today",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -139,7 +139,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Today\"",
+                    "parent_reminder": "Today",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -150,7 +150,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Today\"",
+                    "parent_reminder": "Today",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -161,18 +161,29 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Today\"",
+                    "parent_reminder": "Today",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
-                    "name": "If I knew I would die in 10 years, what would I do today?",
+                    "name": "If I knew I would die in 10 years, what would I do today? what would I most regret not doing?",
                     "url": ""
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Today\"",
+                    "parent_reminder": "Today",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "If I died 10 years from today,",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Today",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -183,7 +194,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Today\"",
+                    "parent_reminder": "Today",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -194,7 +205,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Today\"",
+                    "parent_reminder": "Today",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -208,7 +219,7 @@
             "list": "💭 Journal Prompt",
             "priority": "None",
             "tags": "",
-            "name": "🤔 On \"Today\""
+            "name": "Today"
         },
         {
             "url": "",
@@ -217,18 +228,18 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Good Morning\"",
+                    "parent_reminder": "Good Morning",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
-                    "name": "What would my greatest day look like today? What is today's adventure going to be? What is my side quest for today?",
+                    "name": "What would my greatest day look like today? What is today’s adventure going to be? What is my side quest for today?",
                     "url": ""
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Good Morning\"",
+                    "parent_reminder": "Good Morning",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -239,7 +250,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Good Morning\"",
+                    "parent_reminder": "Good Morning",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -250,7 +261,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Good Morning\"",
+                    "parent_reminder": "Good Morning",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -264,7 +275,7 @@
             "list": "💭 Journal Prompt",
             "priority": "None",
             "tags": "",
-            "name": "🤔 On \"Good Morning\""
+            "name": "Good Morning"
         },
         {
             "url": "",
@@ -273,7 +284,7 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Good Evening\"",
+                    "parent_reminder": "Good Evening",
                     "due_date": "",
                     "notes": "[\"Success is largely the failures you avoid. Health is the injuries you don't sustain. Wealth is the purchases you don't make. Happiness is the objects you don't desire. Peace of mind is the arguments you don't engage. Avoid the bad to protect the good.\" — James Clear](https://jamesclear.com/3-2-1/march-27-2025)",
                     "flagged": false,
@@ -284,7 +295,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Good Evening\"",
+                    "parent_reminder": "Good Evening",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -295,7 +306,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Good Evening\"",
+                    "parent_reminder": "Good Evening",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -306,7 +317,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Good Evening\"",
+                    "parent_reminder": "Good Evening",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -317,18 +328,18 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Good Evening\"",
+                    "parent_reminder": "Good Evening",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
-                    "name": "What frustrated me? How does that frustration reveal my core values?",
+                    "name": "What frustrated me? What disappointed me? What is this teaching me? How does this reveal my core values?",
                     "url": ""
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Good Evening\"",
+                    "parent_reminder": "Good Evening",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -339,7 +350,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Good Evening\"",
+                    "parent_reminder": "Good Evening",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -353,7 +364,7 @@
             "list": "💭 Journal Prompt",
             "priority": "None",
             "tags": "",
-            "name": "🤔 On \"Good Evening\""
+            "name": "Good Evening"
         },
         {
             "url": "",
@@ -362,7 +373,18 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Prioritization\"",
+                    "parent_reminder": "Prioritization",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What will I do XXX, knowing that I am one of the rarest forms of life to ever walk the Earth?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Prioritization",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -373,7 +395,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Prioritization\"",
+                    "parent_reminder": "Prioritization",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -384,7 +406,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Prioritization\"",
+                    "parent_reminder": "Prioritization",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -395,7 +417,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Prioritization\"",
+                    "parent_reminder": "Prioritization",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -406,7 +428,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Prioritization\"",
+                    "parent_reminder": "Prioritization",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -417,7 +439,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Prioritization\"",
+                    "parent_reminder": "Prioritization",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -428,7 +450,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Prioritization\"",
+                    "parent_reminder": "Prioritization",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -439,7 +461,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Prioritization\"",
+                    "parent_reminder": "Prioritization",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -450,7 +472,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Prioritization\"",
+                    "parent_reminder": "Prioritization",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -461,7 +483,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Prioritization\"",
+                    "parent_reminder": "Prioritization",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -472,7 +494,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Prioritization\"",
+                    "parent_reminder": "Prioritization",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -483,7 +505,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Prioritization\"",
+                    "parent_reminder": "Prioritization",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -497,7 +519,7 @@
             "list": "💭 Journal Prompt",
             "priority": "None",
             "tags": "",
-            "name": "🤔 On \"Prioritization\""
+            "name": "Prioritization"
         },
         {
             "url": "",
@@ -506,7 +528,29 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Productivity\"",
+                    "parent_reminder": "Productivity",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "Am I climbing the right mountain?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Productivity",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "Are my actions aligned with what I say my priorities are?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Productivity",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -517,7 +561,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Productivity\"",
+                    "parent_reminder": "Productivity",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -528,7 +572,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Productivity\"",
+                    "parent_reminder": "Productivity",
                     "due_date": "",
                     "notes": "Human being, not human doing.",
                     "flagged": false,
@@ -539,7 +583,18 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Productivity\"",
+                    "parent_reminder": "Productivity",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "How can I be fully engaged in the task, but not too fixated about getting it 100% right?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Productivity",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -550,7 +605,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Productivity\"",
+                    "parent_reminder": "Productivity",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -561,7 +616,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Productivity\"",
+                    "parent_reminder": "Productivity",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -572,7 +627,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Productivity\"",
+                    "parent_reminder": "Productivity",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -583,7 +638,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Productivity\"",
+                    "parent_reminder": "Productivity",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -594,7 +649,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Productivity\"",
+                    "parent_reminder": "Productivity",
                     "due_date": "",
                     "notes": "+ \"A lion is fully capable of capturing, killing, and eating a field mouse. But it turns out that the energy required to do so exceeds the caloric content of the mouse itself. So a lion that spent its day hunting and eating field mice would slowly starve to death. A lion can’t live on field mice. A lion needs antelope. Antelope are big animals. They take more speed and strength to capture and kill, and once killed, they provide a feast for the lion and her pride. A lion can live a long and happy life on a diet of antelope. The distinction is important. Are you spending all your time and exhausting all your energy catching field mice? In the short term it might give you a nice, rewarding feeling. But in the long run you’re going to die.\" — _Buck Up, Suck Up . . . and Come Back When You Foul Up: 12 Winning Secrets from the War Room_\n+ The lion that chases mice will starve. The lion that hunts antelope will thrive.",
                     "flagged": false,
@@ -605,7 +660,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Productivity\"",
+                    "parent_reminder": "Productivity",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -616,7 +671,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Productivity\"",
+                    "parent_reminder": "Productivity",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -627,7 +682,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Productivity\"",
+                    "parent_reminder": "Productivity",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -638,7 +693,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Productivity\"",
+                    "parent_reminder": "Productivity",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -649,7 +704,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Productivity\"",
+                    "parent_reminder": "Productivity",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -660,7 +715,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Productivity\"",
+                    "parent_reminder": "Productivity",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -671,7 +726,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Productivity\"",
+                    "parent_reminder": "Productivity",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -682,7 +737,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Productivity\"",
+                    "parent_reminder": "Productivity",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -693,7 +748,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Productivity\"",
+                    "parent_reminder": "Productivity",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -704,7 +759,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Productivity\"",
+                    "parent_reminder": "Productivity",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -715,7 +770,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Productivity\"",
+                    "parent_reminder": "Productivity",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -726,7 +781,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Productivity\"",
+                    "parent_reminder": "Productivity",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -737,7 +792,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Productivity\"",
+                    "parent_reminder": "Productivity",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -751,7 +806,7 @@
             "list": "💭 Journal Prompt",
             "priority": "None",
             "tags": "",
-            "name": "🤔 On \"Productivity\""
+            "name": "Productivity"
         },
         {
             "url": "",
@@ -760,18 +815,7 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "💭 Journal Prompt",
-                    "priority": "None",
-                    "name": "[What would I need to hear and get from a past generation to convince me to complete a project they began?](https://kk.org/thetechnium/the-scarcity-of-the-long-term/)",
-                    "url": "https://kk.org/thetechnium/the-scarcity-of-the-long-term/"
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -782,7 +826,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -793,7 +837,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -804,18 +848,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "💭 Journal Prompt",
-                    "priority": "None",
-                    "name": "Instead of asking, \"What could make me feel happy?\" Try asking, \"What could make the group excited?\"",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -826,7 +859,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -837,7 +870,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "Sometimes you need to let go. Sometimes you need to get going.",
                     "flagged": false,
@@ -848,7 +881,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -859,7 +892,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -870,9 +903,9 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
-                    "notes": "[\"Over the years, I have come to realize that the greatest trap in our life is not success, popularity, or power, but self-rejection. Success, popularity, and power can indeed present a great temptation, but their seductive quality often comes from the way they are part of the much larger temptation to self-rejection. When we have come to believe in the voices that call us worthless and unlovable, then success, popularity, and power are easily perceived as attractive solutions. The real trap, however, is self-rejection. As soon as someone accuses me or criticizes me, as soon as I am rejected, left alone, or abandoned, I find myself thinking, \"Well, that proves once again that I am a nobody.\" ... [My dark side says,] I am no good... I deserve to be pushed aside, forgotten, rejected, and abandoned. Self-rejection is the greatest enemy of the spiritual life because it contradicts the sacred voice that calls us the \"Beloved.\" Being the Beloved constitutes the core truth of our existence.\" — Henri J.M. Nouwen](https://www.goodreads.com/quotes/230436-over-the-years-i-have-come-to-realize-that-the)",
+                    "notes": "",
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
@@ -881,7 +914,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -892,7 +925,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -903,7 +936,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -914,7 +947,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -925,7 +958,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -936,7 +969,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -947,7 +980,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -958,7 +991,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -969,7 +1002,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -980,7 +1013,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -991,7 +1024,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1002,7 +1035,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1013,7 +1046,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1024,7 +1057,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1035,7 +1068,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1046,7 +1079,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1057,7 +1090,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "A question to identify the most high-agency person in your life",
                     "flagged": false,
@@ -1068,7 +1101,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1079,7 +1112,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1090,7 +1123,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1101,7 +1134,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1112,7 +1145,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1123,7 +1156,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1134,7 +1167,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1145,7 +1178,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1156,7 +1189,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1167,7 +1200,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1178,7 +1211,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1189,7 +1222,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1200,7 +1233,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1211,7 +1244,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1222,7 +1255,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1233,7 +1266,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1244,7 +1277,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1255,7 +1288,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1266,7 +1299,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1277,7 +1310,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1288,7 +1321,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1299,7 +1332,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1310,7 +1343,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1321,7 +1354,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1332,7 +1365,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1343,7 +1376,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1354,7 +1387,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1365,7 +1398,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1376,7 +1409,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1387,7 +1420,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1398,7 +1431,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1409,7 +1442,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1420,7 +1453,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1431,7 +1464,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1442,7 +1475,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1453,7 +1486,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1464,7 +1497,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1475,7 +1508,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1486,18 +1519,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "💭 Journal Prompt",
-                    "priority": "None",
-                    "name": "Can my current habits carry me to my desired future?",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1508,7 +1530,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1519,7 +1541,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1530,7 +1552,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "Sometimes you need more action, sometimes you need a better strategy.",
                     "flagged": false,
@@ -1541,7 +1563,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1552,7 +1574,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1563,7 +1585,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1574,7 +1596,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1585,7 +1607,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1596,7 +1618,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1607,7 +1629,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1618,7 +1640,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1629,7 +1651,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1640,7 +1662,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1651,7 +1673,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1662,7 +1684,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1673,7 +1695,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1684,7 +1706,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1695,7 +1717,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1706,7 +1728,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1717,7 +1739,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1728,7 +1750,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1739,7 +1761,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1750,7 +1772,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1761,7 +1783,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1772,7 +1794,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1783,7 +1805,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1794,9 +1816,9 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
-                    "notes": "+ \"You are not just the actor of your life movie, you are also the director and the screenwriter.\" - 你不只是人生電影的演員，也是導演和編劇。\n+ On your journey through life, make sure your biography has at least one extraordinary chapter.",
+                    "notes": "+ \"You are not just the actor of your life movie, you are also the director and the screenwriter.\" → 你不只是人生電影的演員，也是導演和編劇。\n+ On your journey through life, make sure your biography has at least one extraordinary chapter.\n+ “If you want your life to be a magnificent story, then begin by realizing that you are the author.” — Mark Houlahan",
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
@@ -1805,7 +1827,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1816,7 +1838,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1827,7 +1849,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1838,7 +1860,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1849,7 +1871,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1860,7 +1882,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1871,7 +1893,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1882,7 +1904,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1893,7 +1915,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1904,7 +1926,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1915,7 +1937,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1926,7 +1948,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "+ \"Ask how something can be done rather than say it can't be done.\" — Bo Bennett\n+ \"When someone tells me 'no,' it doesn't mean I can't do it, it simply means I can't do it with them.\" — Karen E. Quinones Miller",
                     "flagged": false,
@@ -1937,7 +1959,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1948,7 +1970,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1959,7 +1981,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1970,7 +1992,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1981,7 +2003,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -1992,7 +2014,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2003,7 +2025,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2014,7 +2036,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2025,7 +2047,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2036,7 +2058,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2047,7 +2069,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2058,7 +2080,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2069,7 +2091,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2080,7 +2102,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2091,7 +2113,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2102,7 +2124,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2113,7 +2135,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2124,7 +2146,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2135,7 +2157,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2146,7 +2168,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2157,7 +2179,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2168,7 +2190,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2179,7 +2201,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2190,7 +2212,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2201,7 +2223,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2212,7 +2234,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2223,7 +2245,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2234,7 +2256,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2245,7 +2267,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2256,7 +2278,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2267,7 +2289,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2278,7 +2300,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2289,7 +2311,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2300,7 +2322,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2311,7 +2333,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2322,7 +2344,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2333,7 +2355,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2344,7 +2366,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2355,7 +2377,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2366,7 +2388,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2377,7 +2399,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2388,7 +2410,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2399,7 +2421,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2410,7 +2432,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2421,7 +2443,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2432,7 +2454,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2443,7 +2465,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2454,7 +2476,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2465,7 +2487,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2476,7 +2498,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2487,7 +2509,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2498,7 +2520,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2509,7 +2531,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2520,7 +2542,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2531,7 +2553,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2542,7 +2564,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2553,7 +2575,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2564,7 +2586,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2575,7 +2597,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2586,7 +2608,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2597,7 +2619,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2608,7 +2630,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2619,7 +2641,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2630,7 +2652,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2641,7 +2663,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2652,7 +2674,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2663,7 +2685,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2674,18 +2696,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "💭 Journal Prompt",
-                    "priority": "None",
-                    "name": "What can I serve for the world? How am I making the world a little bit better? How the world will be different without me?",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2696,7 +2707,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2707,7 +2718,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2718,7 +2729,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2729,7 +2740,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2740,7 +2751,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2751,7 +2762,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2762,18 +2773,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "💭 Journal Prompt",
-                    "priority": "None",
-                    "name": "How can I make myself an outsider/outlier?",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2784,7 +2784,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2795,7 +2795,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2806,7 +2806,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2817,7 +2817,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2828,7 +2828,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2839,7 +2839,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2850,7 +2850,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2861,7 +2861,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2872,7 +2872,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2883,7 +2883,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2894,7 +2894,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2905,7 +2905,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2916,7 +2916,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2927,7 +2927,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2938,7 +2938,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2949,18 +2949,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "💭 Journal Prompt",
-                    "priority": "None",
-                    "name": "沒了名片，我還剩下什麼？如果拔掉所有身份地位和職業頭銜，我是誰？我跟別人又有什麼差別？",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2971,7 +2960,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2982,7 +2971,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -2993,7 +2982,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3004,29 +2993,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "💭 Journal Prompt",
-                    "priority": "None",
-                    "name": "Am I holding onto something that I no longer need?",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "💭 Journal Prompt",
-                    "priority": "None",
-                    "name": "If I had 10x the agency I have, what would I do?",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
+                    "parent_reminder": "Miscellaneous",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3034,46 +3001,13 @@
                     "priority": "None",
                     "name": "What system can I create that will make the goal inevitable?",
                     "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "💭 Journal Prompt",
-                    "priority": "None",
-                    "name": "What did I gain by not having what I needed?",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "💭 Journal Prompt",
-                    "priority": "None",
-                    "name": "What mastery or gift have I developed that I can offer to the world?",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "🤔 On \"Miscellaneous\"",
-                    "due_date": "",
-                    "notes": "[“The purpose of life is to discover your gift. The work of life is to develop it. The meaning of life is to give your gift away.” ― David Viscott](https://www.goodreads.com/quotes/7407260-the-purpose-of-life-is-to-discover-your-gift-the)",
-                    "flagged": false,
-                    "list": "💭 Journal Prompt",
-                    "priority": "None",
-                    "name": "What mastery or gift have I developed that I can offer to the world?",
-                    "url": ""
                 }
             ],
             "flagged": false,
             "list": "💭 Journal Prompt",
             "priority": "None",
             "tags": "",
-            "name": "🤔 On \"Miscellaneous\""
+            "name": "Miscellaneous"
         },
         {
             "url": "",
@@ -3082,7 +3016,7 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Decision Making\"",
+                    "parent_reminder": "Decision Making",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3096,7 +3030,7 @@
             "list": "💭 Journal Prompt",
             "priority": "None",
             "tags": "",
-            "name": "🤔 On \"Decision Making\""
+            "name": "Decision Making"
         },
         {
             "url": "",
@@ -3105,62 +3039,40 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Life\"",
+                    "parent_reminder": "Beliefs",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
-                    "name": "Imagine, at the end of a long life when you've passed away, you're at the pearly gates of heaven, and the angels have allowed you back to your life for just one moment, and right now is that time. How do you respond?",
+                    "name": "What important truth do very few people agree with me on?",
                     "url": ""
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Life\"",
+                    "parent_reminder": "Beliefs",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
-                    "name": "What season am I in right now? What am I optimizing for?",
+                    "name": "Am I holding onto something that I no longer need?",
                     "url": ""
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Life\"",
+                    "parent_reminder": "Beliefs",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
-                    "name": "Close the eyes, look within. Am I satisfied with the life I'm living?",
+                    "name": "What beliefs about myself have expired and no longer served me?",
                     "url": ""
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Life\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "💭 Journal Prompt",
-                    "priority": "None",
-                    "name": "Which distractions in my life have become disguised as priorities?",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "🤔 On \"Life\"",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "💭 Journal Prompt",
-                    "priority": "None",
-                    "name": "If a competent CEO got to run my life for a day, what is the first thing they would eliminate?",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "🤔 On \"Life\"",
+                    "parent_reminder": "Beliefs",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3174,7 +3086,7 @@
             "list": "💭 Journal Prompt",
             "priority": "None",
             "tags": "",
-            "name": "🤔 On \"Life\""
+            "name": "Beliefs"
         },
         {
             "url": "",
@@ -3183,7 +3095,176 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "parent_reminder": "Taking Action",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "If I had 10x the agency I have, what would I do?",
+                    "url": ""
+                }
+            ],
+            "flagged": false,
+            "list": "💭 Journal Prompt",
+            "priority": "None",
+            "tags": "",
+            "name": "Taking Action"
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "Habits/Behavior Change",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "Are the results I’m expecting aligned with my current habits? Can my current habits carry me to my desired future?",
+                    "url": ""
+                }
+            ],
+            "flagged": false,
+            "list": "💭 Journal Prompt",
+            "priority": "None",
+            "tags": "",
+            "name": "Habits/Behavior Change"
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "Purpose/Meaning",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What can I serve for the world? How am I making the world a little bit better? How the world will be different without me?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Purpose/Meaning",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "[What would I need to hear and get from a past generation to convince me to complete a project they began?](https://kk.org/thetechnium/the-scarcity-of-the-long-term/)",
+                    "url": "https://kk.org/thetechnium/the-scarcity-of-the-long-term/"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Purpose/Meaning",
+                    "due_date": "",
+                    "notes": "[“The purpose of life is to discover your gift. The work of life is to develop it. The meaning of life is to give your gift away.” ― David Viscott](https://www.goodreads.com/quotes/7407260-the-purpose-of-life-is-to-discover-your-gift-the)",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What mastery or gift have I developed that I can offer to the world?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Purpose/Meaning",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "Am I doing this because it makes me feel curious and alive, or because inertia makes it easy to continue doing and I'm hesitant to let go?",
+                    "url": ""
+                }
+            ],
+            "flagged": false,
+            "list": "💭 Journal Prompt",
+            "priority": "None",
+            "tags": "",
+            "name": "Purpose/Meaning"
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "Decades",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "Imagine, at the end of a long life when you've passed away, you're at the pearly gates of heaven, and the angels have allowed you back to your life for just one moment, and right now is that time. How do you respond?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Decades",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What season am I in right now? What am I optimizing for?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Decades",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "Close the eyes, look within. Am I satisfied with the life I'm living?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Decades",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "Which distractions in my life have become disguised as priorities?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Decades",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "If a competent CEO got to run my life for a day, what is the first thing they would eliminate?",
+                    "url": ""
+                }
+            ],
+            "flagged": false,
+            "list": "💭 Journal Prompt",
+            "priority": "None",
+            "tags": "",
+            "name": "Decades"
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "Annual Review",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3194,7 +3275,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "parent_reminder": "Annual Review",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3205,7 +3286,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "parent_reminder": "Annual Review",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3216,7 +3297,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "parent_reminder": "Annual Review",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3227,7 +3308,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "parent_reminder": "Annual Review",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3238,18 +3319,18 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "parent_reminder": "Annual Review",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
-                    "name": "What achievements am I most proud of this year? What was my biggest failure and hardest aspect this year?",
+                    "name": "What achievements am I most proud of this year (highlights)? What was my biggest failure and hardest aspect this year (lowlights)?",
                     "url": ""
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "parent_reminder": "Annual Review",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3260,7 +3341,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "parent_reminder": "Annual Review",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3271,7 +3352,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "parent_reminder": "Annual Review",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3282,7 +3363,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "parent_reminder": "Annual Review",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3293,7 +3374,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "parent_reminder": "Annual Review",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3304,7 +3385,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "parent_reminder": "Annual Review",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3315,7 +3396,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "parent_reminder": "Annual Review",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3326,7 +3407,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "parent_reminder": "Annual Review",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3337,7 +3418,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "parent_reminder": "Annual Review",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3348,7 +3429,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "parent_reminder": "Annual Review",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3359,7 +3440,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "parent_reminder": "Annual Review",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3370,7 +3451,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "parent_reminder": "Annual Review",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3381,7 +3462,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "parent_reminder": "Annual Review",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3392,7 +3473,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "parent_reminder": "Annual Review",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3403,7 +3484,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "parent_reminder": "Annual Review",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3414,7 +3495,18 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "parent_reminder": "Annual Review",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "Who brings out the best in me this year, and how can I spend more time with them next year?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Annual Review",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3425,7 +3517,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "parent_reminder": "Annual Review",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3436,7 +3528,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "parent_reminder": "Annual Review",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3447,7 +3539,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Year In Review\"",
+                    "parent_reminder": "Annual Review",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3461,7 +3553,7 @@
             "list": "💭 Journal Prompt",
             "priority": "None",
             "tags": "",
-            "name": "🤔 On \"Year In Review\""
+            "name": "Annual Review"
         },
         {
             "url": "",
@@ -3470,7 +3562,40 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Self-Reflection\"",
+                    "parent_reminder": "Self Awareness",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "沒了名片，我還剩下什麼？如果拔掉所有身份地位和職業頭銜，我是誰？我跟別人又有什麼差別？",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Self Awareness",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "How can I make myself an outsider/outlier?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Self Awareness",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "How do I step into who I am and what I’ve been given?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Self Awareness",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3481,7 +3606,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Self-Reflection\"",
+                    "parent_reminder": "Self Awareness",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3492,7 +3617,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Self-Reflection\"",
+                    "parent_reminder": "Self Awareness",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3503,7 +3628,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Self-Reflection\"",
+                    "parent_reminder": "Self Awareness",
                     "due_date": "",
                     "notes": "“To each, there comes in their lifetime a special moment when they are figuratively tapped on the shoulder and offered the chance to do a very special thing. What a tragedy if that moment finds them unprepared.” — Winston Churchill",
                     "flagged": false,
@@ -3514,7 +3639,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Self-Reflection\"",
+                    "parent_reminder": "Self Awareness",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3525,7 +3650,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Self-Reflection\"",
+                    "parent_reminder": "Self Awareness",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3536,7 +3661,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Self-Reflection\"",
+                    "parent_reminder": "Self Awareness",
                     "due_date": "",
                     "notes": "Remember: it's not my responsibility to change the narrative that other people have about me.",
                     "flagged": false,
@@ -3547,7 +3672,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Self-Reflection\"",
+                    "parent_reminder": "Self Awareness",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3558,7 +3683,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Self-Reflection\"",
+                    "parent_reminder": "Self Awareness",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3569,7 +3694,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Self-Reflection\"",
+                    "parent_reminder": "Self Awareness",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3580,7 +3705,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Self-Reflection\"",
+                    "parent_reminder": "Self Awareness",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3591,7 +3716,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Self-Reflection\"",
+                    "parent_reminder": "Self Awareness",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3602,7 +3727,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Self-Reflection\"",
+                    "parent_reminder": "Self Awareness",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3613,7 +3738,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Self-Reflection\"",
+                    "parent_reminder": "Self Awareness",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3624,7 +3749,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Self-Reflection\"",
+                    "parent_reminder": "Self Awareness",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3635,7 +3760,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Self-Reflection\"",
+                    "parent_reminder": "Self Awareness",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3646,7 +3771,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Self-Reflection\"",
+                    "parent_reminder": "Self Awareness",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3654,13 +3779,46 @@
                     "priority": "None",
                     "name": "Do I actually want this, or am I just afraid to say I don’t?",
                     "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Self Awareness",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What rules am I following that are really just suggestions?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Self Awareness",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What am I avoiding just because I know the answer is painful?",
+                    "url": ""
                 }
             ],
             "flagged": false,
             "list": "💭 Journal Prompt",
             "priority": "None",
             "tags": "",
-            "name": "🤔 On \"Self-Reflection\""
+            "name": "Self Awareness"
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [],
+            "flagged": false,
+            "list": "💭 Journal Prompt",
+            "priority": "None",
+            "tags": "",
+            "name": "Confronting Fears"
         },
         {
             "url": "",
@@ -3669,7 +3827,7 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "parent_reminder": "Asking People",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3680,7 +3838,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "parent_reminder": "Asking People",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3691,7 +3849,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "parent_reminder": "Asking People",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3702,7 +3860,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "parent_reminder": "Asking People",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3713,7 +3871,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "parent_reminder": "Asking People",
                     "due_date": "",
                     "notes": "Meaning: _What is a really minor or seemingly insignificant opinion, preference, or belief that you feel strongly about and will always defend—no matter how trivial it may seem to others?_",
                     "flagged": false,
@@ -3724,7 +3882,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "parent_reminder": "Asking People",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3735,7 +3893,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "parent_reminder": "Asking People",
                     "due_date": "",
                     "notes": "What book, essay, or idea has shifted your perspective lately?",
                     "flagged": false,
@@ -3746,7 +3904,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "parent_reminder": "Asking People",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3757,7 +3915,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "parent_reminder": "Asking People",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3768,7 +3926,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "parent_reminder": "Asking People",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3779,7 +3937,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "parent_reminder": "Asking People",
                     "due_date": "",
                     "notes": "For example: career, legacy, lifestyle, net worth, etc.",
                     "flagged": false,
@@ -3790,7 +3948,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "parent_reminder": "Asking People",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3801,7 +3959,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "parent_reminder": "Asking People",
                     "due_date": "",
                     "notes": "What do you do just for the fun of it?",
                     "flagged": false,
@@ -3812,7 +3970,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "parent_reminder": "Asking People",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3823,7 +3981,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "parent_reminder": "Asking People",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3834,7 +3992,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "parent_reminder": "Asking People",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3845,7 +4003,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "parent_reminder": "Asking People",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3856,7 +4014,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "parent_reminder": "Asking People",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3867,7 +4025,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "parent_reminder": "Asking People",
                     "due_date": "",
                     "notes": "What’s a question you wish people asked you more often—and what would your answer be?\nWhat do you think your friends or coworkers would say about you?\nWhat do you think people often misunderstand about you?\nIf you had an alter ego, who—or what—would they be?",
                     "flagged": false,
@@ -3878,7 +4036,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "parent_reminder": "Asking People",
                     "due_date": "",
                     "notes": "What’s a project you’re working on right now that excites you the most?\nWhat’s the thing you’re currently creating or exploring that you feel most energized by?\nWhat’s a challenge or opportunity you’re working on right now that you’re especially passionate about?",
                     "flagged": false,
@@ -3889,7 +4047,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "parent_reminder": "Asking People",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3900,7 +4058,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "parent_reminder": "Asking People",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3911,7 +4069,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "parent_reminder": "Asking People",
                     "due_date": "",
                     "notes": "What are you proudest of — and why that?",
                     "flagged": false,
@@ -3922,7 +4080,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "parent_reminder": "Asking People",
                     "due_date": "",
                     "notes": "What’s a belief you held five years ago that you had to unlearn in order to grow?",
                     "flagged": false,
@@ -3933,7 +4091,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "parent_reminder": "Asking People",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3944,7 +4102,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "parent_reminder": "Asking People",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3955,7 +4113,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "parent_reminder": "Asking People",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3966,7 +4124,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "parent_reminder": "Asking People",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3977,7 +4135,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🤔 On \"Asking People\"",
+                    "parent_reminder": "Asking People",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -3991,7 +4149,7 @@
             "list": "💭 Journal Prompt",
             "priority": "None",
             "tags": "",
-            "name": "🤔 On \"Asking People\""
+            "name": "Asking People"
         }
     ]
 }

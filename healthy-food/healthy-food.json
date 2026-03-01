@@ -7,7 +7,7 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "🌾 Whole Grains",
+                    "parent_reminder": "Whole Grains",
                     "due_date": "",
                     "notes": "= 碾碎小麥",
                     "flagged": false,
@@ -18,7 +18,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🌾 Whole Grains",
+                    "parent_reminder": "Whole Grains",
                     "due_date": "",
                     "notes": "= 藜麥",
                     "flagged": false,
@@ -32,7 +32,7 @@
             "list": "🌱 Healthy Food",
             "priority": "None",
             "tags": "",
-            "name": "🌾 Whole Grains"
+            "name": "Whole Grains"
         },
         {
             "url": "https://en.wikipedia.org/wiki/Legume",
@@ -41,7 +41,7 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "🫛 Legumes (荚豆)",
+                    "parent_reminder": "Legumes (荚豆)",
                     "due_date": "",
                     "notes": "= Lentil (DE) = 扁豆",
                     "flagged": false,
@@ -52,7 +52,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🫛 Legumes (荚豆)",
+                    "parent_reminder": "Legumes (荚豆)",
                     "due_date": "",
                     "notes": "+ = Kichererbsen (DE) = 鷹嘴豆 = 雞豆 = 雪蓮子\n+ For baking, the liquid found in a can of chickpeas is known as **aquafaba** and serves as an excellent substitute for eggs. Approximately 3 tablespoons of aquafaba equate to one egg, 2 tablespoons are equivalent to one egg white, and 1 tablespoon is roughly equal to one egg yolk.",
                     "flagged": false,
@@ -66,7 +66,7 @@
             "list": "🌱 Healthy Food",
             "priority": "None",
             "tags": "",
-            "name": "🫛 Legumes (荚豆)"
+            "name": "Legumes (荚豆)"
         },
         {
             "url": "",
@@ -75,7 +75,7 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "🌰 Nuts",
+                    "parent_reminder": "Nuts",
                     "due_date": "",
                     "notes": "= Esskastanie / Maroni (DE) = 栗子",
                     "flagged": false,
@@ -86,7 +86,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "🌰 Nuts",
+                    "parent_reminder": "Nuts",
                     "due_date": "",
                     "notes": "= Haselnuss (DE)",
                     "flagged": false,
@@ -100,7 +100,18 @@
             "list": "🌱 Healthy Food",
             "priority": "None",
             "tags": "",
-            "name": "🌰 Nuts"
+            "name": "Nuts"
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [],
+            "flagged": false,
+            "list": "🌱 Healthy Food",
+            "priority": "None",
+            "tags": "",
+            "name": "Beans"
         },
         {
             "url": "",
@@ -109,7 +120,85 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "🌶️ Spices",
+                    "parent_reminder": "Vegetables",
+                    "due_date": "",
+                    "notes": "= Lady's Fingers = 秋葵",
+                    "flagged": false,
+                    "list": "🌱 Healthy Food",
+                    "priority": "None",
+                    "name": "[Okra](https://www.google.com/search?q=Okra)",
+                    "url": "https://www.google.com/search?q=Okra"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Vegetables",
+                    "due_date": "",
+                    "notes": "= stem/celery/asparagus/Chinese lettuce = 嫩莖萵苣 = 萵筍 = A 菜心",
+                    "flagged": false,
+                    "list": "🌱 Healthy Food",
+                    "priority": "None",
+                    "name": "[Celtuce](https://www.google.com/search?q=Celtuce)",
+                    "url": "https://www.google.com/search?q=Celtuce"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Vegetables",
+                    "due_date": "",
+                    "notes": "= 櫻桃蘿蔔",
+                    "flagged": false,
+                    "list": "🌱 Healthy Food",
+                    "priority": "None",
+                    "name": "[Radish](https://www.google.com/search?q=Radish)",
+                    "url": "https://www.google.com/search?q=Radish"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Vegetables",
+                    "due_date": "",
+                    "notes": "= 歐洲防風草 (歐防風) = 歐洲蘿蔔",
+                    "flagged": false,
+                    "list": "🌱 Healthy Food",
+                    "priority": "None",
+                    "name": "[Parsnip](https://www.google.com/search?q=Parsnip)",
+                    "url": "https://www.google.com/search?q=Parsnip"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Vegetables",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "🌱 Healthy Food",
+                    "priority": "None",
+                    "name": "[New Reminder](https://www.google.com/search?q=New+Reminder)",
+                    "url": "https://www.google.com/search?q=New+Reminder"
+                }
+            ],
+            "flagged": false,
+            "list": "🌱 Healthy Food",
+            "priority": "None",
+            "tags": "",
+            "name": "Vegetables"
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [],
+            "flagged": false,
+            "list": "🌱 Healthy Food",
+            "priority": "None",
+            "tags": "",
+            "name": "Fruits"
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "Spices",
                     "due_date": "",
                     "notes": "= 豆蔻",
                     "flagged": false,
@@ -123,7 +212,7 @@
             "list": "🌱 Healthy Food",
             "priority": "None",
             "tags": "",
-            "name": "🌶️ Spices"
+            "name": "Spices"
         }
     ]
 }

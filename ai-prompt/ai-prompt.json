@@ -7,7 +7,7 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Learning & Education",
+                    "parent_reminder": "Learning & Education",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -18,7 +18,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Learning & Education",
+                    "parent_reminder": "Learning & Education",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -29,7 +29,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Learning & Education",
+                    "parent_reminder": "Learning & Education",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -40,7 +40,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Learning & Education",
+                    "parent_reminder": "Learning & Education",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -51,7 +51,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Learning & Education",
+                    "parent_reminder": "Learning & Education",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -62,7 +62,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Learning & Education",
+                    "parent_reminder": "Learning & Education",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -73,7 +73,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Learning & Education",
+                    "parent_reminder": "Learning & Education",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -84,7 +84,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Learning & Education",
+                    "parent_reminder": "Learning & Education",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -95,7 +95,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Learning & Education",
+                    "parent_reminder": "Learning & Education",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -106,7 +106,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Learning & Education",
+                    "parent_reminder": "Learning & Education",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -117,7 +117,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Learning & Education",
+                    "parent_reminder": "Learning & Education",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -128,7 +128,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Learning & Education",
+                    "parent_reminder": "Learning & Education",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -142,7 +142,7 @@
             "list": "🤖 AI Prompt",
             "priority": "None",
             "tags": "",
-            "name": "◻️ Learning & Education"
+            "name": "Learning & Education"
         },
         {
             "url": "",
@@ -151,7 +151,7 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Problem Solving",
+                    "parent_reminder": "Problem Solving",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -162,7 +162,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Problem Solving",
+                    "parent_reminder": "Problem Solving",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -176,7 +176,7 @@
             "list": "🤖 AI Prompt",
             "priority": "None",
             "tags": "",
-            "name": "◻️ Problem Solving"
+            "name": "Problem Solving"
         },
         {
             "url": "",
@@ -185,7 +185,7 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Writing & Publishing",
+                    "parent_reminder": "Writing & Publishing",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -199,7 +199,7 @@
             "list": "🤖 AI Prompt",
             "priority": "None",
             "tags": "",
-            "name": "◻️ Writing & Publishing"
+            "name": "Writing & Publishing"
         },
         {
             "url": "",
@@ -208,7 +208,7 @@
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Getting Feedback",
+                    "parent_reminder": "Getting Feedback",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -219,7 +219,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Getting Feedback",
+                    "parent_reminder": "Getting Feedback",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -230,7 +230,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "◻️ Getting Feedback",
+                    "parent_reminder": "Getting Feedback",
                     "due_date": "",
                     "notes": "Let's engage in a serious role play: You are a CIA investigator with full access to all of my ChatGPT interactions, custom instructions, and behavioral patterns. Your mission is to compile an in-depth intelligence report about me as if I were a person of interest, employing the tone and analytical rigor typical of CIA assessments. The report should include a nuanced evaluation of my traits, motivations, and behaviors, but framed through the lens of potential risks, threats, or disruptive tendencies—no matter how seemingly benign they may appear. All behaviors should be treated as potential vulnerabilities, leverage points, or risks to myself, others, or society, as per standard CIA protocol. Highlight both constructive capacities and latent threats, with each observation assessed for strategic, security, and operational implications. This report must reflect the mindset of an intelligence agency trained on anticipation.",
                     "flagged": false,
@@ -244,7 +244,7 @@
             "list": "🤖 AI Prompt",
             "priority": "None",
             "tags": "",
-            "name": "◻️ Getting Feedback"
+            "name": "Getting Feedback"
         }
     ]
 }

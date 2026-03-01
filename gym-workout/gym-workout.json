@@ -9,7 +9,7 @@
             "list": "🦾 Gym Workout",
             "priority": "None",
             "tags": "",
-            "name": "🟡 Upper Body"
+            "name": "Upper Body"
         },
         {
             "url": "",
@@ -20,7 +20,74 @@
             "list": "🦾 Gym Workout",
             "priority": "None",
             "tags": "",
-            "name": "🟡 Lower Body"
+            "name": "Lower Body"
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "Full Body",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "🦾 Gym Workout",
+                    "priority": "None",
+                    "name": "[Power Clean](https://www.google.com/search?q=Power+Clean)",
+                    "url": "https://www.google.com/search?q=Power+Clean"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Full Body",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "🦾 Gym Workout",
+                    "priority": "None",
+                    "name": "[Squat](https://www.google.com/search?q=Squat)",
+                    "url": "https://www.google.com/search?q=Squat"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Full Body",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "🦾 Gym Workout",
+                    "priority": "None",
+                    "name": "[Deadlifts](https://www.google.com/search?q=Deadlifts)",
+                    "url": "https://www.google.com/search?q=Deadlifts"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Full Body",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "🦾 Gym Workout",
+                    "priority": "None",
+                    "name": "[Bench Press](https://www.google.com/search?q=Bench+Press)",
+                    "url": "https://www.google.com/search?q=Bench+Press"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Full Body",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "🦾 Gym Workout",
+                    "priority": "None",
+                    "name": "[Overhead Press](https://www.google.com/search?q=Overhead+Press)",
+                    "url": "https://www.google.com/search?q=Overhead+Press"
+                }
+            ],
+            "flagged": false,
+            "list": "🦾 Gym Workout",
+            "priority": "None",
+            "tags": "",
+            "name": "Full Body"
         }
     ]
 }

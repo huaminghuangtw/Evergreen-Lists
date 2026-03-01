@@ -9,7 +9,7 @@
                     "tags": "",
                     "parent_reminder": "🇮🇪 Ireland",
                     "due_date": "",
-                    "notes": "= 馬鈴薯泥甘藍",
+                    "notes": "= 馬鈴薯甘藍/白菜泥",
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
@@ -261,6 +261,17 @@
                     "priority": "None",
                     "name": "[Tortellini](https://www.google.com/search?q=Tortellini)",
                     "url": "https://www.google.com/search?q=Tortellini"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🇨🇮 Italy",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "🌍 World Cuisine",
+                    "priority": "None",
+                    "name": "[Panna Cotta](https://www.google.com/search?q=Panna+Cotta)",
+                    "url": "https://www.google.com/search?q=Panna+Cotta"
                 },
                 {
                     "tags": "",
@@ -714,12 +725,23 @@
                     "tags": "",
                     "parent_reminder": "🇻🇳 Vietnam",
                     "due_date": "",
-                    "notes": "+ Pho 湯河粉 ↔ Pho Xao 乾河粉\n+ Phở Bò (Beef) ↔ Phở Gà (Chicken)",
+                    "notes": "+ Pho 湯河粉 ↔ Pho Xao 乾河粉\n+ Phở Bò (Beef) ↔ Phở Gà (Chicken)\n+ = 越南火車頭",
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
                     "name": "[Phở](https://www.google.com/search?q=Ph%E1%BB%9F)",
                     "url": "https://www.google.com/search?q=Ph%E1%BB%9F"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "🇻🇳 Vietnam",
+                    "due_date": "",
+                    "notes": "= 順化牛肉米線",
+                    "flagged": false,
+                    "list": "🌍 World Cuisine",
+                    "priority": "None",
+                    "name": "[Bún bò Huế](https://www.google.com/search?q=Bún+bò+Huế)",
+                    "url": "https://www.google.com/search?q=B%C3%BAn+b%C3%B2+Hu%E1%BA%BF"
                 }
             ],
             "flagged": false,
@@ -795,6 +817,17 @@
             "priority": "None",
             "tags": "",
             "name": "🇨🇭 Switzerland"
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [],
+            "flagged": false,
+            "list": "🌍 World Cuisine",
+            "priority": "None",
+            "tags": "",
+            "name": "🇵🇸 Palestine"
         },
         {
             "url": "",
@@ -878,6 +911,61 @@
             "url": "",
             "due_date": "",
             "notes": "",
+            "subtasks": [],
+            "flagged": false,
+            "list": "🌍 World Cuisine",
+            "priority": "None",
+            "tags": "",
+            "name": "🇪🇹 Ethiopia"
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [],
+            "flagged": false,
+            "list": "🌍 World Cuisine",
+            "priority": "None",
+            "tags": "",
+            "name": "🇸🇦 Saudi Arabia"
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [],
+            "flagged": false,
+            "list": "🌍 World Cuisine",
+            "priority": "None",
+            "tags": "",
+            "name": "🇪🇪 Estonia"
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [],
+            "flagged": false,
+            "list": "🌍 World Cuisine",
+            "priority": "None",
+            "tags": "",
+            "name": "🇱🇻 Latvia"
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [],
+            "flagged": false,
+            "list": "🌍 World Cuisine",
+            "priority": "None",
+            "tags": "",
+            "name": "🇱🇹 Lithuania"
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
             "subtasks": [
                 {
                     "tags": "",
@@ -924,12 +1012,45 @@
             "url": "",
             "due_date": "",
             "notes": "",
+            "subtasks": [],
+            "flagged": false,
+            "list": "🌍 World Cuisine",
+            "priority": "None",
+            "tags": "",
+            "name": "🇷🇸 Serbia"
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [],
+            "flagged": false,
+            "list": "🌍 World Cuisine",
+            "priority": "None",
+            "tags": "",
+            "name": "🇲🇳 Mongolia"
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [],
+            "flagged": false,
+            "list": "🌍 World Cuisine",
+            "priority": "None",
+            "tags": "",
+            "name": "🇨🇳 China"
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
             "subtasks": [
                 {
                     "tags": "",
                     "parent_reminder": "🇪🇸 Spain",
                     "due_date": "",
-                    "notes": "+ = 吉拿棒\n+ [How churros are made in a traditional churería](https://www.reddit.com/r/educationalgifs/s/6VAdLlscOx) ",
+                    "notes": "+ = 吉拿棒\n+ [This is how churros are made in a traditional churería.](https://www.reddit.com/r/educationalgifs/s/6VAdLlscOx)",
                     "flagged": false,
                     "list": "🌍 World Cuisine",
                     "priority": "None",
@@ -942,6 +1063,28 @@
             "priority": "None",
             "tags": "",
             "name": "🇪🇸 Spain"
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [],
+            "flagged": false,
+            "list": "🌍 World Cuisine",
+            "priority": "None",
+            "tags": "",
+            "name": "🇵🇹 Portugal"
+        },
+        {
+            "url": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [],
+            "flagged": false,
+            "list": "🌍 World Cuisine",
+            "priority": "None",
+            "tags": "",
+            "name": "🇲🇲 Myanmar"
         },
         {
             "url": "",
