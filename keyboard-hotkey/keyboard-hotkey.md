@@ -2,7 +2,7 @@
 title: ⌨️ Keyboard Hotkey
 description: A compilation of essential keyboard shortcuts to enhance productivity.
 spreadsheetId: 12UxNMk9LmNd8C0iGM_ssMv1ruUt_mJw-mw43bpm-wcE
-modified: 2026-03-13T20:03:54
+modified: 2026-03-13
 ---
 
 # [◻️ VS Code](https://code.visualstudio.com/docs/getstarted/keybindings)
