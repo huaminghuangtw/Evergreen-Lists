@@ -2,8 +2,7 @@
 title: 📋 Cheat Sheet
 description: Handy reference to quickly access terminal commands that I frequently use.
 spreadsheetId: 1X9zuCMb30DiQba5VNjT-HDwwomA9u0Z-trmuqVmykYY
-created: 2024-11-18T17:53:47
-modified: 2026-02-21T08:28:22
+modified: 2026-03-13T20:03:27
 ---
 
 # ◻️ Git

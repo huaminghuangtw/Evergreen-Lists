@@ -2,8 +2,7 @@
 title: 🌍 World Cuisine
 description: Explore diverse and delicious recipes from around the globe to broaden your culinary horizons.
 spreadsheetId: 1igJQxFOBLpDtvf1wWkuCNi8KVaC10TJnkLGiVMApNEY
-created: 2025-12-05T16:32:14
-modified: 2026-01-25T16:14:19
+modified: 2026-03-13T20:03:96
 ---
 
 # 🇮🇪 Ireland

@@ -2,8 +2,7 @@
 title: 💪 Home Exercise
 description: Simple yet effective exercises you can do at home to stay fit and healthy without any equipment.
 spreadsheetId: 1zLI8WqN8xXwbVNBXzU5ixzw688tuBsivD9-SyyTTNbk
-created: 2025-05-16T12:25:40
-modified: 2025-12-19T16:42:26
+modified: 2026-03-13T20:03:34
 ---
 
 # 🟠 Upper Body

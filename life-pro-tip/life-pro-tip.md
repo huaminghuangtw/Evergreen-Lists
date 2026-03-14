@@ -2,8 +2,7 @@
 title: 👑 Life Pro Tip
 description: Practical tricks to improve everyday life.
 spreadsheetId: 13QwPCE33ehjr6fjraQgAQZHvTr_Aux0wKNOHAk4OcHo
-created: 2025-12-05T15:00:12
-modified: 2026-01-25T16:14:19
+modified: 2026-03-13T20:03:84
 ---
 
 # 💡 On “Life Wisdom/Lesson”
@@ -123,8 +122,8 @@ modified: 2026-01-25T16:14:19
 
 * [When assembling furniture, first tighten all screws to 75%, then fully secure them once all components fit together. This principle extends beyond furniture.](https://perell.com/note/28-pieces-of-life-advice/)
 * [How to make pillows out of blankets?](https://www.reddit.com/r/lifehacks/s/PEescdRSx4)
-* [10 Useful Hacks with Binder Clips](https://www.youtube.com/watch?v=3czrTVSlGhY)
-* **[Know The Difference!](https://www.youtube.com/watch?v=1NYotD8npmg)** A _toilet plunger_ has a <u>flange (a soft, narrow rubber sleeve)</u> that extends from the cup, designed to create a tight seal in the curved drain of a toilet. A _sink plunger_, on the other hand, has a flat cup suitable for creating a seal on flat surfaces like sinks or bathtubs.
+* [10 Useful Hacks with Binder Clips](https://youtu.be/3czrTVSlGhY)
+* **[Know The Difference!](https://youtu.be/1NYotD8npmg)** A _toilet plunger_ has a <u>flange (a soft, narrow rubber sleeve)</u> that extends from the cup, designed to create a tight seal in the curved drain of a toilet. A _sink plunger_, on the other hand, has a flat cup suitable for creating a seal on flat surfaces like sinks or bathtubs.
 * [How to Seal a Bag of Chips without a Clip](https://youtu.be/AdhUifjOahs)
 * Replace Fabric Softener with White Vinegar
 	1. Cheap
@@ -154,7 +153,7 @@ modified: 2026-01-25T16:14:19
 * Turn off self-view on video calls. Underrated trick to actually focus on the people you’re talking to instead of spending most of the time concerned with how you look.
 * [Never say yes on the phone/email to avoid commitments made under social pressure or the desire to please.](https://tim.blog/2023/09/28/shane-parrish-farnam-street/)
 * Make phone calls as walking meetings in the sun.
-* Whenever you are on a Zoom call, put your headphones or AirPods in, then open up YouTube, and find an ambient soundtrack that you play at 5% volume (e.g., [Lord of the Rings ambience](https://www.youtube.com/watch?v=30b7_S0paCQ&ab_channel=AmbientWorlds), [Harry Potter ambience](https://www.youtube.com/watch?v=pQdTu0IeVho&ab_channel=AmbientWorlds), etc.). This way, as you are taking the call, there’s a soft, inspiring soundtrack playing in the background. The soundtrack makes anything anyone says feel more relaxed, more warm, and more energizing.
+* Whenever you are on a Zoom call, put your headphones or AirPods in, then open up YouTube, and find an ambient soundtrack that you play at 5% volume (e.g., [Lord of the Rings ambience](https://youtu.be/30b7_S0paCQ), [Harry Potter ambience](https://youtu.be/pQdTu0IeVho), etc.). This way, as you are taking the call, there’s a soft, inspiring soundtrack playing in the background. The soundtrack makes anything anyone says feel more relaxed, more warm, and more energizing.
 * [When asking for a favor over email, lead with the request and save the small talk for later. It feels much more sincere when the pleasantries come after the ask.](https://mariandrew.substack.com/p/100-things-i-know)
 
 # 💡 On “Wellness & Wellbeing”
@@ -225,7 +224,7 @@ modified: 2026-01-25T16:14:19
 	* _[“Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny.” — Steve Maraboli](https://www.goodreads.com/quotes/525097-letting-go-means-to-come-to-the-realization-that-some)_
 * “What’s your favorite TV show/book/movie?” → “What’s the TV show you are into _recently_?”, “What’s the _last_ book you read?”, “What’s the movie you are _currently enjoying most_?” [^6]
 * [Kids love absurd questions. If you want to connect with them, ask something totally grown-up—like “What kind of car do you drive?” or “So, what do you do for work?” They’ll crack up, and the more you continue the bit, the more they will loosen up with you.](https://mariandrew.substack.com/p/100-things-i-know)
-* [The quickest way to alienate someone is to tell them they need to change. If you truly want to influence/castigate someone’s behavior, the most effective approach is to praise/compliment them when they do something you value — not to criticize them when they don’t.](http://www.youtube.com/watch?v=KyfUysrNaco&t=1h33m3s)
+* [The quickest way to alienate someone is to tell them they need to change. If you truly want to influence/castigate someone’s behavior, the most effective approach is to praise/compliment them when they do something you value — not to criticize them when they don’t.](https://youtu.be/KyfUysrNaco?t=1h33m3s)
 	* [“The way to help someone is not to critique what makes them smaller, but to encourage what makes them larger.” — James Clear](https://jamesclear.com/3-2-1/march-20-2025)
 	* “We cannot teach people anything. We can only help them discover it within themselves.” — Galileo Galilei
 * Always bring a small gift—wine, flowers, or a treat—to a dinner or birthday party, even if the host says it’s unnecessary. It’s a simple gesture of gratitude and thoughtfulness that’s always appreciated. Never show up empty-handed.
@@ -240,13 +239,13 @@ modified: 2026-01-25T16:14:19
 
 # 💡 On “Cooking”
 
-* [Chef Tip: How to peel and segment a grapefruit?](https://www.youtube.com/watch?v=whkgVWWJijE)
+* [Chef Tip: How to peel and segment a grapefruit?](https://youtu.be/whkgVWWJijE)
 	1. 用「手剝」（先用刀切對半) → 快
 	2. 用「刀剝」 → 慢
-			1. [You only cut the rind twice](https://www.youtube.com/watch?v=H_erG7HSK0A&t=419s): (1) Start at stem, cut entirely. (2) Rotate a 90°angle to the first cut, but this time only cut deep enough to go through the rind 外皮，外殼; 硬皮 and pith [the white skin under the rind] 襯皮; 木髓 (吃起來會苦 bitter 的白色纖維), then peel around the core while unrolling the grapefriut.
+			1. [You only cut the rind twice](https://youtu.be/H_erG7HSK0A?t=419s): (1) Start at stem, cut entirely. (2) Rotate a 90°angle to the first cut, but this time only cut deep enough to go through the rind 外皮，外殼; 硬皮 and pith [the white skin under the rind] 襯皮; 木髓 (吃起來會苦 bitter 的白色纖維), then peel around the core while unrolling the grapefriut.
 			2. Once you peel away the whole rind, cut down one edge of the wedge, but stop at the middle and with your knifes edge, gently push up towards the other side of the wedge. This will peel the wedge from the inner pith. And repeat until all wedges are out.
 * Egg Cracking: Instead of tapping the egg on the edge of a bowl several times (which creates multiple tiny fractures of egg shells), tap the egg on a flat surface such as the counter (firmly) only ONCE (which creates the cleanest split)
-* [Adding a teaspoon of baking soda to your boiling pot of water will help to seamlessly remove the shell of hard-boiled eggs without peeling.](https://www.youtube.com/watch?v=PN2gYHJNT3Y) [^7]
+* [Adding a teaspoon of baking soda to your boiling pot of water will help to seamlessly remove the shell of hard-boiled eggs without peeling.](https://youtu.be/PN2gYHJNT3Y) [^7]
 * 如何避免「馬鈴薯」或「蘋果」削皮後「褐變」氧化變黑？
 	1. 立刻將其浸泡於水中，避免與空氣接觸。也可以加入少許「鹽」或「醋」來延緩氧化，並將食材放置於「冷藏」中
 	2. 將其加熱煮至半熟（約 5 分鐘），再切片或搗爛成泥後放入「冷凍」保存
@@ -352,7 +351,7 @@ modified: 2026-01-25T16:14:19
 
 # 💡 On “Dressing”
 
-* How to make use of the extra holes (aka The Runner’s Knot 跑者洞) on your running shoes? [The Heel Lock Lacing Method](https://www.youtube.com/watch?v=OBbc6TackDQ&t=68s)
+* How to make use of the extra holes (aka The Runner’s Knot 跑者洞) on your running shoes? [The Heel Lock Lacing Method](https://youtu.be/OBbc6TackDQ?t=68s)
 	1. This gives you a better lockdown around the ankle, so it avoids putting too much pressure on the top of you foot and minimizes the heel slippage.
 	2. That’s the reason why runner laces are often so long.
 

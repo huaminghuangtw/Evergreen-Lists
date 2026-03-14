@@ -2,8 +2,7 @@
 title: 👨‍💻 Tech Pro Tip
 description: Expert tips to streamline workflows and troubleshoot issues in tech.
 spreadsheetId: 1o3HcHxZKbOK178Zswo7Xp4MNM7AgrA6_xaZMEhrdFYM
-created: 2024-11-18T17:58:47
-modified: 2025-12-19T16:42:49
+modified: 2026-03-13T20:03:91
 ---
 
 # 💡 Miscellaneous
@@ -51,7 +50,7 @@ modified: 2025-12-19T16:42:49
 
 # 💡 iOS
 
-* [Instead of using the traditional copy-and-paste approach to move text/images/files/urls/etc. between apps, use the hidden drag-and-drop feature.](https://www.youtube.com/watch?v=DhwRv1YLhRg)
+* [Instead of using the traditional copy-and-paste approach to move text/images/files/urls/etc. between apps, use the hidden drag-and-drop feature.](https://youtu.be/DhwRv1YLhRg)
 * [Move multiple Home Screen apps at once](https://ios.gadgethacks.com/how-to/move-multiple-home-screen-apps-once-0177985): Tap and hold on one app, then tap more apps to add them to your stack
 * Good phone charging habits to maximize battery lifespan
 	1. **Keep battery between 20–80%**

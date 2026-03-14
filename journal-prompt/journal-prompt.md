@@ -2,8 +2,7 @@
 title: 💭 Journal Prompt
 description: Thought-provoking questions to inspire self-reflection.
 spreadsheetId: 1RI3C2N7-LaWG1pZC6xMVvS08OJJQp92qJhLaPSXNzQ0
-created: 2024-11-18T18:07:14
-modified: 2026-01-25T16:14:19
+modified: 2026-03-13T20:03:66
 ---
 
 # 🤔 On “Today”
