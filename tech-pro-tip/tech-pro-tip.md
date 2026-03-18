@@ -2,10 +2,10 @@
 title: 👨‍💻 Tech Pro Tip
 description: Expert tips to streamline workflows and troubleshoot issues in tech.
 spreadsheetId: 1o3HcHxZKbOK178Zswo7Xp4MNM7AgrA6_xaZMEhrdFYM
-modified: 2026-03-13
+modified: 2026-03-18
 ---
 
-# 💡 Miscellaneous
+# Miscellaneous
 
 * How to read through any article on the web with a paywall?
 	* Method I: The easiest way to bypass paywalls is to just disable JavaScript for the site.
@@ -19,10 +19,10 @@ modified: 2026-03-13
 * If you’re curious about how a font looks in action, just Google its name — for popular fonts like _Comic Sans_, _Roboto_, or _Courier_, Google will sometimes render the search results page in that font. It’s a clever [Easter egg](https://en.wikipedia.org/wiki/List_of_Google_Easter_eggs) that lets you preview the font in real-time. Great for designers or anyone picking fonts quickly. Note: it works best in Chrome and may not appear if you’re using certain browser extensions.
 * You can create a link that highlights specific text fragment on a page by adding `#:~:text=your%20text%20here` to the end of the URL — it’ll auto-scroll and highlight the exact phrase. For example, linking to “climate change” on Wikipedia looks like this: <https://en.wikipedia.org/wiki/Climate_change>#:~:text=climate%20change. On iPhone, there’s an even easier method: simply select the text, tap **Share**, choose **Copy Link with Highlight**, and Safari will automatically generate a highlight-enabled URL.
 * [If you’re on a computer, right-click on the YouTube video at the exact time you want to share, then select “Copy video URL at current time” to get a link that starts at the specific timestamp.](https://www.reddit.com/r/YouShouldKnow/comments/vkj797/comment/idphs20)
-* Apple Maps nearly for navigation. Google Maps for business overview.
+* Apple Maps for navigation. Google Maps for business overview.
 * In most web browsers, holding **Alt** (Windows/Linux) or **Option** (Mac) while clicking a link triggers a quick **download** of the linked file or page instead of opening it. This browser shortcut is the same as right-click \> “Save Link As”, making it useful for instantly saving PDFs, images, or other resources without right-clicking.
 
-# 💡 macOS
+# macOS
 
 * How to add Trash to the Finder window sidebar? Open the Trash > Go to the File menu > Click “Add to Sidebar”
 * Use the keyboard shortcut `Shift` + `Cmd` + `/` to show the menu bar _search_, which reveals the menu bar with the added benefit of putting the cursor in the search field, so that you can quickly type the command you want and hit `Enter`
@@ -48,12 +48,12 @@ modified: 2026-03-13
 * Hold Option (⌥) + click the WiFi icon in the menu bar to see detailed network info like IP address, BSSID, and channel. This trick isn’t limited to WiFi—many apps and system menus reveal hidden features when you hold Option, so try Option-clicking everything to uncover powerful shortcuts.
 * Type anything into Spotlight and press ⌘B to instantly open it as a web search in your default browser.
 
-# 💡 iOS
+# iOS
 
 * [Instead of using the traditional copy-and-paste approach to move text/images/files/urls/etc. between apps, use the hidden drag-and-drop feature.](https://youtu.be/DhwRv1YLhRg)
 * [Move multiple Home Screen apps at once](https://ios.gadgethacks.com/how-to/move-multiple-home-screen-apps-once-0177985): Tap and hold on one app, then tap more apps to add them to your stack
 * Good phone charging habits to maximize battery lifespan
-	1. **Keep battery between 20–80%**
+	1. **Keep battery between 20—80%**
 		Charge once daily (~1 hr) when below 20%, instead of multiple short charges.
 	2. **Avoid overnight charging**
 		Unless _Optimized Battery Charging_ is enabled (default on most modern phones).
@@ -62,12 +62,12 @@ modified: 2026-03-13
 * 在 iPhone 輸入中文時，可以先輸入每個字的首個注音符號，待所有字母輸入完畢後，再依照建議詞彙或上下文選字。這種方式有助於提高輸入速度，特別是在熟悉鍵盤佈局後，可減少中斷思考的時間。
 * Saying “Remind me” to Siri can create a reminder in the default list.
 
-# 💡 Apple Ecosystem
+# Apple Ecosystem
 
 * [Use Universal Clipboard to copy and paste between your Apple devices](https://support.apple.com/en-us/102430)
 * How to create clickable links to Apple Notes (`applenotes:note/…`)? In Apple Notes, select (or double-tap) a word or symbol, press `Cmd + K` (or tap **Add Link**), and type part of the target note title. Then right-click (on macOS) or tap and hold (on iOS) the link, and choose **Copy Link** (macOS) or **Copy** (iOS). Paste the resulting `applenotes:` link into any rich text app — it’ll work just like a regular hyperlink, e.g., `applenotes:note/xxxx-xxxx-xxxx`.
 
-# 💡Developer Productivity
+# Developer Productivity
 
 * When browsing a GitHub repository, simply press the `.` key or replace `.com` with `.dev` in the URL to launch the repository in the [VS Code for the Web](https://code.visualstudio.com/docs/setup/vscode-web) —a full-featured, browser-based code editor. Example: <https://github.com/user/repo> → <https://github.dev/user/repo>. This is perfect for quick edits, reviews, or exploring code without cloning locally.
 * You can **quickly launch tools and code sandboxes** using special `.new` URLs, a domain originally created by Google to streamline content creation. Typing `react.new` or `vue.new` in your browser instantly opens a ready-to-code sandbox for **React** or **Vue.js**, without needing a local setup. URLs like `docs.new`, `sheets.new`, and `slides.new` create new Google Docs, Sheets, or Slides with one click. Other services, like YouTube or Spotify, use URLs such as `playlist.new` for fast playlist creation.
