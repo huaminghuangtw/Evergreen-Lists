@@ -2,12 +2,12 @@
 title: 👑 Life Pro Tip
 description: Practical tricks to improve everyday life.
 spreadsheetId: 13QwPCE33ehjr6fjraQgAQZHvTr_Aux0wKNOHAk4OcHo
-modified: 2026-03-13
+modified: 2026-03-18
 ---
 
-# 💡 On “Life Wisdom/Lesson”
+# Life Wisdom & Lessons
 
-* If it’s raining on a warm summer evening, go outside and dance in it.
+* If it’s raining on a warm summer evening, go outside and dance in it. [^1]
 * When you read something helpful, write to the author—a simple act that can yield meaningful results. By expressing your appreciation, you foster **real human connection**, reminding the creator that their work matters. This small gesture also helps **reinforce your learning**, as explaining why something resonated deepens understanding. Additionally, it can **open doors** to potential mentorships, collaborations, or friendships. Because most readers remain silent, your gratitude will be **rare—and memorable**. Whether it’s a bestselling writer or a niche blogger, reaching out strengthens a culture of appreciation and may spark unexpected opportunities.
 * Read [leaked emails](https://www.wikileaks.org) to learn [how business actually works](https://x.com/TechEmails).
 * Learn one funny dance move.
@@ -23,7 +23,7 @@ modified: 2026-03-13
 * [When learning something new, spend 5 minutes trying to teach it to someone. Make a note of where the other person gets confused. Notice where they get confused—you’ll get an immediate sense for your level of understanding of the topic and where you need to dig in more.](https://www.sahilbloom.com/newsletter/the-most-powerful-asymmetries-in-life)
 * Carry a pocket notebook everywhere you go. Get into the habit of jotting down ideas, thoughts, or insights the moment they come to you. You’ll capture sparks of creativity that would otherwise fade—and over time, you’ll build a personal library of ideas to revisit and develop.
 
-# 💡 On “Eating & Drinking”
+# Eating & Drinking
 
 * 要讓家庭號寶特瓶汽水保氣，最有效的方法是「冷藏」以維持二氧化碳溶解度，並在每次喝完後適度「捏扁」瓶身減少空氣體積，再將瓶口「倒置」存放，讓液體封住瓶口以減緩氣泡逸出，同時務必轉緊瓶蓋並避免劇烈搖晃；若想延長保氣時間，可額外使用 [真空酒瓶塞](https://www.google.com/search?q=真空酒瓶塞) 或分裝玻璃瓶，搭配這些技巧可以讓汽水氣泡維持更久。
 * [Most of the pleasure in a dessert comes in the first three bites. After that, you should stop eating it. As a reward, you can eat dessert more often because you don’t binge it.](https://perell.com/note/28-pieces-of-life-advice/)
@@ -33,7 +33,7 @@ modified: 2026-03-13
 * [Take cucumbers on your hike, bike ride, or any strenuous activity! Packed with 96% water, they’re a refreshing, hydrating boost when you need it most.](https://mariandrew.substack.com/p/100-things-i-know)
 * [How to attract the right people? Be unapologetically yourself. When you edit your personality, you attract relationships that need constant maintenance. Stop filtering who you are to be liked. The right ones will stick. The wrong ones will walk.](https://x.com/SahilBloom/status/1949818412898607405)
 
-# 💡 On “Moving”
+# Moving
 
 * Use garbage bags to pack and transport your hanging clothes. Leave the clothes on the hangers, open a garbage bag, and start to fill it with 8-15 hangers and clothing items, with the bottom of the garments going in first. Then, take the garbage bag ties and wrap them around the neck of the hangers. You can reuse these bags for actual trash later.
 * Hire movers, but pack and drive yourself. All the work and pain are in loading and unloading the truck.
@@ -43,13 +43,13 @@ modified: 2026-03-13
 * Get boxes with the same dimensions. The best are empty banana boxes from the local grocery store — they are sturdy, free, and stack well.
 * Always pack one box with the absolute essential living items. After a day of moving, you’ll be exhausted and won’t want to dig through several boxes to find them. Pack just enough to last you the next day or two while you unpack everything else.
 
-# 💡 On “Giving”
+# Giving
 
 * [Giving makes people happy, so why not give gifts others can give?](https://sketchplanations.com/give-gifts-others-can-give)
 * If you’re torn on what gift to send someone, send a book you love. Pair it with a handwritten note explaining why you chose it for them—the more personal and specific, the better. This thoughtful gesture conveys genuine care and has the potential to foster a deeper connection.
 * Write on a Post-it® note affixed to a greeting card rather than on the greeting card itself, so the recipient can throw away the Post-it® and reuse your card. (Employ similar logic for any disposable/consumable item.)
 
-# 💡 On “Miscellaneous”
+# Miscellaneous
 
 * Library card + [Libby](https://libbyapp.com/) = read stuff and take advantage of all the resources that come with it (e.g., e-books, movies, music, etc.) for FREE, without ever leaving the house! You can even share library cards with friends/family on Libby.
 * If you believe the police might want your iPhone for evidence during a traffic stop, quickly activate the emergency screen by pressing and holding the **side button** and **volume up/down button** of your iPhone simultaneously for about 2 seconds. This will disable biometric identification and require your passcode to access the phone. Alternatively, 5 quick presses of the side button achieves the same result. For maximum security, power off your phone entirely, as iPhones are fully encrypted before the first unlock (BFU). After the first unlock (AFU), data is less secure. Note that biometric unlock also requires the passcode after a restart.
@@ -79,8 +79,8 @@ modified: 2026-03-13
 	4. Use a fan strategically. Place a powerful fan near the hottest window and direct it outward to push warm air out. This will draw in cooler air through the other windows.
 	5. Seal the cool air inside. In the morning, before the outdoor temperature rises, close all windows and blinds to trap the cool air. Consider using blackout curtains to reduce heat gain throughout the day.
 * Keep your eye drops in the fridge for the extra soothing and redness relief / to enhance the cooling sensation when applying for itchy/burning eyes.
-* Avoid long exposure to direct sunlight for ANYTHING [^1]
-* Waiting 30-60 seconds (by wiping the water off your body with your hands, or shaking off like a dog lol) to dry off before stepping out of the shower significantly decreases the volume of water soaked/absorbed by your towel, allowing it to stay drier for longer. [^2]
+* Avoid long exposure to direct sunlight for ANYTHING [^2]
+* Waiting 30-60 seconds (by wiping the water off your body with your hands, or shaking off like a dog lol) to dry off before stepping out of the shower significantly decreases the volume of water soaked/absorbed by your towel, allowing it to stay drier for longer. [^3]
 * Don’t buy CDs for people. They have Spotify. Buy them merch from a band they like instead. It’s more personal and the band gets more money.
 * 洗碗精、洗手乳、沐浴乳、洗髮精等用罄時，把容器裝滿水稀釋，將可以再多使用 3-5 次！
 * Always underpromise and overdeliver (aka [baker’s dozen](https://www.google.com/search?q=baker%E2%80%99s+dozen))! For example, if you know how late you are going to be, add an extra 5-10 minutes to it. It might be annoying for the person/people when you say it initially, but when you come before the time you said, it will evoke a far more positive reaction than underestimating the lateness time.
@@ -98,7 +98,7 @@ modified: 2026-03-13
 * 吃冰棒的技巧：「一邊從頂部小口咬，一邊從根部往上舔」（Why? 冰棒都是從最上端開始融化，這樣做可以讓往下滴的水量減到最少）
 * You can search the photos on your iPhone by just typing in people, items, months, years, seasons, places you want to see, text in screenshots, etc.
 * Play YouTube videos in VLC media player to skip ads. Plus, you also benefit from all the capabilities of VLC.
-* Don’t look at your medical test reports before the doctor has a chance to explain them to you. Additionally, never ask the doctor what you should do. Instead, ask him what he would do if he were in your place. You would be surprised at the difference.
+* Never ask the doctor what you should do. Instead, ask him what he would do if he were in your place. You would be surprised at the difference.
 * Regularly open windows to remove CO2 and exchange for fresh air
 * Invest in the things (1) you use for a significant portion of your life (2) between you and the Earth. These possessions are worth the investment. You will thank yourself later.
 	1. bed — you spend a third of your life sleeping
@@ -106,24 +106,22 @@ modified: 2026-03-13
 	3. soft-soled walking/running shoes, boots — your feet carry you everywhere
 	4. tires — they’re the only contact between your vehicle and the road
 * 去麥當勞點餐時，和店員說要「不加鹽」的薯條，就可以得到熱騰騰、剛出爐的新鮮現炸薯條
-* How to correctly use the 3 compartments in a washing machine tray/drawer?
-	1. Slot I is for the pre-wash cycle followed by a main wash cycle if you have it on, but remember to fill Slot II every time as well
-	2. It’s not recommended to put the detergent directly on top of the clothes because it may not disperse evenly or rinse out with lower water levels
 * How to heal dry, cracked fingertips? Use Vaseline (or O’Keeffe’s Working Hands Hand Cream) before bed and put socks or (disposable, polyethylene PE, plastic, foodservice) gloves on hands for sleeping.
+* [If your wrapping paper turns out too small to cover the gift, try rotating the box 45° (diagonally) on the paper. The diagonal is longer than the side, which often gives you just enough extra coverage to wrap it successfully. 🎁📐](https://www.reddit.com/r/lifehacks/comments/1pv746i/if_you_cut_your_wrapping_paper_to_small_try/)
 
-# 💡 On “Careers & Work”
+# Careers & Work
 
 * When people hesitate to give you honest feedback, ask for a score from 0-10, instead of asking, “_What do you think?_”—which invites ambiguity. You’ll rarely get a perfect 10, and this makes it easy to follow up with, “_What would make this closer to a 10?_” Better questions lead to better feedback—and faster growth.
 * Use an exercise ball or a kneeling chair, instead of an office chair with wheels at work, to maintain a better posture.
-* [No matter how much your workplace pushes “team building” and “family culture” - remember, they’re not your friends and it’s still a workplace.](https://www.reddit.com/r/LifeProTips/comments/k3ywxq/lpt_no_matter_how_much_your_workplace_pushes_team)
+* [No matter how much your workplace pushes “team building” and “family culture” - remember, they’re not your friends and it’s still a workplace.](https://www.reddit.com/r/LifeProTips/comments/k3ywxq/lpt_no_matter_how_much_your_workplace_pushes_team) [^4]
 * Always book an extra day off after a holiday. It gives you time to recover, unpack, and mentally transition back to work fully recharged.
 
-# 💡 On “Home”
+# Home
 
 * [When assembling furniture, first tighten all screws to 75%, then fully secure them once all components fit together. This principle extends beyond furniture.](https://perell.com/note/28-pieces-of-life-advice/)
 * [How to make pillows out of blankets?](https://www.reddit.com/r/lifehacks/s/PEescdRSx4)
 * [10 Useful Hacks with Binder Clips](https://youtu.be/3czrTVSlGhY)
-* **[Know The Difference!](https://youtu.be/1NYotD8npmg)** A _toilet plunger_ has a <u>flange (a soft, narrow rubber sleeve)</u> that extends from the cup, designed to create a tight seal in the curved drain of a toilet. A _sink plunger_, on the other hand, has a flat cup suitable for creating a seal on flat surfaces like sinks or bathtubs.
+* **[Know The Difference!](https://youtu.be/1NYotD8npmg)** A _toilet plunger_ has a _flange (a soft, narrow rubber sleeve)_ that extends from the cup, designed to create a tight seal in the curved drain of a toilet. A _sink plunger_, on the other hand, has a flat cup suitable for creating a seal on flat surfaces like sinks or bathtubs.
 * [How to Seal a Bag of Chips without a Clip](https://youtu.be/AdhUifjOahs)
 * Replace Fabric Softener with White Vinegar
 	1. Cheap
@@ -143,11 +141,11 @@ modified: 2026-03-13
 * [How to Tie a Food Bag Properly?](https://www.reddit.com/r/lifehacks/comments/1hlosv9/the_proper_way_to_tie_a_food_bag/)
 * Store canned goods like baked beans upside down, so the contents slide out easily without needing to scrape the bottom when you open the can.
 
-# 💡 On “Email & Phone/Video Call”
+# Email & Phone/Video Call
 
 * Do not scan the inbox on Friday evening or over the weekend if you might encounter work problems that cannot be addressed properly until Monday.
 * Do not e-mail first thing in the morning or last thing at night. The former scrambles your priorities and plans for the day, and the latter just gives you insomnia.
-* [Make decisions easy for busy people. You will rise fast in your career if busy people like working with you. Here’s a tip: when you have a problem to solve, come prepared with a suggested next step. If you have a question, phrase it in a way they can answer yes/no. If there are multiple options, lay them out and ask them to pick one. Try to avoid expansive, open-ended questions.](https://perell.com/note/28-pieces-of-life-advice/) [^3]
+* [Make decisions easy for busy people. You will rise fast in your career if busy people like working with you. Here’s a tip: when you have a problem to solve, come prepared with a suggested next step. If you have a question, phrase it in a way they can answer yes/no. If there are multiple options, lay them out and ask them to pick one. Try to avoid expansive, open-ended questions.](https://perell.com/note/28-pieces-of-life-advice/) [^5]
 * End your emails with “I totally understand if you’re too busy to reply, and thank you for reading this far,” instead of the usual “I look forward to your reply and speaking soon.”
 * If you’re stuck on an annoying call, put your phone on airplane mode instead of just hanging up. The other person will see “call failed” instead of “call ended.”
 * Turn off self-view on video calls. Underrated trick to actually focus on the people you’re talking to instead of spending most of the time concerned with how you look.
@@ -156,7 +154,7 @@ modified: 2026-03-13
 * Whenever you are on a Zoom call, put your headphones or AirPods in, then open up YouTube, and find an ambient soundtrack that you play at 5% volume (e.g., [Lord of the Rings ambience](https://youtu.be/30b7_S0paCQ), [Harry Potter ambience](https://youtu.be/pQdTu0IeVho), etc.). This way, as you are taking the call, there’s a soft, inspiring soundtrack playing in the background. The soundtrack makes anything anyone says feel more relaxed, more warm, and more energizing.
 * [When asking for a favor over email, lead with the request and save the small talk for later. It feels much more sincere when the pleasantries come after the ask.](https://mariandrew.substack.com/p/100-things-i-know)
 
-# 💡 On “Wellness & Wellbeing”
+# Wellness & Wellbeing
 
 * When in bed, meditate. Either you will have a deep relaxation, or fall asleep. It’s a win-win.
 * When you’re busy, do “micro-meditation”:
@@ -166,7 +164,7 @@ modified: 2026-03-13
 	4. According to Vipassana, _craving (wanting something to happen)_ and _aversion (not wanting something to happen)_ are the roots of human suffering.
 * When anxiety hits, drink a glass of water slowly and focus on the sensation. It helps ground you, regulate your breathing, and refresh your mind.
 
-# 💡 On “Grocery Shopping”
+# Grocery Shopping
 
 * Looking at the UNIT price on the shelf tags at the grocery store.
 * Never do grocery shopping when you are hungry!
@@ -175,33 +173,36 @@ modified: 2026-03-13
 * Clean out your fridge before heading to the grocery store. It helps you avoid “mystery Tupperware” surprises, frees up space, and gives you a clear view of what needs restocking.
 * The fastest supermarket queue is often behind the fullest trolley. It seems counterintuitive, but the real bottleneck isn’t the scanning — it’s the human part of the process: greeting the cashier, unloading, card tapping, receipt printing, and packing. It’s not about how many items are ahead of you — it’s about how many people are. One customer with 100 items might move faster than three customers with 10 items each. The fewer transactions, the faster the line. Skip the line full of “quick shoppers.” Pick the one with fewer people, even if their carts are full — you’ll likely walk out sooner.
 
-# 💡 On “Buying Things”
+# Buying Things
 
 * When buying things, time and money trade-off against each other.—If you’re low on money, take more time to find deals. If you’re low on time, stop looking for great deals and just buy things quickly online.
+* Whenever you want to buy something, first ask yourself: would I buy this if I were the only person on Earth?
 * When you want to find out about people’s opinions on a product, succeed the product name with “reddit”. You’ll get real people arguing, as compared to the Google SEO results.
 * When researching consumer electronics, skip the flashy “unboxing” videos and look for “1-year review” videos instead. They reveal how the product actually holds up over time, giving you a far more realistic picture before buying.
 * When it comes to buying things, there is good, fast, and cheap—You can pick 2 but not all three.
 	1. Good + Cheap: There are places to trade time for quality while keeping costs down.
 	2. Good + Fast: There are times when you have to pay through the nose because you need it done fast and good.
-* The 48-Hour Rule (to avoid stupid impulse purchases that would have gathered dust and make you regret): Whenever you’d like to buy something in a store or putting something in your online shopping cart, take a pause of at least 48 hours. In most cases, your desire to make the purchase will be gone by the time the 48 hours are over—if you still want it, it’s a sign the purchase might be well worth it anyway, then go ahead to complete the order; if not, skip it. [^4]
+* The 48-Hour Rule (to avoid stupid impulse purchases that would have gathered dust and make you regret): Whenever you’d like to buy something in a store or putting something in your online shopping cart, take a pause of at least 48 hours. In most cases, your desire to make the purchase will be gone by the time the 48 hours are over—if you still want it, it’s a sign the purchase might be well worth it anyway, then go ahead to complete the order; if not, skip it. [^6]
 * If you’re looking for your good X, you have bad Xs. Throw those out.
 * When buying a used car, test-drive it to a nearby auto-parts store and use their free [OBD-II](https://www.google.com/search?q=OBD-II) scanner to check for recently cleared or hidden engine codes—many sellers reset check-engine lights to disguise issues. You don’t need mechanical skills; AutoZone, Advance Auto Parts, and O’Reilly all loan scanners, and a quick YouTube tutorial shows you how to use them. Also ask the seller not to start the car before you arrive so you can do a true **cold start**, since many problems only appear when the engine is started after sitting but vanish once warm.
 
-# 💡 On “Parenting”
+# Parenting
 
 * If you want your kids to listen when you have something important to say, speak very quietly. Yelling doesn’t work, but a whisper grabs their attention.
 * Preserve your children’s art. Frame the best pieces. It celebrates their imagination and turns fleeting moments into lasting memories. Also, a rotating display strengthens their confidence and pride in their work.
 
-# 💡 On “Creating Luck”
+# Creating Luck
 
 * Always ask/negotiate for what you want. Many people are happy to help—if the request is direct and specific. But never expect people to say yes.
 * At checkout you can just ask “Do you have any coupons I can apply to this?”
 * [Don’t be afraid to ask a question that may sound stupid or dumb, because 99% of the time everyone else is thinking of the same question and is too embarrassed/scared to ask it. The simplest questions are the last to be answered. “Shake the tree.” You never know what will fall out. It never hurts to ask.](https://terrytao.wordpress.com/career-advice/ask-yourself-dumb-questions-and-answer-them/)
 * Send one message a day to a person you admire because you never know when you’ll get a response back.
 
-# 💡 On “Social Interaction”
+# Social Interaction
 
 * If a friend or family member is diagnosed with dementia or Alzheimer’s, ask them early on about their all-time favorite songs. Build a playlist from their answers—music tied to meaningful memories can later help trigger recognition, calm emotions, and provide comfort as the disease progresses.
+* A simple way to spark meaningful table conversation is to ask: _“If today were the last day of your life, what would you do?”_ Follow-up questions like **who you’d spend it with, where you’d go, or what your last meal would be** often lead people to share what truly matters to them—values, relationships, and unfinished dreams—turning small talk into a deeper, memorable discussion.
+* If someone insults or dismisses you in public, calmly/politely ask them to repeat what they said. This gives them a chance to reconsider. They’ll either backtrack and apologize, or repeat it—making their behavior looks rude and unprofessional to everyone else. Both outcomes work in your favor.
 * When someone asks, “Do you want a boy or a girl?” avoid the cliché response, “As long as the baby’s healthy.” It can unintentionally dismiss the experiences of parents with children who face health challenges. A simple, lighthearted answer like “We’re hoping for a girl!” keeps things positive without being insensitive.
 * Playing is the opposite of fighting. If you find yourself stuck in a circular argument, try suggesting a role reversal: “I’ll argue your point, and you argue mine.” Not only does this foster empathy, but it also injects humor and lightens the mood in a tense situation.
 * When someone is going through hell, just saying “I’m with you” is the most powerful thing you can do — Advice, perspectives, or offers to help/fix issues are minimally impactful. — The notion that someone is with you is 10x more powerful.
@@ -212,7 +213,7 @@ modified: 2026-03-13
 * [等一下 → 馬上來](https://sketchplanations.com/dont-think-of-an-elephant)
 * Replace “Sorry” With “Thank You”: (1) Instead of saying “Sorry, I’m late.” Say: “Thank you for waiting.” (2) Instead of saying “Sorry, I forgot it.” Say: “Thank you for reminding me.”
 * If you need to calm someone down and get them to communicate, ask them questions about numbers or personal information.
-* When people mock you for not having an opinion on trending events, and label you as ignorant, start asking them about the current situation in Djibouti (吉布地，一個位於非洲東北部的國家) or Eswatini (史瓦帝尼，一個位於非洲南部的國家). It will reveal they aren’t up to date on the current situation in those countries - but that they also didn’t even know those countries existed. Peak ignorance. [^5]
+* When people mock you for not having an opinion on trending events, and label you as ignorant, start asking them about the current situation in Djibouti (吉布地，一個位於非洲東北部的國家) or Eswatini (史瓦帝尼，一個位於非洲南部的國家). It will reveal they aren’t up to date on the current situation in those countries - but that they also didn’t even know those countries existed. Peak ignorance. [^7]
 * Instead of asking “Do you have any questions?”, try “What questions do you have?”
 * How to increase engagement in discussions? Instead of “Anything else?”, ask “What else?”
 * Add “Is everything fine for you?” after saying “How are you?”
@@ -222,7 +223,7 @@ modified: 2026-03-13
 	* Or a “French exit”, where you slip out unseen.
 	* 天下無不散的筵席，離別是為了下一次更好的相遇/重逢
 	* _[“Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny.” — Steve Maraboli](https://www.goodreads.com/quotes/525097-letting-go-means-to-come-to-the-realization-that-some)_
-* “What’s your favorite TV show/book/movie?” → “What’s the TV show you are into _recently_?”, “What’s the _last_ book you read?”, “What’s the movie you are _currently enjoying most_?” [^6]
+* “What’s your favorite TV show/book/movie?” → “What’s the TV show you are into _recently_?”, “What’s the _last_ book you read?”, “What’s the movie you are _currently enjoying most_?” [^8]
 * [Kids love absurd questions. If you want to connect with them, ask something totally grown-up—like “What kind of car do you drive?” or “So, what do you do for work?” They’ll crack up, and the more you continue the bit, the more they will loosen up with you.](https://mariandrew.substack.com/p/100-things-i-know)
 * [The quickest way to alienate someone is to tell them they need to change. If you truly want to influence/castigate someone’s behavior, the most effective approach is to praise/compliment them when they do something you value — not to criticize them when they don’t.](https://youtu.be/KyfUysrNaco?t=1h33m3s)
 	* [“The way to help someone is not to critique what makes them smaller, but to encourage what makes them larger.” — James Clear](https://jamesclear.com/3-2-1/march-20-2025)
@@ -231,13 +232,14 @@ modified: 2026-03-13
 * Be polite to rude strangers. Responding with calm and courtesy in the face of rudeness is surprisingly satisfying and oddly thrilling.
 * Send voice messages instead of long texts. They convey tone, emotion, and nuance, making your messages feel personal—like a mini podcast for your friend.
 * When two friends could genuinely benefit from knowing each other, proactively make the introduction. It takes you 30 seconds, but it could change their lives — they might start a company, hire each other, or even fall in love. Networks don’t shrink when you share them; they multiply. There’s no higher ROI on any other 30-second act. (Tip: only introduce people when both sides stand to gain — not just one.)
+* [Many people with disabilities consider their mobility aids (wheelchairs 輪椅, canes 拐杖, walkers 助行器, etc.) an extension of their body. Always ask before touching, moving, or leaning on them—it’s about respect, consent, and personal space.](https://www.reddit.com/r/YouShouldKnow/comments/hu403p/ysk_that_many_people_with_a_disability_consider/) [^9]
 
-# 💡 On “Emotion Control”
+# Emotion Control
 
 * Count to 10 in your head before responding to a strong emotion to avoid regret.
 * Ever been in a heated argument or faced someone overly aggressive? Remember, the emptiest head rattles the loudest. Instead of matching their energy, do the opposite—soften your tone and lower your voice. A calm response can defuse tension and shift the dynamic in your favor.
 
-# 💡 On “Cooking”
+# Cooking
 
 * [Chef Tip: How to peel and segment a grapefruit?](https://youtu.be/whkgVWWJijE)
 	1. 用「手剝」（先用刀切對半) → 快
@@ -245,7 +247,7 @@ modified: 2026-03-13
 			1. [You only cut the rind twice](https://youtu.be/H_erG7HSK0A?t=419s): (1) Start at stem, cut entirely. (2) Rotate a 90°angle to the first cut, but this time only cut deep enough to go through the rind 外皮，外殼; 硬皮 and pith [the white skin under the rind] 襯皮; 木髓 (吃起來會苦 bitter 的白色纖維), then peel around the core while unrolling the grapefriut.
 			2. Once you peel away the whole rind, cut down one edge of the wedge, but stop at the middle and with your knifes edge, gently push up towards the other side of the wedge. This will peel the wedge from the inner pith. And repeat until all wedges are out.
 * Egg Cracking: Instead of tapping the egg on the edge of a bowl several times (which creates multiple tiny fractures of egg shells), tap the egg on a flat surface such as the counter (firmly) only ONCE (which creates the cleanest split)
-* [Adding a teaspoon of baking soda to your boiling pot of water will help to seamlessly remove the shell of hard-boiled eggs without peeling.](https://youtu.be/PN2gYHJNT3Y) [^7]
+* [Adding a teaspoon of baking soda to your boiling pot of water will help to seamlessly remove the shell of hard-boiled eggs without peeling.](https://youtu.be/PN2gYHJNT3Y) [^10]
 * 如何避免「馬鈴薯」或「蘋果」削皮後「褐變」氧化變黑？
 	1. 立刻將其浸泡於水中，避免與空氣接觸。也可以加入少許「鹽」或「醋」來延緩氧化，並將食材放置於「冷藏」中
 	2. 將其加熱煮至半熟（約 5 分鐘），再切片或搗爛成泥後放入「冷凍」保存
@@ -268,10 +270,10 @@ modified: 2026-03-13
 	* 3 mins for green tea
 	* 4 mins for black tea
 	* 5 mins for herbal tea
-	(兌水比例約為 200–300 c.c.)
+	(兌水比例約為 200—300 c.c.)
 * Wash your fruits and veggies with white vinegar + baking soda solution
-	1. Soak your fruits and veggies in 1 part distilled white vinegar + 3-4 parts filtered water for at least 10 mins — the vinegar’s acidity helps remove micro-organisms and some pesticides, but not all.
-	2. Add baking soda (2 tsp) to form CO2 bubbles, which help push dirt out. Let it bubble for 2-5 minutes.
+	1. Soak your fruits and veggies in 1 part distilled white vinegar + 3—4 parts filtered water for at least 10 mins — the vinegar’s acidity helps remove micro-organisms and some pesticides, but not all.
+	2. Add baking soda (2 tsp) to form CO2 bubbles, which help push dirt out. Let it bubble for 2—5 minutes.
 	3. Rinse with normal water.
 	4. Drain and dry the fruits and veggies, prior to storing in a container in the refrigerator.
 * 如何正確烹飪青菜，保留最完整的營養素？
@@ -280,7 +282,7 @@ modified: 2026-03-13
 	* 「清蒸法」：不會讓蔬菜直接接觸水，能更好地保留營養成分，不過，若蒸太久，會讓菜葉變得軟爛，外觀也會變黃，影響視覺效果。綠葉蔬菜不太適合使用此方法，因為它們容易失去爽脆口感，此方法較適用於根莖類或果實類蔬菜
 	* 「微波法」：利用蔬菜自身所含的水分子在微波作用下摩擦產生熱量，從而快速加熱食物，因此沒有養分流失的問題。微波加熱的一大挑戰是熱量分布不均，導致食物表面已經熟透，但內部仍未完全熟透。為了避免這種情況，建議採用「漸進式加熱法」—若需要加熱 3 分鐘，可以先加熱 2 分鐘後取出，攪拌均勻，再繼續加熱 1 分鐘
 
-# 💡 On “Body Care”
+# Body Care
 
 * How to deal with Body Odor?
 	1. Use Exfoliating Gloves to very gently exfoliate skin on your armpits once a week
@@ -295,12 +297,12 @@ modified: 2026-03-13
 	3. 較傳統痘痘貼厚，效果更好
 * How to deal with Sweaty/Stinky Feet?
 	1. Choose the right socks: Smartwool® Merino wool socks
-	2. Avoid wearing the same pair of socks/shoes on 2 consecutive days. Air out your shoes outside.
+	2. [Avoid wearing the same pair of socks/shoes on 2 consecutive days](https://theconversation.com/can-you-wear-the-same-pair-of-socks-more-than-once-270615). Air out your shoes outside.
 	3. Wash your feet at least once, if not twice, a day, using antibacterial soaps. → Dry the feet thoroughly, especially in between the toes. → (1) Apply a light dusting of anti-fungal foot powder/cornstarch/baby powder before slipping on cotton socks and breathable shoes. (2) Use antiperspirant (止汗劑) after showering in the evening (better than in the morning). Repeat this for another 3 or 4 consecutive nights and then switch to using it once or twice a week.
-	4. Soak your feet: add a few drops of an antibacterial solution (like sodium hypochloride, aka chlorox 次氯酸鈉/漂白水, or white vinegar) to a bucket/basin of warm water (+ epsom salt + tea tree/eucalyptus oil) → Pro Tip: do this while watching TV.
+	4. Soak your feet: add a few drops of an antibacterial solution (like sodium hypochloride, aka chlorox 次氯酸鈉/漂白水, or white vinegar) to a bucket/basin of warm water (+ epsom salt + tea tree/eucalyptus oil) → Pro Tip: Do this while watching TV.
 	5. Baking soda has excellent moisture-absorbing and deodorizing properties. Evenly sprinkle it inside the shoes and let it sit overnight to absorb moisture and odors. The next day, shake out the powder. Doing this once a week can effectively reduce unpleasant smells inside the shoes.
 
-# 💡 On “House Cleaning”
+# House Cleaning
 
 * [How to clean a microwave with white vinegar?](https://www.ovenclean.com/blog/how-to-clean-a-microwave-with-white-vinegar)
 	1. In a microwave-safe bowl or jug, mix 500ml of water with 2 tablespoons of white vinegar.
@@ -321,8 +323,9 @@ modified: 2026-03-13
 	3. They are durable and can last for several weeks or months. When they wear out, they can be composted instead of thrown away.
 	4. They are eco-friendly (biodegradable and compostable), unlike synthetic sponges, which contribute to plastic pollution and take decades to break down.
 	5. Added Benefit: You can even use them to clean and exfoliate your body skin during showers!
+* 吃完的柑橘、柳丁、檸檬、柚子果皮不要丟，他們都是免費的清潔劑！這些果皮富含天然的 [檸烯](https://www.google.com/search?q=%E6%AA%B8%E7%83%AF)（d-limonene），能去除異味、溶解油污、水垢、甚至黏著的焦痕。想清潔電鍋、廚房五金、油膩表面時，只要把果皮對折，讓精油滲出，用它當作天然的「海綿」輕輕擦，再用濕布收尾即可。若要更強力，把果皮丟進熱水裡「蒸一蒸」，蒸氣能把油膜軟化，清潔效果更好！
 
-# 💡 On “Traveling”
+# Traveling
 
 * When travelling with airplanes, order four double Gin Tonic (琴通寧) as soon as the flight attendants are walking about. Consume swiftly, and fall asleep for the remainder of the flight.
 * In a hotel, use the pants hangers with clips to keep the curtains/drapes all the way closed during the night.
@@ -333,7 +336,7 @@ modified: 2026-03-13
 * [Learn some geography—it makes travel conversations so much richer when you know where different countries are located (and as a bonus, which languages are spoken there!). Understanding the geography and languages of places like Africa, Eastern Europe, and India has completely transformed my interactions—people really light up when you show you understand where they’re from.
 (Americans: yes, knowing those middle states works the same magic 😉)](https://mariandrew.substack.com/p/100-things-i-know)
 
-# 💡 On “Fitness”
+# Fitness
 
 * Whenever you sit, make sure your butt flush with the backrest to avoid back pain
 * Whenever brushing your teeth:
@@ -342,24 +345,24 @@ modified: 2026-03-13
 	3. Do (single-leg) squats (on a balance board)
 * Get a small trampoline. It’s fun to bounce on & activates your lymphatic system to rid your body of toxins.
 
-# 💡 On “Saving Money”
+# Saving Money
 
 * [Save money on city hotels. You’re away from the room for most of the time. If you need to meet at a nice hotel for dinner, stay down the street and make a reservation. Spend the money you save on beach hotels, especially if you plan to spend entire days there.](https://perell.com/note/28-pieces-of-life-advice/)
 * If you bus to other cities, consider finding a car/ride-share instead. It’s cheaper, faster, and leads to interesting conversations.
 * Free Filtered Water at Hotels: Instead of purchasing water bottles from your hotel room minibar, bring a reusable water bottle and fill it up at the fitness center. Nearly all hotels provide filtered water in the fitness center.
 * Don’t buy a wedding outfit you’ll barely wear—rent it. Stylish, affordable, and clutter-free.
 
-# 💡 On “Dressing”
+# Dressing
 
-* How to make use of the extra holes (aka The Runner’s Knot 跑者洞) on your running shoes? [The Heel Lock Lacing Method](https://youtu.be/OBbc6TackDQ?t=68s)
-	1. This gives you a better lockdown around the ankle, so it avoids putting too much pressure on the top of you foot and minimizes the heel slippage.
+* How to make use of the top eyelets/holes on your running shoes? [Try this heel lock lacing method](https://youtu.be/OBbc6TackDQ?t=68s) (aka [The Runner’s Knot 跑者結](https://www.google.com/search?q=The+Runner’s+Knot))
+	1. This provides a better lockdown around the ankle, reducing pressure on the top of your foot, minimizing heel slippage, and helping to prevent blisters.
 	2. That’s the reason why runner laces are often so long.
 
-# 💡 On “Productivity”
+# Productivity
 
 * Trick yourself into productivity the same way you trick yourself into procrastination. When you say “just one more game/post/video” and end up losing hours, flip that mindset for useful tasks: “just one line of code,” “just one page,” “just one rep,” “just one tutorial.” That small start often snowballs into real progress.
 
-# 💡 On “Small Acts of Kindness”
+# Small Acts of Kindness
 
 * Staying over at a friend’s place? Strip the bed before you leave. It’s a small gesture that makes cleanup easier and shows appreciation for their hospitality.
 * Whenever you think something nice about someone, let them know IMMEDIATELY. → Find the best in others. Compliment people more (on less obvious things).
@@ -368,10 +371,28 @@ modified: 2026-03-13
 * Say no quickly as a way of kindness: If you have/want to say no to something, do it immediately. That gives the asker maximum time to find alternatives. A short, polite, timely rejection is much more valuable than a delayed, in-depth rejection.
 * [It takes extreme strength and courage to be a consistently kind person in a world that rewards selfishness. Make sure to thank people who demonstrate kindness. They are choosing the hard, selfless route in order to make the world a better place for everyone.](https://www.reddit.com/r/LifeProTips/comments/1107h0s/lpt_it_takes_extreme_strength_and_courage_to_be_a)
 
-[^1]: 例外: 砧板、菜瓜布、毛/浴巾、眼罩、枕頭套
-[^2]: The added benefit is that there is less water on the floor making it safer!
-[^3]: See also: <https://sketchplanations.com/the-blur-your-eyes-test>
-[^4]: Time is an ally of good decisions and an enemy of bad ones.
-[^5]: People shaming others for being ignorant are often the most ignorant because they are ignorant of their own ignorance.
-[^6]: This lets the other person say whatever first comes to mind without the pressure of having to choose a single favorite. They’ll almost always have one and be able to talk about it.
-[^7]: Why? The alkaline in the baking soda will raise the PH level, which helps your egg whites loosen up from the shell and makes it easier to peel.
+# Clothes
+
+* [How to turn a blanket into a pillow?](https://www.reddit.com/r/lifehacks/comments/q0yqrz/wish_i_knew_this_earlier/)
+* [How to ranger roll clothes?](https://www.reddit.com/r/coolguides/comments/1d15t0v/a_cool_guide_thought_others_might_like_to_learn/)
+
+# Laundry
+
+* How to correctly use the 3 compartments in a washing machine tray/drawer?
+	1. Slot I is for the pre-wash cycle followed by a main wash cycle if you have it on, but remember to fill Slot II every time as well
+	2. It’s not recommended to put the detergent directly on top of the clothes because it may not disperse evenly or rinse out with lower water levels
+
+# No Surf
+
+* [The next time you binge TV or sit at your computer for hours, try viewing yourself from a third-person perspective. Watching your body slumped and motionless makes it instantly clear how unnatural and unhealthy prolonged screen time really is—and can motivate you to stand up, stretch, or take a break.](https://www.reddit.com/r/nosurf/comments/nazv21/as_an_experiment_the_next_time_you_watch_tv_or_go/)
+
+[^1]: “Life isn’t about waiting for the storm to pass. It’s about learning to dance in the rain.” — Vivian Greene
+[^2]: 例外: 砧板、菜瓜布、毛/浴巾、眼罩、枕頭套
+[^3]: The added benefit is that there is less water on the floor making it safer!
+[^4]: 公司不是你的歸宿，大家各取所需罷了：你提供（超乎預期的）價值，老闆給你應得的薪水，如此而已。
+[^5]: See also: <https://sketchplanations.com/the-blur-your-eyes-test>
+[^6]: Time is an ally of good decisions and an enemy of bad ones.
+[^7]: People shaming others for being ignorant are often the most ignorant because they are ignorant of their own ignorance.
+[^8]: This lets the other person say whatever first comes to mind without the pressure of having to choose a single favorite. They’ll almost always have one and be able to talk about it.
+[^9]: “Ma’am, would you mind if I picked that up for you?”
+[^10]: Why? The alkaline in the baking soda will raise the PH level, which helps your egg whites loosen up from the shell and makes it easier to peel.
