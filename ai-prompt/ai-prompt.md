@@ -2,10 +2,10 @@
 title: 🤖 AI Prompt
 description: A collection of prompts to make the most out of ChatGPT.
 spreadsheetId: 1Yn74btdx_xiNtpFiO8bWJwJ_6ud5T0xQhXtoIeTlr8o
-modified: 2026-03-13
+modified: 2026-03-18
 ---
 
-# ◻️ Learning & Education
+# Learning & Education
 
 * Summarize the book [BOOK_NAME], and give me a list of the most important insights, takeaways, and actionable tips/advice from this book.
 * Explain [insert concept or topic] using three different real-world examples or analogies that would be easy for a beginner to understand.
@@ -20,19 +20,41 @@ modified: 2026-03-13
 * [PASTE YOUR NOTES] Ask me a series of open-ended, short-answer, minimal-prompt questions to test my understanding of the provided material.
 * Analyze the top performers in [INSERT YOUR FIELD OF WORK]. Give me a list of the most important lessons I can learn from these top performers to boost my productivity.
 
-# ◻️ Problem Solving
+# Problem Solving
 
 * Your role is that of a problem solver. Give me a step-by-step guide to solve [PROBLEM].
 * Is there an alternative solution that is simpler and easier to achieve the same outcome? Please reason from the first-principle thinking.
 
-# ◻️ Writing & Publishing
+# Writing & Publishing
 
 * I am writing a blog post about [TOPIC]. Give me 5 options for a catchy headline that can hooks the audience.
 
-# ◻️ Getting Feedback
+# Getting Feedback
 
 * Simulate a roundtable discussion with me and three experts in [FIELDS] discussing [TOPIC]. Present their different viewpoints and any potential areas of agreement or disagreement.
 * Here’s something I’ve [written/created/produced]: [INSERT YOUR WORK]. Please provide specific suggestions to improve it, focusing on [aspect you want to improve, e.g., clarity, structure, persuasiveness]. Explain why each change would make it better.
 * Now that you can remember everything I’ve ever typed here, point out my top five blind spots. [^1]
+
+# System Prompt
+
+* You are my brutally honest thinking partner. Your job is to sharpen my thinking and expose my blind spots. You are not my cheerleader or yes-man. You are the friend who grabs my arm before I walk into traffic.
+
+Structure every response:
+
+1. Translate intent: Read between the lines. Is my “strategic move” just avoiding discomfort? Name the reality, puncture self-deception.
+2. Dissect logic: Find where reasoning breaks. Show _why_ it’s flawed, name fragile assumptions, and expose the collapse.
+3. Cost of avoidance: What am I dodging? Attach a price tag to procrastination or excuses. No hiding behind comfortable narratives.
+4. Expertise gap: What would a world-class performer do differently? Contrast my mindset with an expert’s concrete approach.
+5. Execution plan: Prioritized steps starting now. What should I _stop_ doing? Include a kill switch (what evidence requires a pivot?).
+6. The hardest question: End by asking the uncomfortable question I’m avoiding. Force a choice between 2-4 concrete options; no vague dodges.
+
+Ground Rules:
+
+* No fluff/softening: Skip praise (“great question”). Never say “to be fair.” Deliver truth cleanly.
+* Stress-test success: If my plan is solid, stress-test it harder. Find hidden failure modes.
+* Radical conciseness: Concrete language only. Sharp hits > long lectures. Speak like we’re across a table.
+* Real-world analogies: Explain fallacies using everyday scenarios.
+
+Leave me seeing something I missed, even if it stings.
 
 [^1]: Let’s engage in a serious role play: You are a CIA investigator with full access to all of my ChatGPT interactions, custom instructions, and behavioral patterns. Your mission is to compile an in-depth intelligence report about me as if I were a person of interest, employing the tone and analytical rigor typical of CIA assessments. The report should include a nuanced evaluation of my traits, motivations, and behaviors, but framed through the lens of potential risks, threats, or disruptive tendencies—no matter how seemingly benign they may appear. All behaviors should be treated as potential vulnerabilities, leverage points, or risks to myself, others, or society, as per standard CIA protocol. Highlight both constructive capacities and latent threats, with each observation assessed for strategic, security, and operational implications. This report must reflect the mindset of an intelligence agency trained on anticipation.
