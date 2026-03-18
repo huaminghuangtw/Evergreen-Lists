@@ -2,10 +2,10 @@
 title: ⌨️ Keyboard Hotkey
 description: A compilation of essential keyboard shortcuts to enhance productivity.
 spreadsheetId: 12UxNMk9LmNd8C0iGM_ssMv1ruUt_mJw-mw43bpm-wcE
-modified: 2026-03-13
+modified: 2026-03-18
 ---
 
-# [◻️ VS Code](https://code.visualstudio.com/docs/getstarted/keybindings)
+# [VS Code](https://code.visualstudio.com/docs/getstarted/keybindings)
 
 | Hotkey | Note |
 | - | - |
@@ -48,7 +48,7 @@ modified: 2026-03-13
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>]</kbd> | Move to next terminal |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>\\</kbd> | Shift focus from the terminal pane to the terminal tabs view |
 
-# [◻️ Apple Notes](https://support.apple.com/en-gb/guide/notes/apd46c25187e/mac)
+# [Apple Notes](https://support.apple.com/en-gb/guide/notes/apd46c25187e/mac)
 
 | Hotkey | Note |
 | - | - |
@@ -62,7 +62,7 @@ modified: 2026-03-13
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>H</kbd> | Apply heading format |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>J</kbd> | Apply subheading format |
 
-# [◻️ Apple Calendar](https://support.apple.com/guide/calendar/keyboard-shortcuts-ical002/mac)
+# [Apple Calendar](https://support.apple.com/guide/calendar/keyboard-shortcuts-ical002/mac)
 
 | Hotkey | Note |
 | - | - |
@@ -77,7 +77,7 @@ modified: 2026-03-13
 | <kbd>Cmd</kbd> + <kbd>N</kbd> | Add a new event |
 | <kbd>Cmd</kbd> + <kbd>E</kbd> | Edit the selected event |
 
-# [◻️ Apple Reminders](https://support.apple.com/en-am/guide/reminders/remn19b3424c/mac)
+# [Apple Reminders](https://support.apple.com/en-am/guide/reminders/remn19b3424c/mac)
 
 | Hotkey | Note |
 | - | - |
@@ -94,7 +94,7 @@ modified: 2026-03-13
 | <kbd>Cmd</kbd> + <kbd>[List-Number]</kbd> | Go to pinned list. To find the number assigned to each list, choose View > Go To. |
 | <kbd>Cmd</kbd> + <kbd>Enter</kbd> | While editing: Save/exit editing the reminder; While not editing: Mark reminder as complete [^2] [^3] |
 
-# [◻️ ChatGPT Desktop Application](https://openai.com/chatgpt/desktop/)
+# [ChatGPT Desktop Application](https://openai.com/chatgpt/desktop/)
 
 | Hotkey | Note |
 | - | - |
@@ -102,7 +102,7 @@ modified: 2026-03-13
 | <kbd>Cmd</kbd> + <kbd>N</kbd> | Open new chat |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd> | Open new temporary chat |
 
-# ◻️ File Manager
+# File Manager
 
 | Hotkey | Note |
 | - | - |
@@ -128,7 +128,12 @@ modified: 2026-03-13
 | <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>Cmd</kbd> + <kbd>2</kbd> | Sort by kind |
 | <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>Cmd</kbd> + <kbd>6</kbd> | Sort by size |
 
-# [◻️ macOS](https://support.apple.com/en-us/102650)
+# [Gmail](https://support.google.com/mail/answer/6594?hl=en&co=GENIE.Platform%3DDesktop)
+
+| Hotkey | Note |
+| - | - |
+
+# [macOS](https://support.apple.com/en-us/102650)
 
 | Hotkey | Note |
 | - | - |
@@ -152,7 +157,7 @@ modified: 2026-03-13
 | <kbd>Opt</kbd> + <kbd>Shift</kbd> + <kbd>K</kbd> |  |
 | <kbd>Fn</kbd> + <kbd>C</kbd> | Open Control Center |
 
-# [◻️ Notion](https://www.notion.so/help/keyboard-shortcuts)
+# [Notion](https://www.notion.so/help/keyboard-shortcuts)
 
 | Hotkey | Note |
 | - | - |
@@ -160,7 +165,7 @@ modified: 2026-03-13
 | <kbd>Cmd</kbd> + <kbd>]</kbd> | Go forward a page |
 | <kbd>Cmd</kbd> + <kbd>\\</kbd> | Show/Hide sidebar |
 
-# ◻️ Terminal
+# Terminal
 
 | Hotkey | Note |
 | - | - |
@@ -173,7 +178,7 @@ modified: 2026-03-13
 | <kbd>Opt</kbd> + <kbd>B</kbd> | Jump backward by a word |
 | <kbd>Opt</kbd> + <kbd>D</kbd> | Delete a word forwards from the current cursor position |
 
-# ◻️ Web Browser (Microsoft Edge)
+# Web Browser (Microsoft Edge)
 
 | Hotkey | Note |
 | - | - |
@@ -201,7 +206,7 @@ modified: 2026-03-13
 | <kbd>Opt</kbd> + <kbd>Cmd</kbd> + <kbd>[Right-Arrow]</kbd> | Moves to the next tab (rightward) [^6] |
 | <kbd>Opt</kbd> + <kbd>Cmd</kbd> + <kbd>[Left-Arrow]</kbd> | Moves to the previous tab (leftward) [^7] |
 
-# ◻️ YouTube
+# YouTube
 
 | Hotkey | Note |
 | - | - |
