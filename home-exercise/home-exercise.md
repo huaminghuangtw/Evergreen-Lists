@@ -2,10 +2,10 @@
 title: 💪 Home Exercise
 description: Simple yet effective exercises you can do at home to stay fit and healthy without any equipment.
 spreadsheetId: 1zLI8WqN8xXwbVNBXzU5ixzw688tuBsivD9-SyyTTNbk
-modified: 2026-03-13
+modified: 2026-03-18
 ---
 
-# 🟠 Upper Body
+# Upper Body
 
 * [Scapula Pushups](https://www.google.com/search?q=Scapula%20Pushups) [^1]
 * [Side Step Jacks](https://www.google.com/search?q=Side+Step+Jacks)
@@ -17,8 +17,9 @@ modified: 2026-03-13
 * [Burpees](https://www.google.com/search?q=Burpees)
 * [Knife Hand Strikes](https://www.google.com/search?q=Knife+Hand+Strikes)
 * [Push-Up Shoulder Tap](https://www.google.com/search?q=Push-Up+Shoulder+Tap)
+* [Dragon Push-Ups](https://www.google.com/search?q=Dragon+Push-Ups)
 
-# 🟠 Lower Body
+# Lower Body
 
 * [Hop Heel Clicks](https://www.google.com/search?q=Hop+Heel+Clicks) [^4]
 * [Squat to Stands](https://www.google.com/search?q=Squat+to+Stands)
@@ -43,7 +44,6 @@ modified: 2026-03-13
 * [Single Leg Deadlifts](https://www.google.com/search?q=Single+Leg+Deadlifts)
 * [30 Seconds Sumo Squat Hold](https://www.google.com/search?q=30+Seconds+Sumo+Squat+Hold)
 * [Heel Get-Ups](https://www.google.com/search?q=Heel+Get-Ups)
-* [Burpees](https://www.google.com/search?q=Burpees)
 * [Jumping Lunges](https://www.google.com/search?q=Jumping+Lunges)
 * [Squat Hold Calf Raises](https://www.google.com/search?q=Squat+Hold+Calf+Raises)
 * [Balance Side Lunges](https://www.google.com/search?q=Balance+Side+Lunges)
@@ -56,19 +56,19 @@ modified: 2026-03-13
 * [Cossack Squats](https://www.google.com/search?q=Cossack+Squats)
 * [90/90 Hip Switches](https://www.google.com/search?q=90/90+Hip+Switches)
 
-# 🟠 Core
+# Core
 
 * [Reverse Snow Angels](https://www.google.com/search?q=Reverse+Snow+Angels)
 * [W-Extensions](https://www.google.com/search?q=W-Extensions)
 * [Bear Crawl](https://www.google.com/search?q=Bear+Crawl)
 * [Boat Pose Hold](https://www.google.com/search?q=Boat+Pose+Hold) [^15]
 * [Climber Taps](https://www.google.com/search?q=Climber+Taps)
-* [Dead Bugs](https://www.google.com/search?q=Dead+Bugs)
+* [Dead Bugs](https://www.google.com/search?q=Dead+Bugs) [^16]
 * [左右交替摸腳踝](https://www.google.com/search?q=%E5%B7%A6%E5%8F%B3%E4%BA%A4%E6%9B%BF%E6%91%B8%E8%85%B3%E8%B8%9D)
-* [Body Saw Plank](https://www.google.com/search?q=Body%20Saw%20Plank) [^16]
-* [Knee Tucks](https://www.google.com/search?q=Knee%20Tucks) [^17]
+* [Body Saw Plank](https://www.google.com/search?q=Body%20Saw%20Plank) [^17]
+* [Knee Tucks](https://www.google.com/search?q=Knee%20Tucks) [^18]
 * [棒式側點腳](https://www.google.com/search?q=%E6%A3%92%E5%BC%8F%E5%81%B4%E9%BB%9E%E8%85%B3)
-* [Hollow Hold](https://www.google.com/search?q=Hollow+Hold) [^18]
+* [Hollow Hold](https://www.google.com/search?q=Hollow+Hold) [^19]
 * [Plank Walk-Outs](https://www.google.com/search?q=Plank+Walk-Outs)
 * [High Crunches](https://www.google.com/search?q=High+Crunches)
 * [Flutter Kicks](https://www.google.com/search?q=Flutter+Kicks)
@@ -77,7 +77,7 @@ modified: 2026-03-13
 * [Reverse Crunches](https://www.google.com/search?q=Reverse+Crunches)
 * [Sitting Twists](https://www.google.com/search?q=Sitting+Twists)
 * [Knee Crunches](https://www.google.com/search?q=Knee+Crunches)
-* [Knee-to-Elbow](https://www.google.com/search?q=Knee-to-Elbow) [^19]
+* [Knee-to-Elbow](https://www.google.com/search?q=Knee-to-Elbow) [^20]
 * [Back Extensions](https://www.google.com/search?q=Back+Extensions)
 * [Up & Down Planks](https://www.google.com/search?q=Up+&+Down+Planks)
 * [Climbers](https://www.google.com/search?q=Climbers)
@@ -98,8 +98,10 @@ modified: 2026-03-13
 * [Plank Rotations](https://www.google.com/search?q=Plank+Rotations)
 * [Scissors](https://www.google.com/search?q=Scissors)
 * [Plank Rolls](https://www.google.com/search?q=Plank+Rolls)
+* [Knee-in & Twist](https://www.google.com/search?q=Knee-in+%26+Twist)
+* [RTO Push-ups](https://www.google.com/search?q=RTO+Push-ups) [^21]
 
-# 🟠 Stretching
+# Stretching
 
 * [Side Bends](https://www.google.com/search?q=Side+Bends)
 * [Chest Expansions](https://www.google.com/search?q=Chest+Expansions)
@@ -108,14 +110,14 @@ modified: 2026-03-13
 * [Scorpion Twists](https://www.google.com/search?q=Scorpion+Twists)
 * [Spiderman Stretch](https://www.google.com/search?q=Spiderman+Stretch)
 
-# 🟠 Yoga
+# Yoga
 
 * [Upward Downward Dog](https://www.google.com/search?q=Upward+Downward+Dog)
-* [Reverse Table Top Pose](https://www.google.com/search?q=Reverse+Table+Top+Pose) [^20]
-* [Pigeon Pose](https://www.google.com/search?q=Pigeon+Pose) [^21]
-* [Frog Pose](https://www.google.com/search?q=Frog+Pose) [^22]
-* [Corpse Pose](https://www.google.com/search?q=Corpse+Pose) [^23]
-* [Tree Pose](https://www.google.com/search?q=Tree+Pose) [^24]
+* [Reverse Table Top Pose](https://www.google.com/search?q=Reverse+Table+Top+Pose) [^22]
+* [Pigeon Pose](https://www.google.com/search?q=Pigeon+Pose) [^23]
+* [Frog Pose](https://www.google.com/search?q=Frog+Pose) [^24]
+* [Corpse Pose](https://www.google.com/search?q=Corpse+Pose) [^25]
+* [Tree Pose](https://www.google.com/search?q=Tree+Pose) [^26]
 
 [^1]: = 肩胛骨推舉
 [^2]: = 交互式肱三頭肌伸展
@@ -132,12 +134,14 @@ modified: 2026-03-13
 [^13]: = 弓箭步登階
 [^14]: = 深蹲定格提踵
 [^15]: = 船式靜止
-[^16]: = 滑行平板
-[^17]: Variations: Seated Knee Tucks, Jumping Knee Tucks
-[^18]: = 抱膝捲腹
-[^19]: = 膝蓋碰手肘
-[^20]: = Ardha Purvottanasana = 反向桌式
-[^21]: = Kapotasana
-[^22]: = Mandukasana
-[^23]: = Savasana
-[^24]: = Vrikshasana
+[^16]: = 死蟲式
+[^17]: = 滑行平板
+[^18]: Variations: Seated Knee Tucks, Jumping Knee Tucks
+[^19]: = 抱膝捲腹
+[^20]: = 膝蓋碰手肘
+[^21]: RTO = Rings Turned Out
+[^22]: = Ardha Purvottanasana = 反向桌式
+[^23]: = Kapotasana
+[^24]: = Mandukasana
+[^25]: = Savasana
+[^26]: = Vrikshasana
