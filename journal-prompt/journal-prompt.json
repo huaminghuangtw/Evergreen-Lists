@@ -301,6 +301,17 @@
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
+                    "name": "Is what I were doing today getting me closer to where I want to be tomorrow?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Good Evening",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
                     "name": "What excited me? What drained me of energy? Was my attention on loving or on who isn't loving me?",
                     "url": ""
                 },
@@ -357,6 +368,17 @@
                     "list": "💭 Journal Prompt",
                     "priority": "None",
                     "name": "Am I a little wiser now than I were when I woke up? Am I getting better than yesterday? Did I beat Yesterday Me?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Good Evening",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "If my body could vote on my daily schedule, what would it immediately veto?",
                     "url": ""
                 }
             ],
