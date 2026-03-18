@@ -14,8 +14,8 @@ modified: 2026-03-18
 | <kbd>Cmd</kbd> + <kbd>D</kbd> | Select word or next occurrence |
 | <kbd>Cmd</kbd> + <kbd>Enter</kbd> | Insert line below |
 | <kbd>Cmd</kbd> + <kbd>F</kbd> | Open the Find and Replace dialog |
-| <kbd>Ctrl</kbd> + <kbd>`</kbd> = <kbd>Cmd</kbd> + <kbd>J</kbd> | Show/Hide Terminal (& Switch the cursor between Terminal and code) |
-| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>`</kbd> | Create a new Terminal window |
+| <kbd>Ctrl</kbd> + <kbd>&#96;</kbd> = <kbd>Cmd</kbd> + <kbd>J</kbd> | Show/Hide Terminal (& Switch the cursor between Terminal and code) |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>&#96;</kbd> | Create a new Terminal window |
 | <kbd>Cmd</kbd> + <kbd>K 0</kbd> | Fold/Collapse open items |
 | <kbd>Cmd</kbd> + <kbd>K J</kbd> | Unfold/Expand closed items |
 | <kbd>Cmd</kbd> + <kbd>K S</kbd> | View all available keyboard shortcuts |
