@@ -47,8 +47,8 @@ async function buildEmojiNode(icon, alt, format, context) {
 	if (format === "latex") {
 		const inner = `\\includegraphics[${graphicsArgs}]{${escapedPath}}`
 		const raw = context === "Verbatim" || context === "texttt"
-			? `$\\raisebox{-0.4ex}{${inner}}$`
-			: `\\raisebox{-0.4ex}{${inner}}`
+			? `$\\raisebox{-0.35ex}{${inner}}$`
+			: `\\raisebox{-0.35ex}{${inner}}`
 		return pandoc.RawInline("latex", raw)
 	}
 	const attrs   = [["height", "1em"]]
