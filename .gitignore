@@ -5,4 +5,5 @@
 !.gitignore
 !.scripts
 
-node_modules
+.scripts/node_modules
+.scripts/twemoji
