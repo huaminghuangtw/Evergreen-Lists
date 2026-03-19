@@ -1,0 +1,11 @@
+{
+  "name": "my-pandoc-filter",
+  "version": "0.1.0",
+  "dependencies": {
+    "pandoc-filter": "^2.0.0",
+    "shelljs": "^0.8.4",
+    "twemoji": "^12.1.5"
+  },
+  "author": "Hua-Ming Huang",
+  "license": "Apache-2.0"
+}

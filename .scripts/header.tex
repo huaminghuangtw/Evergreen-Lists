@@ -1,0 +1,39 @@
+\usepackage{fontspec}
+\usepackage{xeCJK}
+\usepackage{etoolbox}
+\usepackage{xcolor}
+\usepackage{titling}
+\usepackage{titlesec}
+\usepackage{tocloft}
+\usepackage{hyperref}
+\usepackage{tikz}
+\usepackage{eso-pic}
+\usepackage{setspace}
+\usepackage{needspace}
+\usepackage{fvextra}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{breaklines,commandchars=\\\{\}}
+\doublespacing
+\setmainfont{Georgia}
+\setCJKmainfont{BiauKaiTC}
+\renewcommand{\contentsname}{\fontsize{20}{24}\selectfont Table of Contents}
+\setlength{\cftaftertoctitleskip}{2.5em}
+\renewcommand{\thefootnote}{\textcolor{purple}{\arabic{footnote}}}
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+\renewcommand{\cftsubsecleader}{\cftdotfill{\cftdotsep}}
+\def\mysubtitle{}
+\def\subtitle#1{\gdef\mysubtitle{#1}}
+\pretitle{\begin{center}\bfseries\fontsize{32}{38}\selectfont}
+\posttitle{\par\end{center}\vspace{5em}\begin{center}\large\itshape\mysubtitle\end{center}\vspace{4em}}
+\preauthor{\begin{center}\large}
+\postauthor{\par\end{center}\vspace{3em}}
+\predate{\begin{center}}
+\postdate{\par\end{center}}
+\AddToShipoutPictureBG*{\begin{tikzpicture}[remember picture,overlay]\draw[line width=4pt]([xshift=25pt,yshift=-25pt]current page.north west)rectangle([xshift=-25pt,yshift=25pt]current page.south east);\end{tikzpicture}}
+\let\oldmaketitle\maketitle
+\renewcommand{\maketitle}{\oldmaketitle\vspace*{\fill}\thispagestyle{empty}\clearpage\setcounter{page}{1}}
+\let\oldtoc\tableofcontents
+\renewcommand{\tableofcontents}{\oldtoc\clearpage}
+\preto{\section}{\needspace{5\baselineskip}}
+\preto{\subsection}{\needspace{4\baselineskip}}
+\preto{\subsubsection}{\needspace{3\baselineskip}}
+\newcommand{\kbd}[1]{\tikz[baseline=(k.base)]{\node[draw, rounded corners=2pt, inner sep=5pt, inner ysep=4pt, font=\small\ttfamily, fill=gray!10] (k) {#1};}}
