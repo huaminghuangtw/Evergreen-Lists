@@ -12,7 +12,7 @@ local MONTHS = {
   "July", "August", "September", "October", "November", "December"
 }
 
-local BASE_URL        = "https://huami.ng/"
+local BASE_URL        = "https://huam.ing/"
 local GITHUB_REPO_URL = "https://github.com/huaminghuangtw/Evergreen-Lists/blob/main"
 
 local function slugify(str)
