@@ -3,7 +3,7 @@
 
 ## About
 
-This repository features a collection of [listicles](https://huami.ng/lists) I’ve curated over time. They are insights, tips, and ideas too short to be their own [notes](https://huami.ng/notes) or [essays](https://huami.ng/writing).
+This repository features a collection of [listicles](https://huam.ing/lists) I’ve curated over time. They are insights, tips, and ideas too short to be their own [notes](https://huam.ing/notes) or [essays](https://huam.ing/writing).
 
 ## How I Built This System
 
@@ -32,7 +32,7 @@ Inspired by the concepts of [incremental learning](https://www.google.com/search
 
 ### Obsidian Callout
 
-On desktop, I made an [Obsidian Callout](https://help.obsidian.md/callouts) with the [Dataview](https://github.com/blacksmithgu/obsidian-dataview) plugin. It shows a random item from the [evergreen lists](https://huami.ng/lists). For details, see the [full code snippet](https://github.com/huaminghuangtw/Second-Brain/blob/main/Homepage.md).
+On desktop, I made an [Obsidian Callout](https://help.obsidian.md/callouts) with the [Dataview](https://github.com/blacksmithgu/obsidian-dataview) plugin. It shows a random item from the [evergreen lists](https://huam.ing/lists). For details, see the [full code snippet](https://github.com/huaminghuangtw/Second-Brain/blob/main/Homepage.md).
 
 <p align="center">
 <a href="assets/callout.png">
@@ -56,21 +56,21 @@ On mobile, I use  Apple Shortcuts to implement a flashcard system. It incorpo
 
 ## Overview
 
-1. **[Shortcuts Dev Tip](https://huami.ng/shortcuts-dev-tip/)**
-2. **[AI Prompt](https://huami.ng/ai-prompt/)**
-3. **[Journal Prompt](https://huami.ng/journal-prompt/)**
-4. **[Keyboard Hotkey](https://huami.ng/keyboard-hotkey/)**
-5. **[Cheat Sheet](https://huami.ng/cheat-sheet/)**
-6. **[Tech Pro Tip](https://huami.ng/tech-pro-tip/)**
-7. **[Life Pro Tip](https://huami.ng/life-pro-tip/)**
-8. **[Home Exercise](https://huami.ng/home-exercise/)**
-9. **[Gym Workout](https://huami.ng/gym-workout/)**
-10. **[World Cuisine](https://huami.ng/world-cuisine/)**
-11. **[Healthy Food](https://huami.ng/healthy-food/)**
+1. **[Shortcuts Dev Tip](https://huam.ing/shortcuts-dev-tip/)**
+2. **[AI Prompt](https://huam.ing/ai-prompt/)**
+3. **[Journal Prompt](https://huam.ing/journal-prompt/)**
+4. **[Keyboard Hotkey](https://huam.ing/keyboard-hotkey/)**
+5. **[Cheat Sheet](https://huam.ing/cheat-sheet/)**
+6. **[Tech Pro Tip](https://huam.ing/tech-pro-tip/)**
+7. **[Life Pro Tip](https://huam.ing/life-pro-tip/)**
+8. **[Home Exercise](https://huam.ing/home-exercise/)**
+9. **[Gym Workout](https://huam.ing/gym-workout/)**
+10. **[World Cuisine](https://huam.ing/world-cuisine/)**
+11. **[Healthy Food](https://huam.ing/healthy-food/)**
 
 ## Support
 
-You can explore and download these lists at [huami.ng/lists](https://huami.ng/lists) all shortcuts related to this project on [Shortcutomation](https://shortcutomation.com/gallery/evergreen-lists). If you find this project valuable, please consider supporting my work by [buying me a coffee](https://buymeacoffee.com/huaming.huang).
+You can explore and download these lists at [huam.ing/lists](https://huam.ing/lists) all shortcuts related to this project on [Shortcutomation](https://shortcutomation.com/gallery/evergreen-lists). If you find this project valuable, please consider supporting my work by [buying me a coffee](https://buymeacoffee.com/huaming.huang).
 
 ## Contribution
 
