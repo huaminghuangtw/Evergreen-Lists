@@ -270,10 +270,10 @@ modified: 2026-03-18
 	* 3 mins for green tea
 	* 4 mins for black tea
 	* 5 mins for herbal tea
-	(兌水比例約為 200—300 c.c.)
+	(兌水比例約為 200–300 c.c.)
 * Wash your fruits and veggies with white vinegar + baking soda solution
-	1. Soak your fruits and veggies in 1 part distilled white vinegar + 3—4 parts filtered water for at least 10 mins — the vinegar’s acidity helps remove micro-organisms and some pesticides, but not all.
-	2. Add baking soda (2 tsp) to form CO2 bubbles, which help push dirt out. Let it bubble for 2—5 minutes.
+	1. Soak your fruits and veggies in 1 part distilled white vinegar + 3–4 parts filtered water for at least 10 mins — the vinegar’s acidity helps remove micro-organisms and some pesticides, but not all.
+	2. Add baking soda (2 tsp) to form CO2 bubbles, which help push dirt out. Let it bubble for 2–5 minutes.
 	3. Rinse with normal water.
 	4. Drain and dry the fruits and veggies, prior to storing in a container in the refrigerator.
 * 如何正確烹飪青菜，保留最完整的營養素？
