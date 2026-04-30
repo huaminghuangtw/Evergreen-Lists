@@ -1,8 +1,8 @@
 ---
 title: 🦾 Gym Workout
 description: Effective workout routines and tips for building strength, endurance, and overall fitness at the gym.
+modified: 2026-04-30
 spreadsheetId: 1qsThbkPkQsuJYqkeCFsYa64rcvAzEjhSpc7_PWIDyBA
-modified: 2026-03-18
 ---
 
 # Upper Body
