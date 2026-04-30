@@ -1,8 +1,8 @@
 ---
 title: 🌍 World Cuisine
 description: Explore diverse and delicious recipes from around the globe to broaden your culinary horizons.
+modified: 2026-04-30
 spreadsheetId: 1igJQxFOBLpDtvf1wWkuCNi8KVaC10TJnkLGiVMApNEY
-modified: 2026-03-18
 ---
 
 # 🇧🇷 Brazil
