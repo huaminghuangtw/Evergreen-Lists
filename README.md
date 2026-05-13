@@ -75,3 +75,7 @@ You can explore and download these lists at [huam.ing/lists](https://huam.ing/li
 ## Contribution
 
 Contributions are welcome! Please [open an issue](https://github.com/huaminghuangtw/Evergreen-Lists/issues/new) or [submit a pull request](https://github.com/huaminghuangtw/Evergreen-Lists/compare).
+
+## License
+
+This project is licensed under the [CC0 1.0 Universal](LICENSE).
