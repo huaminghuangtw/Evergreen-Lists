@@ -12,9 +12,9 @@ I use [ Apple Reminders](https://support.apple.com/en-au/guide/reminders/welc
 Whenever I come across something interesting, I add it to the relevant Reminder list. Every month, I use [ Apple Shortcuts](https://shortcutomation.com/share-evergreen-lists/) to export these items into three formats—**[Google Sheets](https://shortcutomation.com/evergreen-list-to-google-sheets/)**, **[JSON](https://shortcutomation.com/evergreen-list-to-json/)**, and **[Markdown](https://shortcutomation.com/evergreen-list-to-markdown/)**. You can find all of them in this repo.
 
 <p align="center">
-<a href="assets/mockup.png">
+<a href="assets/mockup.svg">
 <kbd>
-<img src="assets/mockup.svg" width="" title=""/>
+<img src="assets/mockup.svg"/>
 </kbd>
 </a>
 </p>
@@ -37,7 +37,7 @@ On desktop, I made an [Obsidian Callout](https://help.obsidian.md/callouts) with
 <p align="center">
 <a href="assets/callout.png">
 <kbd>
-<img src="assets/callout.png" width="" title=""/>
+<img src="assets/callout.png"/>
 </kbd>
 </a>
 </p>
@@ -49,7 +49,7 @@ On mobile, I use  Apple Shortcuts to implement a flashcard system. It incorpo
 <p align="center">
 <a href="assets/notification.png">
 <kbd>
-<img src="assets/notification.png" width="" title=""/>
+<img src="assets/notification.png"/>
 </kbd>
 </a>
 </p>
