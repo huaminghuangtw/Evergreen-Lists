@@ -14,7 +14,7 @@ Whenever I come across something interesting, I add it to the relevant Reminder 
 <p align="center">
 <a href="assets/mockup.png">
 <kbd>
-<img src="assets/mockup.png" width="" title=""/>
+<img src="assets/mockup.svg" width="" title=""/>
 </kbd>
 </a>
 </p>
