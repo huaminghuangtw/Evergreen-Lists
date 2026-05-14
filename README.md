@@ -78,4 +78,4 @@ Contributions are welcome! Please [open an issue](https://github.com/huaminghuan
 
 ## License
 
-This project is licensed under the [CC0 1.0 Universal](LICENSE).
+This project is released into the public domain ([CC0 1.0](LICENSE.md)).
