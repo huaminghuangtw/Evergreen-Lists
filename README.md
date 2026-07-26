@@ -12,9 +12,9 @@ I use [ Apple Reminders](https://support.apple.com/en-au/guide/reminders/welc
 Whenever I come across something interesting, I add it to the relevant Reminder list. Every month, I use [ Apple Shortcuts](https://shortcutomation.com/share-evergreen-lists/) to export these items into three formats—**[Google Sheets](https://shortcutomation.com/evergreen-list-to-google-sheets/)**, **[JSON](https://shortcutomation.com/evergreen-list-to-json/)**, and **[Markdown](https://shortcutomation.com/evergreen-list-to-markdown/)**. You can find all of them in this repo.
 
 <p align="center">
-<a href="assets/mockup.svg">
+<a href="https://media.huam.ing/image/1aa2bd6ef72df5ee5f3daf06d7aa5a3f.svg">
 <kbd>
-<img src="assets/mockup.svg"/>
+<img src="https://media.huam.ing/image/1aa2bd6ef72df5ee5f3daf06d7aa5a3f.svg"/>
 </kbd>
 </a>
 </p>
@@ -35,9 +35,9 @@ Inspired by the concepts of [incremental learning](https://www.google.com/search
 On desktop, I made an [Obsidian Callout](https://help.obsidian.md/callouts) with the [Dataview](https://github.com/blacksmithgu/obsidian-dataview) plugin. It shows a random item from the [evergreen lists](https://huam.ing/lists). For details, see the [full code snippet](https://github.com/huaminghuangtw/Second-Brain/blob/main/Homepage.md).
 
 <p align="center">
-<a href="assets/callout.png">
+<a href="https://media.huam.ing/image/1f6a321518c205ea2f492dac58223f31.webp">
 <kbd>
-<img src="assets/callout.png"/>
+<img src="https://media.huam.ing/image/1f6a321518c205ea2f492dac58223f31.webp"/>
 </kbd>
 </a>
 </p>
@@ -47,9 +47,9 @@ On desktop, I made an [Obsidian Callout](https://help.obsidian.md/callouts) with
 On mobile, I use  Apple Shortcuts to implement a flashcard system. It incorporates the [spaced repetition](https://www.google.com/search?q=spaced+repetition) and [active recall](https://www.google.com/search?q=active+recall) techniques. Try [this shortcut](https://shortcutomation.com/evergreen-lists/) to see how it works.
 
 <p align="center">
-<a href="assets/notification.png">
+<a href="https://media.huam.ing/image/c04129596f0333a919eceffd6f6e049f.webp">
 <kbd>
-<img src="assets/notification.png"/>
+<img src="https://media.huam.ing/image/c04129596f0333a919eceffd6f6e049f.webp"/>
 </kbd>
 </a>
 </p>
