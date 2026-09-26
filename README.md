@@ -28,23 +28,9 @@ Whenever I come across something interesting, I add it to the relevant Reminder 
 
 > _“Live as if you were to die tomorrow. Learn as if you were to live forever.” — Mahatma Gandhi_
 
-Inspired by the concepts of [incremental learning](https://www.google.com/search?q=incremental+learning) and [microlearning](https://www.google.com/search?q=microlearning), I use these tools to regularly pull up and review these “Reminders”:
+Inspired by the concepts of [incremental learning](https://www.google.com/search?q=incremental+learning) and [microlearning](https://www.google.com/search?q=microlearning), I use  Apple Shortcuts to regularly pull up and review these “Reminders”.
 
-### Obsidian Callout
-
-On desktop, I made an [Obsidian Callout](https://help.obsidian.md/callouts) with the [Dataview](https://github.com/blacksmithgu/obsidian-dataview) plugin. It shows a random item from the [evergreen lists](https://huam.ing/lists). For details, see the [full code snippet](https://github.com/huaminghuangtw/Second-Brain/blob/main/Homepage.md).
-
-<p align="center">
-<a href="https://media.huam.ing/image/1f6a321518c205ea2f492dac58223f31.webp">
-<kbd>
-<img src="https://media.huam.ing/image/1f6a321518c205ea2f492dac58223f31.webp"/>
-</kbd>
-</a>
-</p>
-
-### Apple Shortcuts
-
-On mobile, I use  Apple Shortcuts to implement a flashcard system. It incorporates the [spaced repetition](https://www.google.com/search?q=spaced+repetition) and [active recall](https://www.google.com/search?q=active+recall) techniques. Try [this shortcut](https://shortcutomation.com/evergreen-lists/) to see how it works.
+Just like a flashcard system, it incorporates the [spaced repetition](https://www.google.com/search?q=spaced+repetition) and [active recall](https://www.google.com/search?q=active+recall) techniques. Try [this shortcut](https://shortcutomation.com/evergreen-lists/) to see how it works.
 
 <p align="center">
 <a href="https://media.huam.ing/image/c04129596f0333a919eceffd6f6e049f.webp">
