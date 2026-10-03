@@ -1,7 +1,7 @@
 {
     "reminders": [
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -79,18 +79,18 @@
                     "flagged": false,
                     "list": "👨‍💻 Tech Pro Tip",
                     "priority": "None",
-                    "name": "In most web browsers, holding **Alt** (Windows/Linux) or **Option** (Mac) while clicking a link triggers a quick **download** of the linked file or page instead of opening it. This browser shortcut is the same as right-click \\> \"Save Link As\", making it useful for instantly saving PDFs, images, or other resources without right-clicking.",
+                    "name": "In most web browsers, holding **Alt** (Windows/Linux) or **Option** (Mac) while clicking a link triggers a quick **download** of the linked file or page instead of opening it. This browser shortcut is the same as right-click > \"Save Link As\", making it useful for instantly saving PDFs, images, or other resources without right-clicking.",
                     "url": ""
                 }
             ],
             "flagged": false,
             "list": "👨‍💻 Tech Pro Tip",
             "priority": "None",
-            "tags": "",
-            "name": "Miscellaneous"
+            "name": "Miscellaneous",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -104,6 +104,28 @@
                     "priority": "None",
                     "name": "How to add Trash to the Finder window sidebar? Open the Trash > Go to the File menu > Click \"Add to Sidebar\"",
                     "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "macOS",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👨‍💻 Tech Pro Tip",
+                    "priority": "None",
+                    "name": "Hold Option (`⌥`) and click the Wi-Fi icon in the menu bar to quickly find your IP address.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "macOS",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👨‍💻 Tech Pro Tip",
+                    "priority": "None",
+                    "name": "[Run `defaults write com.apple.dock autohide-delay -float 999999999999999999 && killall dock` in Terminal to make the Dock practically impossible to trigger with your mouse—no third-party apps required. When you do need the Dock, just press `Option-Command-D` (customizable in Keyboard Shortcuts > Keyboard > Move focus to the Dock) to bring it up instantly. This keeps your workspace clean and ensures the Dock only appears when you really want it.](https://www.reddit.com/r/MacOS/comments/1iu5vuw/comment/mdvnx0s/)",
+                    "url": "https://www.reddit.com/r/MacOS/comments/1iu5vuw/comment/mdvnx0s/"
                 },
                 {
                     "tags": "",
@@ -252,11 +274,11 @@
             "flagged": false,
             "list": "👨‍💻 Tech Pro Tip",
             "priority": "None",
-            "tags": "",
-            "name": "macOS"
+            "name": "macOS",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -314,16 +336,38 @@
                     "priority": "None",
                     "name": "Saying “Remind me” to Siri can create a reminder in the default list.",
                     "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "iOS",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👨‍💻 Tech Pro Tip",
+                    "priority": "None",
+                    "name": "To scan documents on your iPhone, open the Notes or Files app, tap the three dots, then choose “Scan (Documents).” Hold your phone over the document—if “Auto Shutter” is enabled, it will scan automatically. After scanning, you can sign or annotate the document using Quick Look > Markup. This method is straightforward and sufficient for occasional use. Pro move: scan multiple pages in one pass, then export as a single PDF.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "iOS",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👨‍💻 Tech Pro Tip",
+                    "priority": "None",
+                    "name": "Instead of typing letter by letter, slide your finger across the keyboard and don’t lift until the word is done. Apple’s built-in [swipe keyboard](https://www.google.com/search?q=Apple+Swipe+Keyboard), known as QuickPath, is much faster once you get used to it. To enable it: Settings → General → Keyboard → toggle “Slide to Type”.",
+                    "url": ""
                 }
             ],
             "flagged": false,
             "list": "👨‍💻 Tech Pro Tip",
             "priority": "None",
-            "tags": "",
-            "name": "iOS"
+            "name": "iOS",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -353,11 +397,11 @@
             "flagged": false,
             "list": "👨‍💻 Tech Pro Tip",
             "priority": "None",
-            "tags": "",
-            "name": "Apple Ecosystem"
+            "name": "Apple Ecosystem",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -387,8 +431,8 @@
             "flagged": false,
             "list": "👨‍💻 Tech Pro Tip",
             "priority": "None",
-            "tags": "",
-            "name": "Developer Productivity"
+            "name": "Developer Productivity",
+            "url": ""
         }
     ]
 }
