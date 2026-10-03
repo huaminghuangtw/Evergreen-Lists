@@ -1,10 +1,76 @@
 {
     "reminders": [
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "Today",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What is the biggest bottleneck that holds me back today? Am I avoiding it?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Today",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "If I could only accomplish one thing today, what would make everything else easier or unnecessary?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Today",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "Which undone item, if done today, would liberate the most energy for me personally?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Today",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What are the one or two mission-critical tasks I could accomplish today that would define the day as a success?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Today",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "If today were the last day of my life, would I want to do what I am about to do today?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Today",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What is today’s biggest and most critical task that'll render all the rest either easier or completely irrelevant?",
+                    "url": ""
+                },
                 {
                     "tags": "",
                     "parent_reminder": "Today",
@@ -101,17 +167,6 @@
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
-                    "name": "Looking back ten years from now and I can probably identify a few blind spots or mistaken beliefs I held at that time. Now, fast forward ten years: What are likely to be my current blind spots? What am I not spending enough time thinking about or perhaps even willfully ignoring?",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "Today",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "💭 Journal Prompt",
-                    "priority": "None",
                     "name": "What does that ideal future look like? What does that imply about how I need to live today?",
                     "url": ""
                 },
@@ -178,28 +233,6 @@
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
-                    "name": "If I died 10 years from today,",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "Today",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "💭 Journal Prompt",
-                    "priority": "None",
-                    "name": "What are the behaviors I want to unlearn? What are the beliefs that are no longer serving me?",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "Today",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "💭 Journal Prompt",
-                    "priority": "None",
                     "name": "What would my 80-year-old self say about my decisions today?",
                     "url": ""
                 },
@@ -215,20 +248,20 @@
                     "url": ""
                 }
             ],
-            "flagged": false,
+            "flagged": true,
             "list": "💭 Journal Prompt",
             "priority": "None",
-            "tags": "",
-            "name": "Today"
+            "name": "Today",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "Good Morning",
+                    "parent_reminder": "Morning",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -239,7 +272,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "Good Morning",
+                    "parent_reminder": "Morning",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -250,7 +283,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "Good Morning",
+                    "parent_reminder": "Morning",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -258,33 +291,22 @@
                     "priority": "None",
                     "name": "What makes me excited to wake up? Will this let me sleep in peace?",
                     "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "Good Morning",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "💭 Journal Prompt",
-                    "priority": "None",
-                    "name": "Which activity will make me the most money per minute? Which activity will deliver the most excitement per minute? Which activity will create the most connection per minute? Which activity will provide me the most laughter per minute? Which activity is the best blend?",
-                    "url": ""
                 }
             ],
-            "flagged": false,
+            "flagged": true,
             "list": "💭 Journal Prompt",
             "priority": "None",
-            "tags": "",
-            "name": "Good Morning"
+            "name": "Morning",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "Good Evening",
+                    "parent_reminder": "Evening",
                     "due_date": "",
                     "notes": "[\"Success is largely the failures you avoid. Health is the injuries you don't sustain. Wealth is the purchases you don't make. Happiness is the objects you don't desire. Peace of mind is the arguments you don't engage. Avoid the bad to protect the good.\" — James Clear](https://jamesclear.com/3-2-1/march-27-2025)",
                     "flagged": false,
@@ -295,7 +317,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "Good Evening",
+                    "parent_reminder": "Evening",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -306,18 +328,18 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "Good Evening",
+                    "parent_reminder": "Evening",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
-                    "name": "What excited me? What drained me of energy? Was my attention on loving or on who isn't loving me?",
+                    "name": "What produced energy today? What drained me of energy? What will I schedule or cut tomorrow?",
                     "url": ""
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "Good Evening",
+                    "parent_reminder": "Evening",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -328,7 +350,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "Good Evening",
+                    "parent_reminder": "Evening",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -339,7 +361,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "Good Evening",
+                    "parent_reminder": "Evening",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -350,7 +372,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "Good Evening",
+                    "parent_reminder": "Evening",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -361,7 +383,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "Good Evening",
+                    "parent_reminder": "Evening",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -372,7 +394,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "Good Evening",
+                    "parent_reminder": "Evening",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -382,14 +404,14 @@
                     "url": ""
                 }
             ],
-            "flagged": false,
+            "flagged": true,
             "list": "💭 Journal Prompt",
             "priority": "None",
-            "tags": "",
-            "name": "Good Evening"
+            "name": "Evening",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -401,7 +423,7 @@
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
-                    "name": "What will I do XXX, knowing that I am one of the rarest forms of life to ever walk the Earth?",
+                    "name": "What will I do now, knowing that I am one of the rarest forms of life to ever walk the Earth?",
                     "url": ""
                 },
                 {
@@ -412,18 +434,7 @@
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
-                    "name": "If XXX were the last day of my life, would I want to do what I am about to do XXX?",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "Prioritization",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "💭 Journal Prompt",
-                    "priority": "None",
-                    "name": "If I were the last person on earth XXX, would I still do the thing I'm going to do?",
+                    "name": "If I were the last person on earth, would I still do the thing I'm going to do?",
                     "url": ""
                 },
                 {
@@ -445,7 +456,7 @@
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
-                    "name": "Which undone item, if done XXX, would liberate the most energy for me personally?",
+                    "name": "What is scarce in my work? How can I leverage it? What aspect of my work is hardest to copy? How can I amplify it?",
                     "url": ""
                 },
                 {
@@ -456,7 +467,7 @@
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
-                    "name": "If I could only accomplish one thing XXX, what would make everything else easier or unnecessary?",
+                    "name": "If I had a heart attack and could only work two hours per day, what would I choose to do? If I had another heart attack and had to work only two hours per week, what would I do?",
                     "url": ""
                 },
                 {
@@ -467,7 +478,7 @@
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
-                    "name": "What is scarce in my work XXX? How can I leverage it? What aspect of my work is hardest to copy? How can I amplify it?",
+                    "name": "What is the ONE highest-leverage thing I can do now that'll take the largest load off my shoulders?",
                     "url": ""
                 },
                 {
@@ -478,7 +489,7 @@
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
-                    "name": "If I had a heart attack and could only work two hours XXX, what would I choose to do?",
+                    "name": "What activity I can do now that will create the most impact and value to the world?",
                     "url": ""
                 },
                 {
@@ -489,62 +500,18 @@
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
-                    "name": "What is the biggest bottleneck that holds me back XXX? Am I avoiding it?",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "Prioritization",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "💭 Journal Prompt",
-                    "priority": "None",
-                    "name": "What are the one or two mission-critical tasks I could accomplish XXX that would define the day as a success?",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "Prioritization",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "💭 Journal Prompt",
-                    "priority": "None",
-                    "name": "What is XXX's biggest and most critical task that'll render all the rest either easier or completely irrelevant?",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "Prioritization",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "💭 Journal Prompt",
-                    "priority": "None",
-                    "name": "What is the ONE highest-leverage thing I can do XXX that'll take the largest load off my shoulders?",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "Prioritization",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "💭 Journal Prompt",
-                    "priority": "None",
-                    "name": "What activity I can do XXX that will create the most impact and value to the world?",
+                    "name": "Where is my energy better spent: pushing harder or planting myself in better ground?",
                     "url": ""
                 }
             ],
-            "flagged": false,
+            "flagged": true,
             "list": "💭 Journal Prompt",
             "priority": "None",
-            "tags": "",
-            "name": "Prioritization"
+            "name": "Prioritization",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -822,16 +789,27 @@
                     "priority": "None",
                     "name": "What is the most sustainable, long-term solution? How can I address it effectively while committing the minimum amount of time and effort possible?",
                     "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Productivity",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "Am I willing to do the bad, ugly version of this thing for a long time in order to earn the winning version I’m proud of?",
+                    "url": ""
                 }
             ],
-            "flagged": false,
+            "flagged": true,
             "list": "💭 Journal Prompt",
             "priority": "None",
-            "tags": "",
-            "name": "Productivity"
+            "name": "Productivity",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -3028,11 +3006,11 @@
             "flagged": false,
             "list": "💭 Journal Prompt",
             "priority": "None",
-            "tags": "",
-            "name": "Miscellaneous"
+            "name": "Miscellaneous",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -3046,16 +3024,27 @@
                     "priority": "None",
                     "name": "If I knew I had to live with the results of this action forever, would I still do it this way?",
                     "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Decision Making",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "If I lived in a world where everyone made the exact same salary, what would I choose to do for work?",
+                    "url": ""
                 }
             ],
             "flagged": false,
             "list": "💭 Journal Prompt",
             "priority": "None",
-            "tags": "",
-            "name": "Decision Making"
+            "name": "Decision Making",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -3107,11 +3096,11 @@
             "flagged": false,
             "list": "💭 Journal Prompt",
             "priority": "None",
-            "tags": "",
-            "name": "Beliefs"
+            "name": "Beliefs",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -3130,11 +3119,11 @@
             "flagged": false,
             "list": "💭 Journal Prompt",
             "priority": "None",
-            "tags": "",
-            "name": "Taking Action"
+            "name": "Taking Action",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -3153,11 +3142,11 @@
             "flagged": false,
             "list": "💭 Journal Prompt",
             "priority": "None",
-            "tags": "",
-            "name": "Habits/Behavior Change"
+            "name": "Habits/Behavior Change",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -3209,11 +3198,11 @@
             "flagged": false,
             "list": "💭 Journal Prompt",
             "priority": "None",
-            "tags": "",
-            "name": "Purpose/Meaning"
+            "name": "Purpose/Meaning",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -3269,6 +3258,17 @@
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
+                    "name": "In which areas of my personal or professional life am I an amateur pretending to play a “Winner’s Game”?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Decades",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
                     "name": "If a competent CEO got to run my life for a day, what is the first thing they would eliminate?",
                     "url": ""
                 }
@@ -3276,14 +3276,25 @@
             "flagged": false,
             "list": "💭 Journal Prompt",
             "priority": "None",
-            "tags": "",
-            "name": "Decades"
+            "name": "Decades",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "Annual Review",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "If this year was a movie, book or album, what would its title be?",
+                    "url": ""
+                },
                 {
                     "tags": "",
                     "parent_reminder": "Annual Review",
@@ -3358,7 +3369,51 @@
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
-                    "name": "What people/activities added the most energy to my life this year?",
+                    "name": "What behaviors or habits positively supported my health, and which ones negatively impacted it?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Annual Review",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "Who had a positive impact on me and my life? How did they impact me?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Annual Review",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "Who held me back and/or drained me? How did they impact me?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Annual Review",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "When did I feel the most energized this year, and what contributed to that energy?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Annual Review",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "When did I feel the most depleted, and what patterns or circumstances led to that?",
                     "url": ""
                 },
                 {
@@ -3569,16 +3624,38 @@
                     "priority": "None",
                     "name": "What is a quote that sums up my year?",
                     "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Annual Review",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What and who am I most grateful for this year?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Annual Review",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "What 3–5 words or phrases would I use to describe this year?",
+                    "url": ""
                 }
             ],
             "flagged": false,
             "list": "💭 Journal Prompt",
             "priority": "None",
-            "tags": "",
-            "name": "Annual Review"
+            "name": "Annual Review",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -3828,22 +3905,45 @@
             "flagged": false,
             "list": "💭 Journal Prompt",
             "priority": "None",
-            "tags": "",
-            "name": "Self Awareness"
+            "name": "Self Awareness",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [],
             "flagged": false,
             "list": "💭 Journal Prompt",
             "priority": "None",
-            "tags": "",
-            "name": "Confronting Fears"
+            "name": "Confronting Fears",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "Relieving Stress",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💭 Journal Prompt",
+                    "priority": "None",
+                    "name": "Is this a problem I need to solve or a tension I need to learn to live with?",
+                    "url": ""
+                }
+            ],
+            "flagged": false,
+            "list": "💭 Journal Prompt",
+            "priority": "None",
+            "name": "Relieving Stress",
+            "url": ""
+        },
+        {
+            "tags": "",
             "due_date": "",
             "notes": "Thought-provoking, open-ended deep questions designed to spark meaningful conversations, invite authentic connections, and build stronger bonds.\nThese questions work best when they come up naturally, not as a checklist. Pick the ones that resonate and let them emerge naturally in conversation.",
             "subtasks": [
@@ -3932,7 +4032,7 @@
                     "flagged": false,
                     "list": "💭 Journal Prompt",
                     "priority": "None",
-                    "name": "What were you wrong about most recently?",
+                    "name": "What were I wrong about most recently?",
                     "url": ""
                 },
                 {
@@ -3966,17 +4066,6 @@
                     "list": "💭 Journal Prompt",
                     "priority": "None",
                     "name": "What does your personal “endgame” look like—when do you know you’ve won?",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "Asking People",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "💭 Journal Prompt",
-                    "priority": "None",
-                    "name": "What’s something you’re probably a little too confident about—but own it anyway?",
                     "url": ""
                 },
                 {
@@ -4154,24 +4243,13 @@
                     "priority": "None",
                     "name": "What questions do you like asking people?",
                     "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "Asking People",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "💭 Journal Prompt",
-                    "priority": "None",
-                    "name": "What are you proudest of, and why that?",
-                    "url": ""
                 }
             ],
             "flagged": false,
             "list": "💭 Journal Prompt",
             "priority": "None",
-            "tags": "",
-            "name": "Asking People"
+            "name": "Asking People",
+            "url": ""
         }
     ]
 }
