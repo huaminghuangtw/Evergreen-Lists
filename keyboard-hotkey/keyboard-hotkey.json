@@ -1,7 +1,7 @@
 {
     "reminders": [
         {
-            "url": "https://code.visualstudio.com/docs/getstarted/keybindings",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -295,7 +295,7 @@
                     "tags": "",
                     "parent_reminder": "VS Code",
                     "due_date": "",
-                    "notes": "Move line up/down (reordering). Holding it with `Shift` will copy/duplicate the line as well.",
+                    "notes": "Move line up/down (reordering). Holding it with `Shift` will copy/duplicate the line as well. In Terminal: move to previous/next tab.",
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
@@ -394,29 +394,7 @@
                     "tags": "",
                     "parent_reminder": "VS Code",
                     "due_date": "",
-                    "notes": "Move to previous terminal",
-                    "flagged": false,
-                    "list": "⌨️ Keyboard Hotkey",
-                    "priority": "None",
-                    "name": "Cmd + Shift + [",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "VS Code",
-                    "due_date": "",
-                    "notes": "Move to next terminal",
-                    "flagged": false,
-                    "list": "⌨️ Keyboard Hotkey",
-                    "priority": "None",
-                    "name": "Cmd + Shift + ]",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "VS Code",
-                    "due_date": "",
-                    "notes": "Shift focus from the terminal pane to the terminal tabs view",
+                    "notes": "Shift focus from the panel to the tabs/panes in Terminal",
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
@@ -427,11 +405,11 @@
             "flagged": false,
             "list": "⌨️ Keyboard Hotkey",
             "priority": "None",
-            "tags": "",
-            "name": "VS Code"
+            "name": "VS Code",
+            "url": "https://code.visualstudio.com/docs/getstarted/keybindings"
         },
         {
-            "url": "https://support.apple.com/en-gb/guide/notes/apd46c25187e/mac",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -538,11 +516,11 @@
             "flagged": false,
             "list": "⌨️ Keyboard Hotkey",
             "priority": "None",
-            "tags": "",
-            "name": "Apple Notes"
+            "name": "Apple Notes",
+            "url": "https://support.apple.com/en-gb/guide/notes/apd46c25187e/mac"
         },
         {
-            "url": "https://support.apple.com/guide/calendar/keyboard-shortcuts-ical002/mac",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -660,11 +638,11 @@
             "flagged": false,
             "list": "⌨️ Keyboard Hotkey",
             "priority": "None",
-            "tags": "",
-            "name": "Apple Calendar"
+            "name": "Apple Calendar",
+            "url": "https://support.apple.com/guide/calendar/keyboard-shortcuts-ical002/mac"
         },
         {
-            "url": "https://support.apple.com/en-am/guide/reminders/remn19b3424c/mac",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -804,11 +782,11 @@
             "flagged": false,
             "list": "⌨️ Keyboard Hotkey",
             "priority": "None",
-            "tags": "",
-            "name": "Apple Reminders"
+            "name": "Apple Reminders",
+            "url": "https://support.apple.com/en-am/guide/reminders/remn19b3424c/mac"
         },
         {
-            "url": "https://openai.com/chatgpt/desktop/",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -849,11 +827,11 @@
             "flagged": false,
             "list": "⌨️ Keyboard Hotkey",
             "priority": "None",
-            "tags": "",
-            "name": "ChatGPT Desktop Application"
+            "name": "ChatGPT Desktop Application",
+            "url": "https://openai.com/chatgpt/desktop/"
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -932,6 +910,17 @@
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
                     "name": "Cmd + Delete/Backspace",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "File Manager",
+                    "due_date": "",
+                    "notes": "Permanently delete the selected item (bypasses the Trash)",
+                    "flagged": false,
+                    "list": "⌨️ Keyboard Hotkey",
+                    "priority": "None",
+                    "name": "Opt + Cmd + Delete/Backspace",
                     "url": ""
                 },
                 {
@@ -1092,22 +1081,22 @@
             "flagged": false,
             "list": "⌨️ Keyboard Hotkey",
             "priority": "None",
-            "tags": "",
-            "name": "File Manager"
+            "name": "File Manager",
+            "url": ""
         },
         {
-            "url": "https://support.google.com/mail/answer/6594?hl=en&co=GENIE.Platform%3DDesktop",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [],
             "flagged": false,
             "list": "⌨️ Keyboard Hotkey",
             "priority": "None",
-            "tags": "",
-            "name": "Gmail"
+            "name": "Gmail",
+            "url": "https://support.google.com/mail/answer/6594?hl=en&co=GENIE.Platform%3DDesktop"
         },
         {
-            "url": "https://support.apple.com/en-us/102650",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -1214,7 +1203,7 @@
                     "tags": "",
                     "parent_reminder": "macOS",
                     "due_date": "",
-                    "notes": "Capture a portion of the screen (selected area)",
+                    "notes": "Capture a portion of the screen (selected area), just like [Snipping Tool](https://www.google.com/search?q=Snipping+Tool) in Windows",
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
@@ -1225,7 +1214,7 @@
                     "tags": "",
                     "parent_reminder": "macOS",
                     "due_date": "",
-                    "notes": "Open the Screenshot app (to e.g., record screen). This is where you can select/change the default folder/location where screenshots are saved.",
+                    "notes": "[Open Screenshot Toolbar](https://support.apple.com/en-us/102646)",
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
@@ -1236,7 +1225,7 @@
                     "tags": "",
                     "parent_reminder": "macOS",
                     "due_date": "",
-                    "notes": "Use emojis/symbols. Press it alongside the text to get the corresponding emoji/symbols",
+                    "notes": "Use emojis/symbols. Press it alongside the text to get the corresponding emoji/symbols. Alternative: install [Rocket](https://matthewpalmer.net/rocket)",
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
@@ -1324,11 +1313,11 @@
             "flagged": false,
             "list": "⌨️ Keyboard Hotkey",
             "priority": "None",
-            "tags": "",
-            "name": "macOS"
+            "name": "macOS",
+            "url": "https://support.apple.com/en-us/102650"
         },
         {
-            "url": "https://www.notion.so/help/keyboard-shortcuts",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -1369,11 +1358,11 @@
             "flagged": false,
             "list": "⌨️ Keyboard Hotkey",
             "priority": "None",
-            "tags": "",
-            "name": "Notion"
+            "name": "Notion",
+            "url": "https://www.notion.so/help/keyboard-shortcuts"
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -1469,17 +1458,17 @@
             "flagged": false,
             "list": "⌨️ Keyboard Hotkey",
             "priority": "None",
-            "tags": "",
-            "name": "Terminal"
+            "name": "Terminal",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "Web Browser (Microsoft Edge)",
+                    "parent_reminder": "Web Browser",
                     "due_date": "",
                     "notes": "Go back a page",
                     "flagged": false,
@@ -1490,7 +1479,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "Web Browser (Microsoft Edge)",
+                    "parent_reminder": "Web Browser",
                     "due_date": "",
                     "notes": "Go forward a page",
                     "flagged": false,
@@ -1501,7 +1490,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "Web Browser (Microsoft Edge)",
+                    "parent_reminder": "Web Browser",
                     "due_date": "",
                     "notes": "Open link in a new tab",
                     "flagged": false,
@@ -1512,7 +1501,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "Web Browser (Microsoft Edge)",
+                    "parent_reminder": "Web Browser",
                     "due_date": "",
                     "notes": "Save the current tab as a favorite (i.e., bookmark the current tab)",
                     "flagged": false,
@@ -1523,7 +1512,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "Web Browser (Microsoft Edge)",
+                    "parent_reminder": "Web Browser",
                     "due_date": "",
                     "notes": "Select address bar (to edit URL)",
                     "flagged": false,
@@ -1534,7 +1523,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "Web Browser (Microsoft Edge)",
+                    "parent_reminder": "Web Browser",
                     "due_date": "",
                     "notes": "Open a new window",
                     "flagged": false,
@@ -1545,7 +1534,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "Web Browser (Microsoft Edge)",
+                    "parent_reminder": "Web Browser",
                     "due_date": "",
                     "notes": "Normal reload/refresh a web page",
                     "flagged": false,
@@ -1556,7 +1545,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "Web Browser (Microsoft Edge)",
+                    "parent_reminder": "Web Browser",
                     "due_date": "",
                     "notes": "Show/Hide the Favorites bar",
                     "flagged": false,
@@ -1567,7 +1556,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "Web Browser (Microsoft Edge)",
+                    "parent_reminder": "Web Browser",
                     "due_date": "",
                     "notes": "Show/Hide toolbar in full screen mode",
                     "flagged": false,
@@ -1578,7 +1567,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "Web Browser (Microsoft Edge)",
+                    "parent_reminder": "Web Browser",
                     "due_date": "",
                     "notes": "Open a new InPrivate (無痕模式/私密瀏覽) window",
                     "flagged": false,
@@ -1589,7 +1578,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "Web Browser (Microsoft Edge)",
+                    "parent_reminder": "Web Browser",
                     "due_date": "",
                     "notes": "Hard reload/refresh a web page",
                     "flagged": false,
@@ -1600,7 +1589,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "Web Browser (Microsoft Edge)",
+                    "parent_reminder": "Web Browser",
                     "due_date": "",
                     "notes": "Reopen the last closed tab",
                     "flagged": false,
@@ -1611,7 +1600,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "Web Browser (Microsoft Edge)",
+                    "parent_reminder": "Web Browser",
                     "due_date": "",
                     "notes": "Show/Hide Collections",
                     "flagged": false,
@@ -1622,7 +1611,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "Web Browser (Microsoft Edge)",
+                    "parent_reminder": "Web Browser",
                     "due_date": "",
                     "notes": "Show/Hide Downloads",
                     "flagged": false,
@@ -1633,7 +1622,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "Web Browser (Microsoft Edge)",
+                    "parent_reminder": "Web Browser",
                     "due_date": "",
                     "notes": "Open History",
                     "flagged": false,
@@ -1644,7 +1633,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "Web Browser (Microsoft Edge)",
+                    "parent_reminder": "Web Browser",
                     "due_date": "",
                     "notes": "Open a new tab",
                     "flagged": false,
@@ -1655,7 +1644,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "Web Browser (Microsoft Edge)",
+                    "parent_reminder": "Web Browser",
                     "due_date": "",
                     "notes": "Close the current window",
                     "flagged": false,
@@ -1666,7 +1655,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "Web Browser (Microsoft Edge)",
+                    "parent_reminder": "Web Browser",
                     "due_date": "",
                     "notes": "Close the current window, along with all its tabs",
                     "flagged": false,
@@ -1677,7 +1666,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "Web Browser (Microsoft Edge)",
+                    "parent_reminder": "Web Browser",
                     "due_date": "",
                     "notes": "捲動網頁",
                     "flagged": false,
@@ -1688,7 +1677,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "Web Browser (Microsoft Edge)",
+                    "parent_reminder": "Web Browser",
                     "due_date": "",
                     "notes": "Moves to the next tab (rightward)\n—\nNote that `Ctrl` + `Tab` might follow **recently used order** depending on browser settings, while `Opt` + `Cmd` + `[Right-Arrow]` always moves tabs in **linear/sequential order**.",
                     "flagged": false,
@@ -1699,7 +1688,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "Web Browser (Microsoft Edge)",
+                    "parent_reminder": "Web Browser",
                     "due_date": "",
                     "notes": "Moves to the previous tab (leftward)\n—\nNote that `Ctrl` + `Shift ` + `Tab` might follow **recently used order** depending on browser settings, while `Opt` + `Cmd` + `[Left-Arrow]` always moves tabs in **linear/sequential order**.",
                     "flagged": false,
@@ -1710,7 +1699,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "Web Browser (Microsoft Edge)",
+                    "parent_reminder": "Web Browser",
                     "due_date": "",
                     "notes": "Moves to the next tab (rightward)\n—\nNote that `Opt` + `Cmd` + `[Right-Arrow]` always moves tabs in **linear/sequential order**, while `Ctrl` + `Tab` might follow **recently used order** depending on browser settings.",
                     "flagged": false,
@@ -1721,7 +1710,7 @@
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "Web Browser (Microsoft Edge)",
+                    "parent_reminder": "Web Browser",
                     "due_date": "",
                     "notes": "Moves to the previous tab (leftward)\n—\nNote that `Opt` + `Cmd` + `[Left-Arrow]` always moves tabs in **linear/sequential order**, while `Ctrl` + `Shift` + `Tab` might follow **recently used order** depending on browser settings.",
                     "flagged": false,
@@ -1734,11 +1723,11 @@
             "flagged": false,
             "list": "⌨️ Keyboard Hotkey",
             "priority": "None",
-            "tags": "",
-            "name": "Web Browser (Microsoft Edge)"
+            "name": "Web Browser",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -1783,7 +1772,7 @@
                     "flagged": false,
                     "list": "⌨️ Keyboard Hotkey",
                     "priority": "None",
-                    "name": "Opt  + ←/→",
+                    "name": "Ctrl  + ←/→",
                     "url": ""
                 },
                 {
@@ -1856,8 +1845,8 @@
             "flagged": false,
             "list": "⌨️ Keyboard Hotkey",
             "priority": "None",
-            "tags": "",
-            "name": "YouTube"
+            "name": "YouTube",
+            "url": ""
         }
     ]
 }
