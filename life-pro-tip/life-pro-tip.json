@@ -1,7 +1,7 @@
 {
     "reminders": [
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -24,7 +24,7 @@
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "When you read something helpful, write to the author—a simple act that can yield meaningful results. By expressing your appreciation, you foster **real human connection**, reminding the creator that their work matters. This small gesture also helps **reinforce your learning**, as explaining why something resonated deepens understanding. Additionally, it can **open doors** to potential mentorships, collaborations, or friendships. Because most readers remain silent, your gratitude will be **rare—and memorable**. Whether it’s a bestselling writer or a niche blogger, reaching out strengthens a culture of appreciation and may spark unexpected opportunities.",
+                    "name": "Reach out to writers—whether bestselling authors or niche bloggers—whose work resonates with you. This helps deepen your understanding. Additionally, you foster real human connection and open unexpected doors to potential mentorships, collaborations, or friendships. Most readers remain silent, your gratitude will be rare—and memorable.",
                     "url": ""
                 },
                 {
@@ -123,17 +123,6 @@
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "When learning something new, spend five minutes teaching it to someone else. Notice where they get confused—these are the areas where you need to .",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "Life Wisdom & Lessons",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "👑 Life Pro Tip",
-                    "priority": "None",
                     "name": "[When learning something new, spend 5 minutes trying to teach it to someone. Make a note of where the other person gets confused. Notice where they get confused—you'll get an immediate sense for your level of understanding of the topic and where you need to dig in more.](https://www.sahilbloom.com/newsletter/the-most-powerful-asymmetries-in-life)",
                     "url": "https://www.sahilbloom.com/newsletter/the-most-powerful-asymmetries-in-life"
                 },
@@ -147,16 +136,38 @@
                     "priority": "None",
                     "name": "Carry a pocket notebook everywhere you go. Get into the habit of jotting down ideas, thoughts, or insights the moment they come to you. You’ll capture sparks of creativity that would otherwise fade—and over time, you’ll build a personal library of ideas to revisit and develop.",
                     "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Life Wisdom & Lessons",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "[How to attract the right people? Be unapologetically yourself. When you edit your personality, you attract relationships that need constant maintenance. Stop filtering who you are to be liked. The right ones will stick. The wrong ones will walk.](https://x.com/SahilBloom/status/1949818412898607405)",
+                    "url": "https://x.com/SahilBloom/status/1949818412898607405"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Life Wisdom & Lessons",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "[“Don’t treat people as bad as they are. Treat them as good as you are.” ― Kevin Kelly, Excellent Advice for Living: Wisdom I Wish I'd Known Earlier](https://www.goodreads.com/work/quotes/98113859-excellent-advice-for-living-wisdom-i-wish-i-d-known-earlier)",
+                    "url": "https://www.goodreads.com/work/quotes/98113859-excellent-advice-for-living-wisdom-i-wish-i-d-known-earlier"
                 }
             ],
             "flagged": false,
             "list": "👑 Life Pro Tip",
             "priority": "None",
-            "tags": "",
-            "name": "Life Wisdom & Lessons"
+            "name": "Life Wisdom & Lessons",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -168,7 +179,7 @@
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "要讓家庭號寶特瓶汽水保氣，最有效的方法是「冷藏」以維持二氧化碳溶解度，並在每次喝完後適度「捏扁」瓶身減少空氣體積，再將瓶口「倒置」存放，讓液體封住瓶口以減緩氣泡逸出，同時務必轉緊瓶蓋並避免劇烈搖晃；若想延長保氣時間，可額外使用[真空酒瓶塞](https://www.google.com/search?q=真空酒瓶塞)或分裝玻璃瓶，搭配這些技巧可以讓汽水氣泡維持更久。",
+                    "name": "要讓家庭號寶特瓶汽水保氣，最有效的方法是「冷藏」，以維持二氧化碳溶解度，並在每次喝完後，適度「捏扁」瓶身，減少空氣體積，再將瓶口「倒置」存放，讓液體封住瓶口以減緩氣泡逸出，同時務必轉緊瓶蓋，並避免劇烈搖晃；若想延長保氣時間，可額外使用[真空酒瓶塞](https://www.google.com/search?q=真空酒瓶塞)或分裝玻璃瓶，搭配這些技巧可以讓汽水氣泡維持更久。",
                     "url": ""
                 },
                 {
@@ -225,27 +236,16 @@
                     "priority": "None",
                     "name": "[Take cucumbers on your hike, bike ride, or any strenuous activity! Packed with 96% water, they’re a refreshing, hydrating boost when you need it most.](https://mariandrew.substack.com/p/100-things-i-know)",
                     "url": "https://mariandrew.substack.com/p/100-things-i-know"
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "Eating & Drinking",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "👑 Life Pro Tip",
-                    "priority": "None",
-                    "name": "[How to attract the right people? Be unapologetically yourself. When you edit your personality, you attract relationships that need constant maintenance. Stop filtering who you are to be liked. The right ones will stick. The wrong ones will walk.](https://x.com/SahilBloom/status/1949818412898607405)",
-                    "url": "https://x.com/SahilBloom/status/1949818412898607405"
                 }
             ],
             "flagged": false,
             "list": "👑 Life Pro Tip",
             "priority": "None",
-            "tags": "",
-            "name": "Eating & Drinking"
+            "name": "Eating & Drinking",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -330,11 +330,11 @@
             "flagged": false,
             "list": "👑 Life Pro Tip",
             "priority": "None",
-            "tags": "",
-            "name": "Moving"
+            "name": "Moving",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -375,11 +375,11 @@
             "flagged": false,
             "list": "👑 Life Pro Tip",
             "priority": "None",
-            "tags": "",
-            "name": "Giving"
+            "name": "Giving",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -534,7 +534,7 @@
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "牙膏、洗面乳等用罄時，使用剪刀將軟管瓶身剪開，將可以再多使用 3-5 次！",
+                    "name": "牙膏、洗面乳、身體乳液見底時，別急著丟掉 ─ 把軟管剪開，可以再用好幾次！",
                     "url": ""
                 },
                 {
@@ -601,17 +601,6 @@
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
                     "name": "Don't buy CDs for people. They have Spotify. Buy them merch from a band they like instead. It’s more personal and the band gets more money.",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "Miscellaneous",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "👑 Life Pro Tip",
-                    "priority": "None",
-                    "name": "洗碗精、洗手乳、沐浴乳、洗髮精等用罄時，把容器裝滿水稀釋，將可以再多使用 3-5 次！",
                     "url": ""
                 },
                 {
@@ -710,17 +699,6 @@
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "Play YouTube videos in VLC media player to skip ads. Plus, you also benefit from all the capabilities of VLC.",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "Miscellaneous",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "👑 Life Pro Tip",
-                    "priority": "None",
                     "name": "Never ask the doctor what you should do. Instead, ask him what he would do if he were in your place. You would be surprised at the difference.",
                     "url": ""
                 },
@@ -754,7 +732,7 @@
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "去麥當勞點餐時，和店員說要「不加鹽」的薯條，就可以得到熱騰騰、剛出爐的新鮮現炸薯條",
+                    "name": "去麥當勞點餐時，和店員說要「不加鹽」的薯條，就可以得到熱騰騰、剛出爐的新鮮現炸薯條！",
                     "url": ""
                 },
                 {
@@ -783,11 +761,11 @@
             "flagged": false,
             "list": "👑 Life Pro Tip",
             "priority": "None",
-            "tags": "",
-            "name": "Miscellaneous"
+            "name": "Miscellaneous",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -839,11 +817,11 @@
             "flagged": false,
             "list": "👑 Life Pro Tip",
             "priority": "None",
-            "tags": "",
-            "name": "Careers & Work"
+            "name": "Careers & Work",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -983,11 +961,11 @@
             "flagged": false,
             "list": "👑 Life Pro Tip",
             "priority": "None",
-            "tags": "",
-            "name": "Home"
+            "name": "Home",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -1105,11 +1083,11 @@
             "flagged": false,
             "list": "👑 Life Pro Tip",
             "priority": "None",
-            "tags": "",
-            "name": "Email & Phone/Video Call"
+            "name": "Email & Phone/Video Call",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -1150,11 +1128,11 @@
             "flagged": false,
             "list": "👑 Life Pro Tip",
             "priority": "None",
-            "tags": "",
-            "name": "Wellness & Wellbeing"
+            "name": "Wellness & Wellbeing",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -1228,11 +1206,11 @@
             "flagged": false,
             "list": "👑 Life Pro Tip",
             "priority": "None",
-            "tags": "",
-            "name": "Grocery Shopping"
+            "name": "Grocery Shopping",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -1310,6 +1288,17 @@
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
+                    "name": "The 2x Rule: Whenever you want to splurge—say, on a $400 pair of shoes—commit to investing the same amount ($400) as well. If you’re not willing to save and invest 2x the price, reconsider the purchase.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Buying Things",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
                     "name": "If you’re looking for your good X, you have bad Xs. Throw those out.",
                     "url": ""
                 },
@@ -1328,11 +1317,11 @@
             "flagged": false,
             "list": "👑 Life Pro Tip",
             "priority": "None",
-            "tags": "",
-            "name": "Buying Things"
+            "name": "Buying Things",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -1362,11 +1351,11 @@
             "flagged": false,
             "list": "👑 Life Pro Tip",
             "priority": "None",
-            "tags": "",
-            "name": "Parenting"
+            "name": "Parenting",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -1418,11 +1407,11 @@
             "flagged": false,
             "list": "👑 Life Pro Tip",
             "priority": "None",
-            "tags": "",
-            "name": "Creating Luck"
+            "name": "Creating Luck",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -1546,6 +1535,17 @@
                     "priority": "None",
                     "name": "[等一下 → 馬上來](https://sketchplanations.com/dont-think-of-an-elephant)",
                     "url": "https://sketchplanations.com/dont-think-of-an-elephant"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Social Interaction",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "Can I have your number? → Can I give you my number?",
+                    "url": ""
                 },
                 {
                     "tags": "",
@@ -1716,11 +1716,11 @@
                     "tags": "",
                     "parent_reminder": "Social Interaction",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "+ Tip: only introduce people when both sides stand to gain — not just one.\n+ Networking is not about connecting yourself to others, but connecting other people to other people.",
                     "flagged": false,
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
-                    "name": "When two friends could genuinely benefit from knowing each other, proactively make the introduction. It takes you 30 seconds, but it could change their lives — they might start a company, hire each other, or even fall in love. Networks don’t shrink when you share them; they multiply. There’s no higher ROI on any other 30-second act. (Tip: only introduce people when both sides stand to gain — not just one.)",
+                    "name": "When two friends could genuinely benefit from knowing each other, proactively make the introduction. It takes you 30 seconds, but it could change their lives — they might start a company, hire each other, or even fall in love. Networks don’t shrink when you share them; they multiply. There’s no higher ROI on any other 30-second act.",
                     "url": ""
                 },
                 {
@@ -1738,11 +1738,11 @@
             "flagged": false,
             "list": "👑 Life Pro Tip",
             "priority": "None",
-            "tags": "",
-            "name": "Social Interaction"
+            "name": "Social Interaction",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -1772,11 +1772,11 @@
             "flagged": false,
             "list": "👑 Life Pro Tip",
             "priority": "None",
-            "tags": "",
-            "name": "Emotion Control"
+            "name": "Emotion Control",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -1982,11 +1982,11 @@
             "flagged": false,
             "list": "👑 Life Pro Tip",
             "priority": "None",
-            "tags": "",
-            "name": "Cooking"
+            "name": "Cooking",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -2049,11 +2049,11 @@
             "flagged": false,
             "list": "👑 Life Pro Tip",
             "priority": "None",
-            "tags": "",
-            "name": "Body Care"
+            "name": "Body Care",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -2105,11 +2105,11 @@
             "flagged": false,
             "list": "👑 Life Pro Tip",
             "priority": "None",
-            "tags": "",
-            "name": "House Cleaning"
+            "name": "House Cleaning",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -2133,6 +2133,17 @@
                     "list": "👑 Life Pro Tip",
                     "priority": "None",
                     "name": "In a hotel, use the pants hangers with clips to keep the curtains/drapes all the way closed during the night.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Traveling",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "When checking into a hotel, ask if any complimentary upgrades are available — it only takes a few seconds, and even if you’re not a loyalty member, low occupancy often lets the front desk move you at no extra charge; worst case they say no, best case you get a nicer room, a better view, or some free perks.",
                     "url": ""
                 },
                 {
@@ -2189,16 +2200,27 @@
                     "priority": "None",
                     "name": "[Learn some geography—it makes travel conversations so much richer when you know where different countries are located (and as a bonus, which languages are spoken there!). Understanding the geography and languages of places like Africa, Eastern Europe, and India has completely transformed my interactions—people really light up when you show you understand where they’re from.\n(Americans: yes, knowing those middle states works the same magic 😉)](https://mariandrew.substack.com/p/100-things-i-know)",
                     "url": "https://mariandrew.substack.com/p/100-things-i-know"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Traveling",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "The official Wikipedia mobile app has a ‘Places’ feature that shows areas and landmarks around you which have their own Wikipedia page. You can instantly discover interesting places nearby and learn about their history. Such a fun way to expand your knowledge of where you are!",
+                    "url": ""
                 }
             ],
             "flagged": false,
             "list": "👑 Life Pro Tip",
             "priority": "None",
-            "tags": "",
-            "name": "Traveling"
+            "name": "Traveling",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -2239,11 +2261,11 @@
             "flagged": false,
             "list": "👑 Life Pro Tip",
             "priority": "None",
-            "tags": "",
-            "name": "Fitness"
+            "name": "Fitness",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -2290,22 +2312,33 @@
                     "priority": "None",
                     "name": "Don’t buy a wedding outfit you’ll barely wear—rent it. Stylish, affordable, and clutter-free.",
                     "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Saving Money",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "Bidet attachment > Stockpiling toilet paper",
+                    "url": ""
                 }
             ],
             "flagged": false,
             "list": "👑 Life Pro Tip",
             "priority": "None",
-            "tags": "",
-            "name": "Saving Money"
+            "name": "Saving Money",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "Dressing",
+                    "parent_reminder": "Dressing & Clothes",
                     "due_date": "",
                     "notes": "1. This provides a better lockdown around the ankle, reducing pressure on the top of your foot, minimizing heel slippage, and helping to prevent blisters.\n2. That's the reason why runner laces are often so long.",
                     "flagged": false,
@@ -2313,16 +2346,49 @@
                     "priority": "None",
                     "name": "How to make use of the top eyelets/holes on your running shoes? [Try this heel lock lacing method](https://www.youtube.com/watch?v=OBbc6TackDQ&t=68s) (aka [The Runner's Knot 跑者結](https://www.google.com/search?q=The+Runner's+Knot))",
                     "url": "https://www.youtube.com/watch?v=OBbc6TackDQ&t=68s"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Dressing & Clothes",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "[How to turn a blanket into a pillow?](https://www.reddit.com/r/lifehacks/comments/q0yqrz/wish_i_knew_this_earlier/)",
+                    "url": "https://www.reddit.com/r/lifehacks/comments/q0yqrz/wish_i_knew_this_earlier/"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Dressing & Clothes",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "[How to ranger roll clothes?](https://www.reddit.com/r/coolguides/comments/1d15t0v/a_cool_guide_thought_others_might_like_to_learn/)",
+                    "url": "https://www.reddit.com/r/coolguides/comments/1d15t0v/a_cool_guide_thought_others_might_like_to_learn/"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Dressing & Clothes",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "👑 Life Pro Tip",
+                    "priority": "None",
+                    "name": "The 10-Wear Rule: Levi’s® website recommends wearing your jeans ten times between washes (unless they are visibly dirty or start to smell). Britannica recommends keeping jeans on a bedroom chair between wears one through nine.",
+                    "url": ""
                 }
             ],
             "flagged": false,
             "list": "👑 Life Pro Tip",
             "priority": "None",
-            "tags": "",
-            "name": "Dressing"
+            "name": "Dressing & Clothes",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -2341,11 +2407,11 @@
             "flagged": false,
             "list": "👑 Life Pro Tip",
             "priority": "None",
-            "tags": "",
-            "name": "Productivity"
+            "name": "Productivity",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -2397,45 +2463,11 @@
             "flagged": false,
             "list": "👑 Life Pro Tip",
             "priority": "None",
-            "tags": "",
-            "name": "Small Acts of Kindness"
+            "name": "Small Acts of Kindness",
+            "url": ""
         },
         {
-            "url": "",
-            "due_date": "",
-            "notes": "",
-            "subtasks": [
-                {
-                    "tags": "",
-                    "parent_reminder": "Clothes",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "👑 Life Pro Tip",
-                    "priority": "None",
-                    "name": "[How to turn a blanket into a pillow?](https://www.reddit.com/r/lifehacks/comments/q0yqrz/wish_i_knew_this_earlier/)",
-                    "url": "https://www.reddit.com/r/lifehacks/comments/q0yqrz/wish_i_knew_this_earlier/"
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "Clothes",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "👑 Life Pro Tip",
-                    "priority": "None",
-                    "name": "[How to ranger roll clothes?](https://www.reddit.com/r/coolguides/comments/1d15t0v/a_cool_guide_thought_others_might_like_to_learn/)",
-                    "url": "https://www.reddit.com/r/coolguides/comments/1d15t0v/a_cool_guide_thought_others_might_like_to_learn/"
-                }
-            ],
-            "flagged": false,
-            "list": "👑 Life Pro Tip",
-            "priority": "None",
             "tags": "",
-            "name": "Clothes"
-        },
-        {
-            "url": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -2454,11 +2486,11 @@
             "flagged": false,
             "list": "👑 Life Pro Tip",
             "priority": "None",
-            "tags": "",
-            "name": "Laundry"
+            "name": "Laundry",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -2477,8 +2509,8 @@
             "flagged": false,
             "list": "👑 Life Pro Tip",
             "priority": "None",
-            "tags": "",
-            "name": "No Surf"
+            "name": "No Surf",
+            "url": ""
         }
     ]
 }
