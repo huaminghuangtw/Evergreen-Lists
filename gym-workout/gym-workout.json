@@ -1,29 +1,119 @@
 {
     "reminders": [
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
-            "subtasks": [],
+            "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "Upper Body",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "🦾 Gym Workout",
+                    "priority": "None",
+                    "name": "[Row](https://www.google.com/search?q=Row)",
+                    "url": "https://www.google.com/search?q=Row"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Upper Body",
+                    "due_date": "",
+                    "notes": "= Bodyweight Row",
+                    "flagged": false,
+                    "list": "🦾 Gym Workout",
+                    "priority": "None",
+                    "name": "[Inverted Row](https://www.google.com/search?q=Inverted+Row)",
+                    "url": "https://www.google.com/search?q=Inverted+Row"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Upper Body",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "🦾 Gym Workout",
+                    "priority": "None",
+                    "name": "[Dips](https://www.google.com/search?q=Dips)",
+                    "url": "https://www.google.com/search?q=Dips"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Upper Body",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "🦾 Gym Workout",
+                    "priority": "None",
+                    "name": "[Pull-up](https://www.google.com/search?q=Pull-up)",
+                    "url": "https://www.google.com/search?q=Pull-up"
+                }
+            ],
             "flagged": false,
             "list": "🦾 Gym Workout",
             "priority": "None",
-            "tags": "",
-            "name": "Upper Body"
+            "name": "Upper Body",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
-            "subtasks": [],
+            "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "Lower Body",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "🦾 Gym Workout",
+                    "priority": "None",
+                    "name": "[Bulgarian Split Squat](https://www.google.com/search?q=Bulgarian+Split+Squat)",
+                    "url": "https://www.google.com/search?q=Bulgarian+Split+Squat"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Lower Body",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "🦾 Gym Workout",
+                    "priority": "None",
+                    "name": "[Romanian Deadlift](https://www.google.com/search?q=Romanian+Deadlift)",
+                    "url": "https://www.google.com/search?q=Romanian+Deadlift"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Lower Body",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "🦾 Gym Workout",
+                    "priority": "None",
+                    "name": "[Barbell Jump Squat](https://www.google.com/search?q=Barbell+Jump+Squat)",
+                    "url": "https://www.google.com/search?q=Barbell+Jump+Squat"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Lower Body",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "🦾 Gym Workout",
+                    "priority": "None",
+                    "name": "[Goblet Squat](https://www.google.com/search?q=Goblet+Squat)",
+                    "url": "https://www.google.com/search?q=Goblet+Squat"
+                }
+            ],
             "flagged": false,
             "list": "🦾 Gym Workout",
             "priority": "None",
-            "tags": "",
-            "name": "Lower Body"
+            "name": "Lower Body",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -46,28 +136,6 @@
                     "flagged": false,
                     "list": "🦾 Gym Workout",
                     "priority": "None",
-                    "name": "[Squat](https://www.google.com/search?q=Squat)",
-                    "url": "https://www.google.com/search?q=Squat"
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "Full Body",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "🦾 Gym Workout",
-                    "priority": "None",
-                    "name": "[Deadlifts](https://www.google.com/search?q=Deadlifts)",
-                    "url": "https://www.google.com/search?q=Deadlifts"
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "Full Body",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "🦾 Gym Workout",
-                    "priority": "None",
                     "name": "[Bench Press](https://www.google.com/search?q=Bench+Press)",
                     "url": "https://www.google.com/search?q=Bench+Press"
                 },
@@ -81,13 +149,35 @@
                     "priority": "None",
                     "name": "[Overhead Press](https://www.google.com/search?q=Overhead+Press)",
                     "url": "https://www.google.com/search?q=Overhead+Press"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Full Body",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "🦾 Gym Workout",
+                    "priority": "None",
+                    "name": "[Turkish Get-Up](https://www.google.com/search?q=Turkish+Get-Up)",
+                    "url": "https://www.google.com/search?q=Turkish+Get-Up"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Full Body",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "🦾 Gym Workout",
+                    "priority": "None",
+                    "name": "[Sand Bag - Rotational Swing](https://www.google.com/search?q=Sand+Bag+-+Rotational+Swing)",
+                    "url": "https://www.google.com/search?q=Sand+Bag+-+Rotational+Swing"
                 }
             ],
             "flagged": false,
             "list": "🦾 Gym Workout",
             "priority": "None",
-            "tags": "",
-            "name": "Full Body"
+            "name": "Full Body",
+            "url": ""
         }
     ]
 }
