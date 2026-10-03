@@ -1,7 +1,7 @@
 {
     "reminders": [
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -130,11 +130,11 @@
             "flagged": false,
             "list": "💪 Home Exercise",
             "priority": "None",
-            "tags": "",
-            "name": "Upper Body"
+            "name": "Upper Body",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -258,6 +258,17 @@
                     "priority": "None",
                     "name": "[Power Squat](https://darebee.com/workouts/power-squat-workout.html)",
                     "url": "https://darebee.com/workouts/power-squat-workout.html"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Lower Body",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💪 Home Exercise",
+                    "priority": "None",
+                    "name": "[Shrimp Squat](https://www.google.com/search?q=Shrimp+Squat)",
+                    "url": "https://www.google.com/search?q=Shrimp+Squat"
                 },
                 {
                     "tags": "",
@@ -511,16 +522,27 @@
                     "priority": "None",
                     "name": "[90/90 Hip Switches](https://www.google.com/search?q=90/90+Hip+Switches)",
                     "url": "https://www.google.com/search?q=90/90+Hip+Switches"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Lower Body",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "💪 Home Exercise",
+                    "priority": "None",
+                    "name": "[Tap Side Lunges](https://www.google.com/search?q=Tap+Side+Lunges)",
+                    "url": "https://www.google.com/search?q=Tap+Side+Lunges"
                 }
             ],
             "flagged": false,
             "list": "💪 Home Exercise",
             "priority": "None",
-            "tags": "",
-            "name": "Lower Body"
+            "name": "Lower Body",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -594,17 +616,6 @@
                     "tags": "",
                     "parent_reminder": "Core",
                     "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "💪 Home Exercise",
-                    "priority": "None",
-                    "name": "[左右交替摸腳踝](https://www.google.com/search?q=%E5%B7%A6%E5%8F%B3%E4%BA%A4%E6%9B%BF%E6%91%B8%E8%85%B3%E8%B8%9D)",
-                    "url": "https://www.google.com/search?q=%E5%B7%A6%E5%8F%B3%E4%BA%A4%E6%9B%BF%E6%91%B8%E8%85%B3%E8%B8%9D"
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "Core",
-                    "due_date": "",
                     "notes": "= 滑行平板",
                     "flagged": false,
                     "list": "💪 Home Exercise",
@@ -631,7 +642,7 @@
                     "flagged": false,
                     "list": "💪 Home Exercise",
                     "priority": "None",
-                    "name": "[棒式側點腳](https://www.google.com/search?q=%E6%A3%92%E5%BC%8F%E5%81%B4%E9%BB%9E%E8%85%B3)",
+                    "name": "[棒式側點腳](https://www.google.com/search?q=棒式側點腳)",
                     "url": "https://www.google.com/search?q=%E6%A3%92%E5%BC%8F%E5%81%B4%E9%BB%9E%E8%85%B3"
                 },
                 {
@@ -671,7 +682,7 @@
                     "tags": "",
                     "parent_reminder": "Core",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "= 仰臥交替踢腿",
                     "flagged": false,
                     "list": "💪 Home Exercise",
                     "priority": "None",
@@ -682,7 +693,7 @@
                     "tags": "",
                     "parent_reminder": "Core",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "= 仰臥交替摸腳跟",
                     "flagged": false,
                     "list": "💪 Home Exercise",
                     "priority": "None",
@@ -759,12 +770,12 @@
                     "tags": "",
                     "parent_reminder": "Core",
                     "due_date": "",
-                    "notes": "",
+                    "notes": "= 高低棒式（手掌撐地＋手肘撐地）",
                     "flagged": false,
                     "list": "💪 Home Exercise",
                     "priority": "None",
-                    "name": "[Up & Down Planks](https://www.google.com/search?q=Up+&+Down+Planks)",
-                    "url": "https://www.google.com/search?q=Up+&+Down+Planks"
+                    "name": "[Up & Down Planks](https://www.google.com/search?q=Up+%26+Down+Planks)",
+                    "url": "https://www.google.com/search?q=Up+%26+Down+Planks"
                 },
                 {
                     "tags": "",
@@ -990,11 +1001,11 @@
             "flagged": false,
             "list": "💪 Home Exercise",
             "priority": "None",
-            "tags": "",
-            "name": "Core"
+            "name": "Core",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -1068,11 +1079,11 @@
             "flagged": false,
             "list": "💪 Home Exercise",
             "priority": "None",
-            "tags": "",
-            "name": "Stretching"
+            "name": "Stretching",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -1146,8 +1157,8 @@
             "flagged": false,
             "list": "💪 Home Exercise",
             "priority": "None",
-            "tags": "",
-            "name": "Yoga"
+            "name": "Yoga",
+            "url": ""
         }
     ]
 }
