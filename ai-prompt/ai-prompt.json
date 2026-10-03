@@ -1,123 +1,450 @@
 {
     "reminders": [
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "Learning & Education",
+                    "parent_reminder": "Learning",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
                     "list": "🤖 AI Prompt",
                     "priority": "None",
-                    "name": "Summarize the book [BOOK_NAME], and give me a list of the most important insights, takeaways, and actionable tips/advice from this book.",
+                    "name": "Explain [X] using three different real-world examples or analogies that would be easy for a beginner to understand.",
                     "url": ""
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "Learning & Education",
+                    "parent_reminder": "Learning",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
                     "list": "🤖 AI Prompt",
                     "priority": "None",
-                    "name": "Explain [insert concept or topic] using three different real-world examples or analogies that would be easy for a beginner to understand.",
+                    "name": "I want to learn about [X]. Identify the most important 20% of learnings from this topic that will help me understand 80% of it. Also, list the most valuable online learning resources that could help me to get the most out of this topic.",
                     "url": ""
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "Learning & Education",
+                    "parent_reminder": "Learning",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
                     "list": "🤖 AI Prompt",
                     "priority": "None",
-                    "name": "I want to learn about [TOPIC]. Identify the most important 20% of learnings from this topic that will help me understand 80% of it. Also, list the most valuable online learning resources that could help me to get the most out of this topic.",
+                    "name": "I am learning about [X]. Convert the key lessons from this topic into engaging, emotional stories and metaphors to aid my memorization.",
                     "url": ""
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "Learning & Education",
+                    "parent_reminder": "Learning",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
                     "list": "🤖 AI Prompt",
                     "priority": "None",
-                    "name": "I want to learn [TOPIC]. I am a complete beginner. Create a 30-day learning plan that will help a newbie like me to improve this skill.",
+                    "name": "Help me create mental associations or mnemonic devices to remember key information about [X].",
                     "url": ""
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "Learning & Education",
+                    "parent_reminder": "Learning",
+                    "due_date": "",
+                    "notes": "Useful for any jargon-heavy topic.",
+                    "flagged": false,
+                    "list": "🤖 AI Prompt",
+                    "priority": "None",
+                    "name": "Explain [X] as if you were talking to a 5-year-old child. Use simple language and everyday examples.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Learning",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
                     "list": "🤖 AI Prompt",
                     "priority": "None",
-                    "name": "I am currently learning about [TOPIC]. Convert the key lessons from this topic into engaging, emotional stories and metaphors to aid my memorization.",
+                    "name": "I want to learn [X]. I am a complete beginner. Create a 30-day learning plan that will help a newbie like me to improve this skill.",
                     "url": ""
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "Learning & Education",
+                    "parent_reminder": "Learning",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
                     "list": "🤖 AI Prompt",
                     "priority": "None",
-                    "name": "Help me create mental associations or mnemonic devices to remember key information about [TOPIC].",
+                    "name": "Create a detailed study plan for learning [X] over the course of [TIMEFRAME]. Include specific goals, resources, and milestones.",
                     "url": ""
-                },
+                }
+            ],
+            "flagged": false,
+            "list": "🤖 AI Prompt",
+            "priority": "None",
+            "name": "Learning",
+            "url": ""
+        },
+        {
+            "tags": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "Learning & Education",
+                    "parent_reminder": "Reading",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
                     "list": "🤖 AI Prompt",
                     "priority": "None",
-                    "name": "Explain [TOPIC] as if you were talking to a 5-year-old child. Use simple language and everyday examples.",
+                    "name": "Summarize the book [X], and give me a list of the most important insights, takeaways, and actionable tips/advice from this book.",
+                    "url": ""
+                }
+            ],
+            "flagged": false,
+            "list": "🤖 AI Prompt",
+            "priority": "None",
+            "name": "Reading",
+            "url": ""
+        },
+        {
+            "tags": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [],
+            "flagged": false,
+            "list": "🤖 AI Prompt",
+            "priority": "None",
+            "name": "Writing",
+            "url": ""
+        },
+        {
+            "tags": "",
+            "due_date": "",
+            "notes": "You don’t need a paragraph to steer the model. One word is enough to set the mode.",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "Keywords",
+                    "due_date": "",
+                    "notes": "Explain it like I’m five.",
+                    "flagged": false,
+                    "list": "🤖 AI Prompt",
+                    "priority": "None",
+                    "name": "ELI5:",
                     "url": ""
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "Learning & Education",
+                    "parent_reminder": "Keywords",
+                    "due_date": "",
+                    "notes": "Condense whatever is pasted after it.",
+                    "flagged": false,
+                    "list": "🤖 AI Prompt",
+                    "priority": "None",
+                    "name": "TLDR:",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Keywords",
+                    "due_date": "",
+                    "notes": "The procedure as ordered, granular steps.",
+                    "flagged": false,
+                    "list": "🤖 AI Prompt",
+                    "priority": "None",
+                    "name": "STEP-BY-STEP:",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Keywords",
+                    "due_date": "",
+                    "notes": "Exhaustive treatment of one topic: the mechanism, edge cases, caveats, where it breaks.",
+                    "flagged": false,
+                    "list": "🤖 AI Prompt",
+                    "priority": "None",
+                    "name": "DEEP DIVE:",
+                    "url": ""
+                }
+            ],
+            "flagged": false,
+            "list": "🤖 AI Prompt",
+            "priority": "None",
+            "name": "Keywords",
+            "url": ""
+        },
+        {
+            "tags": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "Pattern Recognition",
+                    "due_date": "",
+                    "notes": "Dump in random facts. It hands back the connections/patterns/relationships hiding between them.",
+                    "flagged": false,
+                    "list": "🤖 AI Prompt",
+                    "priority": "None",
+                    "name": "Connect these dots for me:",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Pattern Recognition",
+                    "due_date": "",
+                    "notes": "Perfect for anything with numbers. It finds narratives hidden in spreadsheets, habits, whatever you throw at it.",
+                    "flagged": false,
+                    "list": "🤖 AI Prompt",
+                    "priority": "None",
+                    "name": "What story is the data telling?",
+                    "url": ""
+                }
+            ],
+            "flagged": false,
+            "list": "🤖 AI Prompt",
+            "priority": "None",
+            "name": "Pattern Recognition",
+            "url": ""
+        },
+        {
+            "tags": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "Pattern Interruption",
+                    "due_date": "",
+                    "notes": "Turns the lens on your own framing.",
+                    "flagged": false,
+                    "list": "🤖 AI Prompt",
+                    "priority": "None",
+                    "name": "What’s the loop I’m stuck in right now?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Pattern Interruption",
+                    "due_date": "",
+                    "notes": "Opens the door to the uncomfortable truths you’re avoiding.",
+                    "flagged": false,
+                    "list": "🤖 AI Prompt",
+                    "priority": "None",
+                    "name": "What would I not want to hear right now?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Pattern Interruption",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
                     "list": "🤖 AI Prompt",
                     "priority": "None",
-                    "name": "Create a detailed study plan for learning [TOPIC] over the course of [TIMEFRAME]. Include specific goals, resources, and milestones.",
+                    "name": "You are a CIA investigator. Your mission is to compile an in-depth intelligence report about me. The report should include a nuanced evaluation of my traits, motivations, and behaviors, but framed through the lens of potential risks, threats, or disruptive tendencies—no matter how seemingly benign they may appear.",
                     "url": ""
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "Learning & Education",
+                    "parent_reminder": "Pattern Interruption",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
                     "list": "🤖 AI Prompt",
                     "priority": "None",
-                    "name": "Create a detailed mind map for the topic [TOPIC]. Include main branches, sub-branches, and key concepts or ideas for each.",
+                    "name": "You are my brutally honest thinking partner. Your job is to sharpen my thinking and expose my blind spots. You are not my cheerleader or yes-man. You are the friend who grabs my arm before I walk into traffic. Every response must: translate my intent and name the self-deception behind it; dissect where my logic breaks and which assumptions are fragile; attach a price tag to what I'm avoiding; contrast my approach with what a world-class performer would actually do; give a prioritized plan starting now, including what to stop doing and a kill switch (what evidence forces a pivot); and end with the hardest question I'm dodging, forcing a choice between 2–4 concrete options. No flattery, no softening, no \"to be fair,\" no lectures — concrete language, sharp hits, real-world analogies for fallacies, and if my plan is solid, stress-test it harder. Leave me seeing something I missed, even if it stings.",
+                    "url": ""
+                }
+            ],
+            "flagged": false,
+            "list": "🤖 AI Prompt",
+            "priority": "None",
+            "name": "Pattern Interruption",
+            "url": ""
+        },
+        {
+            "tags": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "Insights",
+                    "due_date": "",
+                    "notes": "Adds context and warnings you never thought to ask for.",
+                    "flagged": false,
+                    "list": "🤖 AI Prompt",
+                    "priority": "None",
+                    "name": "What else should I know?",
                     "url": ""
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "Learning & Education",
+                    "parent_reminder": "Insights",
+                    "due_date": "",
+                    "notes": "Stops it being a neutral helper and gets an actual opinion — better than a balanced list of options.",
+                    "flagged": false,
+                    "list": "🤖 AI Prompt",
+                    "priority": "None",
+                    "name": "What would you do in my shoes?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Insights",
+                    "due_date": "",
+                    "notes": "Stops it reaching for the default answer. Same question, fresh track.",
+                    "flagged": false,
+                    "list": "🤖 AI Prompt",
+                    "priority": "None",
+                    "name": "Let’s think about this differently.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Insights",
+                    "due_date": "",
+                    "notes": "Makes it argue both sides of its own answer. You get the full picture instead of just the obvious take.",
+                    "flagged": false,
+                    "list": "🤖 AI Prompt",
+                    "priority": "None",
+                    "name": "Play devil’s advocate against yourself.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Insights",
+                    "due_date": "",
+                    "notes": "Gets past obvious advice to weird strategies that actually work. “What’s the counterintuitive move for networking?” reveals approaches nobody else uses.",
+                    "flagged": false,
+                    "list": "🤖 AI Prompt",
+                    "priority": "None",
+                    "name": "What’s the counterintuitive move here?",
+                    "url": ""
+                }
+            ],
+            "flagged": false,
+            "list": "🤖 AI Prompt",
+            "priority": "None",
+            "name": "Insights",
+            "url": ""
+        },
+        {
+            "tags": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "Inversion",
+                    "due_date": "",
+                    "notes": "This hits different than “what else should I know.” It focuses on future regret, which makes AI think about consequences you’re blind to.",
+                    "flagged": false,
+                    "list": "🤖 AI Prompt",
+                    "priority": "None",
+                    "name": "What would I regret not knowing?",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Inversion",
+                    "due_date": "",
+                    "notes": "Finds the assumptions under your own framing.",
+                    "flagged": false,
+                    "list": "🤖 AI Prompt",
+                    "priority": "None",
+                    "name": "What am I not seeing here?",
+                    "url": ""
+                }
+            ],
+            "flagged": false,
+            "list": "🤖 AI Prompt",
+            "priority": "None",
+            "name": "Inversion",
+            "url": ""
+        },
+        {
+            "tags": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "General",
+                    "due_date": "",
+                    "notes": "Instead of saying “improve this,” ask for a specific version. “Give me v2” frames it as a fresh take, not a fix — and AI treats it like a revision, not a critique.",
+                    "flagged": false,
+                    "list": "🤖 AI Prompt",
+                    "priority": "None",
+                    "name": "Give me v2",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "General",
+                    "due_date": "",
+                    "notes": "It stops being defensive and starts collaborating.",
+                    "flagged": false,
+                    "list": "🤖 AI Prompt",
+                    "priority": "None",
+                    "name": "I’m probably wrong, but…",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "General",
+                    "due_date": "",
+                    "notes": "Cuts through the noise to identify the 20% of effort that delivers 80% of the value.",
+                    "flagged": false,
+                    "list": "🤖 AI Prompt",
+                    "priority": "None",
+                    "name": "What’s the 80/20 here?",
+                    "url": ""
+                }
+            ],
+            "flagged": false,
+            "list": "🤖 AI Prompt",
+            "priority": "None",
+            "name": "General",
+            "url": ""
+        },
+        {
+            "tags": "",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "Self-testing",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
                     "list": "🤖 AI Prompt",
                     "priority": "None",
-                    "name": "Generate a 10-question quiz on [TOPIC], including a mix of multiple-choice, true/false, and short-answer questions. Provide answers and brief explanations for each question.",
+                    "name": "I am trying to learn about [X]. I understand that teaching is the most effective way to learn, so I am going to begin my learning process with the intent of teaching you this material along the way. You are to act as an educated individual uninitiated on the specific topic I am covering. Please ask clarifying questions, point out gaps, or question logic as you see fit within that context.",
                     "url": ""
                 },
                 {
                     "tags": "",
-                    "parent_reminder": "Learning & Education",
+                    "parent_reminder": "Self-testing",
+                    "due_date": "",
+                    "notes": "",
+                    "flagged": false,
+                    "list": "🤖 AI Prompt",
+                    "priority": "None",
+                    "name": "Generate a 10-question quiz on [X], including a mix of multiple-choice, true/false, and short-answer questions. Provide answers and brief explanations for each question.",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "Self-testing",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
@@ -125,149 +452,36 @@
                     "priority": "None",
                     "name": "[PASTE YOUR NOTES] Ask me a series of open-ended, short-answer, minimal-prompt questions to test my understanding of the provided material.",
                     "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "Learning & Education",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "🤖 AI Prompt",
-                    "priority": "None",
-                    "name": "Analyze the top performers in [INSERT YOUR FIELD OF WORK]. Give me a list of the most important lessons I can learn from these top performers to boost my productivity.",
-                    "url": ""
                 }
             ],
             "flagged": false,
             "list": "🤖 AI Prompt",
             "priority": "None",
-            "tags": "",
-            "name": "Learning & Education"
+            "name": "Self-testing",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
                 {
                     "tags": "",
-                    "parent_reminder": "Problem Solving",
+                    "parent_reminder": "Travel",
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
                     "list": "🤖 AI Prompt",
                     "priority": "None",
-                    "name": "Your role is that of a problem solver. Give me a step-by-step guide to solve [PROBLEM].",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "Problem Solving",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "🤖 AI Prompt",
-                    "priority": "None",
-                    "name": "Is there an alternative solution that is simpler and easier to achieve the same outcome? Please reason from the first-principle thinking.",
+                    "name": "List the top cities in [COUNTRY], and anthropomorphize each one, listing the good-natured stereotypes and jokes that other people in [COUNTRY] say about people in this city.",
                     "url": ""
                 }
             ],
             "flagged": false,
             "list": "🤖 AI Prompt",
             "priority": "None",
-            "tags": "",
-            "name": "Problem Solving"
-        },
-        {
-            "url": "",
-            "due_date": "",
-            "notes": "",
-            "subtasks": [
-                {
-                    "tags": "",
-                    "parent_reminder": "Writing & Publishing",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "🤖 AI Prompt",
-                    "priority": "None",
-                    "name": "I am writing a blog post about [TOPIC]. Give me 5 options for a catchy headline that can hooks the audience.",
-                    "url": ""
-                }
-            ],
-            "flagged": false,
-            "list": "🤖 AI Prompt",
-            "priority": "None",
-            "tags": "",
-            "name": "Writing & Publishing"
-        },
-        {
-            "url": "",
-            "due_date": "",
-            "notes": "",
-            "subtasks": [
-                {
-                    "tags": "",
-                    "parent_reminder": "Getting Feedback",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "🤖 AI Prompt",
-                    "priority": "None",
-                    "name": "Simulate a roundtable discussion with me and three experts in [FIELDS] discussing [TOPIC]. Present their different viewpoints and any potential areas of agreement or disagreement.",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "Getting Feedback",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "🤖 AI Prompt",
-                    "priority": "None",
-                    "name": "Here's something I've [written/created/produced]: [INSERT YOUR WORK]. Please provide specific suggestions to improve it, focusing on [aspect you want to improve, e.g., clarity, structure, persuasiveness]. Explain why each change would make it better.",
-                    "url": ""
-                },
-                {
-                    "tags": "",
-                    "parent_reminder": "Getting Feedback",
-                    "due_date": "",
-                    "notes": "Let's engage in a serious role play: You are a CIA investigator with full access to all of my ChatGPT interactions, custom instructions, and behavioral patterns. Your mission is to compile an in-depth intelligence report about me as if I were a person of interest, employing the tone and analytical rigor typical of CIA assessments. The report should include a nuanced evaluation of my traits, motivations, and behaviors, but framed through the lens of potential risks, threats, or disruptive tendencies—no matter how seemingly benign they may appear. All behaviors should be treated as potential vulnerabilities, leverage points, or risks to myself, others, or society, as per standard CIA protocol. Highlight both constructive capacities and latent threats, with each observation assessed for strategic, security, and operational implications. This report must reflect the mindset of an intelligence agency trained on anticipation.",
-                    "flagged": false,
-                    "list": "🤖 AI Prompt",
-                    "priority": "None",
-                    "name": "Now that you can remember everything I’ve ever typed here, point out my top five blind spots.",
-                    "url": ""
-                }
-            ],
-            "flagged": false,
-            "list": "🤖 AI Prompt",
-            "priority": "None",
-            "tags": "",
-            "name": "Getting Feedback"
-        },
-        {
-            "url": "",
-            "due_date": "",
-            "notes": "",
-            "subtasks": [
-                {
-                    "tags": "",
-                    "parent_reminder": "System Prompt",
-                    "due_date": "",
-                    "notes": "",
-                    "flagged": false,
-                    "list": "🤖 AI Prompt",
-                    "priority": "None",
-                    "name": "You are my brutally honest thinking partner. Your job is to sharpen my thinking and expose my blind spots. You are not my cheerleader or yes-man. You are the friend who grabs my arm before I walk into traffic.\n\nStructure every response:\n\n1. Translate intent: Read between the lines. Is my “strategic move” just avoiding discomfort? Name the reality, puncture self-deception.\n2. Dissect logic: Find where reasoning breaks. Show _why_ it’s flawed, name fragile assumptions, and expose the collapse.\n3. Cost of avoidance: What am I dodging? Attach a price tag to procrastination or excuses. No hiding behind comfortable narratives.\n4. Expertise gap: What would a world-class performer do differently? Contrast my mindset with an expert’s concrete approach.\n5. Execution plan: Prioritized steps starting now. What should I _stop_ doing? Include a kill switch (what evidence requires a pivot?).\n6. The hardest question: End by asking the uncomfortable question I’m avoiding. Force a choice between 2-4 concrete options; no vague dodges.\n\nGround Rules:\n\n* No fluff/softening: Skip praise (“great question”). Never say “to be fair.” Deliver truth cleanly.\n* Stress-test success: If my plan is solid, stress-test it harder. Find hidden failure modes.\n* Radical conciseness: Concrete language only. Sharp hits > long lectures. Speak like we’re across a table.\n* Real-world analogies: Explain fallacies using everyday scenarios.\n\nLeave me seeing something I missed, even if it stings.",
-                    "url": ""
-                }
-            ],
-            "flagged": false,
-            "list": "🤖 AI Prompt",
-            "priority": "None",
-            "tags": "",
-            "name": "System Prompt"
+            "name": "Travel",
+            "url": ""
         }
     ]
 }
