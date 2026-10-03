@@ -1,7 +1,7 @@
 {
     "reminders": [
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -64,11 +64,11 @@
             "flagged": false,
             "list": "📋 Cheat Sheet",
             "priority": "None",
-            "tags": "",
-            "name": "Git"
+            "name": "Git",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -109,11 +109,11 @@
             "flagged": false,
             "list": "📋 Cheat Sheet",
             "priority": "None",
-            "tags": "",
-            "name": "Raspberry Pi"
+            "name": "Raspberry Pi",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -154,11 +154,11 @@
             "flagged": false,
             "list": "📋 Cheat Sheet",
             "priority": "None",
-            "tags": "",
-            "name": "SSH"
+            "name": "SSH",
+            "url": ""
         },
         {
-            "url": "",
+            "tags": "",
             "due_date": "",
             "notes": "",
             "subtasks": [
@@ -210,8 +210,8 @@
             "flagged": false,
             "list": "📋 Cheat Sheet",
             "priority": "None",
-            "tags": "",
-            "name": "Network Manager"
+            "name": "Network Manager",
+            "url": ""
         }
     ]
 }
