@@ -1,8 +1,8 @@
 ---
 title: 📱 Shortcuts Dev Tip
 description: Handy tips and techniques for developing Apple Shortcuts, gained through hands-on experience.
-modified: 2026-10-03
-spreadsheetId: 1H0o1QxZfrUhuOyMZUY1Ey8D6jONob1es6K_qrLnUgG8
+modified: 2026-10-04
+spreadsheetId: 1zY2qDViuP7QkMisMxs8Xk37LrVJ3LOTdNK-Le7jkoDs
 ---
 
 # Keyboard hotkeys (macOS)
