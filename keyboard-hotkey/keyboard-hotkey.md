@@ -1,8 +1,8 @@
 ---
 title: ⌨️ Keyboard Hotkey
 description: A compilation of essential keyboard shortcuts to enhance productivity.
-modified: 2026-10-03
-spreadsheetId: 12UxNMk9LmNd8C0iGM_ssMv1ruUt_mJw-mw43bpm-wcE
+modified: 2026-10-04
+spreadsheetId: 1oi1ZFns1FAvwrNSqQgNwF2J0uN0r1exEO6iFHmV786s
 ---
 
 # [VS Code](https://code.visualstudio.com/docs/getstarted/keybindings)
