@@ -11,7 +11,7 @@
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
-                    "list": "🤖 AI Prompt",
+                    "list": "🤖 AI Prompt",
                     "priority": "None",
                     "name": "Explain [X] using three different real-world examples or analogies that would be easy for a beginner to understand.",
                     "url": ""
@@ -22,7 +22,7 @@
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
-                    "list": "🤖 AI Prompt",
+                    "list": "🤖 AI Prompt",
                     "priority": "None",
                     "name": "I want to learn about [X]. Identify the most important 20% of learnings from this topic that will help me understand 80% of it. Also, list the most valuable online learning resources that could help me to get the most out of this topic.",
                     "url": ""
@@ -33,7 +33,7 @@
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
-                    "list": "🤖 AI Prompt",
+                    "list": "🤖 AI Prompt",
                     "priority": "None",
                     "name": "I am learning about [X]. Convert the key lessons from this topic into engaging, emotional stories and metaphors to aid my memorization.",
                     "url": ""
@@ -44,7 +44,7 @@
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
-                    "list": "🤖 AI Prompt",
+                    "list": "🤖 AI Prompt",
                     "priority": "None",
                     "name": "Help me create mental associations or mnemonic devices to remember key information about [X].",
                     "url": ""
@@ -55,7 +55,7 @@
                     "due_date": "",
                     "notes": "Useful for any jargon-heavy topic.",
                     "flagged": false,
-                    "list": "🤖 AI Prompt",
+                    "list": "🤖 AI Prompt",
                     "priority": "None",
                     "name": "Explain [X] as if you were talking to a 5-year-old child. Use simple language and everyday examples.",
                     "url": ""
@@ -66,7 +66,7 @@
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
-                    "list": "🤖 AI Prompt",
+                    "list": "🤖 AI Prompt",
                     "priority": "None",
                     "name": "I want to learn [X]. I am a complete beginner. Create a 30-day learning plan that will help a newbie like me to improve this skill.",
                     "url": ""
@@ -77,14 +77,14 @@
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
-                    "list": "🤖 AI Prompt",
+                    "list": "🤖 AI Prompt",
                     "priority": "None",
                     "name": "Create a detailed study plan for learning [X] over the course of [TIMEFRAME]. Include specific goals, resources, and milestones.",
                     "url": ""
                 }
             ],
             "flagged": false,
-            "list": "🤖 AI Prompt",
+            "list": "🤖 AI Prompt",
             "priority": "None",
             "name": "Learning",
             "url": ""
@@ -100,14 +100,14 @@
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
-                    "list": "🤖 AI Prompt",
+                    "list": "🤖 AI Prompt",
                     "priority": "None",
                     "name": "Summarize the book [X], and give me a list of the most important insights, takeaways, and actionable tips/advice from this book.",
                     "url": ""
                 }
             ],
             "flagged": false,
-            "list": "🤖 AI Prompt",
+            "list": "🤖 AI Prompt",
             "priority": "None",
             "name": "Reading",
             "url": ""
@@ -116,17 +116,6 @@
             "tags": "",
             "due_date": "",
             "notes": "",
-            "subtasks": [],
-            "flagged": false,
-            "list": "🤖 AI Prompt",
-            "priority": "None",
-            "name": "Writing",
-            "url": ""
-        },
-        {
-            "tags": "",
-            "due_date": "",
-            "notes": "You don’t need a paragraph to steer the model. One word is enough to set the mode.",
             "subtasks": [
                 {
                     "tags": "",
@@ -134,7 +123,7 @@
                     "due_date": "",
                     "notes": "Explain it like I’m five.",
                     "flagged": false,
-                    "list": "🤖 AI Prompt",
+                    "list": "🤖 AI Prompt",
                     "priority": "None",
                     "name": "ELI5:",
                     "url": ""
@@ -145,7 +134,7 @@
                     "due_date": "",
                     "notes": "Condense whatever is pasted after it.",
                     "flagged": false,
-                    "list": "🤖 AI Prompt",
+                    "list": "🤖 AI Prompt",
                     "priority": "None",
                     "name": "TLDR:",
                     "url": ""
@@ -156,7 +145,7 @@
                     "due_date": "",
                     "notes": "The procedure as ordered, granular steps.",
                     "flagged": false,
-                    "list": "🤖 AI Prompt",
+                    "list": "🤖 AI Prompt",
                     "priority": "None",
                     "name": "STEP-BY-STEP:",
                     "url": ""
@@ -167,14 +156,14 @@
                     "due_date": "",
                     "notes": "Exhaustive treatment of one topic: the mechanism, edge cases, caveats, where it breaks.",
                     "flagged": false,
-                    "list": "🤖 AI Prompt",
+                    "list": "🤖 AI Prompt",
                     "priority": "None",
                     "name": "DEEP DIVE:",
                     "url": ""
                 }
             ],
             "flagged": false,
-            "list": "🤖 AI Prompt",
+            "list": "🤖 AI Prompt",
             "priority": "None",
             "name": "Keywords",
             "url": ""
@@ -190,7 +179,7 @@
                     "due_date": "",
                     "notes": "Dump in random facts. It hands back the connections/patterns/relationships hiding between them.",
                     "flagged": false,
-                    "list": "🤖 AI Prompt",
+                    "list": "🤖 AI Prompt",
                     "priority": "None",
                     "name": "Connect these dots for me:",
                     "url": ""
@@ -201,14 +190,14 @@
                     "due_date": "",
                     "notes": "Perfect for anything with numbers. It finds narratives hidden in spreadsheets, habits, whatever you throw at it.",
                     "flagged": false,
-                    "list": "🤖 AI Prompt",
+                    "list": "🤖 AI Prompt",
                     "priority": "None",
                     "name": "What story is the data telling?",
                     "url": ""
                 }
             ],
             "flagged": false,
-            "list": "🤖 AI Prompt",
+            "list": "🤖 AI Prompt",
             "priority": "None",
             "name": "Pattern Recognition",
             "url": ""
@@ -224,7 +213,7 @@
                     "due_date": "",
                     "notes": "Turns the lens on your own framing.",
                     "flagged": false,
-                    "list": "🤖 AI Prompt",
+                    "list": "🤖 AI Prompt",
                     "priority": "None",
                     "name": "What’s the loop I’m stuck in right now?",
                     "url": ""
@@ -235,7 +224,7 @@
                     "due_date": "",
                     "notes": "Opens the door to the uncomfortable truths you’re avoiding.",
                     "flagged": false,
-                    "list": "🤖 AI Prompt",
+                    "list": "🤖 AI Prompt",
                     "priority": "None",
                     "name": "What would I not want to hear right now?",
                     "url": ""
@@ -246,7 +235,7 @@
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
-                    "list": "🤖 AI Prompt",
+                    "list": "🤖 AI Prompt",
                     "priority": "None",
                     "name": "You are a CIA investigator. Your mission is to compile an in-depth intelligence report about me. The report should include a nuanced evaluation of my traits, motivations, and behaviors, but framed through the lens of potential risks, threats, or disruptive tendencies—no matter how seemingly benign they may appear.",
                     "url": ""
@@ -257,14 +246,14 @@
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
-                    "list": "🤖 AI Prompt",
+                    "list": "🤖 AI Prompt",
                     "priority": "None",
                     "name": "You are my brutally honest thinking partner. Your job is to sharpen my thinking and expose my blind spots. You are not my cheerleader or yes-man. You are the friend who grabs my arm before I walk into traffic. Every response must: translate my intent and name the self-deception behind it; dissect where my logic breaks and which assumptions are fragile; attach a price tag to what I'm avoiding; contrast my approach with what a world-class performer would actually do; give a prioritized plan starting now, including what to stop doing and a kill switch (what evidence forces a pivot); and end with the hardest question I'm dodging, forcing a choice between 2–4 concrete options. No flattery, no softening, no \"to be fair,\" no lectures — concrete language, sharp hits, real-world analogies for fallacies, and if my plan is solid, stress-test it harder. Leave me seeing something I missed, even if it stings.",
                     "url": ""
                 }
             ],
             "flagged": false,
-            "list": "🤖 AI Prompt",
+            "list": "🤖 AI Prompt",
             "priority": "None",
             "name": "Pattern Interruption",
             "url": ""
@@ -280,7 +269,7 @@
                     "due_date": "",
                     "notes": "Adds context and warnings you never thought to ask for.",
                     "flagged": false,
-                    "list": "🤖 AI Prompt",
+                    "list": "🤖 AI Prompt",
                     "priority": "None",
                     "name": "What else should I know?",
                     "url": ""
@@ -291,7 +280,7 @@
                     "due_date": "",
                     "notes": "Stops it being a neutral helper and gets an actual opinion — better than a balanced list of options.",
                     "flagged": false,
-                    "list": "🤖 AI Prompt",
+                    "list": "🤖 AI Prompt",
                     "priority": "None",
                     "name": "What would you do in my shoes?",
                     "url": ""
@@ -302,7 +291,7 @@
                     "due_date": "",
                     "notes": "Stops it reaching for the default answer. Same question, fresh track.",
                     "flagged": false,
-                    "list": "🤖 AI Prompt",
+                    "list": "🤖 AI Prompt",
                     "priority": "None",
                     "name": "Let’s think about this differently.",
                     "url": ""
@@ -313,7 +302,7 @@
                     "due_date": "",
                     "notes": "Makes it argue both sides of its own answer. You get the full picture instead of just the obvious take.",
                     "flagged": false,
-                    "list": "🤖 AI Prompt",
+                    "list": "🤖 AI Prompt",
                     "priority": "None",
                     "name": "Play devil’s advocate against yourself.",
                     "url": ""
@@ -324,14 +313,14 @@
                     "due_date": "",
                     "notes": "Gets past obvious advice to weird strategies that actually work. “What’s the counterintuitive move for networking?” reveals approaches nobody else uses.",
                     "flagged": false,
-                    "list": "🤖 AI Prompt",
+                    "list": "🤖 AI Prompt",
                     "priority": "None",
                     "name": "What’s the counterintuitive move here?",
                     "url": ""
                 }
             ],
             "flagged": false,
-            "list": "🤖 AI Prompt",
+            "list": "🤖 AI Prompt",
             "priority": "None",
             "name": "Insights",
             "url": ""
@@ -347,7 +336,7 @@
                     "due_date": "",
                     "notes": "This hits different than “what else should I know.” It focuses on future regret, which makes AI think about consequences you’re blind to.",
                     "flagged": false,
-                    "list": "🤖 AI Prompt",
+                    "list": "🤖 AI Prompt",
                     "priority": "None",
                     "name": "What would I regret not knowing?",
                     "url": ""
@@ -358,14 +347,14 @@
                     "due_date": "",
                     "notes": "Finds the assumptions under your own framing.",
                     "flagged": false,
-                    "list": "🤖 AI Prompt",
+                    "list": "🤖 AI Prompt",
                     "priority": "None",
                     "name": "What am I not seeing here?",
                     "url": ""
                 }
             ],
             "flagged": false,
-            "list": "🤖 AI Prompt",
+            "list": "🤖 AI Prompt",
             "priority": "None",
             "name": "Inversion",
             "url": ""
@@ -381,7 +370,7 @@
                     "due_date": "",
                     "notes": "Instead of saying “improve this,” ask for a specific version. “Give me v2” frames it as a fresh take, not a fix — and AI treats it like a revision, not a critique.",
                     "flagged": false,
-                    "list": "🤖 AI Prompt",
+                    "list": "🤖 AI Prompt",
                     "priority": "None",
                     "name": "Give me v2",
                     "url": ""
@@ -392,7 +381,7 @@
                     "due_date": "",
                     "notes": "It stops being defensive and starts collaborating.",
                     "flagged": false,
-                    "list": "🤖 AI Prompt",
+                    "list": "🤖 AI Prompt",
                     "priority": "None",
                     "name": "I’m probably wrong, but…",
                     "url": ""
@@ -403,14 +392,14 @@
                     "due_date": "",
                     "notes": "Cuts through the noise to identify the 20% of effort that delivers 80% of the value.",
                     "flagged": false,
-                    "list": "🤖 AI Prompt",
+                    "list": "🤖 AI Prompt",
                     "priority": "None",
                     "name": "What’s the 80/20 here?",
                     "url": ""
                 }
             ],
             "flagged": false,
-            "list": "🤖 AI Prompt",
+            "list": "🤖 AI Prompt",
             "priority": "None",
             "name": "General",
             "url": ""
@@ -426,7 +415,7 @@
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
-                    "list": "🤖 AI Prompt",
+                    "list": "🤖 AI Prompt",
                     "priority": "None",
                     "name": "I am trying to learn about [X]. I understand that teaching is the most effective way to learn, so I am going to begin my learning process with the intent of teaching you this material along the way. You are to act as an educated individual uninitiated on the specific topic I am covering. Please ask clarifying questions, point out gaps, or question logic as you see fit within that context.",
                     "url": ""
@@ -437,7 +426,7 @@
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
-                    "list": "🤖 AI Prompt",
+                    "list": "🤖 AI Prompt",
                     "priority": "None",
                     "name": "Generate a 10-question quiz on [X], including a mix of multiple-choice, true/false, and short-answer questions. Provide answers and brief explanations for each question.",
                     "url": ""
@@ -448,14 +437,14 @@
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
-                    "list": "🤖 AI Prompt",
+                    "list": "🤖 AI Prompt",
                     "priority": "None",
                     "name": "[PASTE YOUR NOTES] Ask me a series of open-ended, short-answer, minimal-prompt questions to test my understanding of the provided material.",
                     "url": ""
                 }
             ],
             "flagged": false,
-            "list": "🤖 AI Prompt",
+            "list": "🤖 AI Prompt",
             "priority": "None",
             "name": "Self-testing",
             "url": ""
@@ -471,14 +460,14 @@
                     "due_date": "",
                     "notes": "",
                     "flagged": false,
-                    "list": "🤖 AI Prompt",
+                    "list": "🤖 AI Prompt",
                     "priority": "None",
                     "name": "List the top cities in [COUNTRY], and anthropomorphize each one, listing the good-natured stereotypes and jokes that other people in [COUNTRY] say about people in this city.",
                     "url": ""
                 }
             ],
             "flagged": false,
-            "list": "🤖 AI Prompt",
+            "list": "🤖 AI Prompt",
             "priority": "None",
             "name": "Travel",
             "url": ""
