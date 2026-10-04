@@ -1,8 +1,8 @@
 ---
 title: 💭 Journal Prompt
 description: Thought-provoking questions to inspire self-reflection.
-modified: 2026-10-03
-spreadsheetId: 1RI3C2N7-LaWG1pZC6xMVvS08OJJQp92qJhLaPSXNzQ0
+modified: 2026-10-04
+spreadsheetId: 1vY-i6UD6Eur3b9CtCs03o2JxSt92kjKXlKzTvSLOizo
 ---
 
 # Today
