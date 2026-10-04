@@ -3,7 +3,6 @@
 
 # Exception
 !.gitignore
-!.scripts
 
-.scripts/node_modules
-.scripts/twemoji
+node_modules
+scripts/pandoc/twemoji
