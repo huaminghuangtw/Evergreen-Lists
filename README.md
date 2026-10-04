@@ -9,7 +9,7 @@ This repository features a collection of [listicles](https://huam.ing/lists) I�
 
 I use [ Apple Reminders](https://support.apple.com/en-au/guide/reminders/welcome/mac) not only for _task management_, but also for _note-taking_. Its support for **notes**, **tags**, **URLs**, and **subtasks** makes it a powerful tool for organizing knowledge.
 
-Whenever I come across something interesting, I add it to the relevant Reminder list. Every month, I use [ Apple Shortcuts](https://shortcutomation.com/share-evergreen-lists/) to export these items into three formats—**[Google Sheets](https://shortcutomation.com/evergreen-list-to-google-sheets/)**, **[JSON](https://shortcutomation.com/evergreen-list-to-json/)**, and **[Markdown](https://shortcutomation.com/evergreen-list-to-markdown/)**. You can find all of them in this repo.
+Whenever I come across something interesting, I add it to the relevant Reminder list. Every few months, I publish these lists in three formats—**Markdown**, **PDF**, and **Google Sheets**. You can find all of them at [here](#overview).
 
 <p align="center">
 <a href="https://media.huam.ing/image/1aa2bd6ef72df5ee5f3daf06d7aa5a3f.svg">
@@ -42,17 +42,17 @@ Just like a flashcard system, it incorporates the [spaced repetition](https://ww
 
 ## Overview
 
-1. **[Shortcuts Dev Tip](https://huam.ing/shortcuts-dev-tip/)**
-2. **[AI Prompt](https://huam.ing/ai-prompt/)**
-3. **[Journal Prompt](https://huam.ing/journal-prompt/)**
-4. **[Keyboard Hotkey](https://huam.ing/keyboard-hotkey/)**
-5. **[Cheat Sheet](https://huam.ing/cheat-sheet/)**
-6. **[Tech Pro Tip](https://huam.ing/tech-pro-tip/)**
-7. **[Life Pro Tip](https://huam.ing/life-pro-tip/)**
-8. **[Home Exercise](https://huam.ing/home-exercise/)**
-9. **[Gym Workout](https://huam.ing/gym-workout/)**
-10. **[World Cuisine](https://huam.ing/world-cuisine/)**
-11. **[Healthy Food](https://huam.ing/healthy-food/)**
+1. **[Shortcuts Dev Tip](https://huam.ing/shortcuts-dev-tip)**
+2. **[AI Prompt](https://huam.ing/ai-prompt)**
+3. **[Journal Prompt](https://huam.ing/journal-prompt)**
+4. **[Keyboard Hotkey](https://huam.ing/keyboard-hotkey)**
+5. **[Cheat Sheet](https://huam.ing/cheat-sheet)**
+6. **[Tech Pro Tip](https://huam.ing/tech-pro-tip)**
+7. **[Life Pro Tip](https://huam.ing/life-pro-tip)**
+8. **[Home Exercise](https://huam.ing/home-exercise)**
+9. **[Gym Workout](https://huam.ing/gym-workout)**
+10. **[World Cuisine](https://huam.ing/world-cuisine)**
+11. **[Healthy Food](https://huam.ing/healthy-food)**
 
 ## Support
 
