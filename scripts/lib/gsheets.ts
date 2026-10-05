@@ -2,6 +2,7 @@ import { readFile, writeFile } from 'node:fs/promises'
 import { resolve } from 'node:path'
 import {
   CONFIG_PATH,
+  clean,
   listConfig,
   readConfig,
   writeConfig,
@@ -74,13 +75,13 @@ async function getAccessToken(config: Config): Promise<string> {
   return token.access_token
 }
 
-async function sheetsRequest<T>(
+async function sheetsApi<T>(
   token: string,
-  url: string,
-  method = 'GET',
+  path: string,
   body?: unknown,
 ): Promise<T> {
-  const response = await fetch(url, {
+  const method = body === undefined ? 'GET' : 'POST'
+  const response = await fetch(`${SHEETS_API}${path}`, {
     method,
     headers: {
       Authorization: `Bearer ${token}`,
@@ -90,21 +91,28 @@ async function sheetsRequest<T>(
   })
   if (!response.ok) {
     throw new Error(
-      `sheets ${method} ${url.replace(/\?.*$/, '')} → ${response.status}: ${await response.text()}`,
+      `sheets ${method} ${path} → ${response.status}: ${await response.text()}`,
     )
   }
   return (await response.json()) as T
 }
 
-/* Normalize non-breaking spaces from the Reminders export. */
-function clean(value: string | undefined): string {
-  return (value ?? '').replace(/\u00a0/g, ' ')
+interface BatchUpdateReply {
+  addSheet?: { properties: { sheetId: number } }
+}
+
+function batchUpdate(
+  token: string,
+  spreadsheetId: string,
+  requests: unknown[],
+): Promise<{ replies: BatchUpdateReply[] }> {
+  return sheetsApi(token, `/${spreadsheetId}:batchUpdate`, { requests })
 }
 
 /*
  * Markdown → plain text
  */
-export function toPlainText(markdown: string): string {
+function toPlainText(markdown: string): string {
   return markdown
     .replace(/!\[([^\]]*)\]\([^)]*\)/g, '$1')
     .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1')
@@ -229,7 +237,7 @@ function rowRequest(sheetId: number, subtasks: ListSubtask[]): unknown {
   }
 }
 
-async function fetchSpreadsheet(
+async function existsSpreadsheet(
   token: string,
   spreadsheetId: string,
 ): Promise<boolean> {
@@ -272,146 +280,151 @@ async function writeGsheetAlias(id: string, spreadsheetId: string): Promise<void
   )
 }
 
+async function listTabs(
+  token: string,
+  spreadsheetId: string,
+): Promise<SheetProperties[]> {
+  const { sheets } = await sheetsApi<{
+    sheets: Array<{ properties: SheetProperties }>
+  }>(token, `/${spreadsheetId}?fields=sheets.properties`)
+
+  return sheets
+    .map((sheet) => sheet.properties)
+    .sort((a, b) => a.index - b.index)
+}
+
+/*
+ * Deletes every tab but `keep`, which is unhidden and left holding the
+ * spreadsheet title. Unhiding it first matters: a spreadsheet must always keep
+ * at least one visible sheet, so deleting the others while all are hidden fails
+ * with "can't remove all visible sheets".
+ */
+async function resetTabs(
+  token: string,
+  spreadsheetId: string,
+  keep: SheetProperties,
+  drop: SheetProperties[],
+  title: string,
+): Promise<void> {
+  await batchUpdate(token, spreadsheetId, [
+    {
+      updateSheetProperties: {
+        properties: { sheetId: keep.sheetId, hidden: false },
+        fields: 'hidden',
+      },
+    },
+    ...drop.map((sheet) => ({ deleteSheet: { sheetId: sheet.sheetId } })),
+    { updateSpreadsheetProperties: { properties: { title }, fields: 'title' } },
+  ])
+}
+
+/* One tab per section, titled after it. Returns the new sheet ids in order. */
+async function addTabs(
+  token: string,
+  spreadsheetId: string,
+  sections: ListSection[],
+): Promise<number[]> {
+  const used = new Set<string>()
+  const { replies } = await batchUpdate(
+    token,
+    spreadsheetId,
+    sections.map((section) => ({
+      addSheet: { properties: { title: tabTitle(section, used) } },
+    })),
+  )
+  return replies.flatMap((reply) =>
+    reply.addSheet ? [reply.addSheet.properties.sheetId] : [],
+  )
+}
+
+/* Header row plus one row per item, in every tab. */
+async function fillTabs(
+  token: string,
+  spreadsheetId: string,
+  sections: ListSection[],
+  sheetIds: number[],
+  headerTitle: string,
+): Promise<void> {
+  const requests = sections.flatMap((section, index) => {
+    const sheetId = sheetIds[index]
+    const subtasks = subtasksOf(section)
+    return [
+      ...headerRequests(sheetId, headerTitle),
+      ...(subtasks.length > 0 ? [rowRequest(sheetId, subtasks)] : []),
+    ]
+  })
+  if (requests.length > 0) await batchUpdate(token, spreadsheetId, requests)
+}
+
+/* The leftover tab is blanked first, so unhiding it later shows nothing. */
+async function retireTab(
+  token: string,
+  spreadsheetId: string,
+  sheet: SheetProperties,
+): Promise<void> {
+  const range = `/${spreadsheetId}/values/${encodeURIComponent(sheet.title)}:clear`
+  await sheetsApi(token, range, {})
+  await batchUpdate(token, spreadsheetId, [
+    {
+      updateSheetProperties: {
+        properties: { sheetId: sheet.sheetId, hidden: true },
+        fields: 'hidden',
+      },
+    },
+  ])
+}
+
+/*
+ * Reuses the configured spreadsheet, rebuilding it when it is gone. A newly
+ * created id, and the <id>.gsheet Drive alias beside the Markdown, are written
+ * back so the next run finds them.
+ */
 async function ensureSpreadsheet(
   token: string,
   config: Config,
   source: ListSource,
-  sheetConfig: ListConfig | undefined,
-): Promise<{ spreadsheetId: string; created: boolean }> {
-  if (
-    sheetConfig?.spreadsheetId &&
-    (await fetchSpreadsheet(token, sheetConfig.spreadsheetId))
-  ) {
-    return { spreadsheetId: sheetConfig.spreadsheetId, created: false }
+  entry: ListConfig,
+): Promise<string> {
+  const { spreadsheetId } = entry
+  if (spreadsheetId && (await existsSpreadsheet(token, spreadsheetId))) {
+    return spreadsheetId
   }
 
-  const title = sheetConfig?.title ?? source.title
-  const created = await sheetsRequest<{ spreadsheetId: string }>(
-    token,
-    SHEETS_API,
-    'POST',
-    { properties: { title } },
-  )
-
+  const created = await sheetsApi<{ spreadsheetId: string }>(token, '', {
+    properties: { title: entry.title },
+  })
   const reminders = (config['My Reminders'] ??= {})
   const evergreen = (reminders.evergreenLists ??= {})
-  evergreen[source.id] = {
-    ...sheetConfig,
-    title,
-    description: sheetConfig?.description ?? source.description,
-    headerTitle: sheetConfig?.headerTitle ?? 'Name',
-    spreadsheetId: created.spreadsheetId,
-  }
+  evergreen[source.id] = { ...entry, spreadsheetId: created.spreadsheetId }
 
   await writeGsheetAlias(source.id, created.spreadsheetId)
-  return { spreadsheetId: created.spreadsheetId, created: true }
+  return created.spreadsheetId
 }
 
-export async function syncGoogleSheet(source: ListSource): Promise<{
-  tabs: number
-  spreadsheetId: string
-  created: boolean
-}> {
+/*
+ * Rebuilds the sheet from the list: every tab is replaced by one per section.
+ * The spreadsheet's own first tab is kept, blanked and hidden, because it
+ * cannot be the only visible sheet while the others are being deleted.
+ */
+export async function syncGoogleSheet(source: ListSource): Promise<void> {
   const config = await readConfig()
-  const sheetConfig = listConfig(config, source.id)
-  const token = await getAccessToken(config)
-  const { spreadsheetId, created } = await ensureSpreadsheet(
-    token,
-    config,
-    source,
-    sheetConfig,
-  )
-  const headerTitle = sheetConfig?.headerTitle ?? 'Name'
-  const title = sheetConfig?.title ?? source.title
-
-  // Persist the refreshed token and any newly created spreadsheet id.
-  await writeConfig(config)
-
-  const meta = await sheetsRequest<{
-    sheets: Array<{ properties: SheetProperties }>
-  }>(
-    token,
-    `${SHEETS_API}/${spreadsheetId}?fields=sheets.properties`,
-  )
-  const sheets = [...meta.sheets].sort(
-    (a, b) => a.properties.index - b.properties.index,
-  )
-  const defaultSheet = sheets[0]
-
-  // 1. Reset: keep the first tab and drop the rest. Unhide that tab first — a
-  //    spreadsheet must always keep at least one visible sheet, so a re-run
-  //    would otherwise fail with "can't remove all visible sheets".
-  await sheetsRequest(token, `${SHEETS_API}/${spreadsheetId}:batchUpdate`, 'POST', {
-    requests: [
-      {
-        updateSheetProperties: {
-          properties: {
-            sheetId: defaultSheet.properties.sheetId,
-            hidden: false,
-          },
-          fields: 'hidden',
-        },
-      },
-      ...sheets
-        .slice(1)
-        .map((sheet) => ({ deleteSheet: { sheetId: sheet.properties.sheetId } })),
-      {
-        updateSpreadsheetProperties: {
-          properties: { title },
-          fields: 'title',
-        },
-      },
-    ],
-  })
-
-  // 2. One tab per section.
-  const used = new Set<string>()
-  const sections = source.reminders
-  const added = await sheetsRequest<{
-    replies: Array<{ addSheet: { properties: { sheetId: number } } }>
-  }>(token, `${SHEETS_API}/${spreadsheetId}:batchUpdate`, 'POST', {
-    requests: sections.map((section) => ({
-      addSheet: { properties: { title: tabTitle(section, used) } },
-    })),
-  })
-  const sheetIds = added.replies.map(
-    (reply) => reply.addSheet.properties.sheetId,
-  )
-
-  // 3. Header + rows for every tab.
-  const requests: unknown[] = []
-  sections.forEach((section, index) => {
-    const sheetId = sheetIds[index]
-    requests.push(...headerRequests(sheetId, headerTitle))
-    const subtasks = subtasksOf(section)
-    if (subtasks.length > 0) requests.push(rowRequest(sheetId, subtasks))
-  })
-  if (requests.length > 0) {
-    await sheetsRequest(
-      token,
-      `${SHEETS_API}/${spreadsheetId}:batchUpdate`,
-      'POST',
-      { requests },
-    )
+  const meta = listConfig(config, source.id)
+  const entry = {
+    title: meta?.title ?? source.title,
+    description: meta?.description ?? source.description,
+    headerTitle: meta?.headerTitle ?? 'Name',
+    spreadsheetId: meta?.spreadsheetId,
   }
 
-  // 4. Blank out and hide the leftover default tab.
-  await sheetsRequest(
-    token,
-    `${SHEETS_API}/${spreadsheetId}/values/${encodeURIComponent(defaultSheet.properties.title)}:clear`,
-    'POST',
-    {},
-  )
-  await sheetsRequest(token, `${SHEETS_API}/${spreadsheetId}:batchUpdate`, 'POST', {
-    requests: [
-      {
-        updateSheetProperties: {
-          properties: { sheetId: defaultSheet.properties.sheetId, hidden: true },
-          fields: 'hidden',
-        },
-      },
-    ],
-  })
+  const token = await getAccessToken(config)
+  const spreadsheetId = await ensureSpreadsheet(token, config, source, entry)
+  await writeConfig(config) // keeps the refreshed token and any new id
 
-  return { tabs: sections.length, spreadsheetId, created }
+  const [keep, ...drop] = await listTabs(token, spreadsheetId)
+  await resetTabs(token, spreadsheetId, keep, drop, entry.title)
+
+  const sections = source.reminders
+  const sheetIds = await addTabs(token, spreadsheetId, sections)
+  await fillTabs(token, spreadsheetId, sections, sheetIds, entry.headerTitle)
+  await retireTab(token, spreadsheetId, keep)
 }

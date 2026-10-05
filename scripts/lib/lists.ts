@@ -1,11 +1,9 @@
+import { clean } from './config.ts'
+
 export interface ListSubtask {
   name?: string
   url?: string
   notes?: string
-  flagged?: boolean
-  tags?: string
-  priority?: string | null
-  due_date?: string
 }
 
 export interface ListSection {
@@ -29,11 +27,6 @@ const LIST_MODES: Record<string, ListMode> = {
   'shortcuts-dev-tip': 'multiline',
   'home-exercise': 'multiline',
   'gym-workout': 'multiline',
-}
-
-/* Normalize non-breaking spaces introduced by the Reminders export. */
-function clean(value: string | undefined): string {
-  return (value ?? '').replace(/\u00a0/g, ' ')
 }
 
 /*
@@ -90,14 +83,13 @@ function renderItem(
   if (mode === 'kbd' || mode === 'code') {
     const extra =
       mode === 'kbd' ? kbdWrap(name) : `\`\`\`bash\n  ${name}\n  \`\`\``
-    const parts = notes ? notes.split('\n—\n') : ['']
-    const note = parts[0]
-    const last = parts[parts.length - 1]
+    // The last `—`-separated segment, if any, becomes footnotes.
+    const [note = '', ...tail] = notes.split('\n—\n')
+    const last = tail.at(-1)
     const main = mode === 'kbd' ? note : `* ${note}`
-    const withNotes =
-      note !== last && last
-        ? markFootnotes(main, footnotes, last.split('\n'))
-        : main
+    const withNotes = last
+      ? markFootnotes(main, footnotes, last.split('\n'))
+      : main
     return mode === 'kbd'
       ? `| ${extra} | ${withNotes} |`
       : `${withNotes}\n\n\t${extra}`

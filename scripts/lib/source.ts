@@ -9,6 +9,12 @@ export const LISTS_REPO = resolve(
   'Library/Mobile Documents/iCloud~md~obsidian/Documents/Second-Brain/Evergreen-Lists',
 )
 
+export const exists = (path: string) =>
+  access(path).then(
+    () => true,
+    () => false,
+  )
+
 export interface ListSource {
   id: string
   title: string
@@ -17,21 +23,20 @@ export interface ListSource {
   reminders: ListSection[]
   body: string
   spreadsheetId?: string
-  filePath: string
 }
 
 export async function loadListSource(
   id: string,
   base: string = LISTS_REPO,
-): Promise<ListSource | null> {
+): Promise<ListSource> {
   const jsonPath = resolve(base, id, `${id}.json`)
   const raw = await readFile(jsonPath, 'utf-8').catch(() => null)
-  if (raw === null) return null
+  if (raw === null) throw new Error(`no ${id}/${id}.json in this repo`)
 
   const meta = listConfig(await readConfig(), id)
   if (!meta) {
     throw new Error(
-      `[lists] no "My Reminders.evergreenLists.${id}" entry in config.json`,
+      `No "My Reminders.evergreenLists.${id}" entry in config.json`,
     )
   }
 
@@ -46,7 +51,6 @@ export async function loadListSource(
     reminders,
     body: remindersToMarkdown(id, reminders),
     spreadsheetId: meta.spreadsheetId,
-    filePath: `${id}/${id}.json`,
   }
 }
 
@@ -69,13 +73,9 @@ export async function listIds(base: string = LISTS_REPO): Promise<string[]> {
   const ids: string[] = []
   for (const entry of entries) {
     if (!entry.isDirectory() || entry.name.startsWith('.')) continue
-    const hasExport = await access(
-      resolve(base, entry.name, `${entry.name}.json`),
-    ).then(
-      () => true,
-      () => false,
-    )
-    if (hasExport) ids.push(entry.name)
+    if (await exists(resolve(base, entry.name, `${entry.name}.json`))) {
+      ids.push(entry.name)
+    }
   }
   return ids.sort()
 }

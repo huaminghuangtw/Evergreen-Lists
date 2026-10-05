@@ -37,11 +37,12 @@ export async function writeConfig(config: Config): Promise<void> {
 }
 
 /*
- * Strip non-breaking spaces — pasting metadata into config.json commonly
- * introduces U+00A0, which would otherwise leak into titles/headings.
+ * Strip non-breaking spaces. Pasting metadata (into config.json, or out of
+ * Reminders) commonly introduces U+00A0, which would otherwise leak into
+ * titles, headings, and the generated Markdown.
  */
-function cleanText(value: string): string {
-  return value.replace(/\u00a0/g, ' ')
+export function clean(value: string | undefined): string {
+  return (value ?? '').replace(/\u00a0/g, ' ')
 }
 
 export function listConfig(config: Config, id: string): ListConfig | undefined {
@@ -49,7 +50,7 @@ export function listConfig(config: Config, id: string): ListConfig | undefined {
   if (!entry) return undefined
   return {
     ...entry,
-    title: cleanText(entry.title),
-    description: cleanText(entry.description ?? ''),
+    title: clean(entry.title),
+    description: clean(entry.description),
   }
 }
