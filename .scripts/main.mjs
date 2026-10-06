@@ -5,9 +5,9 @@
  * PDF, and sync the Google Sheets.
  *
  * Usage:
- *   node scripts/main.mjs md      [<id> ...]   # writes <id>/<id>.md
- *   node scripts/main.mjs pdf     [<id> ...]   # requires <id>.md → writes <id>.pdf
- *   node scripts/main.mjs gsheet  [<id> ...]   # rebuilds the Google Sheet
+ *   node .scripts/main.mjs md      [<id> ...]   # writes <id>/<id>.md
+ *   node .scripts/main.mjs pdf     [<id> ...]   # requires <id>.md → writes <id>.pdf
+ *   node .scripts/main.mjs gsheet  [<id> ...]   # rebuilds the Google Sheet
  */
 
 import { spawnSync } from 'node:child_process'
@@ -22,7 +22,7 @@ import {
 } from './lib/source.ts'
 import { syncGoogleSheet } from './lib/gsheets.ts'
 
-const PANDOC_DIR = resolve(LISTS_REPO, 'scripts/pandoc')
+const PANDOC_DIR = resolve(LISTS_REPO, '.scripts/pandoc')
 
 function runPandoc(markdownPath, pdfPath) {
   const result = spawnSync(
@@ -59,7 +59,7 @@ const COMMANDS = {
     const markdownPath = resolve(LISTS_REPO, id, `${id}.md`)
     if (!(await exists(markdownPath))) {
       throw new Error(
-        `${id}.md not found — run 'node scripts/main.mjs md' first`,
+        `✗ ${id}.md not found — run 'node .scripts/main.mjs md' first`,
       )
     }
     runPandoc(markdownPath, resolve(LISTS_REPO, id, `${id}.pdf`))
@@ -74,7 +74,7 @@ const COMMANDS = {
 
 const [command, ...requested] = process.argv.slice(2)
 if (!Object.hasOwn(COMMANDS, command)) {
-  console.error('Usage: node scripts/main.mjs <md|pdf|gsheet> [list-id ...]')
+  console.error('Usage: node .scripts/main.mjs <md|pdf|gsheet> [<id> ...]')
   process.exit(1)
 }
 

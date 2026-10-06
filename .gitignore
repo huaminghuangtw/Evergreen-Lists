@@ -1,8 +1,9 @@
 # Ignore all dot files
 .*
 
-# Exception
+# Exceptions
 !.gitignore
+!.scripts
 
 node_modules
-scripts/pandoc/twemoji
+.scripts/pandoc/twemoji
