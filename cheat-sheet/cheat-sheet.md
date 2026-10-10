@@ -1,7 +1,7 @@
 ---
 title: 📋 Cheat Sheet
 description: Handy reference to quickly access terminal commands that I frequently use.
-modified: 2026-10-04
+modified: 2026-10-08
 spreadsheetId: 17fNhK4W4uBQ3UuWJHmsDnN6rdjyPEtpyTytpMTSZ1BM
 ---
 
@@ -12,21 +12,25 @@ spreadsheetId: 17fNhK4W4uBQ3UuWJHmsDnN6rdjyPEtpyTytpMTSZ1BM
 	```bash
   git stash clear
   ```
+
 * Show the _files_ in the most recent stash
 
 	```bash
   git stash show
   ```
+
 * Drop the most recent stash
 
 	```bash
   git stash drop
   ```
+
 * List all stashes
 
 	```bash
   git stash list
   ```
+
 * Show the _changes_ of the most recent stash
 
 	```bash
@@ -40,11 +44,13 @@ spreadsheetId: 17fNhK4W4uBQ3UuWJHmsDnN6rdjyPEtpyTytpMTSZ1BM
 	```bash
   ifconfig wlan0 | grep 'inet ' | awk '{print $2}'
   ```
+
 * Sync system clock
 
 	```bash
   sudo timedatectl set-ntp true && date
   ```
+
 * Check voltage
 
 	```bash
@@ -58,11 +64,13 @@ spreadsheetId: 17fNhK4W4uBQ3UuWJHmsDnN6rdjyPEtpyTytpMTSZ1BM
 	```bash
   cat ~/.ssh/id_rsa.pub
   ```
+
 * Validate SSH
 
 	```bash
   ssh -T git@github.com
   ```
+
 * Generate SSH key
 
 	```bash
@@ -76,16 +84,19 @@ spreadsheetId: 17fNhK4W4uBQ3UuWJHmsDnN6rdjyPEtpyTytpMTSZ1BM
 	```bash
   nmcli dev wifi connect SSID password PASSWORD
   ```
+
 * Display a list of all saved network connections on the system
 
 	```bash
   nmcli con show
   ```
+
 * List all available Wi-Fi networks detected by the system
 
 	```bash
   nmcli dev wifi list
   ```
+
 * Show the status of all network interfaces, including their connection states
 
 	```bash
