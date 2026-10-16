@@ -12,11 +12,7 @@ I use [ Apple Reminders](https://support.apple.com/en-au/guide/reminders/welc
 Whenever I come across something interesting, I add it to the relevant Reminder list. Every few months, I publish these lists in three formats—**Markdown**, **PDF**, and **Google Sheets**. You can find all of them at [here](#overview).
 
 <p align="center">
-<a href="https://media.huam.ing/image/1aa2bd6ef72df5ee5f3daf06d7aa5a3f.svg">
-<kbd>
-<img src="https://media.huam.ing/image/1aa2bd6ef72df5ee5f3daf06d7aa5a3f.svg"/>
-</kbd>
-</a>
+<a href="https://media.huam.ing/image/1aa2bd6ef72df5ee5f3daf06d7aa5a3f.svg"><kbd><img src="https://media.huam.ing/image/1aa2bd6ef72df5ee5f3daf06d7aa5a3f.svg"/></kbd></a>
 </p>
 
 > [!TIP]
@@ -33,11 +29,7 @@ Inspired by the concepts of [incremental learning](https://www.google.com/search
 Just like a flashcard system, it incorporates the [spaced repetition](https://www.google.com/search?q=spaced+repetition) and [active recall](https://www.google.com/search?q=active+recall) techniques. Try [this shortcut](https://shortcutomation.com/evergreen-lists/) to see how it works.
 
 <p align="center">
-<a href="https://media.huam.ing/image/c04129596f0333a919eceffd6f6e049f.webp">
-<kbd>
-<img src="https://media.huam.ing/image/c04129596f0333a919eceffd6f6e049f.webp"/>
-</kbd>
-</a>
+<a href="https://media.huam.ing/image/c04129596f0333a919eceffd6f6e049f.webp"><kbd><img src="https://media.huam.ing/image/c04129596f0333a919eceffd6f6e049f.webp"/></kbd></a>
 </p>
 
 ## Overview
