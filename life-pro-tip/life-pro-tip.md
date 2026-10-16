@@ -1,7 +1,7 @@
 ---
 title: 👑 Life Pro Tip
 description: Practical tricks to improve everyday life.
-modified: 2026-10-08
+modified: 2026-10-16
 spreadsheetId: 1ZKJjt2nF_W-OOS1Kedv7mPExUuMckVIzXXXz2o-mass
 ---
 
@@ -130,7 +130,13 @@ spreadsheetId: 1ZKJjt2nF_W-OOS1Kedv7mPExUuMckVIzXXXz2o-mass
 * What to do with used, air/oven-dried coffee grounds?
 	1. Use them as deodorizer for stinky garbage bags
 	2. Layer them at the bottom of biodegradable bins to absorb some liquid that seeps out of the food scraps/waste
-* You can lower energy costs on freezers by keeping them full. (Why? Air is expensive to cool down. Water/ice has a very high heat capacity so it’s resistant to temperature changes.) Fill the empty space in your freezer with bottles of water to make large blocks of ice, which is useful for many occasions, such as power outages. Or ever better: filling it with empty containers that have only air in them → Empty bottles of air take much less energy to cool down initially (compared to empty bottles of water), and also keep the cold air from falling out when you open the door of the freezer.
+* Fill empty space in your freezer with jugs of water. Air warms up fast, so a full freezer holds its cold longer and the compressor runs less.
+	1. Extends the life of your refrigerator compressor
+	2. Stops cold air from spilling out when you open the door
+	3. Lowers your electricity bill
+	4. Keeps food cold during a power outage
+	5. Gives you potable water in an emergency
+	6. Reusable ice packs ready to go — with handles!
 * How to organize plastic bags?
 	1. Flatten your bag, then fold it in half twice.
 	2. Start from the hand-holding end and fold it in a triangular pattern, until you reach the end of your bag.
