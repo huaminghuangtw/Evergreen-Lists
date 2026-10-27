@@ -1,5 +1,4 @@
 
-# Evergreen Lists
 
 ## About
 
@@ -16,7 +15,7 @@ Whenever I come across something interesting, I add it to the relevant Reminder 
 </p>
 
 > [!TIP]
-> _[Check out](https://github.com/huaminghuangtw/Brain-Food) my other repository to see how I use Reminders for bookmarks!_
+> _[Check out](https://github.com/huaminghuangtw/Bookmarks) my other repository to see how I use Reminders for bookmarks!_
 
 ## Tools
 
