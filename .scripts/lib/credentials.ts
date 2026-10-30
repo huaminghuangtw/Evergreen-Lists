@@ -31,7 +31,7 @@ export function googleCredentials(): GoogleCredentials {
   const missing = REQUIRED.filter((name) => !process.env[name])
   if (missing.length > 0) {
     throw new Error(
-      `missing ${missing.join(', ')} — put them in .env.local (see .env.example) or export them`,
+      `missing ${missing.join(', ')} — put them in .env.local (gitignored) or export them`,
     )
   }
 

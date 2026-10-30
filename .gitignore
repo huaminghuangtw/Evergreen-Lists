@@ -1,11 +1,9 @@
-# Ignore all dot files
+# Ignore all dot files (this includes every .env* file, so secrets stay local)
 .*
 
 # Exceptions
 !.gitignore
 !.scripts
-# The template is committable; .env.local (real secrets) must stay ignored
-!.env.example
 
 node_modules
 .scripts/pandoc/twemoji
