@@ -1,7 +1,6 @@
 import { readFile, writeFile } from 'node:fs/promises'
 import { resolve } from 'node:path'
 import {
-  CONFIG_PATH,
   clean,
   listConfig,
   readConfig,
@@ -9,25 +8,11 @@ import {
   type Config,
   type ListConfig,
 } from './config.ts'
+import { googleCredentials } from './credentials.ts'
 import type { ListSection, ListSubtask } from './lists.ts'
 import { LISTS_REPO, type ListSource } from './source.ts'
 
 const SHEETS_API = 'https://sheets.googleapis.com/v4/spreadsheets'
-
-const MONTHS = [
-  'Jan',
-  'Feb',
-  'Mar',
-  'Apr',
-  'May',
-  'Jun',
-  'Jul',
-  'Aug',
-  'Sep',
-  'Oct',
-  'Nov',
-  'Dec',
-]
 
 interface SheetProperties {
   sheetId: number
@@ -35,19 +20,9 @@ interface SheetProperties {
   index: number
 }
 
-function formatExpiry(date: Date): string {
-  const pad = (value: number) => String(value).padStart(2, '0')
-  return `${MONTHS[date.getMonth()]} ${date.getDate()}, ${date.getFullYear()} at ${pad(date.getHours())}:${pad(date.getMinutes())}`
-}
-
-async function getAccessToken(config: Config): Promise<string> {
-  const google = config['API Credentials']?.Google
-  if (!google) {
-    throw new Error(`no "API Credentials.Google" in ${CONFIG_PATH}`)
-  }
-  const endpoint =
-    google.baseURL?.tokenEndpoint ?? 'https://oauth2.googleapis.com/token'
-  const response = await fetch(endpoint, {
+async function getAccessToken(): Promise<string> {
+  const google = googleCredentials()
+  const response = await fetch(google.tokenEndpoint, {
     method: 'POST',
     headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
     body: new URLSearchParams({
@@ -62,15 +37,9 @@ async function getAccessToken(config: Config): Promise<string> {
       `token refresh failed (${response.status}): ${await response.text()}`,
     )
   }
-  const token = (await response.json()) as {
-    access_token: string
-    expires_in: number
-  }
 
-  google.accessToken = token.access_token
-  google.expires_in = formatExpiry(
-    new Date(Date.now() + token.expires_in * 1000),
-  )
+  const token = (await response.json()) as { access_token?: string }
+  if (!token.access_token) throw new Error('token refresh returned no access_token')
 
   return token.access_token
 }
@@ -416,9 +385,9 @@ export async function syncGoogleSheet(source: ListSource): Promise<void> {
     spreadsheetId: meta?.spreadsheetId,
   }
 
-  const token = await getAccessToken(config)
+  const token = await getAccessToken()
   const spreadsheetId = await ensureSpreadsheet(token, config, source, entry)
-  await writeConfig(config) // keeps the refreshed token and any new id
+  await writeConfig(config) // persists a newly created spreadsheet id
 
   const [keep, ...drop] = await listTabs(token, spreadsheetId)
   await resetTabs(token, spreadsheetId, keep, drop, entry.title)

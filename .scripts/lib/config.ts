@@ -2,19 +2,16 @@ import { readFile, writeFile } from 'node:fs/promises'
 import { homedir } from 'node:os'
 import { resolve } from 'node:path'
 
+/*
+ * Non-secret list metadata (titles, descriptions, spreadsheet ids).
+ *
+ * Credentials are NOT read from here — see lib/credentials.ts, which takes them
+ * from the environment so no token or client secret ever sits in a plain file.
+ */
 export const CONFIG_PATH = resolve(
   homedir(),
   'Library/Mobile Documents/com~apple~CloudDocs/Documents/JSONFiles/config.json',
 )
-
-export interface GoogleCredentials {
-  clientID: string
-  clientSecret: string
-  refreshToken: string
-  accessToken?: string
-  expires_in?: string
-  baseURL?: { tokenEndpoint?: string }
-}
 
 export interface ListConfig {
   title: string
@@ -24,7 +21,6 @@ export interface ListConfig {
 }
 
 export interface Config {
-  'API Credentials'?: { Google?: GoogleCredentials }
   'My Reminders'?: { evergreenLists?: Record<string, ListConfig> }
 }
 
