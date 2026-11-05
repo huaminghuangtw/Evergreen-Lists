@@ -47,10 +47,6 @@ export function clean(value: string | undefined): string {
   return (value ?? '').replace(/\u00a0/g, ' ')
 }
 
-/*
- * config.json keys each list by its display title ("👑 Life Pro Tip"), so the
- * folder id is recovered from that key: drop the emoji, lowercase, hyphenate.
- */
 const slugify = (title: string): string =>
   title
     .replace(/[^\p{L}\p{N}\s-]/gu, '')

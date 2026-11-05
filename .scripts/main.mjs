@@ -5,9 +5,28 @@
  * PDF, and sync the Google Sheets.
  *
  * Usage:
- *   node .scripts/main.mjs md      [<id> ...]   # writes <id>/<id>.md
- *   node .scripts/main.mjs pdf     [<id> ...]   # requires <id>.md → writes <id>.pdf
- *   node .scripts/main.mjs gsheet  [<id> ...]   # rebuilds the Google Sheet
+ *   node .scripts/main.mjs                     # every list: gsheet → md → pdf
+ *   node .scripts/main.mjs <id> ...            # those lists, same three steps
+ *   node .scripts/main.mjs <mode> [<id> ...]   # a single step
+ *
+ * With no arguments it exits early when the repo has no pending changes —
+ * nothing was exported since the last publish, so there is nothing to rebuild.
+ *
+ * Modes:
+ *   gsheet   rebuild the Google Sheet
+ *   md       write <id>/<id>.md
+ *   pdf      build <id>/<id>.pdf from <id>.md
+ *
+ * Examples:
+ *   node .scripts/main.mjs                          # publish everything
+ *   node .scripts/main.mjs tech-pro-tip             # publish one list
+ *   node .scripts/main.mjs cheat-sheet gym-workout  # publish two lists
+ *   node .scripts/main.mjs md                       # regenerate all Markdown only
+ *   node .scripts/main.mjs pdf tech-pro-tip         # rebuild one PDF only
+ *   node .scripts/main.mjs gsheet life-pro-tip      # re-sync one sheet only
+ *
+ * The order matters: gsheet writes the spreadsheet id that md records in the
+ * frontmatter, and pdf is built from that md.
  */
 
 import { spawnSync } from 'node:child_process'
@@ -72,21 +91,40 @@ const COMMANDS = {
   },
 }
 
-const [command, ...requested] = process.argv.slice(2)
-if (!Object.hasOwn(COMMANDS, command)) {
-  console.error('Usage: node .scripts/main.mjs <md|pdf|gsheet> [<id> ...]')
-  process.exit(1)
+const PUBLISH = [COMMANDS.gsheet, COMMANDS.md, COMMANDS.pdf]
+
+/* Untracked and modified files both count; if git is unavailable, don't block. */
+function hasPendingChanges() {
+  const result = spawnSync('git', ['status', '--porcelain'], {
+    cwd: LISTS_REPO,
+    encoding: 'utf8',
+  })
+  if (result.error || result.status !== 0) return true
+  return result.stdout.trim() !== ''
+}
+
+const [arg, ...rest] = process.argv.slice(2)
+const known = Object.hasOwn(COMMANDS, arg)
+const commands = known ? [COMMANDS[arg]] : PUBLISH
+const requested = known ? rest : [arg, ...rest].filter(Boolean)
+
+if (!known && requested.length === 0 && !hasPendingChanges()) {
+  console.log('↷ nothing to publish — no changes in this repo')
+  process.exit(0)
 }
 
 const ids = requested.length > 0 ? requested : await listIds()
 
 let failed = 0
 for (const id of ids) {
-  try {
-    await COMMANDS[command](id)
-  } catch (error) {
-    console.error(`✗ ${id}: ${error?.message ?? error}`)
-    failed++
+  for (const run of commands) {
+    try {
+      await run(id)
+    } catch (error) {
+      console.error(`✗ ${id}: ${error?.message ?? error}`)
+      failed++
+      break // later modes depend on this one
+    }
   }
 }
 

@@ -109,7 +109,6 @@ function tabTitle(section: ListSection, used: Set<string>): string {
   return title
 }
 
-/* A Sheets formula string literal: `"` is doubled and line breaks are dropped. */
 const formulaString = (value: string): string =>
   value.replace(/[\r\n]+/g, ' ').replace(/"/g, '""')
 
@@ -321,11 +320,6 @@ async function fillTabs(
   sheetIds: number[],
   headerTitle: string,
 ): Promise<void> {
-  if (sheetIds.length !== sections.length) {
-    throw new Error(
-      `added ${sheetIds.length} tabs for ${sections.length} sections`,
-    )
-  }
   const requests = sections.flatMap((section, index) => {
     const sheetId = sheetIds[index]
     const subtasks = subtasksOf(section)
