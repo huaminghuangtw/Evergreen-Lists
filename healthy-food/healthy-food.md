@@ -1,7 +1,7 @@
 ---
 title: 🌱 Healthy Food
 description: A curated list of whole, nutrient-dense foods—like fruits, vegetables, nuts—to support a healthy lifestyle.
-modified: 2026-10-08
+modified: 2026-11-05
 spreadsheetId: 1BWfK5Z7qyKXrjyDhN2XLgSXVooSLQHt2VwbCA58HsYQ
 ---
 
@@ -50,6 +50,7 @@ spreadsheetId: 1BWfK5Z7qyKXrjyDhN2XLgSXVooSLQHt2VwbCA58HsYQ
 * [苦苣](https://www.google.com/search?q=苦苣) [^33]
 * [紫蘇](https://www.google.com/search?q=紫蘇) [^34]
 * [朝鮮薊](https://www.google.com/search?q=朝鮮薊) [^35]
+* [枸杞葉](https://www.google.com/search?q=枸杞葉)
 
 # Fruits
 
@@ -57,22 +58,23 @@ spreadsheetId: 1BWfK5Z7qyKXrjyDhN2XLgSXVooSLQHt2VwbCA58HsYQ
 * [山竹](https://www.google.com/search?q=山竹) [^38]
 * [人蔘果](https://www.google.com/search?q=人蔘果) [^39]
 * [木虌果](https://www.google.com/search?q=木虌果)
+* [Pawpaw](https://www.google.com/search?q=Pawpaw) [^40]
 
 # Spices
 
-* [Cardamom](https://www.google.com/search?q=Cardamom) [^40]
+* [Cardamom](https://www.google.com/search?q=Cardamom) [^41]
 
 # Mushrooms
 
 * [猴頭菇](https://www.google.com/search?q=猴頭菇)
-* [姬松茸](https://www.google.com/search?q=姬松茸) [^41]
-* [珊瑚菇](https://www.google.com/search?q=珊瑚菇) [^42]
+* [姬松茸](https://www.google.com/search?q=姬松茸) [^42]
+* [珊瑚菇](https://www.google.com/search?q=珊瑚菇) [^43]
 
 [^1]: = 碾碎小麥
 [^2]: = 蕎麥
 [^3]: = 藜麥
 [^4]: = 珍珠麥 = 小薏仁
-[^5]: 全麥中唯一含有豐富 β- 葡聚醣的水溶性膳食纖維穀物
+[^5]: 全麥中唯一含有豐富 β-葡聚醣的水溶性膳食纖維穀物
 [^6]: = 豆薯 = 涼薯 = 洋地瓜
 [^7]: Legumes are plants in the pea family Fabaceae, or the fruit or seeds of such plants. When used as a dry grain for human consumption, the seeds are also called **pulses**.
 [^8]: = Lentil (DE) = 扁豆
@@ -91,7 +93,7 @@ spreadsheetId: 1BWfK5Z7qyKXrjyDhN2XLgSXVooSLQHt2VwbCA58HsYQ
 [^21]: One of the richest dietary sources of selenium. Eating just two nuts per day provides significant health benefits without exceeding recommended selenium limits.
 [^22]: = 洋車前子 = Flohsamen
 [^23]: = 大陸 A 菜 = 鵝仔菜
-[^24]: = Lady’s Fingers = 秋葵
+[^24]: = Lady's Fingers = 秋葵
 [^25]: = stem/celery/asparagus/Chinese lettuce = 嫩莖萵苣 = 萵筍 = A 菜心
 [^26]: = 櫻桃蘿蔔
 [^27]: = 歐洲防風草 (歐防風) = 歐洲蘿蔔
@@ -107,6 +109,7 @@ spreadsheetId: 1BWfK5Z7qyKXrjyDhN2XLgSXVooSLQHt2VwbCA58HsYQ
 [^37]: 是一種來自秘魯的超級食物
 [^38]: 在馬來西亞、新加坡和泰國，榴槤和山竹被視為「夫妻果」：榴槤 → 果王；山竹 → 果后
 [^39]: = 長壽果
-[^40]: = 豆蔻
-[^41]: = 巴西蘑菇
-[^42]: = 黃金蘑菇
+[^40]: = 泡泡果 = 巴婆果
+[^41]: = 豆蔻
+[^42]: = 巴西蘑菇
+[^43]: = 黃金蘑菇
