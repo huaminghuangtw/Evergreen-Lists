@@ -14,8 +14,16 @@ const EMOJI_IMG_RE = /<img class="emoji" draggable="false" alt="([^"]+)" src="([
 
 function svgToPdf(svgPath) {
 	const pdfPath = svgPath.replace(/\.svg$/, ".pdf")
-	if (!fs.existsSync(pdfPath))
-		shell.exec(`"${INKSCAPE}" --export-type=pdf "${pdfPath}" "${svgPath}"`)
+	if (fs.existsSync(pdfPath))
+		return pdfPath
+
+	const { code, stderr } = shell.exec(
+		`"${INKSCAPE}" --export-type=pdf --export-filename="${pdfPath}" "${svgPath}"`,
+		{ silent: true },
+	)
+	if (code !== 0 || !fs.existsSync(pdfPath))
+		throw new Error(`inkscape failed on ${path.basename(svgPath)}: ${stderr}`)
+
 	return pdfPath
 }
 
