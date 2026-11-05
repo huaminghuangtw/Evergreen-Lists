@@ -1,19 +1,16 @@
 -- https://pandoc.org/lua-filters.html
 --
--- Reads `description` and `modified` from the document's YAML frontmatter
--- and populates `subtitle` and `date` for use in the pandoc LaTeX template.
---
--- Expected frontmatter:
---   description: "A short description of the document"
---   modified: 2026-03-19
+-- Turns the document's YAML frontmatter into a cover page:
+--   title
+--   description
+--   modified
 
 local MONTHS = {
   "January", "February", "March", "April", "May", "June",
   "July", "August", "September", "October", "November", "December"
 }
 
-local BASE_URL        = "https://huam.ing/"
-local GITHUB_REPO_URL = "https://github.com/huaminghuangtw/Evergreen-Lists/blob/main"
+local BASE_URL = "https://huam.ing/"
 
 local function listSlug()
   local state = PANDOC_STATE or pandoc.state
@@ -30,12 +27,17 @@ end
 function Meta(meta)
   local slug = listSlug()
 
+  -- title
+  if slug and meta.title then
+    local url   = BASE_URL .. slug
+    local title = pandoc.Inlines(pandoc.utils.stringify(meta.title))
+    meta.title  = pandoc.MetaInlines({ pandoc.Link(title, url) })
+  end
+
   -- description → subtitle
   if meta.description and not meta.subtitle then
-    local url   = BASE_URL .. slug
-    local desc  = pandoc.utils.stringify(meta.description)
-    local latex = string.format("\\href{%s}{%s}", url, desc)
-    meta.subtitle = pandoc.MetaInlines({ pandoc.RawInline("latex", latex) })
+    meta.subtitle =
+      pandoc.MetaString(pandoc.utils.stringify(meta.description))
   end
 
   -- author
@@ -46,11 +48,8 @@ function Meta(meta)
 
   -- modified → date
   if meta.modified and not meta.date then
-    local iso       = pandoc.utils.stringify(meta.modified)
-    local formatted = formatIsoDate(iso)
-    local url       = string.format("%s/%s/%s.md", GITHUB_REPO_URL, slug, slug)
-    local latex     = string.format("\\href{%s}{Last modified: %s}", url, formatted)
-    meta.date       = pandoc.MetaInlines({ pandoc.RawInline("latex", latex) })
+    local iso = pandoc.utils.stringify(meta.modified)
+    meta.date = pandoc.MetaString("Last modified: " .. formatIsoDate(iso))
   end
 
   return meta
