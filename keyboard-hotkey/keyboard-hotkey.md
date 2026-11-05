@@ -1,7 +1,7 @@
 ---
 title: ⌨️ Keyboard Hotkey
 description: A compilation of essential keyboard shortcuts to enhance productivity.
-modified: 2026-10-08
+modified: 2026-11-05
 spreadsheetId: 1oi1ZFns1FAvwrNSqQgNwF2J0uN0r1exEO6iFHmV786s
 ---
 
@@ -26,7 +26,7 @@ spreadsheetId: 1oi1ZFns1FAvwrNSqQgNwF2J0uN0r1exEO6iFHmV786s
 | <kbd>Cmd</kbd> + <kbd>Opt</kbd> + <kbd>B</kbd> | Toggle secondary sidebar |
 | <kbd>Cmd</kbd> + <kbd>P</kbd> | Go to file |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>Enter</kbd> | Insert line above |
-| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>L</kbd> | Multi-cursor editing - it selects all matches in the current file to the currently highlighted text. Press “ESC” to disable it. [^1] |
+| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>L</kbd> | Multi-cursor editing - it selects all matches in the current file to the currently highlighted text. Press "ESC" to disable it. [^1] |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> | Open command palette |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd> | Open Search panel |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>E</kbd> | Open the Explorer file tree and reveal the file you’re currently viewing. |
@@ -116,13 +116,15 @@ spreadsheetId: 1oi1ZFns1FAvwrNSqQgNwF2J0uN0r1exEO6iFHmV786s
 | <kbd>Cmd</kbd> + <kbd>Enter</kbd> | Rename the selected item |
 | <kbd>Cmd</kbd> + <kbd>O</kbd> | Open (or launch) the selected item, just like double-clicking it |
 | <kbd>Cmd</kbd> + <kbd>I</kbd> | Open the Info window for the selected item |
+| <kbd>Cmd</kbd> + <kbd>J</kbd> | Open **Show View Options**, where you can customize how a folder’s contents are displayed. Click **Use as Defaults** to apply the current view settings to all new folders and to existing folders that don’t have their own saved view settings. |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>.</kbd> | Reveal hidden files such as ._ (dot underscore) files that are normally invisible |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>G</kbd> | Takes you to a folder that you specify |
-| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd> | Go to “iCloud Drive” in Finder |
-| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>A</kbd> | Go to “Applications” in Finder |
-| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd> | Go to “Documents” in Finder |
-| <kbd>Cmd</kbd> + <kbd>Opt</kbd> + <kbd>L</kbd> | Go to “Downloads” in Finder |
-| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd> | Create a new folder  |
+| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd> | Go to "iCloud Drive" in Finder |
+| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>A</kbd> | Go to "Applications" in Finder |
+| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd> | Go to "Documents" in Finder |
+| <kbd>Cmd</kbd> + <kbd>Opt</kbd> + <kbd>L</kbd> | Go to "Downloads" in Finder |
+| <kbd>Cmd</kbd> + <kbd>Opt</kbd> + <kbd>C</kbd> | Copy the full path of the selected file or folder. If nothing is selected, it copies the path of the current directory instead. |
+| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd> | Create a new folder |
 | <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>Cmd</kbd> + <kbd>1</kbd> | Sort by name |
 | <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>Cmd</kbd> + <kbd>2</kbd> | Sort by kind |
 | <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>Cmd</kbd> + <kbd>6</kbd> | Sort by size |
@@ -146,6 +148,7 @@ spreadsheetId: 1oi1ZFns1FAvwrNSqQgNwF2J0uN0r1exEO6iFHmV786s
 | <kbd>Cmd</kbd> + <kbd>Q</kbd> | Quit application |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>3</kbd> | Capture the full screen |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>4</kbd> | Capture a portion of the screen (selected area), just like [Snipping Tool](https://www.google.com/search?q=Snipping+Tool) in Windows |
+| <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>4</kbd> + <kbd>Space</kbd> | Capture a screenshot of a single window. Hold Control (⌃) while taking the screenshot to copy it to the clipboard instead of saving it as a file. |
 | <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>5</kbd> | [Open Screenshot Toolbar](https://support.apple.com/en-us/102646) |
 | <kbd>Ctrl</kbd> + <kbd>Cmd</kbd> + <kbd>Space</kbd> | Use emojis/symbols. Press it alongside the text to get the corresponding emoji/symbols. Alternative: install [Rocket](https://matthewpalmer.net/rocket) |
 | <kbd>Opt</kbd> + <kbd>Cmd</kbd> + <kbd>Space</kbd> | Open a Finder window with the search bar active |
@@ -170,12 +173,15 @@ spreadsheetId: 1oi1ZFns1FAvwrNSqQgNwF2J0uN0r1exEO6iFHmV786s
 | - | - |
 | <kbd>Ctrl</kbd> + <kbd>A</kbd> | Jump to the start of the line |
 | <kbd>Ctrl</kbd> + <kbd>E</kbd> | Jump to the end of the line |
-| <kbd>Ctrl</kbd> + <kbd>U</kbd> | Delete everything you’ve written in Terminal and start over, in case you entered any typos in between |
+| <kbd>Ctrl</kbd> + <kbd>U</kbd> | Delete everything from the cursor to the end of the command (cut to) |
+| <kbd>Ctrl</kbd> + <kbd>K</kbd> | Deletes everything from the cursor to the end of the command |
 | <kbd>Ctrl</kbd> + <kbd>W</kbd> | Delete a word backwards from the current cursor position |
-| <kbd>Ctrl</kbd> + <kbd>Y</kbd> | Paste text from the kill buffer |
+| <kbd>Ctrl</kbd> + <kbd>T</kbd> | Swaps the character under the cursor with the previous character |
+| <kbd>Ctrl</kbd> + <kbd>Y</kbd> | Paste text from the last killed buffer |
 | <kbd>Opt</kbd> + <kbd>F</kbd> | Jump forward by a word |
 | <kbd>Opt</kbd> + <kbd>B</kbd> | Jump backward by a word |
 | <kbd>Opt</kbd> + <kbd>D</kbd> | Delete a word forwards from the current cursor position |
+| <kbd>Ctrl</kbd> + <kbd>R</kbd> | Start a **reverse-i-search**, which searches through your previous commands. Start typing, and the most recent matching command will appear automatically. Press `⌃ + R` again to cycle through older matches, `← / →` to exit the search and edit the command before running it. This is much faster than cycling through your command history with the `↑ / ↓` keys, especially when you have a long history. |
 
 # Web Browser
 
@@ -222,7 +228,7 @@ spreadsheetId: 1oi1ZFns1FAvwrNSqQgNwF2J0uN0r1exEO6iFHmV786s
 
 [^1]: Bonus: Install the “[Multiple Cursor Case Preserve](https://marketplace.visualstudio.com/items?itemName=Cardinal90.multi-cursor-case-preserve)” extension for Visual Studio Code. It ensures that when you’re editing text with multiple cursors, the case formatting—such as camelCase, UPPERCASE, or lowercase—is preserved. This is particularly useful when you need to rename variables or terms consistently without disrupting their original casing.
 [^2]: When editing a reminder (e.g., you’ve clicked into it to change the text), `Cmd` + `Enter` will end editing — it finalizes your changes and exits the editing mode (kind of feels like “selecting” or saving the text).
-[^3]: When not editing (e.g., you’re just navigating or viewing reminders), `Cmd` + `Enter` will select all text and enter the editing mode.
+[^3]: When not editing (e.g., you're just navigating or viewing reminders), `Cmd` + `Enter` will select all text and enter the editing mode.
 [^4]: Note that `Ctrl` + `Tab` might follow **recently used order** depending on browser settings, while `Opt` + `Cmd` + `[Right-Arrow]` always moves tabs in **linear/sequential order**.
 [^5]: Note that `Ctrl` + `Shift ` + `Tab` might follow **recently used order** depending on browser settings, while `Opt` + `Cmd` + `[Left-Arrow]` always moves tabs in **linear/sequential order**.
 [^6]: Note that `Opt` + `Cmd` + `[Right-Arrow]` always moves tabs in **linear/sequential order**, while `Ctrl` + `Tab` might follow **recently used order** depending on browser settings.
