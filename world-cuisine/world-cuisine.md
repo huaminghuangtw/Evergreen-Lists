@@ -1,7 +1,7 @@
 ---
 title: 🌍 World Cuisine
 description: Explore diverse and delicious recipes from around the world.
-modified: 2026-11-05
+modified: 2026-11-06
 spreadsheetId: 1KUgdrAkG-rLam625WtyyogUwYt9doFSF_RbaqNooozo
 ---
 
@@ -258,4 +258,4 @@ spreadsheetId: 1KUgdrAkG-rLam625WtyyogUwYt9doFSF_RbaqNooozo
 [^62]: Pho 湯河粉 ↔ Pho Xao 乾河粉
 [^63]: Phở Bò (Beef) ↔ Phở Gà (Chicken)
 [^64]: = 越南火車頭
-[^65]: a stiff maize-flour porridge, Kenya's staple food
+[^65]: a stiff maize-flour porridge, Kenya’s staple food
