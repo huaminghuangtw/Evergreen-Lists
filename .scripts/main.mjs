@@ -9,8 +9,8 @@
  *   node .scripts/main.mjs <id> ...            # those lists, same three steps
  *   node .scripts/main.mjs <mode> [<id> ...]   # a single step
  *
- * With no arguments it exits early when the repo has no pending changes —
- * nothing was exported since the last publish, so there is nothing to rebuild.
+ * With no arguments it exits early when no <id>/<id>.json has changed — nothing
+ * was exported since the last publish, so there is nothing to rebuild.
  *
  * Modes:
  *   gsheet   rebuild the Google Sheet
@@ -93,9 +93,9 @@ const COMMANDS = {
 
 const PUBLISH = [COMMANDS.gsheet, COMMANDS.md, COMMANDS.pdf]
 
-/* Untracked and modified files both count; if git is unavailable, don't block. */
-function hasPendingChanges() {
-  const result = spawnSync('git', ['status', '--porcelain'], {
+function hasPendingChanges(ids) {
+  const paths = ids.map((id) => `${id}/${id}.json`)
+  const result = spawnSync('git', ['status', '--porcelain', '--', ...paths], {
     cwd: LISTS_REPO,
     encoding: 'utf8',
   })
@@ -107,13 +107,12 @@ const [arg, ...rest] = process.argv.slice(2)
 const known = Object.hasOwn(COMMANDS, arg)
 const commands = known ? [COMMANDS[arg]] : PUBLISH
 const requested = known ? rest : [arg, ...rest].filter(Boolean)
+const ids = requested.length > 0 ? requested : await listIds()
 
-if (!known && requested.length === 0 && !hasPendingChanges()) {
-  console.log('↷ nothing to publish — no changes in this repo')
+if (!known && requested.length === 0 && !hasPendingChanges(ids)) {
+  console.log('↷ nothing to publish — no list JSON has changed')
   process.exit(0)
 }
-
-const ids = requested.length > 0 ? requested : await listIds()
 
 let failed = 0
 for (const id of ids) {
