@@ -1,7 +1,7 @@
 ---
 title: 🌱 Healthy Food
 description: A curated list of whole, nutrient-dense foods—like fruits, vegetables, nuts—to support a healthy lifestyle.
-modified: 2026-11-05
+modified: 2026-11-06
 spreadsheetId: 1BWfK5Z7qyKXrjyDhN2XLgSXVooSLQHt2VwbCA58HsYQ
 ---
 
@@ -74,7 +74,7 @@ spreadsheetId: 1BWfK5Z7qyKXrjyDhN2XLgSXVooSLQHt2VwbCA58HsYQ
 [^2]: = 蕎麥
 [^3]: = 藜麥
 [^4]: = 珍珠麥 = 小薏仁
-[^5]: 全麥中唯一含有豐富 β-葡聚醣的水溶性膳食纖維穀物
+[^5]: 全麥中唯一含有豐富 β- 葡聚醣的水溶性膳食纖維穀物
 [^6]: = 豆薯 = 涼薯 = 洋地瓜
 [^7]: Legumes are plants in the pea family Fabaceae, or the fruit or seeds of such plants. When used as a dry grain for human consumption, the seeds are also called **pulses**.
 [^8]: = Lentil (DE) = 扁豆
@@ -93,7 +93,7 @@ spreadsheetId: 1BWfK5Z7qyKXrjyDhN2XLgSXVooSLQHt2VwbCA58HsYQ
 [^21]: One of the richest dietary sources of selenium. Eating just two nuts per day provides significant health benefits without exceeding recommended selenium limits.
 [^22]: = 洋車前子 = Flohsamen
 [^23]: = 大陸 A 菜 = 鵝仔菜
-[^24]: = Lady's Fingers = 秋葵
+[^24]: = Lady’s Fingers = 秋葵
 [^25]: = stem/celery/asparagus/Chinese lettuce = 嫩莖萵苣 = 萵筍 = A 菜心
 [^26]: = 櫻桃蘿蔔
 [^27]: = 歐洲防風草 (歐防風) = 歐洲蘿蔔
