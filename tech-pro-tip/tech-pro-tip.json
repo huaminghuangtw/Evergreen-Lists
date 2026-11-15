@@ -423,7 +423,7 @@
             "due_date": "",
             "notes": "",
             "creation_date": "Nov 17, 2024 at 17:52",
-            "modified_date": "Jul 3, 2026 at 14:12",
+            "modified_date": "Nov 15, 2026 at 11:10",
             "flagged": false,
             "subtasks": [
                 {
@@ -476,6 +476,19 @@
                     "list": "👨‍💻 Tech Pro Tip",
                     "priority": "None",
                     "name": "在 iPhone 輸入中文時，可以先輸入每個字的首個注音符號，待所有字母輸入完畢後，再依照建議詞彙或上下文選字。這種方式有助於提高輸入速度，特別是在熟悉鍵盤佈局後，可減少中斷思考的時間。",
+                    "url": ""
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "iOS",
+                    "due_date": "",
+                    "notes": "",
+                    "creation_date": "Nov 15, 2026 at 11:10",
+                    "modified_date": "Nov 15, 2026 at 11:10",
+                    "flagged": false,
+                    "list": "👨‍💻 Tech Pro Tip",
+                    "priority": "None",
+                    "name": "如果 iPhone 當機或螢幕沒有反應，可以透過強制重新開機來解決。先快速按一下並放開「調高音量」按鈕，再快速按一下並放開「調低音量」按鈕，接著長按右側的「側邊按鈕」，直到螢幕出現 Apple 標誌才放開（可能需要長按超過 10 秒）。",
                     "url": ""
                 },
                 {
