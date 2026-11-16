@@ -1,7 +1,7 @@
 ---
 title: 👨‍💻 Tech Pro Tip
 description: Tips to streamline workflows and troubleshoot issues in tech.
-modified: 2026-11-15
+modified: 2026-11-16
 spreadsheetId: 1yqqConHlRWFcPl6RrLPSEUKxmNXi_PNz5UgBCgbqE_E
 ---
 
@@ -78,7 +78,7 @@ spreadsheetId: 1yqqConHlRWFcPl6RrLPSEUKxmNXi_PNz5UgBCgbqE_E
   3. **Use certified chargers**
     Stick to original or **MFi-certified** accessories to protect your device.
 * 在 iPhone 輸入中文時，可以先輸入每個字的首個注音符號，待所有字母輸入完畢後，再依照建議詞彙或上下文選字。這種方式有助於提高輸入速度，特別是在熟悉鍵盤佈局後，可減少中斷思考的時間。
-* 如果 iPhone 當機或螢幕沒有反應，可以透過強制重新開機來解決。先快速按一下並放開「調高音量」按鈕，再快速按一下並放開「調低音量」按鈕，接著長按右側的「側邊按鈕」，直到螢幕出現 Apple 標誌才放開（可能需要長按超過 10 秒）。
+* 如果 iPhone 當機或螢幕沒有反應，可以透過強制重新開機來解決。先快速按一下並放開「調高音量」按鈕，再快速按一下並放開「調低音量」按鈕，接著長按右側的「側邊按鈕」，直到螢幕出現 Apple 標誌才放開。
 * Saying “Remind me” to Siri can create a reminder in the default list.
 * To scan documents on your iPhone, open the Notes or Files app, tap the three dots, then choose “Scan (Documents).” Hold your phone over the document—if “Auto Shutter” is enabled, it will scan automatically. After scanning, you can sign or annotate the document using Quick Look > Markup. This method is straightforward and sufficient for occasional use. Pro move: scan multiple pages in one pass, then export as a single PDF.
 * Instead of typing letter by letter, slide your finger across the keyboard and don’t lift until the word is done. Apple’s built-in [swipe keyboard](https://www.google.com/search?q=Apple+Swipe+Keyboard), known as QuickPath, is much faster once you get used to it. To enable it: Settings → General → Keyboard → toggle “Slide to Type”.
