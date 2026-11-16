@@ -1,7 +1,7 @@
 ---
 title: 🌱 Healthy Food
 description: A curated list of whole, nutrient-dense foods—like fruits, vegetables, nuts—to support a healthy lifestyle.
-modified: 2026-11-15
+modified: 2026-11-16
 spreadsheetId: 1BWfK5Z7qyKXrjyDhN2XLgSXVooSLQHt2VwbCA58HsYQ
 ---
 
