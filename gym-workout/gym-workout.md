@@ -1,7 +1,7 @@
 ---
 title: 🦾 Gym Workout
 description: Effective workout routines and tips for building strength at the gym.
-modified: 2026-11-15
+modified: 2026-11-16
 spreadsheetId: 1kkVzACfRwbfImFVIY81_rMc3g-w4qqD9FkbdvrLsD4I
 ---
 
