@@ -1,7 +1,7 @@
 ---
 title: 🌍 World Cuisine
 description: Explore diverse and delicious recipes from around the world.
-modified: 2026-11-15
+modified: 2026-11-16
 spreadsheetId: 1KUgdrAkG-rLam625WtyyogUwYt9doFSF_RbaqNooozo
 ---
 
