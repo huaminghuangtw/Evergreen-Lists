@@ -1,7 +1,7 @@
 ---
 title: ⌨️ Keyboard Hotkey
 description: A compilation of essential keyboard shortcuts to enhance productivity.
-modified: 2026-11-16
+modified: 2026-11-23
 spreadsheetId: 1oi1ZFns1FAvwrNSqQgNwF2J0uN0r1exEO6iFHmV786s
 ---
 
