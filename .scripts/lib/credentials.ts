@@ -8,10 +8,8 @@ import { existsSync } from 'node:fs'
  * built-in env-file support), and any other caller can export the same names.
  * Values already set in the environment always win.
  */
-if (typeof process.loadEnvFile === 'function') {
-  for (const file of ['.env.local', '.env']) {
-    if (existsSync(file)) process.loadEnvFile(file)
-  }
+if (typeof process.loadEnvFile === 'function' && existsSync('.env.local')) {
+  process.loadEnvFile('.env.local')
 }
 
 export interface GoogleCredentials {
