@@ -1,7 +1,7 @@
 ---
 title: 🤖 AI Prompt
 description: A collection of prompts to make the most out of AI.
-modified: 2026-11-16
+modified: 2026-11-23
 spreadsheetId: 1H2nGLsRvc1U_yFIJkOx-waIc2suwZZa6VDtAWemSBJo
 ---
 
