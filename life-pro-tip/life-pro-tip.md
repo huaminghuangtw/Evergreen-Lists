@@ -1,7 +1,7 @@
 ---
 title: 👑 Life Pro Tip
 description: Practical tricks to improve everyday life.
-modified: 2026-11-16
+modified: 2026-11-23
 spreadsheetId: 1ZKJjt2nF_W-OOS1Kedv7mPExUuMckVIzXXXz2o-mass
 ---
 
